@@ -1,0 +1,1215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN" "file:///usr/share/sgml/docbook/xml-dtd-4.4/docbookx.dtd">
+<article id="revision-notes">
+  <title>Summary of easyJet manuals</title>
+  <sect1 id="commander-duties">
+    <title>Authority, Duties and Responsibilities of a Commander </title>
+    <para>[Ezy-A 1.3] and [Ezy-A 8.1]</para>
+    <para>The commander has overall responsibility for the safety of the aircraft, its occupants and its cargo, and
+    the authority to issue any commands required to secure this. He has the authority to increase any safety
+    margin, including aerodrome operating minima, as he sees fit. In an emergency situation, he has the authority
+    to override any rule or procedure in the interest of safety.</para>
+    <para>He must ensure that:
+    <orderedlist>
+      <listitem>
+        <para>All SOPS are fully complied with.</para>
+      </listitem>
+      <listitem>
+        <para>The weather will not infringe operating minima and the required alternates are available.</para>
+      </listitem>
+      <listitem>
+        <para>Ground facilities and services required for the planned flight are available and adequate.</para>
+      </listitem>
+      <listitem>
+        <para>The correct types and quantities of fuel and oil are carried, and uplifts are recorded.</para>
+      </listitem>
+      <listitem>
+        <para>The aircraft and required equipment are serviceable or only have unserviceabilities that comply with
+        the CDL or MEL. If third party maintenance is required whilst away from base, the procedures referred to in
+        8.1.11, Aircraft Technical Log, must be followed.</para>
+      </listitem>
+      <listitem>
+        <para>The preflight inspection has been completed, and that all required documents, maps and charts are onboard
+        and valid.</para>
+      </listitem>
+      <listitem>
+        <para>The aircraft is within its weight and balance envelope and the load is properly secured.</para>
+      </listitem>
+      <listitem>
+        <para>The available aircraft performance is sufficient for all phases of the proposed flight.</para>
+      </listitem>
+      <listitem>
+        <para>Any person, or any part of the cargo, which may represent a potential hazard to the safety of the
+        aircraft or its occupants is disembarked. This includes:
+        <simplelist>
+          <member>Persons under the influence of alcohol or drugs, to the extent that they pose a risk.</member>
+          <member>Inadmissible passengers, deportees or persons in custody if they pose any risk.</member>
+        </simplelist>
+        </para>
+      </listitem>
+      <listitem>
+        <para>A full safety briefing, including exits and equipment carried, is given to the passengers.</para>
+      </listitem>
+      <listitem>
+        <para>Crew members are not permitted to perform any activity during take-off, initial climb, final
+        approach and landing except those duties required for the safe operation of the aircraft.</para>
+      </listitem>
+      <listitem>
+        <para>A continuous listening watch is maintained on the appropriate radio frequencies.</para>
+      </listitem>
+      <listitem>
+        <para>The cabin is secured (passengers secured and cabin baggage properly stowed) for taxi, take-off,
+        landing and whenever turbulence is expected.</para>
+      </listitem>
+      <listitem>
+        <para>The cabin crew are secured in their allocated seats for takeoff, landing and when not carrying out
+        essential duties whilst taxiing.</para>
+      </listitem>
+      <listitem>
+        <para>The flight data recorder is not disabled, switched off or erased during flight nor erased after
+        flight in the event of an accident or an incident subject to mandatory reporting.</para>
+      </listitem>
+    </orderedlist>
+    </para>
+  </sect1>
+  <sect1 id="crew-composition">
+    <title>Crew composition/ Designation of Aircraft Commander</title>
+    <para>[Ezy-A 4]</para>
+    <sect2>
+      <title>Flight crew</title>
+      <para>The minimum flight crew is two pilots, at least one of whom must be a Captain.</para>
+      <para>The commander must sit in the left seat unless the commander is a training Captain and is required to occupy the
+      right seat for a training detail.</para>
+      <para>A training Captain may carry out both PNF and PF roles from either seat. Other Captains may only carry out
+      the PNF role from the right seat.</para>
+      <para>If an aircraft is only being taxied, the occupant of the right seat may be a non-type rated pilot or a
+      suitably qualified ground employee. The occupant of the left seat must, however, be a fully type qualified
+      commander. </para>
+    </sect2>
+    <sect2>
+      <title>Cabin crew</title>
+      <para>The minimum cabin crew is normally one for every 50 <emphasis>seats installed</emphasis>. In extreme
+      circumstances (e.g. incapacitation of a member of cabin crew), this may be reduced to one cabin crew member,
+      including at least one SCCM, per 50 <emphasis>passengers carried</emphasis>. This may only be done when not at a
+      crew base where crew are qualified on type, and requires clearance from the Head of Flight Operations or his
+      deputy.</para>
+      <para>[Ezy-A 8.2.2] It is permissible to board with one cabin crew member absent unless the
+      aircraft is being refuelled.</para>
+    </sect2>
+  </sect1>
+   <sect1 id="qualifications-and-recency">
+    <title>Qualification and Recency Requirements</title>
+    <para>[Ezy-A 5]</para>
+    <para>The minimum qualifications to act as a commander are:
+    <orderedlist>
+      <listitem><para>Completion of a command course</para></listitem>
+      <listitem><para>An ATPL</para></listitem>
+      <listitem><para>The relevant type rating in Part 1 of Licence</para></listitem>
+      <listitem><para>Valid instrument rating</para></listitem>
+      <listitem>
+        <para>Valid recurrent checks:
+        <informaltable pgwide="0">
+          <?dbfo table-width="5in"?>
+          <tgroup cols="2">
+            <colspec align="center" colwidth="*"/>
+            <colspec colwidth="4*"/>
+            <thead>
+              <row><entry>Check</entry><entry align="center">Expires</entry></row>
+            </thead>
+            <tbody>
+              <row>
+                <entry>OPC</entry>
+                <entry>If issued within 3 months of the expiry of a current OPC, 6 months from that expiry
+                date. Otherwise 6 months plus the rest of the month of issue.</entry>
+              </row>
+              <row>
+                <entry>LPC</entry>
+                <entry>12 months from issue</entry>
+              </row>
+              <row>
+                <entry>Line check</entry>
+                <entry>If issued within 3 months of the expiry of a current line check, 12 months from that expiry
+                date. Otherwise 12 months plus the rest oh the month of issue.</entry>
+              </row>
+              <row>
+                <entry>SEP</entry>
+                <entry>If issued within 3 months of the expiry of a current SEP, 12 months from that expiry
+                date. Otherwise 12 months plus the rest oh the month of issue.</entry>
+              </row>
+              <row>
+                <entry>CRM</entry>
+                <entry>None</entry>
+              </row>
+              <row>
+                <entry>Ground and refresher training</entry>
+                <entry>12 months</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </para></listitem>
+      <listitem>
+        <para>In addition, easyJet requires:
+        <simplelist>
+          <member>3000 factored hours</member>
+          <member>500 hours medium or large jet transport</member>
+          <member>Successful completion of command assessment</member>
+        </simplelist>
+        </para>
+      </listitem>
+    </orderedlist>
+    </para>
+    
+    <para>The recency requirement for both Captains and FOs is 3 take-offs and landings as PF in the preceding 90
+    days. This may be extended to 120 days by line flying with a TRI. If more than 120 days have elapsed, currency must
+    be regained through the use of an approved simulator or a designated aircraft training flight.</para>
+    <para>Currency requirement for flying both variants is a minimum of 4 sectors on each type within a 60 day
+    period. [Ezy-A 4.4]</para>
+    <para>Pilots are considered experienced once they have completed 100 hours and 70 sectors within 120 days of their
+    final line check (or 150 hours and 100 sectors with no time limit). Two inexperienced pilots must not fly together.</para>
+  </sect1>
+  <sect1 id="health">
+    <title>Crew Health Precautions</title>
+    <para>[Ezy-A 6]</para>
+    <sect2>
+      <title>Alcohol</title>
+      <para>Do not consume any alcohol within 10 hours of a duty, and consume no more that 5 units of alcohol within 24
+      hours of a duty.</para>
+      <para>Crews are obliged to comply with random breathalysing, but should ensure that it is not carried out in
+      front of passengers.</para>
+      <para>Alcohol must never be consumed whilst in uniform in a public place.</para>
+      <para>Alcohol must not be taken onto the flight deck during flight.</para>
+    </sect2>
+    <sect2>
+      <title>Drugs</title>
+      <para>The use of non-prescribed narcotics or sleep inducing drugs is forbidden.</para>
+    </sect2>
+    <sect2>
+      <title>Cosmic radiation</title>
+      <para>Exposure of 6mSv/yr is acceptable, but 4mSv/yr is the suggested cut off point. At easyJet's operating
+      latitudes, 1mSv exposure is equivalent to 200 hours at 35000 feet.</para>
+    </sect2>
+    <sect2>
+      <title>Medication</title>
+      <para>Do not operate within 48 hours of a general anaesthetic or within 24 hours of a local anaesthetic.</para>
+      <para>Seek medical advice before operating whilst taking any medication.</para>
+    </sect2>
+    <sect2>
+      <title>Immunisation</title>
+      <para>There are no requirements for immunisation of crew members operating within the European/ Mediterranean
+      region.</para>
+      <para>Crew should not operate within 24 hours of receiving immunisation for cholera, tetanus or typhoid.</para>
+    </sect2>
+    <sect2>
+      <title>Blood donation</title>
+      <para>Crew should not donate blood within 24 hours of a duty.</para>
+    </sect2>
+    <sect2>
+      <title>Diving</title>
+      <para>Crew should not fly within 48 hours of diving to a depth exceeding 10m. Crew should avoid any diving
+      requiring the use of an aqua-lung within 24 hours of a duty.</para>
+    </sect2>
+    <sect2>
+      <title>Surgery</title>
+      <para>Aeromedical advice should be sought before returning to duty following any surgical procedure.</para>
+    </sect2>
+    <sect2>
+      <title>Hypoxia</title>
+      <para>[Human Factors For Pilots, Green et al.]</para>
+      <table>
+        <title>Time of useful consciousness</title>
+        <tgroup cols="2">
+            <colspec align="center" colwidth="*"/>
+            <colspec align="center" colwidth="*"/>
+          <thead>
+            <row><entry>Pressure altitude</entry><entry>Time</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>18000ft</entry><entry>30 minutes</entry></row>
+            <row><entry>25000ft</entry><entry>2-3 minutes</entry></row>
+            <row><entry>30000ft</entry><entry>45-75 seconds</entry></row>
+            <row><entry>45000ft</entry><entry>12 seconds</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+    </sect2>
+  </sect1>
+  <sect1 id="ftl">
+    <title>Flight Time Limitations Scheme</title>
+    <para>TODO</para>
+  </sect1>
+  <sect1 id="flight-preparation">
+    <title>Operating procedures: Flight preparation instructions</title>
+    <sect2 id="min-altitudes">
+      <title>Minimum flight altitudes</title>
+      <para>[Ezy-A 8.1.1]</para>
+      <para>MORA is defined as obstacle height+1000ft for obstacles up to 5000ft and obstacle height+2000ft for larger
+      obstacles. Route MORA refers to obstacles within 10nm of a route centerline and end points and is depicted on
+      charts below an airway with a lower case "a". Grid MORA refers to obstacles within the section of a chart outlined
+      by the drawn latitude and longitude lines. Grid MORA should be used for planning.</para>
+      <para>When operating within 20nm of terrain with a maximum elevation &gt;2000ft, the MORA should be increased to
+      take account of wind speed using the following table:
+      <table>
+        <title>MORA Wind Speed Correction</title>
+        <?dbfo table-width="6in"?>
+        <tgroup cols="5">
+          <colspec colnum="1" colwidth="*"/>
+          <colspec colnum="2" colname="windsst" colwidth="*"/>
+          <colspec colnum="3" colwidth="*"/>
+          <colspec colnum="4" colwidth="*"/>
+          <colspec colnum="5" colname="windsend" colwidth="*"/>
+          <thead>
+            <row><entry>Terrain</entry><entry namest="windsst" nameend="windsend">Wind speed in Knots</entry></row>
+            <row><entry>Elevation</entry><entry>0 - 30</entry><entry>31 - 50</entry><entry>51 -70</entry><entry>More than 70</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>2,000-8,000ft</entry><entry>+500ft</entry><entry>+1,000ft</entry><entry>+1,500ft</entry><entry>+2,000ft</entry></row>
+            <row><entry>More than 8,000ft</entry><entry>+1,000ft</entry><entry>+1,500ft</entry><entry>+2,000ft</entry><entry>+2,500ft</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      </para>
+      <para>When surface ambient temperatures are well below ISA, the following corrections should be applied to the
+      wind corrected MORA:
+      <table>
+        <title>MORA Temperature Correction</title>
+        <tgroup cols="2">
+          <colspec colnum="1" colwidth="*"/>
+          <colspec colnum="2" align="center" colwidth="*"/>
+          <thead>
+            <row><entry>Surface Temperature</entry><entry> Addition to MORA</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>ISA -16 C to ISA -30 C</entry><entry> 10%</entry></row>
+            <row><entry>ISA -31 C to ISA -50 C</entry><entry> 20%</entry></row>
+            <row><entry>ISA -51 C or below</entry><entry> 25%</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      </para>
+      <para>An aircraft must not descend below the appropriate safety altitude unless it is following an approved
+      Instrument Approach Procedure, is under positive radar control or is in continuous visual contact with all
+      obstacles. Descent below safety altitude using an ILS as sole reference for vertical guidance should not be
+      commenced until established on the localiser and within 10nm of touchdown.[Ezy-A 8.4.1]</para>
+    </sect2>
+    <sect2>
+      <title>One engine inoperative en-route net flight path</title>
+      <para> [Ezy-A 8.1.1]</para>
+      <para>In the event of the loss of an engine at the most critical point along a route, and taking into account the
+      effect of all relevant ice protection systems, the gradient of the net flight path must be positive at least
+      1,000ft above all obstacles within 5nm of the intended track. Furthermore, it must be possible to reach an airport
+      where a landing can be made whilst clearing all obstacles within 5nm of the intended track by 2,000ft.</para>
+    </sect2>
+    <sect2 id="airports">
+      <title>Usability of airports</title>
+      <para>[Ezy-A 8.1.2]</para>
+      <para>easyJet is responsible for ensuring that all airports selected as destinations or alternates are adequate in
+      all respects, including runway dimensions, obstacles, ATS, lighting, approach procedures, weather reporting and
+      emergency services.</para>
+      <para>easyJet will categorise aerodromes from A to C in order of increasing difficulty. Operation to a category B
+      aerodrome requires self-briefing from Ezy-C. Operation to a category C aerodrome requires a briefing and then a
+      visit in an operating capactity or aerodrome specific training in an approved flight simulator.</para>
+      <para>Fire and Rescue category 6 is the normal minimum level. Category 5 may be accepted if the flight has been
+      accepted and the flight crew are informed. Also, if a reduction to Category 5 is reported at the destination
+      whilst airborne, it is acceptable to continue. In an emergency a landing may be made at an aerodrome with
+      inadequate facilities where doing so is the least risk option.</para>
+    </sect2>
+    <sect2 id="alternates">
+      <?hard-pagebreak?>
+      <title>Selection of alternates</title>
+      <para>[Ezy-A 8.1.2]</para>
+      <sect3>
+      <title>Take-off and destination alternates</title>
+        <mediaobject>
+          <imageobject role="dblatex">
+            <imagedata fileref="images/alternates.pdf"/>
+          </imageobject>
+          <imageobject role="html">
+            <imagedata format="PNG" fileref="../images/alternates.png"/>
+          </imageobject>
+          <imageobject role="fo">
+            <imagedata format="SVG" width="5in" align="left" fileref="images/alternates.svg"/>
+          </imageobject>
+        </mediaobject>
+      <note>
+        <orderedlist>
+          <listitem><para>A table for interpretation of TAFs with regards these requirements can be found in [Ezy-A
+        8.1.2]</para></listitem>
+        <listitem><para>Crossing runways may be considered independent if more than 6000ft is available on each before the
+        intersection.</para></listitem>
+        </orderedlist>
+      </note>
+      </sect3>
+      <sect3>
+        <title>Cruise alternates</title>
+        <para>Cruise alternates must be within 365nm for the B737.</para>
+      </sect3>
+    </sect2>
+    <sect2 id="minima">
+      <title>Aerodrome operating minima</title>
+      <para>[Ezy-A 8.1.2 &amp; Ezy-A 8.1.5]</para>
+      <para>All easyJet aircraft are Category C for the purpose of calculating operating minima.</para>
+      <para>Take-off minima are related to available lighting and are detailed in a table in [Ezy-A
+      8.4.2]. In general, if centre-line lighting, edge lighting and multiple RVRs are available, an RVR of 150m is required for
+      take-off. With qualified crew this can be reduced to 125m with suitable high intensity lighting, LVPs in force and a 90m visual
+      segment (6 centre line lights with standard 15m spacing) available. The Captain must be PF for any take-off where
+      RVRs are below 400m.</para>
+      <para>Landing minima comprise an RVR requirement and a Decision Altitude (DA) for precision approaches or a
+      Minimum Descent Altitude (MDA) for non-precision and circling approaches. The RVR requirement is a function of
+      available lighting and DA or MDA. The DA or MDA is the greatest of Obstacle Clearance Altitude (OCA), system
+      minima (see tables in [Ezy-A 8.1.3]), state minima and Aircraft Flight Manual
+      limitations. Category II/III landing minima are provided at the front of the Jeppesen Text section. All other
+      landing minima are on the plates for the specific airport.</para>
+      <para>An approach must not be continued beyond the outer marker or equivalent position (determined by DME, a
+      suitable located NDB or VOR or a radar fix) unless the reported RVR is greater than minima. Where it is not
+      possible to determine an equivalent position, 1000ft AAL may be used.</para>
+      <para>If RVRs are not available, the following table can be used to convert Met Vis to RVR for Cat I and
+      non-precision landing minima only:
+      <table>
+        <title>Met Visibility to RVR conversion for Cat I and non-precision landing minima</title>
+        <tgroup cols="3">
+          <colspec colwidth="3*"/>
+          <colspec colwidth="*" colnum="2" colname="day" align="center"/>
+          <colspec colwidth="*" colnum="3" colname="night" align="center"/>
+          <thead>
+            <row><entry>Lighting Elements in Operation</entry><entry namest="day" nameend="night">RVR = Met Visibility X</entry></row>
+            <row><entry></entry><entry>Day</entry><entry>Night</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>HI Approach and Runway Lighting</entry><entry>1.5</entry><entry>2.0</entry></row>
+            <row><entry>Any Type of Lighting Installation Other than Above</entry><entry>1.0</entry><entry>1.5</entry></row>
+            <row><entry>No Lighting</entry><entry>1.0</entry><entry>N/A</entry></row>
+          </tbody>
+        </tgroup>
+      </table>
+      </para>
+      <para>For any visual approach, the minimum RVR is 800m.</para>
+      <para> When circling is required, an absolute minimum of 600ft MDA and 2400m met vis is required. This may be
+      increased by other factors, and specific minima are included on the relevant Jeppensen plate. If vertical guidance
+      is not available for a circling approach, the following limitations also apply:
+      <simplelist>
+        <member>Day only</member>
+        <member>Experienced Commanders only</member>
+        <member>Captain PF if met vis&lt;5km</member>
+      </simplelist>
+      </para>
+      <para>A left-hand circling approach will normally be flown by the left seat pilot. A right-hand circling approach
+      should be flown by the right seat pilot unless other factors override this. In marginal weather conditions, only
+      one circling approach should be flown unless a significant improvement occurs. In general, a visual approach or a
+      tailwind instrument approach is preferable to a circling approach.</para>
+      <para>Night operations require that at least runway edge. threshold and runway end lights must be on.</para>
+    </sect2>
+<sect2 id="fuel">
+  <title>Fuel</title>
+  <para>[Ezy-A 8.1.7]</para>
+  <sect3>
+    <title>CFP fuel breakdown</title>
+    <variablelist>
+      <varlistentry>
+        <term>A-DEST</term>
+        <listitem><para>Fuel required for all phases from take-off at departure aerodrome to landing at destination
+        aerodrome. It takes into account the longest <emphasis>probable</emphasis> SID and STAR with additional profile
+        information included where applicable. The cruise section assumes optimum flight level and a fixed Mach of 0.78
+        for the -700 and 0.74 for the -300 (below FL 250 the -700 assumes 280kt and below FL210 the -300 assumes
+        300kt). A correction for aircraft burn degradation is also included.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>B-CONT</term>
+        <listitem><para>Contingency fuel, being the greater of 5% of the trip fuel or 5 minutes MLW holding at 1500ft
+        (182kg for -700, 211kg for 52888kg MLW -300 and 207kg for 51709kg MLW -300). It may be burnt at any time after
+        engine start.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>C-ALT</term>
+        <listitem><para>Fuel for all phases from a go-around at destination to a landing at first alternate. The longest
+        <emphasis>probable</emphasis> STAR and realistic flight levels are assumed. <emphasis>{find out whether any
+        account is taken of SIDs}</emphasis></para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>D-FINAL RES</term>
+        <listitem><para>Fuel required to hold at 1500ft for 30 minutes. The calculation uses estimated landing weight at
+        the alternate aerodrome. If it is determined that the fuel remaining on landing <emphasis>may</emphasis> be less
+        than final reserve, a PAN call must be made. If it is determined that it <emphasis>will</emphasis> be less than
+        final reserve, a MAYDAY call must be made.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>E-TAXY</term>
+        <listitem><para>Fuel for phases from engine start to line up. It is based on 11.3kg/min multiplied by
+        statistical taxi times, and should be exceeded on only 15% of occassions. Fuel for 6 minutes APU usage is also
+        included.</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>F-REQUIRED</term>
+        <listitem><para>The sum of A to E</para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>TANKER</term>
+        <listitem><para>The maximum fuel that may be tankered without exceeding any of the structural limitations (a
+        margin of 500kg is provided for MLW). If the figure is non-zero, it indicates that tankering would be
+        preferable, but it must be manually amended to be the least of:
+        <itemizedlist spacing="compact">
+          <listitem><para>Fuel required for next sector + DEST + TAXY</para></listitem>
+          <listitem><para>4000kg + DEST + TAXY if fuel induced wing icing is anticipated</para></listitem>
+          <listitem><para>Maximum fuel taking into account take-off and landing performance</para></listitem>
+          <listitem><para>Maximum fuel to avoid breaking structural limitations in the event predicted ZFW or predicted
+          fuel burn is inaccurate</para></listitem>
+        </itemizedlist>  
+      </para></listitem>
+      </varlistentry>
+      <varlistentry>
+        <term>CMR</term>
+        <listitem><para>FINAL RESERVE + ALT. This is the fuel that an aircraft must have at the point of go-around from
+        the destination airfield in order to achieve a landing at the alternate with final reserve fuel. It is
+        acceptable (and often safer) to plan to land with less than CMR at the destination if landing is
+        assured.</para></listitem>
+      </varlistentry>
+    </variablelist>  </sect3>
+  <sect3>
+    <title>Departure with less than CFP fuel</title>
+    <para>Fuel reduction below CFP for purely economic reasons should be limited to reducing taxy fuel where a short
+    taxi out is anticipated and reduction of trip fuel by 4kg/nm where shorter SIDS and STARS are anticipated.</para>
+    <para>If payload is critical, a number of other adjustments are possible. The alternate fuel may be reduced if a
+    closer suitable alternate is available, and may be replaced by 15 minutes holding fuel if a destination alternate is
+    not required (see table in [Ezy-A Appendix 1 to section 8.1.7 to section 8.1.7.4] for the actual
+    value for a given holding weight). It is also possible to slightly reduce contingency fuel requirements using either
+    an en-route alternate aerodrome or the Decision Point Procedure (details are in [Ezy-A
+    8.1.7.5]).</para>
+  </sect3>
+</sect2>
+<sect2 id="standard-weights">
+  <title>Standard weights</title>
+  <para>[Ezy-A 8.1.8]</para>
+    <table>
+      <title>Standard weights for passengers</title>
+      <tgroup cols="2">
+        <colspec colnum="1" colwidth="*"/>
+        <colspec colnum="2" align="center" colwidth="*"/>
+        <thead>
+          <row><entry>Type</entry><entry>Weight</entry></row>
+        </thead>
+        <tbody>
+          <row><entry>Male</entry><entry>93kg</entry></row>
+          <row><entry>Female</entry><entry>75kg</entry></row>
+          <row><entry>Adult</entry><entry>89kg</entry></row>
+          <row><entry>Child (Age 2-12)</entry><entry>35kg</entry></row>
+          <row><entry>Infant(Age&lt;2)</entry><entry>0kg</entry></row>
+        </tbody>
+      </tgroup>
+    </table>
+    <note><para>Gender independent adult weight should only be used in exceptional circumstances.</para></note>
+    <table>
+      <title>Standard weights of checked baggage</title>
+      <tgroup cols="2">
+        <colspec colnum="1" colwidth="*"/>
+        <colspec colnum="2" align="center" colwidth="*"/>
+        <thead>
+          <row><entry>Type of Flight</entry><entry>Weight</entry></row>
+        </thead>
+        <tbody>
+          <row><entry>Domestic</entry><entry>11 kg</entry></row>
+          <row><entry>Within the European Region</entry><entry>13 kg</entry></row>
+          <row><entry>Intercontinental</entry><entry>15 kg</entry></row>
+          <row><entry>All Other</entry><entry>13 kg</entry></row>
+        </tbody>
+      </tgroup>
+    </table>
+    <table>
+      <title>Standard weights for crew</title>
+      <tgroup cols="2">
+        <colspec colnum="1" colwidth="*"/>
+        <colspec colnum="2" align="center" colwidth="*"/>
+        <thead>
+          <row><entry>Crew Position</entry><entry>Weight</entry></row>
+        </thead>
+        <tbody>
+          <row><entry>Flight Crew</entry><entry>85 kg</entry></row>
+          <row><entry>Cabin Crew</entry><entry>75 kg</entry></row>
+        </tbody>
+      </tgroup>
+    </table>
+    <note><para>An allowance for hand baggage is included. Any additional crew baggage must be taken into account.</para></note>
+</sect2>
+<sect2 id="tech-log">
+  <title>Aircraft Technical Log</title>
+  <para>[Ezy-A 8.1.11]</para>
+  <sect3>
+    <title>Standard of entries</title>
+    <para>All entries must be completed in block capitals, and any signature must be followed by a printed surname, any
+    applicable authorization or approval numbers and the date.</para>
+    <para>If an entry is made that is also the subject of an ASR, the descriptions should be the same on the two
+    documents.</para>
+    <para>If an entry is changed, the incorrect entry must have a single line drawn through it, the reason for the
+    alteration must be entered next to the original text and the alteration must be signed.</para>
+  </sect3>
+  <sect3>
+    <title>Layout</title>
+    <para>Each page is divided into a defect section and four tear-off sector record strips. The top half of each
+    tear-off strip is for recording details of a sector that has just been completed. The bottom half of the strip is
+    used to record pre-departure data.</para>
+    <para>With the exception of the Daily Check, engine starts and fuel used items, if anything has been entered in the
+    defect column, a new page must be started for the next flown sector, and any remaining record strips must be crossed
+    out.</para>
+    <para>Fuel figures should be recorded to the nearest 100kg. Where provided, the fuel uplift should be recorded
+    corrected for temperature [Ezy-A 8.2.1]. Oil figures should be entered if they can be determined
+    according to the manufacturer's recommendations, and should be crossed out if they cannot <emphasis>{find out the
+    Boeing recommendations on this}</emphasis>. The "Oil Check" box is only applicable to engineering, and should be
+    crossed out. Ground de-icing should be recorded or "nil" circled. If de-icing is done more than once, all the data
+    on the current strip should be copied to the next strip, and the de-icing recorded there.</para>
+  </sect3>
+  <sect3>
+    <title>Removal of pages</title>
+    <para>The pink detachable sector record is removed after the Captain signs his acceptance, and routed to the
+    maintenance organization. The whole pink page is removed if an entry has been made in the defect column (whether
+    cleared by Engineering or application of the Acceptable Deferred Defects <firstterm>(ADD)</firstterm> procedures),
+    or after scheduled maintenance. The yellow page is removed once all the sector strips have been removed or when the
+    whole pink page is removed.</para>
+  </sect3>
+  <sect3>
+    <title>Defect deferral</title>
+    <para>When it is not possible to clear a defect prior to the next sector, providing that it is specified in the MEL
+    as allowable or has been evaluated by an appropriately authorised engineer as not being an airworthiness item, it
+    may be transferred to one of the ADD Pages. Unless there are maintenance actions specified, the commander may carry
+    out this action.</para>
+    <para>If the defect does not affect airworthiness, it should be entered on the level 2 (blue) ADD
+    sheet. Otherwise, it should be entered on the level 1 (pink) sheet. The complete tech log defect description should
+    be transferred, along with the tech log page reference and item number, any MEL/CDL reference number and limiting
+    criteria (e.g. expiry date). Once this is done, the MEL/CDL reference, the repair interval and the ADD reference can
+    be entered in the "Action Taken" column and the defect can be signed off.</para>
+    <para>The ADD sheet should not be signed by the commander, but MOC must be informed so that it can be signed by
+    engineering as soon as possible.</para>
+  </sect3>
+  <sect3>
+  <title>Cabin defect log</title>
+  <para>The SCCM enters details of cabin defects in the cabin defect log and presents it to the commander at the end of
+  the flight. The commander must review the defects and transfer any airworthiness items to the technical log.</para>
+  </sect3>
+</sect2>
+<sect2>
+  <title>Documents to be carried</title>
+  <para>[Ezy-A 8.1.12]</para>
+  <sect3>
+    <title>Certificates</title>
+    <itemizedlist>
+      <listitem><para>Certificate of Registration</para></listitem>
+      <listitem><para>Certificate of Airworthines</para></listitem>
+      <listitem><para>Noise Certificate (may be a copy)</para></listitem>
+      <listitem><para>Air Operator Certificate (may be a copy)</para></listitem>
+      <listitem><para>Aircraft Radio Licence</para></listitem>
+      <listitem><para>Third Party Liability Insurance Certificates (may be copies)</para></listitem>
+      <listitem><para>Flight Crew Licences</para></listitem>
+    </itemizedlist>
+  </sect3>
+  <sect3>
+    <title>Manuals</title>
+    <itemizedlist>
+      <listitem><para>Those parts of the Operations Manual relevant to the duties of crew</para></listitem>
+      <listitem><para>Maps and Charts required to complete the flight</para></listitem>
+      <listitem><para>Search and Rescue procedures</para></listitem>
+    </itemizedlist>
+  </sect3>
+  <sect3>
+    <title>Other</title>
+    <itemizedlist>
+      <listitem><para>Technical Log</para></listitem>
+      <listitem><para>Journey Log</para></listitem>
+      <listitem><para>CFP (includes Operational Flight Plan and Air Traffic Service Flight Plan)</para></listitem>
+      <listitem><para>Weather and Notam brief</para></listitem>
+      <listitem><para>Loadsheet</para></listitem>
+      <listitem><para>Forms to comply with reporting procedures</para></listitem>
+      <listitem><para>Notification of special loads (if applicable)</para></listitem>
+      <listitem><para>Notification of special passengers (e.g. deportees)</para></listitem>
+    </itemizedlist>
+  </sect3>
+</sect2>
+  </sect1>
+  <sect1 id="ground-handling">
+    <title>Operating procedures: Ground Handling Instructions</title>
+    <sect2>
+      <title>Fuelling procedures</title>
+      <para>[Ezy-A 8.2.1]</para>
+      <para>The fuel supplier is responsible for ensuring that all fuel/ water checks are completed, that the bowser is
+      properly earthed to the aircraft and that fuel caps are properly secured.</para>
+      <para>The commander (or suitable delegate) must ensure that fuel requirement is accurately communicated. When
+      arriving on stand the fuel chart may be displayed once a clear evacuation route from the aircraft is
+      established. The fuel requirement, including the requirement for each tank, must also be passed in person. If
+      there is any possibility of confusion arising in verbal communications, a Fuel Data Card should be used.</para>
+      <para>The commander must also ensure that no smoking takes place within 15m of the aircraft, that strobe lights
+      are not operated and that local restrictions are checked before starting the APU while fuelling.</para>
+      <para>PNF is responsible for monitoring the fuel gauges to ensure the correct amount of fuel is uplifted.</para>
+      <para>Refuelling may take place with passengers on board, but the following restrictions apply:
+      <itemizedlist>
+        <listitem><para>At least one pilot must be on the flight deck, and he must be in two way communication via
+        intercom with the supervising ground crew.</para></listitem>
+        <listitem><para>No individual items of electrical equipment may be turned on or off.</para></listitem>
+        <listitem><para>Passengers must be informed that refuelling is taking place and instructed to have their
+        seatbelts unfastened and told the toilets are out of use. The "No Smoking" sign should be on and the "Fasten
+        Seatbelts" sign should be off.</para></listitem>
+        <listitem><para>Three cabin crew are required and they must be at boarding stations. The front door must be open
+        with steps or airbridge attached. The rear door should ideally also be open with steps attached. If this is not
+        possible, refuelling may still take place as long as the slide is serviceable, the refueller is informed and the
+        cabin crew ensure the slide deployment area beneath the exit remains clear.</para></listitem>
+        <listitem><para>Local restrictions must be checked.</para></listitem>
+      </itemizedlist>
+      </para>
+      <para>If ground transfer or defuelling is required, the fuel pump low pressure lights must be constantly monitored
+      and the fuel pumps turned off at the first indication of low pressure. The fuel quantity in the tank that is being
+      transferred from must not drop below 900kg. Ground transfer should not be used for de-icing.</para>
+    </sect2>
+    <sect2>
+      <title>Carriage of special passengers</title>
+      <para>[Ezy-A 8.2.2]</para>
+      <sect3>
+        <title>Infants and children</title>
+        <para>Children under the age of 14 must be accompanied by a person aged 16 years or older.</para>
+        <para>Infants (children under two years) may fly free of charge if they sit on the lap of the accompanying
+        person. A maximum of two infants is allowed per accompanying person.  Infants under two weeks of age are not
+        permitted to fly. Premature babies are not permitted to fly until six months post expected date.</para>
+        <para>The following restraints are acceptable:
+        <table>
+          <title>Acceptable restraints for children</title>
+          <tgroup cols="2">
+            <colspec colnum="1" colwidth="*"/>
+            <colspec colnum="2" colwidth="*"/>
+            <thead>
+              <row><entry>Restraint</entry><entry>Age range</entry></row>
+            </thead>
+            <tbody>
+              <row><entry>Infant extension seatbelt</entry><entry>2 weeks to 2 years</entry></row>
+              <row><entry>Suitable car-type safety seat</entry><entry>6 months to 3 years</entry></row>
+              <row><entry>Normal seatbelt</entry><entry>2 years or more</entry></row>
+            </tbody>
+          </tgroup>
+        </table>
+        </para>
+        <para>A car seat is considered suitable if it has a rigid metal or plastic frams, is no wider than 42cm, has a
+        four point harness and is upright and forward facing.</para>
+        <para>Under no circumstances must another passenger be asked to accept responsibility for an
+        unaccompanied minor</para>
+      </sect3>
+     <sect3>
+        <title>Expectant mothers</title>
+        <para>Between 28 and 35 weeks (inclusive) of pregnancy, a medical certificate signed by a doctor (not a midwife)
+        confirming pregnancy stage and fitness to fly is required. Passengers cannot be accepted for travel on or after
+        week 36 of pregnancy.</para>
+      </sect3>
+      <sect3>
+        <title>Deportees</title>
+        <para>The Captain must be informed on all occasions when a deportee is carried. The passport and other travel
+        documentation of the deportee should be retained in flight by the SCCM and handed over to the handling agent on
+        arrival. The deportee must not be permitted to disembark at any point within the deporting territory unless
+        escorted by a dispatcher or passenger handling staff. The deportee may disembark at a destination other than
+        that in their ticket provided Immigration Authorities are contacted prior to arrival. For seating purposes, a
+        deportee should be treated as "likely to impede evacuation".</para>
+      </sect3>
+      <sect3>
+        <title>Invalids</title>
+        <para>A passenger is considered an invalid when their physical, medical or mental condition requires individual
+        attention which is not normally extended to other passengers. A list of conditions that will preclude carriage
+        is included in [Ezy-A 8.2.2]. Invalids should be pre-boarded and seated as "likely to impede
+        evacuation".</para>
+      </sect3>
+       <sect3>
+        <title>Live animals</title>
+        <para>The only permitted live animals are guide dogs, which may be carried on domestic flights only. The owner
+        must have an Environmental Health Card, and the dog must be wearing the standard identifying jacket. A seat must
+        be blocked off and the dog attached to it by a harness or lead.</para>
+      </sect3>
+      <sect3>
+        <title>Stowaways</title>
+        <para>If a stowaway is discovered, the company should be contacted and an entry made on the journey log. The
+        Commander may request the authorities detain the stowaway pending charges.</para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Carriage of cargo</title>
+      <para>[Ezy-A 8.2.2]</para>
+      <para>Wherever possible, cargo should be carried in a seperate hold to baggage. This is mandatory if there is any
+      risk that cargo could contaminate baggage. Usually, cargo will be carried in the forward hold. It is the
+      dispatcher's responsibility to ensure correct loading and that the cargo manifest matches the cargo carried. The
+      cargo documents are the responsibility of the SCCM during flight, and they should be handed <emphasis>immediately
+      </emphasis> on arrival to the dispatcher.</para>
+      <sect3>
+        <title>Human remains</title>
+        <para>Coffins may be carried if accompanied by a death certificate.</para>
+        <para>Ashes may be carried if accompanied by a death certificate and a certificate of cremation. They should be
+        carried in a secure and appropriate container in the hand baggage of the passenger carrying them.</para>
+      </sect3>
+      <sect3>
+        <title>Musical instruments</title>
+        <para>Large musical instruments may be carried providing the passenger has purchased a seat for the
+        instrument. A maximum of two instruments may be carried. An instrument must weigh less than 75kg and have a
+        centre of mass less than 30cm above the seat cushion. It must be secured to a non-restricted window seat.</para>
+      </sect3>
+      <sect3>
+        <title>Aircraft spares</title>
+        <para>Aircraft spares that are not classified as dangerous goods may be carried on all routes except those to
+        and from Switzerland. No flight crew paperwork is required beyond inclusion on the load sheet.</para>
+      </sect3>
+      <sect3>
+        <title>FDM Data</title>
+        <para>FDM data cards/ disks may be carried by hand. They are transported in blue padded zip sealed bags, and
+        will already have been x-rayed before loading.</para>
+        <para>If the zip seal is broken or missing, the bag may still be carried if it is thoroughly searched. The
+        broken seal should be reported to the FDM department.</para>
+      </sect3>
+      <sect3>
+        <title>Carriage of Royal Mail and British Forces Posted Overseas mail</title>
+        <para>Royal Mail may be carried either under the standard Post Office manifest documents (P2026 for domestic and
+        CN38 or AV7 for international), or under the cargo handling agent's own manifests. Any mail manifest must show
+        the weight and number of pieces of mail. Requirements for British Forces Posted Overseas mail are the
+        same.</para>
+      </sect3>
+      <sect3>
+        <title>Secure Cargo</title>
+        <para>Secure cargo is MOD diplomatic/ classified material carried by a diplomatic courier. It is exempt from
+        security screening, but is guaranteed to not contain problem items. The courier will oversee the ramp transfer
+        of the cargo and the closure of the hold and will then board the aircraft, identify himself to the SCCM (who
+        must check his ID) and sit in the seat nearest door 1L. On arrival, he will be first off the aircraft to be
+        present when the hold is opened. The courier must be briefed of any diversions ASAP, and any support required
+        should be provided.</para>
+      </sect3>
+      <sect3>
+        <title>Human Organs for Transplantation</title>
+        <para>These will arrive at the aircraft in a box sealed with tamper-proof tags. They are exempt security
+        screening, but the police will have verified the origin of the consignment before accepting the delivery. The
+        box should be carried in the flight deck under the Captain's supervision.</para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Ground de-icing</title>
+      <para>[Ezy-A 8.2.3]</para>
+      <sect3>
+        <title>Types of fluid</title>
+        <para>ISO Type I fluid has a high glycol content and low viscosity. De-icing performance is good, but protection
+        from freezing precipitaion is poor. It is best used for removing frozen deposits as part of a two stage process
+        or when precipitation has stopped. Type I fluids are usually clear.</para>
+        <para>ISO Type II fluid includes a pseudo plastic thickening agent. This allows it to remain on the surface
+        after application to provide protection from freezing precipitation. Shearing of the fluid allows it to flow off
+        the critical surfaces as airspeed increases. Type II fluids are usually straw coloured.</para>
+        <para>ISO Type IV fluid is similar in operation to type II fluid, but uses more advanced thickening systems to
+        give longer holdover times. Type IV fluids are usually green.</para>
+        <para>All fluids may be diluted with water. Required Type I fluid concentration is a function of OAT only, as
+        dilution has a negligible effect on holdover. Required Type II and Type IV concentrations are a factor of OAT
+        and holdover requirements. Tables are presented in [Ezy-A 8.2.4.6].</para>
+      </sect3>
+      <sect3>
+        <title>Precautions</title>
+        <para>De-icing fluid should not be used where it could cause loss of vision while being shed during the take-off
+        roll.</para>
+        <para>A walk-round inspection should be completed by a qualified person after de-icing is completed. Flying and
+        control surfaces should be clear of deposits, intake and drain holes should be clear of obstructions and a check
+        should be made that de-icing fluid that has been diluted by the removed deposits has not refrozen on other parts
+        of the aircraft. Undercarriage components should be checked for cleanliness and microswitches and uplocks should
+        be checked for normal operation. If possible, compressors should be rotated by hand to ensure they have not
+        frozen.</para>
+        <para>The flight crew should also move the control surfaces over their full range to ensure that they are free
+        of obstruction.</para>
+        <para>Note that high winds or jet blast may cause damage to the de-icing fluid film and significantly shorten
+        holdover times.</para>
+      </sect3>
+    </sect2>
+  </sect1>
+  <sect1 id="flight-procedures">
+    <title>Operating Procedures: Flight procedures</title>
+    <sect2>
+      <title>VFR/IFR policy</title>
+      <para>[Ezy-A 8.3.1]</para>
+      <para>When controlled airspace exists between departure and destination airports, flights will be planned to
+      remain within that airspace. Where controlled airspace does not exist, advisory airspace will be used if
+      available. VFR flight should be considered exceptional.</para>
+      <para>Where a flight is planned to remain within controlled or advisory airspace, flight outside that airspace
+      should only be considered for safety reasons.</para>
+    </sect2>
+    <sect2>
+      <title>Navigation policy</title>
+      <para>[Ezy-A 8.3.2]</para>
+      <para>Basic RNAV equipment is mandatory throughout Europe. This requires minimum track keeping accuracy of +/- 5nm
+      for 95% of the flight time (RNP-5). All EZY aircraft can meet this requirement, even with an inoperative DME
+      (providing the remaining DME is auto tuning).</para>
+      <para>RNAV SIDs and STARs may be followed if they are in the FMC database. The use of BRNAV on published feeder
+      routes into and out of terminal airspace is only permitted when above the relevant safety altitude.</para>
+    </sect2>
+    <sect2>
+      <title>RVSM</title>
+      <para>[Ezy-A 8.3.2]</para>
+      <para>RVSM airspace is airspace above FL290 where only 1000ft vertical separation is maintained. All easyJet
+      aircraft are RVSM approved.</para>
+      <para>When in RVSM airspace and within 1000ft of cleared flight level, vertical speed should not exceed
+      1500fpm. In addition, a check must be made passing FL200 that 1013 is set on all altimeters, and a check of the
+      altimeters should be recorded on the CFP at least every hour and whenever a change of cruise level occurs.</para>
+      <para>The minimum equipment required for entering RVSM airspace is:
+      <itemizedlist>
+        <listitem><para>Two main altimeters with a difference in readings of less than 200ft and no failure
+        flags</para></listitem>
+        <listitem><para>Two ADCs or two ADIRUs</para></listitem>
+        <listitem><para>Altitude alert system</para></listitem>
+        <listitem><para>At least one autopilot in CMD with either VNAV PATH or ALT HOLD annunciated.</para></listitem>
+      </itemizedlist>
+      </para>
+      <para>If any item of equipment in the above list fails, ATC must be notified. If both main altimeters fail exit
+      RVSM airspace.</para>
+      <para>If severe turbulence is encountered in RVSM airspace such that vertical navigation performance becomes
+      unacceptable, ATC should be informed immediately so that either horizontal separation or increased vertical
+      separation can be maintained. If the encounter is believed to be wake turbulence, paperwork should be submitted
+      to Eurocontrol in addition to the normal ASR.</para>
+    </sect2>
+    <sect2>
+      <title>Altimeter setting procedures</title>
+      <para>[Ezy-A 8.3.3]</para>
+      <para>Main altimeters should be checked during the pre-flight phase by setting both to airport QNH and checking
+      that they are within 50ft of the airfield elevation and are within 50ft of each other. If planning a flight in
+      RVSM airspace in a -300, the altimeters should be within 40ft of each other [33V Vol-1
+      Limitations]. If any doubt exists concerning altimeter accuracy, an expanded procedure using QFE checks
+      is available in [Ezy-A 8.3.3].</para>
+      <para>Main altimeters should be set to QNH before take-off and then set to 1013 when first cleared to a flight
+      level. The standby altimeter should be set to QNH for take-off, and then set to 1013 when passing MSA. In the
+      descent, the main altimeters should be set to QNH when first cleared to an altitude and the standby altimeter
+      should be set to QNH when passing FL200 or at TOD if cruising below FL200.</para>
+      <para>Pressure altimeters are subject to temperature errors, which may be corrected using the table in
+      [Ezy-A 8.3.3 (once its updated!)]. When temperatures at aerodrome level are below zero,
+      corrections should be applied to DA, CDA/MDA and SE acceleration altitude. In extremely cold conditions
+      corrections should also be applied to MSA, procedure turn altitude, DME Arc and FAF [Level 1
+      NTC].</para>
+    </sect2>
+    <sect2>
+      <title>GPWS</title>
+      <para>[Ezy-A 8.3.5 and QRH NNM]</para>
+      <para>GPWS may generate either an "Alert" or a "Warning" depending on the situation. A "Warning" will use the
+      phrase "Pull Up".<emphasis>{note: Ezy-A disagrees with QRH on "too low terrain"}</emphasis>. If flying in VMC with
+      all obstacles clearly in sight or more than 5000ft above MORA, GPWS callouts may be disregarded. Otherwise, an
+      immediate and positive response must be made to an alert, and the terrain avoidance maneuver should be flown in
+      the event of a warning. </para>
+      <para>All alerts and warnings except "Glideslope" require an ASR.</para>
+    </sect2>
+    <sect2>
+      <title>TCAS</title>
+      <para>[Ezy-A 8.3.6]</para>
+      <para>TCAS alerts are divided into Traffic Advisories (TA) and Resolution Advisories (RA).</para>
+      <para>A TA alerts the crew that a RA may be imminent. The response to a TA is a visual search concentrating on the
+      area indicated. The flight path should only be changed if the visual search indicates a definite risk of
+      collision.</para>
+      <para>If an RA is given, the manoeuvre indicated by TCAS must be flown, regardless of visual aquisition or ATC
+      instructions to the contrary. ATC should be informed of the departure and, once adequate separation is acheived,
+      of the return to the previously cleared level. RAs require an ASR to be filed.</para>
+    </sect2>
+    <sect2>
+      <title>In-flight fuel management</title>
+      <para>[Ezy-A 8.3.7 &amp; Ezy-B 2.3.23]</para>
+      <para>Flights of less than 20 minutes do not require a fuel check. Flights of less than one hour require a single
+      fuel check, and flights of more than one hour require fuel checks at not more than hourly intervals. A fuel check
+      should compare actual and planned consumption, check the remaining fuel is sufficient and determine expected fuel
+      on arrival. The fuel total used should be the lower of the FMC totalized figure and the total from the fuel
+      gauges.</para>
+      <para>If it is determined that fuel on landing at destination will be below CMR, action must be taken to reduce
+      fuel burn. Options include flying at LRC or CI=0, changing levels or requesting shortcuts. If fuel burn cannot be
+      reduced sufficiently to land with more than CMR, a decision must be made whether to divert or continue to
+      destination. A decision to continue to destination is a committal to land there, and is permissable if landing is
+      assured and the maximum anticipated delay is known. A landing is considered assured if no forecast weather
+      deterioration or single failure of ground or airborne equipment can prevent landing. In general this means that
+      Cat I minimas must be available at Cat III equipped aerodromes and non-precision minimas must be available at Cat
+      I equipped aerodromes.</para>
+      <para>If it is determined that the fuel on landing <emphasis>may</emphasis> be less than final reserve, an
+      emergency must be declared using a PAN call and ATC should be given an estimate of endurance. If it is determined
+      that the fuel on landing <emphasis>will</emphasis> be less than final reserve, a MAYDAY call should be made.</para>
+    </sect2>
+    <sect2>
+      <title>Thunderstorms</title>
+      <para>Below FL200, any echo with sharp edges, strong intensities or strong gradients of intensity should be
+      avoided by 5nm. If it has protrusions, it should be avoided by 10nm. Avoid all echos by 10nm, 15nm and 20nm above
+      FL200, FL250 and FL300 respectively ((FL/10)-10).</para>
+      <para>If an area of thunderstorm activity cannot be avoided, set the aircraft up for turbulence, heavy icing and
+      heavy precipitation. Turn up the cockpit lighting fully and lower the crew seats to prevent blindness from
+      lightning flashes. Disregard the ADF. If the autopilot is making large trim adjustments it should be disengaged
+      (although the yaw damper must remain). Manual flying should concentrate on maintaining constant trim, power,
+      attitude and heading even at the expense of altitude maintenance.</para>
+      <para>If a thunderstorm is overhead or approaching prior to departure, delay the departure. If a thunderstorm is
+      overhead or approaching at destination, hold clear and if necessary, divert.</para>
+      <para>If overflying a storm, it is recommended that at least 5000ft vertical clearance is maintained. Flight
+      underneath a cb overhang is also hazardous as hail may be falling.</para>
+    </sect2>
+    <sect2>
+      <title>Wake turbulence</title>
+      <para>[Ezy-A 8.3.9]</para>
+      <sect3>
+        <title>Final approach</title>
+        <para>The following minimum distances should be applied when following an aircraft on final approach:
+        <informaltable>
+          <tgroup cols="2" align="center">
+            <thead>
+              <row><entry>Type</entry><entry>Separation</entry></row>
+            </thead>
+            <tbody>
+              <row><entry>Heavy</entry><entry>5nm</entry></row>
+              <row><entry>B757</entry><entry>4nm</entry></row>
+              <row><entry>Medium or small</entry><entry>3nm</entry></row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+        </para>
+      </sect3>
+      <sect3>
+        <title>Departure</title>
+        <para>The following time should elapse between the time a heavy aircraft in front becomes airborne and the time
+        you become airborne when operating from the same runway or from parallel runways less than 760m apart.
+        <informaltable>
+          <tgroup cols="2" align="center">
+            <thead>
+              <row><entry>Departure position</entry><entry>Separation</entry></row>
+            </thead>
+            <tbody>
+              <row><entry>Same</entry><entry>2 mins</entry></row>
+              <row><entry>Intermediate</entry><entry>3 mins</entry></row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+        </para>
+      </sect3>
+      <sect3>
+        <title>Displaced landing thresholds</title>
+        <para>When a displaced landing threshold will cause the flight path of a landing heavy aircraft to cross your
+        departure flight path, or will cause the departure flight path of a heavy aircraft to cross your landing flight path,
+        <emphasis>2 minutes</emphasis> must elapse between the times the aircraft are airborne.</para>
+      </sect3>
+      <sect3>
+        <title>Crossing projected flight paths</title>
+        <para>If the flight path of an aircraft operating from a crossing, diverging or independent parallel runway
+        (separated by more than 760m) crosses your projected flight path, the following distance should exist between
+        the aircraft at the time of crossing:
+        <informaltable>
+          <tgroup cols="3" align="center">
+            <thead>
+              <row><entry>Type</entry><entry>Min distance</entry><entry>Time equivalent</entry></row>
+            </thead>
+            <tbody>
+              <row><entry>Heavy</entry><entry>5nm</entry><entry>3 mins</entry></row>
+              <row><entry>Medium or small</entry><entry>3nm</entry><entry>2 mins</entry></row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+        </para>
+      </sect3>
+      <sect3>
+        <title>Opposite direction</title>
+        <para><emphasis>2 minutes</emphasis> must elapse before take-off or landing when a heavy aircraft has made
+        an opposite direction low or missed approach to the runway. <emphasis>2 minutes</emphasis> must also elapse
+        before a landing is made when a heavy aircraft has made an opposite direction low or missed approach on a
+        parallel runway separated by less than 760m.</para>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Admission to flight deck</title>
+      <para>[Ezy-A 8.3.12]</para>
+      <para>Refreshments should only be brought into the flight deck when the flight time exceeds 1 hour and the
+      aircraft in in the cruise phase.</para>
+      <para>Two cabin crew members must be positioned at the front of the cabin before the door is opened. One cabin
+      crew member must stand at the front of the cabin facing the passengers at all times. The CCTV or door viewer
+      <emphasis>must</emphasis> be checked before opening the flight deck door.</para>
+      <para>Passengers must never be allowed on the flight deck when engines are running.</para>
+      <para>A list of personnel that are authorised to use the jump seat is included in [Ezy-A
+      8.3.12].</para>
+    </sect2>
+    <sect2>
+      <title>Use of vacant crew seats</title>
+      <para>[Ezy-A 8.3.13]</para>
+      <para>If insufficient passenger seats are available, with the specific authorisation of the duty pilot an easyJet
+      staff member travelling as a passenger may occupy a vacant crew seat.</para>
+    </sect2>
+    <sect2>
+      <title>Incapacitation of crew members</title>
+      <para>[Ezy-A 8.3.14]</para>
+      <para>It may be assumed that a crew member is incapacitated if he does not respond appropriately to two verbal
+      communications or does not respond to a verbal communication associated with a significant deviation from a
+      standard flight profile.</para>
+      <para>If the incapacitation occurs when the aircraft is on approach, fully configured, and visual with the runway,
+      the landing should be completed. Otherwise, other crew should be summoned to care for the incapacitated crew
+      member, an emergency should be declared and a diversion should be made to the nearest suitable airport. The
+      incapacitated crew member must take no further part in the flight, even if he appears to have fully
+      recovered. Medical advice should be sought by the remaining crew before further flying.</para>
+    </sect2>
+  </sect1>
+  <sect1>
+    <title>Operating Procedures: All weather operations</title>
+    <sect2>
+      <title>Definitions</title>
+      <variablelist>
+        <varlistentry>
+          <term>Fail passive</term>
+          <listitem><para>In the event of a failure, the pilot must take control. There will be no significant out of
+          trim condition or deviation of flight path or attitude, but the landing cannot be completed
+          automatically. When operating with RVR&lt;300m, a go-around is assumed in the event of an autopilot failure
+          below Decision Height.</para></listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Fail operational</term>
+          <listitem><para>An automatic landing may still be completed in the event of failure. Depending on the height
+          when the failure occured, reversion to higher minimas or a go-around may be required.</para></listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Alert height</term>
+          <listitem><para>If a failure occurs in a fail operational system and the aircraft is above alert height,
+          either a go-around must be initiated or the approach should revert to higher minima. Once below alert height,
+          the landing should be completed using the original minima.</para></listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>ATC Low Visibility Procedures</term>
+          <listitem><para>Ground procedures invoked at suitably equipped airports when the cloud ceiling is 200ft or
+          less and the RVR is 600m or less. They are designed to:
+          <itemizedlist>
+            <listitem><para>prevent the entry of ground vehicles and taxying aircraft into areas protected for take-off
+            and landing</para></listitem>
+            <listitem><para>prevent the entry of ground vehicles and taxying aircraft into the ILS critical area, an
+            area around the localiser and glide path antennas where the presence of metal objects would cause an
+            unacceptable disturbance to the ILS signal</para></listitem>
+            <listitem><para>control access to the ILS sensitive area, a zone extending beyond the ILS critical
+            area</para></listitem>
+            <listitem><para>regulate the flow of air traffic on the approach</para></listitem>
+          </itemizedlist>
+        </para></listitem>
+        </varlistentry>
+      </variablelist>
+    </sect2>
+    <sect2>
+      <title>Low visibility operations</title>
+      <sect3>
+        <title>Precision approach categories</title>
+        <informaltable>
+          <tgroup cols="4" align="center">
+            <thead>
+              <row><entry>Category</entry><entry>Min decision height</entry><entry>Min RVR</entry><entry>Reqd visual ref</entry></row>
+            </thead>
+            <tbody>
+              <row><entry>I</entry><entry>200ft</entry><entry>550m</entry><entry>Identifiable runway lighting or feature</entry></row>
+              <row><entry>II</entry><entry>100ft</entry><entry>300m</entry><entry>3 consecutive lights, lateral element</entry></row>
+              <row><entry>III</entry><entry>50ft</entry><entry>200m</entry><entry>3 consecutive lights</entry></row>
+              <row><entry>IIIB</entry><entry>None</entry><entry>75m</entry><entry>If a DH is reqd, 1 centre-line light</entry></row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </sect3>
+      <sect3>
+        <title>Events during Cat II/III approaches</title>
+        <mediaobject>
+          <imageobject role="dblatex">
+            <imagedata fileref="images/cat-III-events.pdf"/>
+          </imageobject>
+          <imageobject role="html">
+            <imagedata format="PNG" align="center" fileref="../images/cat-III-events.png"/>
+          </imageobject>
+          <imageobject role="fo">
+            <imagedata format="SVG" width="5in" align="left" fileref="images/cat-III-events.svg"/>
+          </imageobject>
+        </mediaobject>
+      </sect3>
+        
+      <sect3>
+        <title>Equipment failures during Cat II/III approaches</title>
+        <variablelist>
+          <varlistentry>
+            <term>Auto throttle disconnect</term>
+            <listitem><para>Deselect autothrottle and continue. PNF calls "25ft", at which point the throttles should be
+            closed.</para></listitem>
+          </varlistentry>
+          <varlistentry>
+            <term>Autoland status 1-CH below 800ft</term>
+            <listitem><para>Revert to Cat-I minimas - neither automatic landing nor automatic go-around are
+            available.</para></listitem>
+          </varlistentry>
+          <varlistentry>
+            <term>Autoland system test unsuccessful</term>
+            <listitem><para>Both autopilots will disengage. Go-around and investigate.</para></listitem>
+          </varlistentry>
+        <varlistentry>
+          <term>ILS deviation warning</term>
+          <listitem><para>Go-around for a <emphasis>persistent</emphasis> deviation above 200ft. Unless visually
+          established, go-around for <emphasis>any</emphasis> deviation below 200ft.</para></listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Generator failure</term>
+          <listitem><para>Two generators (including APU generator) are required for an autoland. Generator failure may
+          cause autopilot and/or autothrottle disconnect. </para></listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Autopilot disconnect</term>
+          <listitem><para>If RVR&lt;300m, requires an immediate go-around.</para></listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Flare arms but does not engage</term>
+          <listitem><para>Disconnect and land manually if sufficient visual reference is available.</para></listitem>
+        </varlistentry>
+        <varlistentry>
+          <term>Engine failure</term>
+          <listitem><para>Go-around, advancingthrust manually. Automatic go-around will be available if dual autopilots
+          are engaged.</para></listitem>
+        </varlistentry>
+        </variablelist>
+      </sect3>
+    </sect2>
+    <sect2>
+      <title>Miscellaneous</title>
+      <para>If two consecutive approaches to an airfield have resulted in go-arounds, a third approach may not be made
+      unless there has been a significant change in reported weather conditions.</para>
+      <para>An automatic landing should be made from a Cat II approach.</para>
+    </sect2>
+  </sect1>
+  <sect1 id="dangerous-goods">
+    <title>Carriage of Dangerous Goods</title>
+    <para>TODO</para>
+  </sect1>
+  <sect1 id="security">
+    <title>Security Procedures</title>
+    <para>TODO</para>
+  </sect1>
+  <sect1 id="accidents">
+    <title>Accident and Incident Handling</title>
+    <para>TODO</para>
+  </sect1>
+  <sect1 id="sops">
+    <title>Standard Operating Procedures</title>
+    <para>TODO</para>
+  </sect1>
+  <sect1 id="misc">
+    <title>Miscellaneous</title>
+    <sect2>
+      <title>Missing manuals</title>
+      <para>[Ezy-A 0.2.2]</para>
+      <para>If an easyJet manual is missing from the flight deck library, a replacement manual may be taken from a crew
+      room. The yellow "Operations Manual Replacement Request" form at the front of the manual should be filled in
+      immediately and faxed to Operations Support, and the journey log should be annotated with the discrepance and
+      copied to NAV/PERF/OPS INFO.</para>
+      <para>If a chart or page is missing from a Jeppensen manual, the yellow Jeppensen comments sheet should be filled
+      in, and the journey log suitably annotated.</para>
+    </sect2>
+    <sect2>
+      <title>Positioning crew</title>
+      <para>[Ezy-A 4.5]</para>
+      <para>Ramp transfer or remaining on aircraft for positioning is permissible if crew have arrived from a domestic
+      flight. If crew have arrived from an international flight, crew must clear Immigration and Customs.</para>
+      <para>Flight crew, cabin crew and engineers may travel without a passenger booking as "extra crew" with the
+      authorization of the duty pilot. If a gendec is required for the flight, anyone positioning as extra crew must be
+      included.</para>
+    </sect2>
+    <sect2>
+      <title>Drunkenness on board</title>
+      <para>[Ezy-A 8.2.2]</para>
+      <para>No person may embark if drunk. Passengers may not consume their own alcohol, and must not be served
+      alcoholic beverages if it is suspected that they are drunk. If a passenger is refused carriage or a drink related
+      incident occurs on board, an ASR must be raised and forwarded to the Quality Manager. Details of the items that
+      should be included in the ASR are in Ezy-A.</para>
+    </sect2>
+    <sect2>
+      <title>Operation of doors from the outside</title>
+      <para>[Ezy-A 8.2.2]</para>
+      <para>Cabin crew are not permitted to open or close doors from the outside. Flight crew may only open or close
+      doors from the outside if an airbridge or ground steps are used.</para>
+    </sect2>
+    <sect2>
+      <title>Flight crew seats</title>
+      <para>[Ezy-A 8.3.10]</para>
+      <para>Flight crew must remain in their seats except that one member of flight crew at at time may leave his
+      assigned station for physiological reasons during the cruise phase. His seat must not be occupied by any other
+      person during his absence.</para>
+      <para>Both pilots must wear full harnesses for take-off and landing and whenever the "Fasten Belts" signs are
+      on.</para>
+    </sect2>
+  </sect1>
+</article>
