@@ -69,6 +69,22 @@
         <para>The flight data recorder is not disabled, switched off or erased during flight nor erased after
         flight in the event of an accident or an incident subject to mandatory reporting.</para>
       </listitem>
+      <listitem>
+        <para>
+          The flight deck door is locked at all times between engine start and engine shutdown, with
+          the exception of when it must be opened for physiological reasons.
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          A post flight debrief is carried out.
+        </para>
+      </listitem>
+      <listitem>
+        <para>
+          A journey log or equivalent ACARS is completed.
+        </para>
+      </listitem>
     </orderedlist>
     </para>
   </sect1>
