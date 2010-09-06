@@ -124,11 +124,10 @@
       <listitem><para>Valid instrument rating</para></listitem>
       <listitem>
         <para>Valid recurrent checks:
-        <informaltable pgwide="0">
-          <?dbfo table-width="5in"?>
+        <informaltable>
           <tgroup cols="2">
             <colspec align="center" colwidth="*"/>
-            <colspec colwidth="4*"/>
+            <colspec colwidth="3*"/>
             <thead>
               <row><entry>Check</entry><entry align="center">Expires</entry></row>
             </thead>
@@ -248,6 +247,7 @@
           </tbody>
         </tgroup>
       </table>
+      
     </sect2>
   </sect1>
   <sect1 id="ftl">
@@ -267,20 +267,19 @@
       take account of wind speed using the following table:
       <table>
         <title>MORA Wind Speed Correction</title>
-        <?dbfo table-width="6in"?>
         <tgroup cols="5">
-          <colspec colnum="1" colwidth="*"/>
-          <colspec colnum="2" colname="windsst" colwidth="*"/>
-          <colspec colnum="3" colwidth="*"/>
-          <colspec colnum="4" colwidth="*"/>
-          <colspec colnum="5" colname="windsend" colwidth="*"/>
+          <colspec colnum="1" colwidth="2*"/>
+          <colspec colnum="2" align="center" colname="windsst" colwidth="*"/>
+          <colspec colnum="3" align="center" colwidth="*"/>
+          <colspec colnum="4" align="center" colwidth="*"/>
+          <colspec colnum="5" align="center" colname="windsend" colwidth="*"/>
           <thead>
             <row><entry>Terrain</entry><entry namest="windsst" nameend="windsend">Wind speed in Knots</entry></row>
-            <row><entry>Elevation</entry><entry>0 - 30</entry><entry>31 - 50</entry><entry>51 -70</entry><entry>More than 70</entry></row>
+            <row><entry>Elevation</entry><entry>0 - 30</entry><entry>31 - 50</entry><entry>51 -70</entry><entry>70+</entry></row>
           </thead>
           <tbody>
-            <row><entry>2,000-8,000ft</entry><entry>+500ft</entry><entry>+1,000ft</entry><entry>+1,500ft</entry><entry>+2,000ft</entry></row>
-            <row><entry>More than 8,000ft</entry><entry>+1,000ft</entry><entry>+1,500ft</entry><entry>+2,000ft</entry><entry>+2,500ft</entry></row>
+            <row><entry>2,000-8,000ft</entry><entry>500ft</entry><entry>1,000ft</entry><entry>1,500ft</entry><entry>2,000ft</entry></row>
+            <row><entry>More than 8,000ft</entry><entry>1,000ft</entry><entry>1,500ft</entry><entry>2,000ft</entry><entry>2,500ft</entry></row>
           </tbody>
         </tgroup>
       </table>
@@ -290,15 +289,15 @@
       <table>
         <title>MORA Temperature Correction</title>
         <tgroup cols="2">
-          <colspec colnum="1" colwidth="*"/>
+          <colspec colnum="1" align="center" colwidth="*"/>
           <colspec colnum="2" align="center" colwidth="*"/>
           <thead>
             <row><entry>Surface Temperature</entry><entry> Addition to MORA</entry></row>
           </thead>
           <tbody>
-            <row><entry>ISA -16 C to ISA -30 C</entry><entry> 10%</entry></row>
-            <row><entry>ISA -31 C to ISA -50 C</entry><entry> 20%</entry></row>
-            <row><entry>ISA -51 C or below</entry><entry> 25%</entry></row>
+            <row><entry>ISA-16°C to ISA-30°C</entry><entry> 10%</entry></row>
+            <row><entry>ISA-31°C to ISA-50°C</entry><entry> 20%</entry></row>
+            <row><entry>ISA-51°C or below</entry><entry> 25%</entry></row>
           </tbody>
         </tgroup>
       </table>
@@ -344,7 +343,7 @@
             <imagedata format="PNG" fileref="../images/alternates.png"/>
           </imageobject>
           <imageobject role="fo">
-            <imagedata format="SVG" width="5in" align="left" fileref="images/alternates.svg"/>
+            <imagedata format="SVG" width="100mm" align="left" fileref="images/alternates.svg"/>
           </imageobject>
         </mediaobject>
       <note>
@@ -951,6 +950,8 @@
         <para>The following minimum distances should be applied when following an aircraft on final approach:
         <informaltable>
           <tgroup cols="2" align="center">
+            <colspec colnum="1" colwidth="*"/>
+            <colspec colnum="2" colwidth="*"/>
             <thead>
               <row><entry>Type</entry><entry>Separation</entry></row>
             </thead>
@@ -969,6 +970,8 @@
         you become airborne when operating from the same runway or from parallel runways less than 760m apart.
         <informaltable>
           <tgroup cols="2" align="center">
+            <colspec colnum="1" colwidth="*"/>
+            <colspec colnum="2" colwidth="*"/>
             <thead>
               <row><entry>Departure position</entry><entry>Separation</entry></row>
             </thead>
@@ -993,6 +996,9 @@
         the aircraft at the time of crossing:
         <informaltable>
           <tgroup cols="3" align="center">
+            <colspec colnum="1" colwidth="*"/>
+            <colspec colnum="2" colwidth="*"/>
+            <colspec colnum="3" colwidth="*"/>
             <thead>
               <row><entry>Type</entry><entry>Min distance</entry><entry>Time equivalent</entry></row>
             </thead>
@@ -1090,8 +1096,12 @@
         <title>Precision approach categories</title>
         <informaltable>
           <tgroup cols="4" align="center">
+            <colspec colnum="1" colwidth="*"/>
+            <colspec colnum="2" colwidth="*"/>
+            <colspec colnum="3" colwidth="*"/>
+            <colspec colnum="4" colwidth="3*"/>
             <thead>
-              <row><entry>Category</entry><entry>Min decision height</entry><entry>Min RVR</entry><entry>Reqd visual ref</entry></row>
+              <row><entry>Category</entry><entry>Min DH</entry><entry>Min RVR</entry><entry>Reqd visual ref</entry></row>
             </thead>
             <tbody>
               <row><entry>I</entry><entry>200ft</entry><entry>550m</entry><entry>Identifiable runway lighting or feature</entry></row>
@@ -1112,7 +1122,7 @@
             <imagedata format="PNG" align="center" fileref="../images/cat-III-events.png"/>
           </imageobject>
           <imageobject role="fo">
-            <imagedata format="SVG" width="5in" align="left" fileref="images/cat-III-events.svg"/>
+            <imagedata format="SVG" width="110mm" align="left" fileref="images/cat-III-events.svg"/>
           </imageobject>
         </mediaobject>
       </sect3>
