@@ -90,7 +90,7 @@
   </sect1>
   <sect1 id="crew-composition">
     <title>Crew composition/ Designation of Aircraft Commander</title>
-    <para>[Ezy-A 4]</para>
+    <para>[EOM/A-4]</para>
     <sect2>
       <title>Flight crew</title>
       <para>The minimum flight crew is two pilots, at least one of whom must be a Captain.</para>
@@ -101,16 +101,78 @@
       <para>If an aircraft is only being taxied, the occupant of the right seat may be a non-type rated pilot or a
       suitably qualified ground employee. The occupant of the left seat must, however, be a fully type qualified
       commander. </para>
+      <para>Inexperienced (***) crew must not operate together. A Captain is considered inexperienced
+      until he has successfully passed his first recurrent simulator check. A First Officer is
+      considered inexperienced until he has completed the amount of flying detailed in EOM/A
+      section 4.1.2.</para>
     </sect2>
     <sect2>
       <title>Cabin crew</title>
-      <para>The minimum cabin crew is normally one for every 50 <emphasis>seats installed</emphasis>. In extreme
-      circumstances (e.g. incapacitation of a member of cabin crew), this may be reduced to one cabin crew member,
-      including at least one SCCM, per 50 <emphasis>passengers carried</emphasis>. This may only be done when not at a
-      crew base where crew are qualified on type, and requires clearance from the Head of Flight Operations or his
-      deputy.</para>
-      <para>[Ezy-A 8.2.2] It is permissible to board with one cabin crew member absent unless the
-      aircraft is being refuelled.</para>
+
+      <para>[EOM/A-4.1.3, EOM/A-4.1.4]</para>
+
+      <para>The minimum cabin crew is normally one for every 50 <emphasis> installed</emphasis>
+      seats. In extreme circumstances this may be reduced by one cabin crew member providing that:
+
+      <itemizedlist>
+	<listitem>
+	  <para>Authorisation is received from the duty pilot</para>
+	</listitem>
+	<listitem>
+	  <para>The aircraft does not dispatch from its originating base.</para>
+	</listitem>
+	<listitem>
+	  <para>The applicable sectors are either part of the original series of flights or
+	  are associated diversions.</para>
+	</listitem>
+	<listitem>
+	  <para>A maximum of 50 passengers (not including infants) per cabin crew member is
+	  carried.</para>
+	</listitem>
+	<listitem>
+	  <para>All passengers are seated in a position where they can adequately view the safety
+	  demonstration.</para>
+	</listitem>
+      </itemizedlist></para>
+
+      <para>If the reduction in cabin crew results in no SCCM being carried there are additional
+      procedures detailed in EOM/A-4.1.4g.</para>
+
+      <para>It is permissible to board with one cabin crew member absent provided that:
+
+      <itemizedlist>
+	<listitem>
+	  <para>The operating SCCM is present.</para>
+	</listitem>
+	<listitem>
+	  <para>A member of the flight crew is on the flight deck. In case of emergency a member of
+	  flight crew will assist at the front of the cabin.</para>
+	</listitem>
+ 	<listitem>
+	  <para>The front and rear doors each have at least one attendant cabin crew member.</para>
+	</listitem>
+	<listitem>
+	  <para>The aircraft is not being fuelled.</para>
+	</listitem>
+ 	<listitem>
+	  <para>A maximum of 50 passengers per cabin crew member are boarded.</para>
+	</listitem>
+      </itemizedlist></para>
+
+      <para>It is also permissable to board with a non operating crew member provided that they are
+      fully qualified on type, in uniform and fit to operate. They are not required to have taken
+      part in the pre-flight brief, but must be briefed on their duties during boarding and must
+      have answered one SEP and one First Aid question. The non operating crew member must remain
+      with the aircraft until the rostered crew member arrives.</para>
+
+      <para>During disembarkation, once there are less than 20 passengers remaining on board the
+      required crew complement is reduced to the SCCM and one member of flight crew.</para>
+
+      <para>If a cabin crew member is incapacitated due to sickness, injury, tiredness or fatigue,
+      they must be offloaded. They will then be considered unfit to fly until certified fit by a
+      doctor or paramedic. This rule may be overridden at the Captain's discretion if "extraordinary
+      circumstances" apply.</para>
+      
     </sect2>
   </sect1>
    <sect1 id="qualifications-and-recency">
