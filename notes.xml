@@ -291,7 +291,7 @@
   </sect1>
   <sect1 id="health">
     <title>Crew Health Precautions</title>
-    <para>[Ezy-A 6]</para>
+    <para>[EOM/A-6]</para>
     <sect2>
       <title>Alcohol</title>
       <para>Do not consume any alcohol within 10 hours of a duty, and consume no more that 5 units of alcohol within 24
@@ -302,24 +302,50 @@
       <para>Alcohol must not be taken onto the flight deck during flight.</para>
     </sect2>
     <sect2>
-      <title>Drugs</title>
-      <para>The use of non-prescribed narcotics or sleep inducing drugs is forbidden.</para>
-    </sect2>
-    <sect2>
       <title>Cosmic radiation</title>
-      <para>Exposure of 6mSv/yr is acceptable, but 4mSv/yr is the suggested cut off point. At easyJet's operating
-      latitudes, 1mSv exposure is equivalent to 200 hours at 35000 feet.</para>
+      <para>Statutory directives state that the acceptable radiation exposure of aircrew is 6mSv/yr.
+      Radiation exposure is modelled by easyJet to try to prevent exposure above this level.  At
+      easyJet's operating latitudes, 1mSv exposure is equivalent to 200 hours at 35000 feet. </para>
     </sect2>
     <sect2>
       <title>Medication</title>
-      <para>Do not operate within 48 hours of a general anaesthetic or within 24 hours of a local anaesthetic.</para>
-      <para>Seek medical advice before operating whilst taking any medication.</para>
+      <para>The use of non-prescribed narcotics or sleep inducing drugs is forbidden.</para>
+
+      <para>Do not operate within 48 hours of a general anaesthetic or within 24 hours of a local
+      anaesthetic.</para>
+
+      <para>It is aceptable to operate whilst taking non drowsy cold remedies such as Sudafed. Seek
+      medical advice before operating whilst taking any other medication.</para>
     </sect2>
     <sect2>
-      <title>Immunisation</title>
-      <para>There are no requirements for immunisation of crew members operating within the European/ Mediterranean
-      region.</para>
-      <para>Crew should not operate within 24 hours of receiving immunisation for cholera, tetanus or typhoid.</para>
+      <title>Disease and Immunisation</title>
+
+      <para>Crew who are operating overseas must satisfy any statutory requirement for vaccination
+      and be able to produce a WHO approved "Certificate of Vaccination" if required.</para>
+
+      <para>Immunity after vaccination is not immediate and it will reduce with time. Approximate
+      effectiviness is as follows:</para>
+
+      <informaltable>
+        <tgroup cols="3">
+            <colspec align="center" colwidth="*"/>
+            <colspec align="center" colwidth="*"/>
+            <colspec align="center" colwidth="*"/>
+          <thead>
+            <row><entry>Vaccination</entry><entry>Effective after</entry><entry>Ineffective after</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>Yellow Fever</entry><entry>10 days</entry><entry>10 years</entry></row>
+            <row><entry>Cholera</entry><entry>7 days</entry><entry>6 months</entry></row>
+            <row><entry>Typhoid</entry><entry>7 days</entry><entry>30 years</entry></row>
+            <row><entry>Poliomyelitis</entry><entry>3 vaccinations</entry><entry>10 years</entry></row>
+            <row><entry>Tetanus</entry><entry>3 vaccinations</entry><entry>10 years</entry></row>
+
+          </tbody>
+        </tgroup>
+      </informaltable>
+
+      <para>Crew should not operate within 24 hours of receiving immunisation.</para>
     </sect2>
     <sect2>
       <title>Blood donation</title>
