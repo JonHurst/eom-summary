@@ -449,6 +449,35 @@
 	</para>
       </sect3>
     </sect2>
+    <sect2>
+      <title>Flight Duty length</title>
+
+      <para>The maximum allowable flight duty length is governed by the number of sectors flown and
+      the report time in local time:
+
+      <table>
+	<title>Maximum flight duty length</title>
+	<tgroup cols="5">
+	  <colspec colwidth="2*"/>
+	  <colspec colwidth="*" align="center" colname="1"/>
+	  <colspec colwidth="*" align="center"/>
+	  <colspec colwidth="*" align="center"/>
+	  <colspec colwidth="*"  align="center" colname="4"/>
+	  <thead>
+	    <row><entry></entry><entry namest="1" nameend="4">Sectors <footnote><para>For 5 or more sectors, refer to the full table in EOM-A 7.1.12.8</para></footnote></entry></row>
+	    <row><entry>Local time</entry><entry>1</entry><entry>2</entry><entry>3</entry><entry>4</entry></row>
+	  </thead>
+	  <tbody>
+	    <row><entry>06:00 - 07:59</entry><entry>13:00</entry><entry>12:15</entry><entry>11:30</entry><entry>10:45</entry></row>
+	    <row><entry>08:00 - 12:59</entry><entry>14:00</entry><entry>13:15</entry><entry>12:30</entry><entry>11:45</entry></row>
+	    <row><entry>13:00 - 1759</entry><entry>13:00</entry><entry>12:15</entry><entry>11:30</entry><entry>10:45</entry></row>
+	    <row><entry>18:00 - 21:59</entry><entry>12:00</entry><entry>11:15</entry><entry>10:30</entry><entry>9:45</entry></row>
+	    <row><entry>22:00 - 05:59</entry><entry>11:00</entry><entry>10:15</entry><entry>9:30</entry><entry>9:00</entry></row>
+	  </tbody>
+	  </tgroup>
+      </table>
+      </para>
+    </sect2>
   </sect1>
   <sect1 id="flight-preparation">
     <title>Operating procedures: Flight preparation instructions</title>
