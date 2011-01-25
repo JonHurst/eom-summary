@@ -458,7 +458,7 @@
       <table>
 	<title>Maximum flight duty length</title>
 	<tgroup cols="5">
-	  <colspec colwidth="2*"/>
+	  <colspec colwidth="2*" align="center"/>
 	  <colspec colwidth="*" align="center" colname="1"/>
 	  <colspec colwidth="*" align="center"/>
 	  <colspec colwidth="*" align="center"/>
