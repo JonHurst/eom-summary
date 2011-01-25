@@ -403,7 +403,52 @@
   </sect1>
   <sect1 id="ftl">
     <title>Flight Time Limitations Scheme</title>
-    <para>TODO</para>
+    <sect2>
+      <title>Definitions</title>
+
+      <para>Duty period: Any continuous period where a crew member is required to carry out a task
+      associated with easyJet business.</para>
+
+      <para>Flight duty period: The period between reporting to operate a flight or series of lights
+      and the on blocks time of the last sector operated.</para>
+
+      <para>Discretion event: The use of either commander's or individual's discretion to reduce a
+      rest period, extend a duty period, ignore a cumulative limit or reduce a report time.</para>
+      
+    </sect2>
+    <sect2>
+
+      <title>Required rest</title>
+      <para>[EOM-A-7.1.14]</para>
+
+      <para>For flight crew, the rest required before operating a duty is 12 hours or
+      the length of the previous duty period, whichever is greater. For cabin crew, the rest
+      required is one hour less than the flight crew.</para>
+
+      <sect3>
+	<title>Reducing required rest</title>
+
+	<para>These notes assume that a rest reduction is a single discretion event. There are
+	additional limitations if the rest reduction is one of a series of discretion events.</para>
+
+	<para>At home base, flight crew may, at their discretion, reduce their required rest period
+	by a maximum of one hour providing that the rest period is still at least 12 hours. Cabin
+	crew may similarly reduce their rest providing the rest period is still at least 11
+	hours. All crew members must inform the commander at the start of a duty if individual
+	discretion has been used to reduce rest.</para>
+
+	<para>When not at home base:
+	<itemizedlist>
+	  <listitem><para>The commander may, at his discretion, reduce rest by an unlimited amount
+	  provided that at least 10 hours is spent in suitable accommodation.</para></listitem>
+
+	  <listitem><para>Where the preceding duty was less than 12 hours,easyJet may roster a
+	  reduction in rest equal to the amount that actual total accommodation transfer time was
+	  less than two hours, up to a maximum of one hour.</para></listitem>
+	</itemizedlist>
+	</para>
+      </sect3>
+    </sect2>
   </sect1>
   <sect1 id="flight-preparation">
     <title>Operating procedures: Flight preparation instructions</title>
