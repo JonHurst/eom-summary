@@ -406,13 +406,13 @@
     <sect2>
       <title>Definitions</title>
 
-      <para>Duty period: Any continuous period where a crew member is required to carry out a task
+      <para><emphasis role="strong">Duty period</emphasis>: Any continuous period where a crew member is required to carry out a task
       associated with easyJet business.</para>
 
-      <para>Flight duty period: The period between reporting to operate a flight or series of flights
+      <para><emphasis role="strong">Flight duty period</emphasis>: The period between reporting to operate a flight or series of flights
       and the on blocks time of the last sector operated.</para>
 
-      <para>Discretion event: The use of either commander's or individual's discretion to reduce a
+      <para><emphasis role="strong">Discretion event</emphasis>: The use of either commander's or individual's discretion to reduce a
       rest period, extend a duty period, ignore a cumulative limit or reduce a report time.</para>
       
     </sect2>
