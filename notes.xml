@@ -508,6 +508,9 @@
     </sect2>
     <sect2>
       <title>Cumulative limits</title>
+      <para><xref linkend="cumulative"/> shows the cumulative duty time and block time limitations
+      applicable to flight crew operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3)
+      and to cabin crew operating without variations:</para>
       <table id="cumulative">
 	<title>Cumulative limits</title>
 	<tgroup cols="5">
@@ -523,11 +526,26 @@
 	    hours</entry><entry>Block Hours</entry></row>
 	  </thead>
 	  <tbody>
-	    <row><entry>7 days</entry><entry>55<footnote><para>Can be increased to 60 hours where
-	    unforseen delays occur in a duty
-	    block</para></footnote></entry><entry></entry><entry>60<footnote><para>Can be increased
-	    to 65 hours where unforseen delays occur in a duty block</para></footnote></entry><entry></entry></row>
-	    <row><entry>14 days</entry><entry>100</entry><entry></entry><entry>105</entry><entry></entry></row>
+	    <row><entry>7 days</entry><entry>55
+
+	    <footnote><para>Can be increased to 60 hours where unforseen delays occur on the day of
+	    operation.</para></footnote>
+
+	    <footnote id="randc-agreement"><para>This limitation is in the Rostering and Crewing Agreement, amended
+	    01/08/2008, which supercedes the limit in EOM-A 7.3.3.4.</para></footnote>
+
+	    </entry><entry></entry><entry>60
+
+	    <footnote><para>Can be increased to 65 hours where unforseen delays occur in a duty
+	    block.</para></footnote>
+
+	    </entry><entry></entry></row>
+	    <row><entry>14 days</entry><entry>95
+
+	    <footnote><para>Can be increased to 100 hours where unforseen delays occur on the day of
+	    operation.</para></footnote> <footnoteref linkend="randc-agreement"/>
+
+	    </entry><entry></entry><entry>105</entry><entry></entry></row>
 	    <row><entry>28 days</entry><entry>190</entry><entry>100</entry><entry>210</entry><entry></entry></row>
 	    <row><entry>12 weeks</entry><entry>480</entry><entry>270</entry><entry></entry><entry></entry></row>
 	    <row><entry>6 months</entry><entry></entry><entry>550</entry><entry></entry><entry></entry></row>
@@ -536,6 +554,10 @@
 	</tbody>
 	</tgroup>
       </table>
+
+      <para>Duty time spent on "contactable" does not count towards cumulative duty hours. When not
+      called out, time spent on standby during the period 22:00 to 08:00 local time only counts
+      half.</para>
     </sect2>
   </sect1>
   <sect1 id="flight-preparation">
