@@ -480,12 +480,12 @@
       <sect3>
 	<title>Increasing maximum flight duty</title>
 
-	<para>The commander may, at his discretion, increase the maximum flight duty lengths
-	detailed in <xref linkend="maxfd"/> by up to 2 hours. If required by a delay occuring during
-	the turnaround before the final sector of a duty, the maximum flight duty lengths may be
-	extended by a further hour. Whenever this discretion is used it must be reported via the
-	journey log. Where the discretion is greater than two hours a Discretion Report Form must
-	also be competed to allow mandatory reporting to the CAA.</para>
+	<para>The commander may, at his discretion, increase the maximum flight duty detailed in
+	<xref linkend="maxfd"/> by up to 2 hours. If required by a delay occuring during the
+	turnaround before the final sector of a duty, the maximum flight duty may be extended by a
+	further hour. Whenever this discretion is used it must be reported via the journey
+	log. Where the discretion is greater than two hours a Discretion Report Form must also be
+	competed to allow mandatory reporting to the CAA.</para>
 
 	<para>Where a flight duty is scheduled such that a rest period of between 3 and 10
 	consecutive hours may be taken between sectors, the company can increase the maximum flight
