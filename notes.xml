@@ -450,13 +450,13 @@
       </sect3>
     </sect2>
     <sect2>
-      <title>Flight Duty length</title>
+      <title>Maximum Flight Duty</title>
 
-      <para>The maximum allowable flight duty length is governed by the number of sectors flown and
-      the report time in local time:
+      <para>The maximum allowable flight duty is governed by the number of sectors flown and the
+      report time in local time:
 
       <table id="maxfd">
-	<title>Maximum flight duty length</title>
+	<title>Maximum flight duty</title>
 	<tgroup cols="5">
 	  <colspec colwidth="2*" align="center"/>
 	  <colspec colwidth="*" align="center" colname="1"/>
@@ -478,7 +478,7 @@
       </table>
       </para>
       <sect3>
-	<title>Increasing maximum flight duty length</title>
+	<title>Increasing maximum flight duty</title>
 
 	<para>The commander may, at his discretion, increase the maximum flight duty lengths
 	detailed in <xref linkend="maxfd"/> by up to 2 hours. If required by a delay occuring during
@@ -486,12 +486,14 @@
 	extended by a further hour. Whenever this discretion is used it must be reported via the
 	journey log. Where the discretion is greater than two hours a Discretion Report Form must
 	also be competed to allow mandatory reporting to the CAA.</para>
-      </sect3>
-      <sect3>
-	<title>Planned extended duties</title>
 
-	<para>easyJet has negotiated FTL exemptions that allow the maximum flight duty lengths in
-	<xref linkend="maxfd"/> to be extended by either 30 minutes or 60 minutes at the planning
+	<para>Where a flight duty is scheduled such that a rest period of between 3 and 10
+	consecutive hours may be taken between sectors, the company can increase the maximum flight
+	duty by one half of the rest period. The length of pre and post flight duties and the type
+	of accommodation required are specified in EOM-A 7.1.13.</para>
+
+	<para>easyJet has also negotiated FTL exemptions that allow the maximum flight duty lengths
+	in <xref linkend="maxfd"/> to be extended by either 30 minutes or 60 minutes at the planning
 	stage. To utilise either of these exemptions a long list of conditions (detailed in EOM-A
 	7.1.12.9) must be met. Affected duties are annotated on rosters.</para>
       </sect3>
