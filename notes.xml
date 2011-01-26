@@ -458,8 +458,8 @@
     <sect2>
       <title>Maximum Flight Duty</title>
 
-      <para>The maximum allowable flight duty is governed by the number of sectors flown and the
-      report time in local time:
+      <para>The maximum allowable flight duty for flight crew is governed by the number of sectors
+      flown and the report time in local time:
 
       <table id="maxfd">
 	<title>Maximum flight duty</title>
@@ -483,6 +483,7 @@
 	  </tgroup>
       </table>
       </para>
+      <para>The maximum allowable duty for cabin crew is one hour longer than the flight crew.</para>
       <sect3>
 	<title>Increasing maximum flight duty</title>
 
