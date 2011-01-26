@@ -506,6 +506,37 @@
 	7.1.12.9) must be met. Affected duties are annotated on rosters.</para>
       </sect3>
     </sect2>
+    <sect2>
+      <title>Cumulative limits</title>
+      <table id="cumulative">
+	<title>Cumulative limits</title>
+	<tgroup cols="5">
+	  <colspec colwidth="2*" align="center"/>
+	  <colspec colwidth="*" align="center" colname="fd-d"/>
+	  <colspec colwidth="*" align="center" colname="fd-f"/>
+	  <colspec colwidth="*" align="center" colname="cc-d"/>
+	  <colspec colwidth="*" align="center" colname="cc-f"/>
+	  <thead>
+	    <row><entry></entry><entry namest="fd-d" nameend="fd-f">Flight Crew</entry>
+	    <entry namest="cc-d" nameend="cc-f">Cabin Crew</entry></row>
+	    <row><entry>Period</entry><entry>Duty hours</entry><entry>Block hours</entry><entry>Duty
+	    hours</entry><entry>Block Hours</entry></row>
+	  </thead>
+	  <tbody>
+	    <row><entry>7 days</entry><entry>55<footnote><para>Can be increased to 60 hours where
+	    unforseen delays occur in a duty
+	    block</para></footnote></entry><entry></entry><entry>60<footnote><para>Can be increased
+	    to 65 hours where unforseen delays occur in a duty block</para></footnote></entry><entry></entry></row>
+	    <row><entry>14 days</entry><entry>100</entry><entry></entry><entry>105</entry><entry></entry></row>
+	    <row><entry>28 days</entry><entry>190</entry><entry>100</entry><entry>210</entry><entry></entry></row>
+	    <row><entry>12 weeks</entry><entry>480</entry><entry>270</entry><entry></entry><entry></entry></row>
+	    <row><entry>6 months</entry><entry></entry><entry>550</entry><entry></entry><entry></entry></row>
+	    <row><entry>9 months</entry><entry></entry><entry>750</entry><entry></entry><entry></entry></row>
+	    <row><entry>12 months</entry><entry>1880</entry><entry>900</entry><entry></entry><entry></entry></row>
+	</tbody>
+	</tgroup>
+      </table>
+    </sect2>
   </sect1>
   <sect1 id="flight-preparation">
     <title>Operating procedures: Flight preparation instructions</title>
