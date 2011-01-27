@@ -482,6 +482,10 @@
 	</itemizedlist>
 	</para>
 
+	<para>Exercise of discretion to reduce rest must be reported on the journey log of the
+	subsequent duty. If the reduction is greater than one hour, a Discretion Report form must
+	also be completed to allow CAA audit.</para>
+
 	<para>There are additional limitations if the rest reduction forms part of a series of
 	discretion events.</para>
 
@@ -591,6 +595,14 @@
 
       <para>Any run of consecutive night, early start or late finish duties can be broken by a
       period of 34 hours free from such duties.</para>
+      
+      <sect3>
+	<title>Ignoring consecutive night, early start and late finish duty limits</title>
+	
+	<para>The commander may, at his discretion, allow violation of any of the consecutive night,
+	early start and late finish duty limits.</para>
+	
+      </sect3>
 
     </sect2>
 
@@ -648,6 +660,13 @@
       positioning home.  When not called out, time spent on standby during the period 22:00 to 08:00
       local time only counts half.</para>
 
+      <sect3>
+	<title>Ignoring cumulative limits</title>
+
+	<para>The commander, at his discretion, may allow violation of any cumulative limit. In this
+	case a Discretion Report Form must be completed to allow CAA audit.</para>
+
+      </sect3>
     </sect2>
 
     <sect2>
