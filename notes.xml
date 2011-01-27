@@ -443,9 +443,6 @@
       <sect3>
 	<title>Reducing required rest</title>
 
-	<para>These notes assume that a rest reduction is a single discretion event. There are
-	additional limitations if the rest reduction is one of a series of discretion events.</para>
-
 	<para>At home base, flight crew may, at their discretion, reduce their required rest period
 	by a maximum of one hour providing that the rest period is still at least 12 hours. Cabin
 	crew may similarly reduce their rest providing the rest period is still at least 11
@@ -468,6 +465,10 @@
 	  less than two hours, up to a maximum of one hour.</para></listitem>
 	</itemizedlist>
 	</para>
+
+	<para>There are additional limitations if the rest reduction forms part of a series of
+	discretion events.</para>
+
       </sect3>
     </sect2>
     <sect2>
@@ -626,9 +627,10 @@
 	</tgroup>
       </table>
 
-      <para>Duty time spent on "contactable" does not count towards cumulative duty hours. When not
-      called out, time spent on standby during the period 22:00 to 08:00 local time only counts
-      half.</para>
+      <para>Duty time spent on "contactable" does not count towards cumulative duty hours, nor does
+      a "duty break" of over 6 hours (but less than minimum rest) in suitable accommodation prior to
+      positioning home.  When not called out, time spent on standby during the period 22:00 to 08:00
+      local time only counts half.</para>
 
     </sect2>
 
