@@ -424,11 +424,27 @@
     <sect2>
       <title>Days Off</title>
 
-      <para>FTL days off restrictions will always be satisfied by the fixed pattern, even when a day off
-      has been violated by a delay on the last day of a block of late duties. The rostering
-      agreement specifies that 10 days off must be achieved in the 28 day reserve period, 3 of these
-      being the final three days. In addition, no more than 7 days can be worked between days off
-      and there must be at least 2 consecutive days off in any period of 14 consecutive days.</para>
+      <para>For crew operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3), FTL days off
+      restrictions will always be satisfied by the fixed pattern, even when a day off has been
+      violated by a delay on the last day of a block of late duties. The rostering agreement
+      specifies that 10 days off must be achieved in the 28 day reserve period, 3 of these being the
+      final three days. In addition the variation specifies that two consecutive days off must be
+      achieved within any 10 day period and that two consecutive days off must be achieved after any
+      7 consecutive duties.</para>
+
+      <para>Crew who are not operating under a variation require 7 days off in 4 consecutive
+      weeks and 24 days off in 12 consecutive weeks. No more that 7 days can be worked between days
+      off, and two consecutive days off must be achieved in any 14 day period.</para>
+
+      <sect3>
+	<title>Ignoring days off restrictions</title>
+
+	<para>The commander may, at his discretion, choose to allow the violation of days off
+	restrictions.</para>
+
+	<para>The company may, due to unforseen circumstances, position a crew member back to base
+	when this forms their eighth consecutive duty.</para>
+      </sect3>
     </sect2>
 
     <sect2>
