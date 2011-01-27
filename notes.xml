@@ -412,6 +412,10 @@
       <para><emphasis role="strong">Flight duty period</emphasis>: The period between reporting to operate a flight or series of flights
       and the on blocks time of the last sector operated.</para>
 
+      <para><emphasis role="strong">Day off</emphasis>: A period free from duty that contains two
+      consecutive local nights, a local night being a period of 8 hours in the period 22:00 to 08:00
+      local time.</para>
+
       <para><emphasis role="strong">Discretion event</emphasis>: The use of either commander's or individual's discretion to reduce a
       rest period, extend a duty period, ignore a cumulative limit or reduce a report time.</para>
 
@@ -506,6 +510,54 @@
 	7.1.12.9) must be met. Affected duties are annotated on rosters.</para>
       </sect3>
     </sect2>
+
+    <sect2>
+      <title>Consecutive night, early start and late finish duties</title>
+
+      <para>If any part of a duty falls within the period 02:00 to 04:59 local time, then it is a
+      "night duty". Consecutive night duties are only allowed with the following
+      resitrictions:
+
+      <itemizedlist>
+	<listitem><para>If two consecutive night duties are scheduled, the preceding duty must
+	finish by 23:59 local time.</para></listitem>
+
+	<listitem><para>If three consecutive night duties are scheduled, the preceding duty must
+	finish by 21:00.</para></listitem>
+
+	<listitem><para>If four or five consecutive night duties are scheduled, the <xref
+	linkend="maxfd"/> limits are replaced by an 8 hour limit, regardless of sectors; in
+	addition, 24 hours rest must be taken prior to the series and 54 hours rest must be taken
+	post the series.</para></listitem>
+      </itemizedlist>
+      </para>
+
+      <para>No more than three consecutive duties are allowed where any part of a duty falls within
+      the period 01:00 to 06:59. There are the following exceptions to this rule:
+      <orderedlist>
+	<listitem><para>Crew operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3) may
+	operate four or five consecutive "early start duties" <footnote><para>The definition of an
+	"early start duty" is inconsistent between EOM-A 7.1.4.7 and the variation approval, but my
+	interpretation is a duty that commences between 01:00 and 06:59</para></footnote> where max
+	flight duty is as per <xref linkend="maxfd"/>. Only one of the series may have a report time
+	between 03:00 and 04:59 and that duty must be 2 sectors or less. In addition, 2 days off
+	must be achieved before any series of 4 early starts, 3 days off must be achieved before any
+	series of 5 early starts and 72 hours must be achieved after either series. The rostering
+	agreement further stipulates that 4 days off must be achieved before any block of earlies in
+	the fixed pattern.</para></listitem>
+
+	<listitem><para>Crew not operating under a variation may operate four or five consecutive
+	"early start duties" where the <xref linkend="maxfd"/> limits are replaced by an 9 hour
+	limit, regardless of sectors; in addition , 24 hours rest must be taken prior to the series
+	and 63 hours rest must me taken post the series.</para></listitem>
+      </orderedlist>
+      </para>
+
+      <para>Any run of consecutive night, early start or late finish duties can be broken by a
+      period of 34 hours free from such duties.</para>
+
+    </sect2>
+
     <sect2>
       <title>Cumulative limits</title>
       <para><xref linkend="cumulative"/> shows the cumulative duty time and block time limitations
@@ -563,7 +615,7 @@
 
     <sect2>
       <title>Standby</title>
-      
+
       <para>The maximum planned standby duration is 12 hours.</para>
 
       <para>In general, the local time used to determine max flight duty in <xref linkend="maxfd"/>
@@ -573,6 +625,8 @@
       <para>The maximum flight duty must be reduced by the amount that the time between starting the
       standby and reporting exceeds 6 hours.</para>
     </sect2>
+
+
   </sect1>
   <sect1 id="flight-preparation">
     <title>Operating procedures: Flight preparation instructions</title>
