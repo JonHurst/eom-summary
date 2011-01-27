@@ -420,6 +420,17 @@
       rest period, extend a duty period, ignore a cumulative limit or reduce a report time.</para>
 
     </sect2>
+
+    <sect2>
+      <title>Days Off</title>
+
+      <para>FTL days off restrictions will always be satisfied by the fixed pattern, even when a day off
+      has been violated by a delay on the last day of a block of late duties. The rostering
+      agreement specifies that 10 days off must be achieved in the 28 day reserve period, 3 of these
+      being the final three days. In addition, no more than 7 days can be worked between days off
+      and there must be at least 2 consecutive days off in any period of 14 consecutive days.</para>
+    </sect2>
+
     <sect2>
 
       <title>Required rest</title>
