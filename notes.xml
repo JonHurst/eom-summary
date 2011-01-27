@@ -448,7 +448,7 @@
 	  charge of the subsequent duty period must be informed of this occurance prior to the first
 	  sector.</para></listitem>
 
-	  <listitem><para>Where the preceding duty was less than 12 hours,easyJet may roster a
+	  <listitem><para>Where the preceding duty was less than 12 hours, easyJet may roster a
 	  reduction in rest equal to the amount that actual total accommodation transfer time was
 	  less than two hours, up to a maximum of one hour.</para></listitem>
 	</itemizedlist>
@@ -558,6 +558,13 @@
       <para>Duty time spent on "contactable" does not count towards cumulative duty hours. When not
       called out, time spent on standby during the period 22:00 to 08:00 local time only counts
       half.</para>
+
+    </sect2>
+
+    <sect2>
+      <title>Standby</title>
+
+      <para></para>
     </sect2>
   </sect1>
   <sect1 id="flight-preparation">
