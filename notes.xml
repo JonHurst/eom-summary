@@ -412,9 +412,9 @@
       <para><emphasis role="strong">Flight duty period</emphasis>: The period between reporting to operate a flight or series of flights
       and the on blocks time of the last sector operated.</para>
 
-      <para><emphasis role="strong">Day off</emphasis>: A period free from duty that contains two
-      consecutive local nights, a local night being a period of 8 hours in the period 22:00 to 08:00
-      local time.</para>
+      <para><emphasis role="strong">Day off</emphasis>: A period of at least 34 hours that is free
+      from duty and contains two consecutive local nights, a local night being a period of 8 hours
+      in the period 22:00 to 08:00 local time.</para>
 
       <para><emphasis role="strong">Discretion event</emphasis>: The use of either commander's or individual's discretion to reduce a
       rest period, extend a duty period, ignore a cumulative limit or reduce a report time.</para>
