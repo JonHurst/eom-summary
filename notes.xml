@@ -576,9 +576,7 @@
       the period 01:00 to 06:59. There are the following exceptions to this rule:
       <orderedlist>
 	<listitem><para>Crew operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3) may
-	operate four or five consecutive "early start duties" <footnote><para>The definition of an
-	"early start duty" is inconsistent between EOM-A 7.1.4.7 and the variation approval, but my
-	interpretation is a duty that commences between 01:00 and 06:59</para></footnote> where max
+	operate four or five consecutive "early start duties"  where max
 	flight duty is as per <xref linkend="maxfd"/>. Only one of the series may have a report time
 	between 03:00 and 04:59 and that duty must be 2 sectors or less. In addition, 2 days off
 	must be achieved before any series of 4 early starts, 3 days off must be achieved before any
@@ -595,6 +593,10 @@
 
       <para>Any run of consecutive night, early start or late finish duties can be broken by a
       period of 34 hours free from such duties.</para>
+
+      <note><para>The definition of an "early start duty" is inconsistent between EOM-A 7.1.4.7 and
+      the variation approval, but my interpretation is a duty that commences between 01:00 and
+      06:59</para></note>
       
       <sect3>
 	<title>Ignoring consecutive night, early start and late finish duty limits</title>
