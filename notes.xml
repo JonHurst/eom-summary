@@ -528,11 +528,11 @@
 	turnaround before the final sector of a duty, the maximum flight duty may be extended by a
 	further hour. Whenever this discretion is used it must be reported via the journey
 	log. Where the discretion is greater than two hours a Discretion Report Form must also be
-	competed to allow mandatory reporting to the CAA. There are additional conditions when
+	completed to allow mandatory reporting to the CAA. There are additional conditions when
 	exercising this discretion as part of a sequence of discretion events.</para>
 
 	<para>Reporting times may be delayed by up to 4 hours if the crew member is informed of the
-	change before leaving the place of rest. In this case the report time used in <xref
+	change before leaving their place of rest. In this case the report time used in <xref
 	linkend="maxfd"/> will be the original report time, but the flight duty will be deemed to
 	start at the delayed report time. Where a delay is greater than 4 hours, the more
 	restrictive of the original and delayed report time will be used when calculating max FDP,
