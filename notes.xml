@@ -574,7 +574,7 @@
 
       <para>No more than three consecutive duties are allowed where any part of a duty falls within
       the period 01:00 to 06:59. There are the following exceptions to this rule:
-      <orderedlist>
+      <itemizedlist>
 	<listitem><para>Crew operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3) may
 	operate four or five consecutive "early start duties"  where max
 	flight duty is as per <xref linkend="maxfd"/>. Only one of the series may have a report time
@@ -588,7 +588,7 @@
 	"early start duties" where the <xref linkend="maxfd"/> limits are replaced by an 9 hour
 	limit, regardless of sectors; in addition , 24 hours rest must be taken prior to the series
 	and 63 hours rest must me taken post the series.</para></listitem>
-      </orderedlist>
+      </itemizedlist>
       </para>
 
       <para>Any run of consecutive night, early start or late finish duties can be broken by a
