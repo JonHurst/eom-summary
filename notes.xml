@@ -582,13 +582,15 @@
 
       <itemizedlist>
 	<listitem><para>Crew operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3) may
-	operate four or five consecutive "early start duties"  where max
-	flight duty is as per <xref linkend="maxfd"/>. Only one of the series may have a report time
-	between 03:00 and 04:59 and that duty must be 2 sectors or less. In addition, 2 days off
-	must be achieved before any series of 4 early starts, 3 days off must be achieved before any
-	series of 5 early starts and 72 hours must be achieved after either series. The rostering
-	agreement further stipulates that 4 days off must be achieved before any block of earlies in
-	the fixed pattern.</para></listitem>
+	operate four or five consecutive "early start duties" where max flight duty is as per <xref
+	linkend="maxfd"/>. Only one of the series may have a report time between 03:00 and 04:59 and
+	that duty must be 2 sectors or less. In addition, 2 days off must be achieved before any
+	series of 4 early starts, 3 days off must be achieved before any series of 5 early starts
+	and 72 hours must be achieved after either series. The rostering agreement further
+	stipulates that 4 days off must be achieved before any block of earlies in the fixed
+	pattern. Generally, a maximum of 5 consecutive FDPs is allowable under this variation, but
+	exceptionally a sixth may be operated in accordance with the terms in EOM-A
+	7.3.3.8. </para></listitem>
 
 	<listitem><para>Crew not operating under a variation may operate four or five consecutive
 	"early start duties" where the <xref linkend="maxfd"/> limits are replaced by a 9 hour
