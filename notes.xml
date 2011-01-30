@@ -688,6 +688,11 @@
 
       <para>The maximum flight duty must be reduced by the amount that the time between starting the
       standby and reporting exceeds 6 hours.</para>
+
+      <para>A "contactable" is a special case of standby. It's duration must be less than an hour,
+      it must occur between 06:00L and 22:00L and the minimum time between call out and report must
+      be 10 hours. The required rest period after a contactable is reduced to 10 hours, and the time
+      spent on contactable does not count towards cumultive duty limits.</para>
     </sect2>
 
     <sect2>
@@ -717,6 +722,7 @@
       <para>The commander may, at his discretion, reduce these times. The company may not.</para>
 
     </sect2>
+
 
   </sect1>
   <sect1 id="flight-preparation">
