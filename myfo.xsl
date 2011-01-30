@@ -17,7 +17,7 @@
 <xsl:param name="section.autolabel" select="1"/>
 <xsl:param name="section.label.includes.component.label" select="1"/>
 <xsl:param name="section.autolabel.max.depth" select="2"/>
-<xsl:param name="insert.xref.page.number" select="'yes'"/>
+<!-- <xsl:param name="insert.xref.page.number" select="'yes'"/> -->
 <xsl:param name="toc.indent.width" select="'30'"/>
 <xsl:param name="default.table.width" select="'110mm'"/>
 <xsl:param name="default.image.width">110mm</xsl:param>
@@ -27,7 +27,7 @@
 
 <xsl:param name="orderedlist.label.width">2em</xsl:param>
 
-<xsl:attribute-set name="formal.title.properties" 
+<xsl:attribute-set name="formal.title.properties"
                    use-attribute-sets="normal.para.spacing">
   <xsl:attribute name="font-weight">bold</xsl:attribute>
   <xsl:attribute name="font-size">10pt</xsl:attribute>
@@ -86,12 +86,12 @@
   </xsl:attribute>
 </xsl:attribute-set>
 
-<xsl:param name="local.l10n.xml" select="document('')"/> 
-<l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0"> 
-  <l:l10n language="en"> 
-    <l:context name="xref"> 
-      <l:template name="page.citation" text="  [%p] "/> 
-    </l:context>    
+<xsl:param name="local.l10n.xml" select="document('')"/>
+<l:i18n xmlns:l="http://docbook.sourceforge.net/xmlns/l10n/1.0">
+  <l:l10n language="en">
+    <l:context name="xref">
+      <l:template name="page.citation" text="  [%p] "/>
+    </l:context>
   </l:l10n>
 </l:i18n>
 
