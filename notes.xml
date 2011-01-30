@@ -436,6 +436,9 @@
       weeks and 24 days off in 12 consecutive weeks. No more that 7 days can be worked between days
       off, and two consecutive days off must be achieved in any 14 day period.</para>
 
+      <para><xref linkend="consecutive"/> details additional days off restrictions for consecutive
+      duties which overlap the period 01:00L to 06:59L.</para>
+
       <sect3>
 	<title>Ignoring days off restrictions</title>
 
@@ -551,7 +554,7 @@
       </sect3>
     </sect2>
 
-    <sect2>
+    <sect2 id="consecutive">
       <title>Consecutive night, early start and late finish duties</title>
 
       <para>If any part of a duty falls within the period 02:00 to 04:59 local time, then it is a
