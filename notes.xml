@@ -729,12 +729,87 @@
 
 
   </sect1>
-<!--
   <sect1 id="flight-preparation">
     <title>Operating procedures: Flight preparation instructions</title>
     <sect2 id="min-altitudes">
       <title>Minimum flight altitudes</title>
-      <para>[Ezy-A 8.1.1]</para>
+      <para>[EOM-A 8.1.1]</para>
+      <sect3><title>Definitions</title>
+
+      <para>When operating on a defined route segment, national authorities may have published the
+      Minimum Enroute IFR Altitude (<emphasis role="strong">MEA</emphasis>) for the segment. This
+      altitude ensures obstacle clearance and navaid reception. On Jeppesen enroute charts it is
+      shown below the approximate center of the route segment in small red font. National
+      authorities may also publish the Minimum Obstruction Clearance Altitude (<emphasis
+      role="strong">MOCA</emphasis>) for the segment, which only ensures obstacle clearance. This is
+      presented alongside MEA in the same font. A suffix of "T" (e.g. 4200T) is used to distinguish
+      it. Where MOCA is not presented, assume it has the same value as MEA.</para>
+
+      <para>When national authorities have not defined MEA, Jeppesen presents a value known as
+      the Minimum Off-Route Altitude (<emphasis role="strong">MORA</emphasis>). This is in the same
+      font as the MEAs, and is distinguished by an "a" suffix (e.g. 4200a). Jeppesen derives this
+      value by examining charts or databases of known obstacles and terrain. The value should ensure
+      at least 1000ft clearance of all obstacles within 10nm of any point on the route segment. When
+      the obstacles are over 5000ft altitude, 2000ft of clearance is provided. MORA is also
+      presented on the LIDO OFPs.</para>
+
+      <para>When not operating on a defined route segment, Jeppesen presents area obstacle clearance
+      data in the form of a Grid Minimum Off-Route Altitude (<emphasis role="strong">Grid
+      MORA</emphasis>). This is again a Jeppesen derived value. It should provide the same obstacle
+      clearance as MORA within the area enclosed by the latitude and longitude lines of a Jeppesen
+      enroute chart. It is presented in large green or red font, with the font for the thousands of
+      feet being slightly larger than that for the hundreds<footnote><para>Red is used when the
+      value is greater than 14,000ft</para></footnote>.</para>
+
+      <para>Minimum Safe Altitude (<emphasis role="strong">MSA</emphasis>) is the minimum altitude
+      that provides 1000ft of obstacle clearance within 25nm of a specified navigation facility. It
+      is published as a circle on Jeppesen plates. Where the circle is divided into segments, the
+      altitudes are referred to as Minimum Sector Altitudes.</para>
+
+      </sect3>
+
+      <sect3><title>Corrections</title>
+
+      <para>All published altitudes must be corrected for low temperatures. Altitudes below 5000ft
+      can be corrected for temperatures below 0°C using the table presented in EOM-A
+      8.1.1.3.1.<footnote><para>This table is also available on page 8.02 of the
+      QRH.</para></footnote> A graph is presented below this table to correct altitudes above 5000ft
+      for temperatures below ISA.</para>
+
+      <para>When operating within 20nm of terrain with an elevation of greater than 2000ft, a
+      correction must be applied for wind. This is done using the table presented in EOM-A
+      8.1.1.3.2, although a correction of 2500ft will always be conservative.</para>
+
+      <para>When operating in low atmospheric pressure conditions with an altimeter setting of 1013,
+      the aircraft will be ~30ft below the indicated altitude for every millibar that the QNH is
+      below 1013. This can be applied as a positive increment to published altitudes to calculate a
+      minimum safe flight level.</para>
+
+      <para>Note that the MORAs presented on the LIDO OFPs do not have any of these corrections
+      applied.</para>
+      </sect3>
+
+      <sect3><title>Operational requirements</title>
+
+      <para>When operating under IFR<footnote><para>Authorisation from the post holder flight
+      operations is required to fly VFR.</para></footnote>, the minimum enroute altitudes should be
+      the higher of the corrected MOCA or the corrected MORA. EOM-A 8.1.1.2.3.1 states:
+
+      <blockquote><para>"During flight preparation, the en-route minimum altitudes must be
+      established for all the route segments".</para></blockquote>
+
+      The OFPs provide uncorrected MORAs only. Therefore, as part of pre-flight preparation, MOCAs
+      for each route segment should be extracted from the Jeppesen en-route charts and compared to
+      the OFP MORAs, and the higher of these values should then be corrected for temperature and
+      wind to establish en-route minimum altitudes.</para>
+
+      </sect3>
+
+    </sect2>
+  </sect1>
+
+
+<!--
       <para>MORA is defined as obstacle height+1000ft for obstacles up to 5000ft and obstacle height+2000ft for larger
       obstacles. Route MORA refers to obstacles within 10nm of a route centerline and end points and is depicted on
       charts below an airway with a lower case "a". Grid MORA refers to obstacles within the section of a chart outlined
