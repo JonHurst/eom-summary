@@ -737,13 +737,18 @@
       <sect3><title>Definitions</title>
 
       <para>When operating on a defined route segment, national authorities may have published the
-      Minimum Enroute IFR Altitude (<emphasis role="strong">MEA</emphasis>) for the segment. This
-      altitude ensures obstacle clearance and navaid reception. On Jeppesen enroute charts it is
-      shown below the approximate center of the route segment in small red font. National
-      authorities may also publish the Minimum Obstruction Clearance Altitude (<emphasis
-      role="strong">MOCA</emphasis>) for the segment, which only ensures obstacle clearance. This is
-      presented alongside MEA in the same font. A suffix of "T" (e.g. 4200T) is used to distinguish
-      it. Where MOCA is not presented, assume it has the same value as MEA.</para>
+      Minimum Enroute IFR Altitude (<emphasis role="strong">MEA</emphasis>) for that segment. This
+      altitude (or flight level) ensures obstacle clearance and navaid reception. On Jeppesen
+      enroute charts it is shown below the approximate center of the route segment in small red
+      font. Where a segment is wholly contained within controlled airspace, the MEA will provide a
+      buffer of at least 500ft from uncontrolled airspace {TODO: This information comes from an FAA
+      handbook and comparison of Jepp enroute charts and UK AIP airway specification. Confirm that
+      it is correct}. Where applicable, national authorities may also publish a lower segment safety
+      altitude which provides obstacle clearance only. This is called the Minimum Obstruction
+      Clearance Altitude (<emphasis role="strong">MOCA</emphasis>). On Jeppesen charts, MOCA is
+      presented adjacent to, and in the same font as, MEA; a suffix of "T" (e.g. 4200T) is used to
+      distinguish it. Where MOCA is not presented, it may be assumed that it has the same value as
+      MEA.</para>
 
       <para>When national authorities have not defined MEA, Jeppesen presents a value known as
       the Minimum Off-Route Altitude (<emphasis role="strong">MORA</emphasis>). This is in the same
@@ -757,33 +762,38 @@
       data in the form of a Grid Minimum Off-Route Altitude (<emphasis role="strong">Grid
       MORA</emphasis>). This is again a Jeppesen derived value. It should provide the same obstacle
       clearance as MORA within the area enclosed by the latitude and longitude lines of a Jeppesen
-      enroute chart. It is presented in large green or red font, with the font for the thousands of
-      feet being slightly larger than that for the hundreds<footnote><para>Red is used when the
-      value is greater than 14,000ft</para></footnote>.</para>
+      enroute chart. It is presented in large green or red font near the centre of the applicable
+      area<footnote><para>Red is used when the value is greater than
+      14,000ft</para></footnote>.</para>
 
       <para>Minimum Safe Altitude (<emphasis role="strong">MSA</emphasis>) is the minimum altitude
-      that provides 1000ft of obstacle clearance within 25nm of a specified navigation facility. It
-      is published as a circle on Jeppesen plates. Where the circle is divided into segments, the
-      altitudes are referred to as Minimum Sector Altitudes.</para>
+      that provides 1000ft of obstacle clearance within 25nm (unless otherwise specified) of a
+      specified navigation facility. It is published as a circle on Jeppesen plates. Where the
+      circle is divided into segments, the altitudes are referred to as Minimum Sector Altitudes. It
+      is for emergency use only, and does not necessarily guarantee navaid reception.</para>
 
+      <para>Minimum Vectoring Altitude (<emphasis role="strong">MVA</emphasis>) is the lowest
+      altitude at which an IFR aircraft will be vectored by a radar controller (excepting SRAs
+      etc.); it may only be utilized upon the controller's determination that an adequate radar
+      return is being received.</para>
       </sect3>
 
       <sect3><title>Corrections</title>
 
-      <para>All published altitudes must be corrected for low temperatures. Altitudes below 5000ft
-      can be corrected for temperatures below 0°C using the table presented in EOM-A
-      8.1.1.3.1.<footnote><para>This table is also available on page 8.02 of the
-      QRH.</para></footnote> A graph is presented below this table to correct altitudes above 5000ft
-      for temperatures below ISA.</para>
+      <para>All published altitudes must be corrected for low temperatures. Altitudes within 5000ft
+      of the elevation of the source of a QNH measurment can be corrected for temperatures below 0°C
+      using the table presented in EOM-A 8.1.1.3.1.<footnote><para>This table is also available on
+      page 8.02 of the QRH.</para></footnote> A graph is presented below this table to correct
+      higher altitudes for temperatures below ISA.</para>
 
-      <para>When operating within 20nm of terrain with an elevation of greater than 2000ft, a
+      <para>When operating within 20nm of terrain that has an elevation greater than 2000ft, a
       correction must be applied for wind. This is done using the table presented in EOM-A
       8.1.1.3.2, although a correction of 2500ft will always be conservative.</para>
 
       <para>When operating in low atmospheric pressure conditions with an altimeter setting of 1013,
       the aircraft will be ~30ft below the indicated altitude for every millibar that the QNH is
-      below 1013. This can be applied as a positive increment to published altitudes to calculate a
-      minimum safe flight level.</para>
+      below 1013. This can be applied as a positive increment to a published minimum altitude to
+      calculate a minimum flight level.</para>
 
       <para>Note that the MORAs presented on the LIDO OFPs do not have any of these corrections
       applied.</para>
@@ -793,7 +803,7 @@
 
       <para>When operating under IFR<footnote><para>Authorisation from the post holder flight
       operations is required to fly VFR.</para></footnote>, the minimum enroute altitudes should be
-      the higher of the corrected MOCA or the corrected MORA. EOM-A 8.1.1.2.3.1 states:
+      the higher of the corrected MOCA and the corrected MORA. EOM-A 8.1.1.2.3.1 states:
 
       <blockquote><para>"During flight preparation, the en-route minimum altitudes must be
       established for all the route segments".</para></blockquote>
@@ -801,7 +811,26 @@
       The OFPs provide uncorrected MORAs only. Therefore, as part of pre-flight preparation, MOCAs
       for each route segment should be extracted from the Jeppesen en-route charts and compared to
       the OFP MORAs, and the higher of these values should then be corrected for temperature and
-      wind to establish en-route minimum altitudes.</para>
+      wind to establish en-route minimum altitudes {TODO: this is clearly impractical - check
+      whether my interpretation is incorrect}.</para>
+
+      <para>Engine failure or loss of pressurisation may lead to a requirement for en-route
+      descent. Currently, the highest obstacle affecting easyJet routes is Mont Blanc at
+      15,771ft. This is at least 2000ft below the A319 green dot one engine ceiling assuming MTOW
+      and ISA+20. Thus, there are currently no special drift down diversion procedures in place. In
+      the case of emergency descent following loss of pressurisation, all obstacles must be cleared
+      by at least 2000ft. It is worth noting that the time of useful consciousness without
+      supplementary oxygen is 30 minutes at 18,000ft.</para>
+
+      <para>Obstacle clearance for take-off and initial climb phase is provided by a combination of
+      LPC performance calculation and SID and Engine Out SID design. Note that easyJet SOPs for loss
+      of thrust after divergence point are contrary to the specific Airbus recommendations in FCOM
+      4.4.30.4000; this can lead to some unwelcome grey areas in obstacle clearance.</para>
+
+      <para>For the approach phase, unless in visual contact with the ground with flight visibility sufficient
+      to identify all relevant obstacles, flight below MSA whould only be conducted on promulgated
+      routes or instrument approach procedure or when being vectored at levels not less than
+      MVA.</para>
 
       </sect3>
 
