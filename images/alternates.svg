@@ -22,6 +22,32 @@
    version="1.0">
   <defs
      id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;">
+      <path
+         id="path3746"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;marker-start:none;"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;">
+      <path
+         id="path3758"
+         style="font-size:12.0;fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
        inkscape:vp_x="0 : 306.5 : 1"
@@ -94,14 +120,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="363.07414"
-     inkscape:cy="481.70619"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="389.6207"
+     inkscape:cy="143.61869"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
-     inkscape:window-width="1014"
-     inkscape:window-height="735"
-     inkscape:window-x="8"
+     inkscape:window-width="1280"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
      inkscape:window-y="1"
      fill="#ffffff"
      stroke="#ff0000"
@@ -112,7 +138,7 @@
      inkscape:grid-points="false"
      gridtolerance="1.0000000mm"
      inkscape:grid-bbox="false"
-     inkscape:window-maximized="0">
+     inkscape:window-maximized="1">
     <inkscape:grid
        id="GridFromPre046Settings"
        type="xygrid"
@@ -331,7 +357,7 @@
          id="text4755"
          y="91.122337"
          x="124.30521"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
          xml:space="preserve"><tspan
            style="font-weight:bold"
            y="91.122337"
@@ -349,7 +375,7 @@
            y="127.12234"
            x="124.30521"
            id="tspan4789"
-           sodipodi:role="line"> for return?</tspan></text>
+           sodipodi:role="line"> for S/E return?</tspan></text>
     </g>
     <g
        id="g5087"
@@ -527,22 +553,22 @@
            x="294.04895"
            id="tspan4933"
            sodipodi:role="line">  + Minima @ ETA+/-1hr:</tspan><tspan
-           y="497.24271"
+           y="497.12106"
            x="294.04895"
            id="tspan4935"
-           sodipodi:role="line">      Cat II/III ⇒ Cat I</tspan><tspan
-           y="509.58414"
+           sodipodi:role="line">      Cat II/III      Cat I</tspan><tspan
+           y="509.12106"
            x="294.04895"
            id="tspan4937"
-           sodipodi:role="line">      Cat I ⇒ Non-precision</tspan><tspan
-           y="521.92554"
+           sodipodi:role="line">      Cat I      Non-precision</tspan><tspan
+           y="521.12109"
            x="294.04895"
            id="tspan4939"
-           sodipodi:role="line">      Non-precision ⇒ add 200ft/1000m</tspan><tspan
-           y="534.14526"
+           sodipodi:role="line">      Non-precision      add 200ft/1000m</tspan><tspan
+           y="533.12103"
            x="294.04895"
            id="tspan4941"
-           sodipodi:role="line">      Circling ⇒ circling minima</tspan></text>
+           sodipodi:role="line">      Circling      circling minima</tspan></text>
     </g>
     <g
        id="g5151"
@@ -560,7 +586,9 @@
          y="566.35901"
          x="294.04895"
          style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
-         xml:space="preserve"><tspan
+         xml:space="preserve"
+         inkscape:export-xdpi="109.98"
+         inkscape:export-ydpi="109.98"><tspan
            y="566.35901"
            x="294.04895"
            id="tspan4957"
@@ -569,22 +597,22 @@
            x="294.04895"
            id="tspan4959"
            sodipodi:role="line">  + Minima @ ETA+/-1hr:</tspan><tspan
-           y="590.48065"
+           y="590.35901"
            x="294.04895"
            id="tspan4961"
-           sodipodi:role="line">      Cat II/III ⇒ Cat I</tspan><tspan
-           y="602.82208"
+           sodipodi:role="line">      Cat II/III      Cat I</tspan><tspan
+           y="602.35901"
            x="294.04895"
            id="tspan4963"
-           sodipodi:role="line">      Cat I ⇒ Non-precision</tspan><tspan
-           y="615.16345"
+           sodipodi:role="line">      Cat I      Non-precision</tspan><tspan
+           y="614.35901"
            x="294.04895"
            id="tspan4965"
-           sodipodi:role="line">      Non-precision ⇒ add 200ft/1000m</tspan><tspan
-           y="627.38324"
+           sodipodi:role="line">      Non-precision      add 200ft/1000m</tspan><tspan
+           y="626.35901"
            x="294.04895"
            id="tspan4967"
-           sodipodi:role="line">      Circling ⇒ circling minima</tspan></text>
+           sodipodi:role="line">      Circling      circling minima</tspan></text>
     </g>
     <path
        style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
@@ -620,5 +648,37 @@
        height="613"
        x="19"
        y="48.094482" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 348.28205,511.59448 10.4359,0"
+       id="path4948" />
+    <path
+       id="use5330"
+       d="m 333.28205,522.09448 10.4359,0"
+       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+    <path
+       id="use5332"
+       d="m 377.28205,534.09448 10.4359,0"
+       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+    <path
+       id="use5334"
+       d="m 346.28205,544.59448 10.4359,0"
+       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+    <path
+       id="use5336"
+       d="m 348.28205,602.59448 10.4359,0"
+       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+    <path
+       id="use5338"
+       d="m 332.28205,613.59448 10.4359,0"
+       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+    <path
+       id="use5340"
+       d="m 376.78205,625.59448 10.4359,0"
+       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
+    <path
+       id="use5342"
+       d="m 346.78205,636.09448 10.4359,0"
+       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
   </g>
 </svg>
