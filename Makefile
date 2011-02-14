@@ -1,4 +1,4 @@
-all: xhtml 
+all: xhtml
 
 clean:
 	rm -r  html notes.pdf notes.fo notes.ps
@@ -6,12 +6,12 @@ clean:
 xhtml: html
 
 html : notes.xml myxhtml.xsl
-	xsltproc myxhtml.xsl notes.xml 
+	xsltproc myxhtml.xsl notes.xml
 	ln -fs ../style.css html/style.css
 
 pdf: notes.pdf
 
-notes.pdf: notes.fo
+notes.pdf: notes.fo images/alternates.svg
 	fop -c fop.xconf  -fo notes.fo -pdf notes.pdf
 
 notes.fo: notes.xml myfo.xsl
