@@ -839,62 +839,6 @@
 
 
 <!--
-      <para>MORA is defined as obstacle height+1000ft for obstacles up to 5000ft and obstacle height+2000ft for larger
-      obstacles. Route MORA refers to obstacles within 10nm of a route centerline and end points and is depicted on
-      charts below an airway with a lower case "a". Grid MORA refers to obstacles within the section of a chart outlined
-      by the drawn latitude and longitude lines. Grid MORA should be used for planning.</para>
-      <para>When operating within 20nm of terrain with a maximum elevation &gt;2000ft, the MORA should be increased to
-      take account of wind speed using the following table:
-      <table>
-        <title>MORA Wind Speed Correction</title>
-        <tgroup cols="5">
-          <colspec colnum="1" colwidth="2*"/>
-          <colspec colnum="2" align="center" colname="windsst" colwidth="*"/>
-          <colspec colnum="3" align="center" colwidth="*"/>
-          <colspec colnum="4" align="center" colwidth="*"/>
-          <colspec colnum="5" align="center" colname="windsend" colwidth="*"/>
-          <thead>
-            <row><entry>Terrain</entry><entry namest="windsst" nameend="windsend">Wind speed in Knots</entry></row>
-            <row><entry>Elevation</entry><entry>0 - 30</entry><entry>31 - 50</entry><entry>51 -70</entry><entry>70+</entry></row>
-          </thead>
-          <tbody>
-            <row><entry>2,000-8,000ft</entry><entry>500ft</entry><entry>1,000ft</entry><entry>1,500ft</entry><entry>2,000ft</entry></row>
-            <row><entry>More than 8,000ft</entry><entry>1,000ft</entry><entry>1,500ft</entry><entry>2,000ft</entry><entry>2,500ft</entry></row>
-          </tbody>
-        </tgroup>
-      </table>
-      </para>
-      <para>When surface ambient temperatures are well below ISA, the following corrections should be applied to the
-      wind corrected MORA:
-      <table>
-        <title>MORA Temperature Correction</title>
-        <tgroup cols="2">
-          <colspec colnum="1" align="center" colwidth="*"/>
-          <colspec colnum="2" align="center" colwidth="*"/>
-          <thead>
-            <row><entry>Surface Temperature</entry><entry> Addition to MORA</entry></row>
-          </thead>
-          <tbody>
-            <row><entry>ISA-16°C to ISA-30°C</entry><entry> 10%</entry></row>
-            <row><entry>ISA-31°C to ISA-50°C</entry><entry> 20%</entry></row>
-            <row><entry>ISA-51°C or below</entry><entry> 25%</entry></row>
-          </tbody>
-        </tgroup>
-      </table>
-      </para>
-      <para>An aircraft must not descend below the appropriate safety altitude unless it is following an approved
-      Instrument Approach Procedure, is under positive radar control or is in continuous visual contact with all
-      obstacles. Descent below safety altitude using an ILS as sole reference for vertical guidance should not be
-      commenced until established on the localiser and within 10nm of touchdown.[Ezy-A 8.4.1]</para>
-    </sect2>
-    <sect2>
-      <title>One engine inoperative en-route net flight path</title>
-      <para> [Ezy-A 8.1.1]</para>
-      <para>In the event of the loss of an engine at the most critical point along a route, and taking into account the
-      effect of all relevant ice protection systems, the gradient of the net flight path must be positive at least
-      1,000ft above all obstacles within 5nm of the intended track. Furthermore, it must be possible to reach an airport
-      where a landing can be made whilst clearing all obstacles within 5nm of the intended track by 2,000ft.</para>
-    </sect2>
     <sect2 id="airports">
       <title>Usability of airports</title>
       <para>[Ezy-A 8.1.2]</para>
