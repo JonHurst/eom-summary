@@ -835,34 +835,35 @@
       </sect3>
 
     </sect2>
-  </sect1>
-
-
-<!--
     <sect2 id="airports">
       <title>Usability of airports</title>
-      <para>[Ezy-A 8.1.2]</para>
+      <para>[EOM-A 8.1.2]</para>
+
       <para>easyJet is responsible for ensuring that all airports selected as destinations or alternates are adequate in
       all respects, including runway dimensions, obstacles, ATS, lighting, approach procedures, weather reporting and
       emergency services.</para>
-      <para>easyJet will categorise aerodromes from A to C in order of increasing difficulty. Operation to a category B
-      aerodrome requires self-briefing from Ezy-C. Operation to a category C aerodrome requires a briefing and then a
-      visit in an operating capactity or aerodrome specific training in an approved flight simulator.</para>
-      <para>Fire and Rescue category 6 is the normal minimum level. Category 5 may be accepted if the flight has been
-      accepted and the flight crew are informed. Also, if a reduction to Category 5 is reported at the destination
-      whilst airborne, it is acceptable to continue. In an emergency a landing may be made at an aerodrome with
-      inadequate facilities where doing so is the least risk option.</para>
+
+      <para>For A319/A320/B737, fire and rescue category 6 is the normal minimum acceptable level of
+      cover. Temporary reductions to category 4 at departure and destination and to category 5 at
+      alternates are acceptable on a temporary basis; no crew action is required. A321 categories
+      are 1 higher than A319.</para>
+
+      <para>easyJet will categorise aerodromes from A to C in order of increasing difficulty. The
+      category of an aerodrome is promulgated in the easyJet Aerodromes Briefing
+      Supplement. Operation to a category B aerodrome requires self-briefing from EOM-C. Signing the
+      OFP confirms that this has been done. Operation to a category C aerodrome requires a briefing
+      and then either a visit in an operating capacity or aerodrome specific training in an approved
+      flight simulator.</para>
+
+
     </sect2>
     <sect2 id="alternates">
       <?hard-pagebreak?>
       <title>Selection of alternates</title>
-      <para>[Ezy-A 8.1.2]</para>
+      <para>[EOM-A 8.1.2]</para>
       <sect3>
       <title>Take-off and destination alternates</title>
         <mediaobject>
-          <imageobject role="dblatex">
-            <imagedata fileref="images/alternates.pdf"/>
-          </imageobject>
           <imageobject role="html">
             <imagedata format="PNG" fileref="../images/alternates.png"/>
           </imageobject>
@@ -872,18 +873,47 @@
         </mediaobject>
       <note>
         <orderedlist>
-          <listitem><para>A table for interpretation of TAFs with regards these requirements can be found in [Ezy-A
-        8.1.2]</para></listitem>
-        <listitem><para>Crossing runways may be considered independent if more than 6000ft is available on each before the
-        intersection.</para></listitem>
+	  <listitem><para>Dispatch with no destination alternate should only be considered when
+	  payload or performance is limiting.</para></listitem>
+	  <listitem><para>Two destination alternates are required when landing performance cannot be
+	  assured due to wind or runway state or when no meteorological information is available for
+	  the destination.</para></listitem>
+          <listitem><para>A table for interpretation of TAFs with regards these requirements can be
+          found in [EOM-A 8.1.6.1]</para></listitem>
+	  <listitem><para>Runways may be considered independent if each runway has a seperate
+	  approach procedure based on a seperate approach aid and no conceivable blockage of one
+	  runway would render the other unusable. If a destination is isolated these restrictions do
+	  not apply.</para></listitem>
         </orderedlist>
       </note>
       </sect3>
       <sect3>
         <title>Cruise alternates</title>
-        <para>Cruise alternates must be within 365nm for the B737.</para>
+        <para>In the case of an engine failure at any point along the planned route an adequate
+        aerodrome must be available within 60 minutes single engine flying time. The equivalent
+	distances are:
+
+	<table>
+	  <title>Cruise alternate distances</title>
+	  <tgroup cols="2">
+	    <colspec colwidth="*" align="center"/>
+	    <colspec colwidth="*" align="center"/>
+	    <tbody>
+	      <row><entry>A319</entry><entry>380nm</entry></row>
+	      <row><entry>A320</entry><entry>400nm</entry></row>
+	      <row><entry>A321</entry><entry>385nm</entry></row>
+	    </tbody>
+	  </tgroup>
+	</table>
+
+	</para>
       </sect3>
     </sect2>
+
+  </sect1>
+
+
+<!--
     <sect2 id="minima">
       <title>Aerodrome operating minima</title>
       <para>[Ezy-A 8.1.2 &amp; Ezy-A 8.1.5]</para>

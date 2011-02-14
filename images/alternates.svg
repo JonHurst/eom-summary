@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
+
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://web.resource.org/cc/"
+   xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
@@ -12,16 +13,22 @@
    height="613"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.45.1"
-   sodipodi:docbase="/home/jon/docs/easyjet/command-course/images"
+   inkscape:version="0.47 r22583"
    sodipodi:docname="alternates.svg"
-   inkscape:export-filename="/home/jon/projects/command-course/images/screen/alternates.png"
-   inkscape:export-xdpi="87.690002"
-   inkscape:export-ydpi="87.690002"
+   inkscape:export-filename="/home/jon/docs/easyjet/eom-summary/images/alternates.png"
+   inkscape:export-xdpi="109.98"
+   inkscape:export-ydpi="109.98"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
    version="1.0">
   <defs
      id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 306.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="491 : 306.5 : 1"
+       inkscape:persp3d-origin="245.5 : 204.33333 : 1"
+       id="perspective3076" />
     <marker
        inkscape:stockid="Arrow2Lend"
        orient="auto"
@@ -87,15 +94,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="298.26568"
-     inkscape:cy="198.31988"
+     inkscape:zoom="2"
+     inkscape:cx="363.07414"
+     inkscape:cy="481.70619"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:window-width="1014"
-     inkscape:window-height="745"
-     inkscape:window-x="1299"
-     inkscape:window-y="38"
+     inkscape:window-height="735"
+     inkscape:window-x="8"
+     inkscape:window-y="1"
      fill="#ffffff"
      stroke="#ff0000"
      showguides="false"
@@ -104,14 +111,21 @@
      showgrid="false"
      inkscape:grid-points="false"
      gridtolerance="1.0000000mm"
-     gridempspacing="0"
-     gridspacingy="1.0000000mm"
-     gridspacingx="1.0000000mm"
-     gridoriginy="0.0000000mm"
-     gridoriginx="0.0000000mm"
-     gridempcolor="#ff3f92"
-     gridempopacity="0.37647059"
-     inkscape:grid-bbox="false" />
+     inkscape:grid-bbox="false"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       id="GridFromPre046Settings"
+       type="xygrid"
+       originx="0px"
+       originy="0.0000000mm"
+       spacingx="1.0000000mm"
+       spacingy="1.0000000mm"
+       color="#0000ff"
+       empcolor="#ff3f92"
+       opacity="0.2"
+       empopacity="0.37647059"
+       empspacing="0" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -122,6 +136,7 @@
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:title></dc:title>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
@@ -297,7 +312,7 @@
        transform="matrix(0.9,0,0,0.9,26.3416,35.33768)">
       <path
          transform="matrix(1.514368,0,0,1.514368,-95.66913,-410.2991)"
-         d="M 146.27559,391.76379 L 93.669268,341.15747 L 144.27559,288.55115 L 196.88191,339.15747 L 146.27559,391.76379 z "
+         d="m 146.27559,391.76379 -52.606322,-50.60632 50.606322,-52.60632 52.60632,50.60632 -50.60632,52.60632 z"
          inkscape:randomized="0"
          inkscape:rounded="0"
          inkscape:flatsided="true"
@@ -341,7 +356,7 @@
        transform="matrix(0.9,0,0,0.9,26.3416,31.308)">
       <path
          transform="matrix(1.085437,0,0,1.085437,-292.0176,-112.611)"
-         d="M 381.67719,500.67422 L 285.93994,402.93698 L 383.67718,307.19974 L 479.41443,404.93698 L 381.67719,500.67422 z "
+         d="m 381.67719,500.67422 -95.73725,-97.73724 97.73724,-95.73724 95.73725,97.73724 -97.73724,95.73724 z"
          inkscape:randomized="0"
          inkscape:rounded="0"
          inkscape:flatsided="true"
@@ -398,11 +413,13 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:10.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+       style="font-size:10.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
        x="310.06934"
        y="120.82076"
        id="text4763"
-       sodipodi:linespacing="100%"><tspan
+       sodipodi:linespacing="100%"
+       inkscape:export-xdpi="87.690002"
+       inkscape:export-ydpi="87.690002"><tspan
          sodipodi:role="line"
          id="tspan4921"
          x="310.06934"
@@ -410,7 +427,7 @@
          sodipodi:role="line"
          id="tspan4923"
          x="310.06934"
-         y="131.62076">  + Within 315nm of origin</tspan><tspan
+         y="131.62076">  + Within 320nm of origin</tspan><tspan
          sodipodi:role="line"
          id="tspan4925"
          x="310.06934"
@@ -446,7 +463,7 @@
        transform="matrix(0.9,0,0,0.9,26.3416,35.33768)">
       <path
          transform="matrix(1.246029,0,0,1.246029,-312.7799,-159.685)"
-         d="M 352.80287,622.78581 L 287.84414,561.85798 L 348.77196,496.89925 L 413.73069,557.82708 L 352.80287,622.78581 z "
+         d="m 352.80287,622.78581 -64.95873,-60.92783 60.92782,-64.95873 64.95873,60.92783 -60.92782,64.95873 z"
          inkscape:randomized="0"
          inkscape:rounded="0"
          inkscape:flatsided="true"
@@ -500,7 +517,7 @@
          id="text4775"
          y="473.12106"
          x="294.04895"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
          xml:space="preserve"><tspan
            y="473.12106"
            x="294.04895"
@@ -510,22 +527,22 @@
            x="294.04895"
            id="tspan4933"
            sodipodi:role="line">  + Minima @ ETA+/-1hr:</tspan><tspan
-           y="497.12106"
+           y="497.24271"
            x="294.04895"
            id="tspan4935"
-           sodipodi:role="line">      Cat II/III -&gt; Cat I</tspan><tspan
-           y="509.12106"
+           sodipodi:role="line">      Cat II/III ⇒ Cat I</tspan><tspan
+           y="509.58414"
            x="294.04895"
            id="tspan4937"
-           sodipodi:role="line">      Cat I -&gt; Non-precision</tspan><tspan
-           y="521.12106"
+           sodipodi:role="line">      Cat I ⇒ Non-precision</tspan><tspan
+           y="521.92554"
            x="294.04895"
            id="tspan4939"
-           sodipodi:role="line">      Non-precision -&gt; add 200ft/1000m</tspan><tspan
-           y="533.12106"
+           sodipodi:role="line">      Non-precision ⇒ add 200ft/1000m</tspan><tspan
+           y="534.14526"
            x="294.04895"
            id="tspan4941"
-           sodipodi:role="line">      Circling -&gt; circling minima</tspan></text>
+           sodipodi:role="line">      Circling ⇒ circling minima</tspan></text>
     </g>
     <g
        id="g5151"
@@ -542,7 +559,7 @@
          id="text4943"
          y="566.35901"
          x="294.04895"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
          xml:space="preserve"><tspan
            y="566.35901"
            x="294.04895"
@@ -552,22 +569,22 @@
            x="294.04895"
            id="tspan4959"
            sodipodi:role="line">  + Minima @ ETA+/-1hr:</tspan><tspan
-           y="590.35901"
+           y="590.48065"
            x="294.04895"
            id="tspan4961"
-           sodipodi:role="line">      Cat II/III -&gt; Cat I</tspan><tspan
-           y="602.35901"
+           sodipodi:role="line">      Cat II/III ⇒ Cat I</tspan><tspan
+           y="602.82208"
            x="294.04895"
            id="tspan4963"
-           sodipodi:role="line">      Cat I -&gt; Non-precision</tspan><tspan
-           y="614.35901"
+           sodipodi:role="line">      Cat I ⇒ Non-precision</tspan><tspan
+           y="615.16345"
            x="294.04895"
            id="tspan4965"
-           sodipodi:role="line">      Non-precision -&gt; add 200ft/1000m</tspan><tspan
-           y="626.35901"
+           sodipodi:role="line">      Non-precision ⇒ add 200ft/1000m</tspan><tspan
+           y="627.38324"
            x="294.04895"
            id="tspan4967"
-           sodipodi:role="line">      Circling -&gt; circling minima</tspan></text>
+           sodipodi:role="line">      Circling ⇒ circling minima</tspan></text>
     </g>
     <path
        style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
