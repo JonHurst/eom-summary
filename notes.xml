@@ -856,6 +856,73 @@
       flight simulator.</para>
     </sect2>
 
+    <sect2>
+      <title>Aerodrome Operating Minima</title>
+
+      <para>All easyJet aircraft, with the exception of the A321, are Category C for the purpose of
+      calculating operating minima. The A321s with MLW of 77,800kg are Category D.</para>
+
+      <para>Aerodrome specific take-off minima are presented on Jeppesen chart 10-9. The required
+      RVR must be achieved for all relevant reporting points<footnote><para>If operating to RVR
+      minima <symbol role="symbolfont">&#x2265;</symbol> 150m, pilot assessment of the RVR for the
+      initial part of the take-off roll is acceptable.</para></footnote>. When operating with RVR
+      &lt; 150m, LVPs must be in force, crew must be LVO qualified and a 90m visual segment
+      (equivalent to 6 centre line lights add their standard spacing of 15m) must be available.</para>
+
+      <para>Straight in visual approaches require RVR <symbol role="symbolfont">&#x2265;</symbol>
+      800m. A visual circuit requires met visibility <symbol role="symbolfont">&#x2265;</symbol> 5km
+      and cloud base <symbol role="symbolfont">&#x2265;</symbol> 2,500ft. Visual approaches at night
+      are authorised unless prohibited in the Aerodrome Briefings Supplement. Visual circuits must
+      be flown at a height greater than 1500ft that ensures at least 500ft separation from
+      obstacles.</para>
+
+      <para>Minima for instrument approaches (including circling approaches) are presented on the
+      relevant Jeppesen approach plates (11- to 18-). easyJet is authorised to use these minima
+      whenever the minima block is titled "JAR-OPS", "JAA MIMIMUMS" or "STANDARD". Where none of
+      these titles appear, the authorised minima will be presented seperately on plate 10-9X. Minima
+      for Cat II and III operations are presented in their own section at the start of the Jeppesen
+      Text manual. Only RVRs applicable to segments of the runway where speed is expected to be
+      above 60kt need to be considered for landing.</para>
+
+      <para>When RVR is not reported, and provided that required RVR <symbol
+      role="symbolfont">&#x2265;</symbol> 800m, the following table may be used to convert Met
+      Visibility to RVR for the purposes of complying with landing minima:
+
+      <table>
+        <title>Met Visibility to RVR conversion for Cat I and non-precision landing minima</title>
+        <tgroup cols="3">
+          <colspec colwidth="3*"/>
+          <colspec colwidth="*" colnum="2" colname="day" align="center"/>
+          <colspec colwidth="*" colnum="3" colname="night" align="center"/>
+          <thead>
+            <row><entry>Lighting Elements in Operation</entry><entry namest="day" nameend="night">RVR = Met Visibility X</entry></row>
+            <row><entry></entry><entry>Day</entry><entry>Night</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>HI Approach and Runway Lighting</entry><entry>1.5</entry><entry>2.0</entry></row>
+            <row><entry>Any Type of Lighting Installation Other than Above</entry><entry>1.0</entry><entry>1.5</entry></row>
+            <row><entry>No Lighting</entry><entry>1.0</entry><entry>N/A</entry></row>
+          </tbody>
+        </tgroup>
+      </table></para>
+
+      <para>Where minima for non-precision approaches are presented in terms of a minimum descent
+      altitude, 50ft should be added to create an effective decision altitude.</para>
+
+      <para>Circling minima should be used unmodified. It is permissable to descend prior to the
+      final turn. However, descent below circling minima should only occur once the landing
+      threshold has been identified and all surrounding terrain is in sight.</para>
+
+      <para>If standby ILS transmitters, markers, meteorological measuring equipment or lighting
+      systems are downgraded, approach minima may need to be modified. A table is presented at EOM-A
+      8.1.3.10 for this purpose.</para>
+
+      <para>MDA and DA must always be above OCA and must therefore be adjusted if OCA is increased
+      by NOTAM.</para>
+
+      <para>[EOM-A 8.1.3, EOM-A 8.1.5, EOM-A 8.4.2.1]</para>
+    </sect2>
+
     <sect2 id="alternates">
       <title>Selection of alternates</title>
       <sect3>
@@ -906,65 +973,10 @@
 	</para>
       </sect3>
     </sect2>
-
   </sect1>
 
 
 <!--
-    <sect2 id="minima">
-      <title>Aerodrome operating minima</title>
-      <para>[Ezy-A 8.1.2 &amp; Ezy-A 8.1.5]</para>
-      <para>All easyJet aircraft are Category C for the purpose of calculating operating minima.</para>
-      <para>Take-off minima are related to available lighting and are detailed in a table in [Ezy-A
-      8.4.2]. In general, if centre-line lighting, edge lighting and multiple RVRs are available, an RVR of 150m is required for
-      take-off. With qualified crew this can be reduced to 125m with suitable high intensity lighting, LVPs in force and a 90m visual
-      segment (6 centre line lights with standard 15m spacing) available. The Captain must be PF for any take-off where
-      RVRs are below 400m.</para>
-      <para>Landing minima comprise an RVR requirement and a Decision Altitude (DA) for precision approaches or a
-      Minimum Descent Altitude (MDA) for non-precision and circling approaches. The RVR requirement is a function of
-      available lighting and DA or MDA. The DA or MDA is the greatest of Obstacle Clearance Altitude (OCA), system
-      minima (see tables in [Ezy-A 8.1.3]), state minima and Aircraft Flight Manual
-      limitations. Category II/III landing minima are provided at the front of the Jeppesen Text section. All other
-      landing minima are on the plates for the specific airport.</para>
-      <para>An approach must not be continued beyond the outer marker or equivalent position (determined by DME, a
-      suitable located NDB or VOR or a radar fix) unless the reported RVR is greater than minima. Where it is not
-      possible to determine an equivalent position, 1000ft AAL may be used.</para>
-      <para>If RVRs are not available, the following table can be used to convert Met Vis to RVR for Cat I and
-      non-precision landing minima only:
-      <table>
-        <title>Met Visibility to RVR conversion for Cat I and non-precision landing minima</title>
-        <tgroup cols="3">
-          <colspec colwidth="3*"/>
-          <colspec colwidth="*" colnum="2" colname="day" align="center"/>
-          <colspec colwidth="*" colnum="3" colname="night" align="center"/>
-          <thead>
-            <row><entry>Lighting Elements in Operation</entry><entry namest="day" nameend="night">RVR = Met Visibility X</entry></row>
-            <row><entry></entry><entry>Day</entry><entry>Night</entry></row>
-          </thead>
-          <tbody>
-            <row><entry>HI Approach and Runway Lighting</entry><entry>1.5</entry><entry>2.0</entry></row>
-            <row><entry>Any Type of Lighting Installation Other than Above</entry><entry>1.0</entry><entry>1.5</entry></row>
-            <row><entry>No Lighting</entry><entry>1.0</entry><entry>N/A</entry></row>
-          </tbody>
-        </tgroup>
-      </table>
-      </para>
-      <para>For any visual approach, the minimum RVR is 800m.</para>
-      <para> When circling is required, an absolute minimum of 600ft MDA and 2400m met vis is required. This may be
-      increased by other factors, and specific minima are included on the relevant Jeppensen plate. If vertical guidance
-      is not available for a circling approach, the following limitations also apply:
-      <simplelist>
-        <member>Day only</member>
-        <member>Experienced Commanders only</member>
-        <member>Captain PF if met vis&lt;5km</member>
-      </simplelist>
-      </para>
-      <para>A left-hand circling approach will normally be flown by the left seat pilot. A right-hand circling approach
-      should be flown by the right seat pilot unless other factors override this. In marginal weather conditions, only
-      one circling approach should be flown unless a significant improvement occurs. In general, a visual approach or a
-      tailwind instrument approach is preferable to a circling approach.</para>
-      <para>Night operations require that at least runway edge. threshold and runway end lights must be on.</para>
-    </sect2>
 <sect2 id="fuel">
   <title>Fuel</title>
   <para>[Ezy-A 8.1.7]</para>
