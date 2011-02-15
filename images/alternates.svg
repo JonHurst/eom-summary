@@ -120,15 +120,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="389.6207"
-     inkscape:cy="143.61869"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="377.47322"
+     inkscape:cy="273.51476"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:window-width="1280"
-     inkscape:window-height="996"
+     inkscape:window-height="965"
      inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-y="32"
      fill="#ffffff"
      stroke="#ff0000"
      showguides="false"
@@ -150,7 +150,11 @@
        empcolor="#ff3f92"
        opacity="0.2"
        empopacity="0.37647059"
-       empspacing="0" />
+       empspacing="5"
+       units="mm"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -187,31 +191,32 @@
      id="layer1"
      transform="translate(-19,-48.094482)">
     <path
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       style="fill:none;fill-opacity:0.75000000000000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.80000019px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%"
        d="M 139.55288,200.09839 L 139.55288,219.52715"
        id="path2387"
        sodipodi:nodetypes="cc" />
     <path
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       style="fill:none;fill-opacity:0.75000000000000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.80000019px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%"
        d="M 232.85855,325.76656 L 268.63712,325.76656"
        id="path2571"
        sodipodi:nodetypes="cc" />
     <g
        id="g5122"
-       transform="matrix(0.9,0,0,0.9,15.0916,50.18768)">
+       transform="matrix(0.9,0,0,0.9,15.0916,50.18768)"
+       style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%">
       <rect
          y="298.11215"
          x="247.43869"
          height="14.173228"
          width="24.80315"
          id="rect2545"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%" />
       <text
          sodipodi:linespacing="125%"
          id="text2541"
          y="310.1712"
          x="250.4505"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+         style="font-size:12.00000021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          xml:space="preserve"><tspan
            y="310.1712"
            x="250.4505"
@@ -219,33 +224,34 @@
            sodipodi:role="line">Yes</tspan></text>
     </g>
     <rect
-       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.08466864;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.08466863999999985;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.80000019px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%"
        id="rect1349"
        width="205.36679"
        height="45.86393"
        x="278.79358"
        y="105.89388" />
     <path
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       style="fill:none;fill-opacity:0.75000000000000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.80000019px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%"
        d="M 136.54089,419.27737 L 136.54089,439.34253"
        id="path2634"
        sodipodi:nodetypes="cc" />
     <g
        id="g5107"
-       transform="matrix(0.9,0,0,0.9,26.3416,35.33768)">
+       transform="matrix(0.9,0,0,0.9,26.3416,35.33768)"
+       style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%">
       <rect
          y="184.88214"
          x="114.16336"
          height="14.173228"
          width="24.80315"
          id="rect2645"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%" />
       <text
          sodipodi:linespacing="125%"
          id="text2647"
          y="196.2341"
          x="115.76096"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+         style="font-size:12.00000021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          xml:space="preserve"><tspan
            y="196.2341"
            x="115.76096"
@@ -254,9 +260,10 @@
     </g>
     <g
        id="g5112"
-       transform="matrix(0.9,0,0,0.9,12.34089,53.15677)">
+       transform="matrix(0.9,0,0,0.9,12.34089,53.15677)"
+       style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%">
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%"
          id="rect2661"
          width="15.933071"
          height="13.673228"
@@ -264,7 +271,7 @@
          y="408.99008" />
       <text
          xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+         style="font-size:12.00000021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          x="130.03346"
          y="419.62"
          id="text2663"
@@ -275,15 +282,16 @@
            y="419.62">No</tspan></text>
     </g>
     <path
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-mid:none;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       style="fill:none;fill-opacity:0.75000000000000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-mid:none;marker-end:url(#Arrow2Lend);stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.80000019px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%"
        d="M 209.114,128.82585 L 268.50437,128.82585"
        id="path2847"
        sodipodi:nodetypes="cc" />
     <g
        id="g5117"
-       transform="matrix(0.9,0,0,0.9,21.25046,34.06484)">
+       transform="matrix(0.9,0,0,0.9,21.25046,34.06484)"
+       style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%">
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%"
          id="rect2653"
          width="15.933071"
          height="13.673228"
@@ -291,7 +299,7 @@
          y="98.453384" />
       <text
          xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+         style="font-size:12.00000021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          x="233.76538"
          y="109.08331"
          id="text2655"
@@ -302,26 +310,27 @@
            y="109.08331">No</tspan></text>
     </g>
     <path
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       style="fill:none;fill-opacity:0.75000000000000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.80000019px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%"
        d="M 209.97411,517.66348 L 269.08228,517.66348"
        id="path2849"
        sodipodi:nodetypes="cc" />
     <g
        id="g5171"
-       transform="matrix(0.9,0,0,0.9,20.4916,65.93768)">
+       transform="matrix(0.9,0,0,0.9,20.4916,65.93768)"
+       style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%">
       <rect
          y="492.83096"
          x="229.47243"
          height="14.173228"
          width="24.80315"
          id="rect2677"
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%" />
       <text
          sodipodi:linespacing="125%"
          id="text2679"
          y="504.89001"
          x="232.48424"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+         style="font-size:12.00000021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          xml:space="preserve"><tspan
            y="504.89001"
            x="232.48424"
@@ -330,12 +339,13 @@
     </g>
     <path
        id="path3327"
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       style="fill:none;fill-opacity:0.75000000000000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.80000019px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%"
        d="M 392.36014,152.60071 L 392.36014,229.73055 L 149.6416,229.73055"
        sodipodi:nodetypes="ccc" />
     <g
        id="g5099"
-       transform="matrix(0.9,0,0,0.9,26.3416,35.33768)">
+       transform="matrix(0.9,0,0,0.9,26.3416,35.33768)"
+       style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000020999999961px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%">
       <path
          transform="matrix(1.514368,0,0,1.514368,-95.66913,-410.2991)"
          d="m 146.27559,391.76379 -52.606322,-50.60632 50.606322,-52.60632 52.60632,50.60632 -50.60632,52.60632 z"
@@ -350,20 +360,22 @@
          sodipodi:cx="145.27559"
          sodipodi:sides="4"
          id="path2225"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.16894841;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.16894841000000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:7.92409784999999989px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%"
          sodipodi:type="star" />
       <text
          sodipodi:linespacing="100%"
          id="text4755"
          y="91.122337"
          x="124.30521"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+         style="font-size:12.00000020999999961px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          xml:space="preserve"><tspan
-           style="font-weight:bold"
+           style="font-weight:normal;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000020999999961px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%"
            y="91.122337"
            x="124.30521"
            id="tspan4783"
-           sodipodi:role="line">Origin:</tspan><tspan
+           sodipodi:role="line"><tspan
+             style="font-weight:bold;-inkscape-font-specification:FreeSans Bold"
+             id="tspan2943">Origin</tspan></tspan><tspan
            y="103.12234"
            x="124.30521"
            id="tspan4785"
@@ -379,7 +391,8 @@
     </g>
     <g
        id="g5087"
-       transform="matrix(0.9,0,0,0.9,26.3416,31.308)">
+       transform="matrix(0.9,0,0,0.9,26.3416,31.308)"
+       style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000020999999961px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%">
       <path
          transform="matrix(1.085437,0,0,1.085437,-292.0176,-112.611)"
          d="m 381.67719,500.67422 -95.73725,-97.73724 97.73724,-95.73724 95.73725,97.73724 -97.73724,95.73724 z"
@@ -394,20 +407,20 @@
          sodipodi:cx="382.67719"
          sodipodi:sides="4"
          id="path2355"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.55913472;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.55913471999999986;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:11.05545528000000033px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%"
          sodipodi:type="star" />
       <text
          sodipodi:linespacing="100%"
          id="text4759"
          y="286.86938"
          x="123.63856"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          xml:space="preserve"><tspan
-           style="font-weight:bold"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
            y="286.86938"
            x="123.63856"
            id="tspan4895"
-           sodipodi:role="line">Destination:</tspan><tspan
+           sodipodi:role="line">Destination</tspan><tspan
            y="298.86938"
            x="123.63856"
            id="tspan4897"
@@ -423,7 +436,7 @@
            y="334.86938"
            x="123.63856"
            id="tspan4903"
-           sodipodi:role="line">Minima @ ETA+/-1hr:</tspan><tspan
+           sodipodi:role="line">Minima @ ETA±1hr:</tspan><tspan
            y="346.86938"
            x="123.63856"
            id="tspan4905"
@@ -439,7 +452,7 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-size:10.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+       style="font-size:10.80000019px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
        x="310.06934"
        y="120.82076"
        id="text4763"
@@ -453,27 +466,28 @@
          sodipodi:role="line"
          id="tspan4923"
          x="310.06934"
-         y="131.62076">  + Within 320nm of origin</tspan><tspan
+         y="131.62076"> ∙ Within 320nm of origin</tspan><tspan
          sodipodi:role="line"
          id="tspan4925"
          x="310.06934"
-         y="142.42076">  + &gt;S/E minima @ ETA+/-1hr </tspan></text>
+         y="142.42076"> ∙ &gt;S/E minima @ ETA±1hr </tspan></text>
     <g
        id="g5127"
-       transform="matrix(0.9,0,0,0.9,26.3416,52.10737)">
+       transform="matrix(0.9,0,0,0.9,26.3416,52.10737)"
+       style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%">
       <rect
          y="278.96518"
          x="280.57581"
          height="50.201187"
          width="228.03462"
          id="rect2240"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.47988892;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.47988892000000005;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%" />
       <text
          sodipodi:linespacing="100%"
          id="text4767"
          y="299.59799"
          x="298.99878"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          xml:space="preserve"><tspan
            y="299.59799"
            x="298.99878"
@@ -482,11 +496,12 @@
            y="311.59799"
            x="298.99878"
            id="tspan4929"
-           sodipodi:role="line">  + Add 15 minutes holding fuel.</tspan></text>
+           sodipodi:role="line">  ∙ Add 15 minutes holding fuel.</tspan></text>
     </g>
     <g
        id="g5079"
-       transform="matrix(0.9,0,0,0.9,26.3416,35.33768)">
+       transform="matrix(0.9,0,0,0.9,26.3416,35.33768)"
+       style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000020999999961px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%">
       <path
          transform="matrix(1.246029,0,0,1.246029,-312.7799,-159.685)"
          d="m 352.80287,622.78581 -64.95873,-60.92783 60.92782,-64.95873 64.95873,60.92783 -60.92782,64.95873 z"
@@ -501,24 +516,24 @@
          sodipodi:cx="350.78741"
          sodipodi:sides="4"
          id="path2470"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.17049885;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.17049884999999998;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.63059463999999998px;text-anchor:middle;text-align:center;writing-mode:lr;line-height:100%"
          sodipodi:type="star" />
       <text
          sodipodi:linespacing="100%"
          id="text4771"
          y="522.99756"
          x="123.78991"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          xml:space="preserve"><tspan
-           style="font-weight:bold"
+           style="font-size:12px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:100%;writing-mode:lr-tb;text-anchor:middle;font-family:FreeSans;-inkscape-font-specification:FreeSans Bold"
            y="522.99756"
            x="123.78991"
            id="tspan5071"
-           sodipodi:role="line">Destination:</tspan><tspan
+           sodipodi:role="line">Destination</tspan><tspan
            y="534.99756"
            x="125.45397"
            id="tspan5073"
-           sodipodi:role="line">Minima @ ETA+/-1hr </tspan><tspan
+           sodipodi:role="line">Minima @ ETA±1hr </tspan><tspan
            y="546.99756"
            x="123.78991"
            id="tspan5075"
@@ -530,20 +545,21 @@
     </g>
     <g
        id="g5161"
-       transform="matrix(0.9,0,0,0.9,26.3416,67.64944)">
+       transform="matrix(0.9,0,0,0.9,26.3416,67.64944)"
+       style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%">
       <rect
          y="457.03119"
          x="280.70673"
          height="85.968826"
          width="227.76645"
          id="rect2284"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.7708087;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.77080869999999990;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%" />
       <text
          sodipodi:linespacing="100%"
          id="text4775"
          y="473.12106"
          x="294.04895"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          xml:space="preserve"><tspan
            y="473.12106"
            x="294.04895"
@@ -552,40 +568,43 @@
            y="485.12106"
            x="294.04895"
            id="tspan4933"
-           sodipodi:role="line">  + Minima @ ETA+/-1hr:</tspan><tspan
+           sodipodi:role="line">  ∙ Minima @ ETA±1hr:</tspan><tspan
            y="497.12106"
            x="294.04895"
            id="tspan4935"
-           sodipodi:role="line">      Cat II/III      Cat I</tspan><tspan
+           sodipodi:role="line">      Cat II/III ⇒ Cat I </tspan><tspan
            y="509.12106"
            x="294.04895"
            id="tspan4937"
-           sodipodi:role="line">      Cat I      Non-precision</tspan><tspan
+           sodipodi:role="line">      Cat I ⇒ <tspan
+   style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;font-family:FreeSans;-inkscape-font-specification:FreeSans"
+   id="tspan2937" />Non-precision  </tspan><tspan
            y="521.12109"
            x="294.04895"
            id="tspan4939"
-           sodipodi:role="line">      Non-precision      add 200ft/1000m</tspan><tspan
-           y="533.12103"
+           sodipodi:role="line">      Non-precision ⇒ add 200ft/1000m</tspan><tspan
+           y="533.12109"
            x="294.04895"
            id="tspan4941"
-           sodipodi:role="line">      Circling      circling minima</tspan></text>
+           sodipodi:role="line">      Circling ⇒ circling minima</tspan></text>
     </g>
     <g
        id="g5151"
-       transform="matrix(0.9,0,0,0.9,26.3416,74.93768)">
+       transform="matrix(0.9,0,0,0.9,26.3416,74.93768)"
+       style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%">
       <rect
          y="550.34235"
          x="280.70673"
          height="85.968826"
          width="227.76648"
          id="rect2592"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.77080917;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#ff0000;stroke-width:2.77080917000000015;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%" />
       <text
          sodipodi:linespacing="100%"
          id="text4943"
          y="566.35901"
          x="294.04895"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial"
+         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          xml:space="preserve"
          inkscape:export-xdpi="109.98"
          inkscape:export-ydpi="109.98"><tspan
@@ -596,34 +615,35 @@
            y="578.35901"
            x="294.04895"
            id="tspan4959"
-           sodipodi:role="line">  + Minima @ ETA+/-1hr:</tspan><tspan
+           sodipodi:role="line">  ∙ Minima @ ETA±hr:</tspan><tspan
            y="590.35901"
            x="294.04895"
            id="tspan4961"
-           sodipodi:role="line">      Cat II/III      Cat I</tspan><tspan
+           sodipodi:role="line">      Cat II/III ⇒ Cat I</tspan><tspan
            y="602.35901"
            x="294.04895"
            id="tspan4963"
-           sodipodi:role="line">      Cat I      Non-precision</tspan><tspan
+           sodipodi:role="line">      Cat I ⇒ Non-precision</tspan><tspan
            y="614.35901"
            x="294.04895"
            id="tspan4965"
-           sodipodi:role="line">      Non-precision      add 200ft/1000m</tspan><tspan
+           sodipodi:role="line">      Non-precision ⇒ add 200ft/1000m</tspan><tspan
            y="626.35901"
            x="294.04895"
            id="tspan4967"
-           sodipodi:role="line">      Circling      circling minima</tspan></text>
+           sodipodi:role="line">      Circling ⇒ circling minima</tspan></text>
     </g>
     <path
-       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1"
+       style="fill:none;fill-opacity:0.75000000000000000;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend);stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.80000019px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%"
        d="M 140.1916,589.58176 L 140.6416,608.93176 L 268.4416,609.38176"
        id="path5176"
        sodipodi:nodetypes="ccc" />
     <g
        id="g5916"
-       transform="matrix(0.9,0,0,0.9,-52.4084,63.23768)">
+       transform="matrix(0.9,0,0,0.9,-52.4084,63.23768)"
+       style="-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%">
       <rect
-         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.50000000000000000;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:12.00000021px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%"
          id="rect2669"
          width="15.933071"
          height="13.673228"
@@ -631,7 +651,7 @@
          y="587.52557" />
       <text
          xml:space="preserve"
-         style="font-size:12px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:Arial"
+         style="font-size:12.00000021px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:100%;writing-mode:lr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;font-family:FreeSans;-inkscape-font-specification:FreeSans"
          x="206.21393"
          y="598.15552"
          id="text2671"
@@ -642,43 +662,11 @@
            y="598.15552">No</tspan></text>
     </g>
     <rect
-       style="opacity:1;fill:none;fill-opacity:0.62352941;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;fill:none;fill-opacity:0.62352940999999995;fill-rule:nonzero;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-font-specification:FreeSans;font-family:FreeSans;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.80000019px;text-anchor:start;text-align:start;writing-mode:lr;line-height:100%"
        id="rect1407"
        width="491"
        height="613"
        x="19"
        y="48.094482" />
-    <path
-       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
-       d="m 348.28205,511.59448 10.4359,0"
-       id="path4948" />
-    <path
-       id="use5330"
-       d="m 333.28205,522.09448 10.4359,0"
-       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
-    <path
-       id="use5332"
-       d="m 377.28205,534.09448 10.4359,0"
-       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
-    <path
-       id="use5334"
-       d="m 346.28205,544.59448 10.4359,0"
-       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
-    <path
-       id="use5336"
-       d="m 348.28205,602.59448 10.4359,0"
-       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
-    <path
-       id="use5338"
-       d="m 332.28205,613.59448 10.4359,0"
-       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
-    <path
-       id="use5340"
-       d="m 376.78205,625.59448 10.4359,0"
-       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
-    <path
-       id="use5342"
-       d="m 346.78205,636.09448 10.4359,0"
-       style="fill:#000000;stroke:#000000;stroke-width:1.10551181;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)" />
   </g>
 </svg>
