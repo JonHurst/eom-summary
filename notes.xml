@@ -4,7 +4,6 @@
   <title>Summary of easyJet manuals</title>
   <sect1 id="commander-duties">
     <title>Authority, Duties and Responsibilities of a Commander </title>
-    <para>[Ezy-A 1.3] and [Ezy-A 8.1]</para>
     <para>The commander has overall responsibility for the safety of the aircraft, its occupants and its cargo, and
     the authority to issue any commands required to secure this. He has the authority to increase any safety
     margin, including aerodrome operating minima, as he sees fit. In an emergency situation, he has the authority
@@ -26,7 +25,7 @@
       <listitem>
         <para>The aircraft and required equipment are serviceable or only have unserviceabilities that comply with
         the CDL or MEL. If third party maintenance is required whilst away from base, the procedures referred to in
-        8.1.11, Aircraft Technical Log, must be followed.</para>
+        EOM-A 8.1.11 must be followed.</para>
       </listitem>
       <listitem>
         <para>The preflight inspection has been completed, and that all required documents, maps and charts are onboard
@@ -87,10 +86,11 @@
       </listitem>
     </orderedlist>
     </para>
+    <para>[EOM-A 1.4, EOM-A 8.1]</para>
+
   </sect1>
   <sect1 id="crew-composition">
     <title>Crew composition</title>
-    <para>[EOM/A-4]</para>
     <sect2>
       <title>Flight crew</title>
       <para>The minimum flight crew is two pilots, at least one of whom must be a Captain.</para>
@@ -103,13 +103,13 @@
       commander. </para>
       <para>Inexperienced (***) crew must not operate together. A Captain is considered inexperienced
       until he has successfully passed his first recurrent simulator check. A First Officer is
-      considered inexperienced until he has completed the amount of flying detailed in EOM/A
-      section 4.1.2.</para>
+      considered inexperienced until he has completed the amount of flying detailed in EOM-A 4.1.2.</para>
+
+      <para>[EOM-A 4]</para>
+
     </sect2>
     <sect2>
       <title>Cabin crew</title>
-
-      <para>[EOM/A-4.1.3, EOM/A-4.1.4]</para>
 
       <para>The minimum cabin crew is normally one for every 50 <emphasis> installed</emphasis>
       seats. In extreme circumstances this may be reduced by one cabin crew member providing that:
@@ -136,7 +136,7 @@
       </itemizedlist></para>
 
       <para>If the reduction in cabin crew results in no SCCM being carried there are additional
-      procedures detailed in EOM/A-4.1.4g.</para>
+      procedures detailed in EOM-A 4.1.4g.</para>
 
       <para>It is permissible to board with one cabin crew member absent provided that:
 
@@ -173,11 +173,12 @@
       doctor or paramedic. This rule may be overridden at the Captain's discretion if "extraordinary
       circumstances" apply.</para>
 
+      <para>[EOM-A 4.1.3, EOM-A 4.1.4]</para>
+
     </sect2>
     <sect2>
       <title>Positioning crew</title>
 
-      <para>EOM/A-4.5; EOM/A-4.6</para>
 
       <para>Positioning crew will normally be booked as passengers and procede through normal
       passenger channels. When arriving on a domestic flight it is permissable for crew to transfer
@@ -188,11 +189,11 @@
       authorisation of the duty pilot or the Network Duty Manager. In this case, crew must be shown
       on the crew list.</para>
 
+      <para>[EOM-A 4.5, EOM-A 4.6]</para>
+
     </sect2>
     <sect2>
       <title>Flight Ops Inspectors</title>
-
-      <para>EOM/A-4.7</para>
 
       <para>Flight Ops Inspectors may, at any time, board any easyJet aircraft and enter and remain
       on the flight deck unless it is the commander's opinion that this would endanger the safety of
@@ -200,11 +201,14 @@
 
       <para>Flight Ops Inspectors may act as operating crew with the approval of the duty pilot, but
       may only fly with a training Captain.</para>
+
+      <para>[EOM-A 4.7]</para>
+
     </sect2>
   </sect1>
    <sect1 id="qualifications-and-recency">
     <title>Qualification and Recency Requirements</title>
-    <para>[EOM/A-5] The minimum qualifications to act as a commander are:
+    <para>The minimum qualifications to act as a commander are:
     <orderedlist>
       <listitem><para>A UK JAA-FCL ATPL with relevant type rating</para></listitem>
       <listitem><para>Class I medical</para></listitem>
@@ -278,18 +282,17 @@
       </listitem>
       <listitem>
         <para>3000 factored hours of which 500 hours must be on a medium or large jet
-	transport (see EOM/A-5.2.1 for factored hours table).</para>
+	transport (see EOM-A 5.2.1 for factored hours table).</para>
       </listitem>
       <listitem>
           <para>Successful completion of a Command Course.</para>
       </listitem>
     </orderedlist>
     </para>
-
+    <para>[EOM-A 5]</para>
   </sect1>
   <sect1 id="health">
     <title>Crew Health Precautions</title>
-    <para>[EOM/A-6]</para>
     <sect2>
       <title>Alcohol</title>
       <para>Do not consume any alcohol within 10 hours of a duty, and consume no more that 5 units of alcohol within 24
@@ -298,6 +301,7 @@
       front of passengers.</para>
       <para>Alcohol must never be consumed whilst in uniform in a public place.</para>
       <para>Alcohol must not be taken onto the flight deck during flight.</para>
+      <para>[EOM-A 6.1.1]</para>
     </sect2>
     <sect2>
       <title>Cosmic radiation</title>
@@ -307,6 +311,7 @@
 
       <para>Embryos and foetuses are particularly susceptible to harm from cosmic radiation. Crew
       should not fly when pregnant.</para>
+      <para>[EOM-A 6.1.3]</para>
     </sect2>
     <sect2>
       <title>Medication</title>
@@ -317,6 +322,8 @@
 
       <para>It is aceptable to operate whilst taking non drowsy cold remedies such as Sudafed. Seek
       medical advice before operating whilst taking any other medication.</para>
+
+      <para>[EOM-A 6.1.2, EOM-A 6.1.4]</para>
     </sect2>
     <sect2>
       <title>Disease and Immunisation</title>
@@ -352,10 +359,12 @@
       are responsible for obtaining and applying appropriate
       medication.</para>
 
+      <para>[EOM-A 6.1.5, EOM-A 6.1.16]</para>
     </sect2>
     <sect2>
       <title>Blood donation</title>
       <para>Crew should not donate blood within 24 hours of a duty.</para>
+      <para>[EOM-A 6.1.6]</para>
     </sect2>
     <sect2>
       <title>Diving</title>
@@ -364,14 +373,16 @@
 
       <para>Crew who have been treated for decompression sickness must not fly within 72 hours of
       recovery.</para>
+      <para>[EOM-A 6.1.7]</para>
     </sect2>
     <sect2>
       <title>Surgery</title>
-      <para>Aeromedical advice should be sought before returning to duty following any surgical procedure.</para>
+      <para>Aeromedical advice should be sought before returning to duty following any surgical
+      procedure.</para>
+      <para>[EOM-A 6.1.11]</para>
     </sect2>
     <sect2>
       <title>Hypoxia</title>
-      <para>[Human Factors For Pilots, Green et al.]</para>
       <table>
         <title>Time of useful consciousness</title>
         <tgroup cols="2">
@@ -388,6 +399,7 @@
           </tbody>
         </tgroup>
       </table>
+      <para>[Human Factors For Pilots, Green et al.]</para>
 
     </sect2>
     <sect2>
@@ -398,6 +410,7 @@
 
       <para>If food poisoning from crew food is suspected, a Food Safety Report form must be
       completed and medical tests carried out to identify the strain.</para>
+      <para>[EOM-A 6.1.8]</para>
     </sect2>
 
   </sect1>
@@ -733,7 +746,6 @@
     <title>Operating procedures: Flight preparation instructions</title>
     <sect2 id="min-altitudes">
       <title>Minimum flight altitudes</title>
-      <para>[EOM-A 8.1.1]</para>
       <sect3><title>Definitions</title>
 
       <para>When operating on a defined route segment, national authorities may have published the
@@ -776,6 +788,9 @@
       altitude at which an IFR aircraft will be vectored by a radar controller (excepting SRAs
       etc.); it may only be utilized upon the controller's determination that an adequate radar
       return is being received.</para>
+
+      <para>[EOM-A 8.1.1, Jeppesen Text Manual - "Introduction"]</para>
+
       </sect3>
 
       <sect3><title>Corrections</title>
@@ -797,6 +812,8 @@
 
       <para>Note that the MORAs presented on the LIDO OFPs do not have any of these corrections
       applied.</para>
+
+      <para>[EOM-A 8.1.1.3]</para>
       </sect3>
 
       <sect3><title>Operational requirements</title>
@@ -832,12 +849,12 @@
       routes or instrument approach procedure or when being vectored at levels not less than
       MVA.</para>
 
+      <para>[EOM-A 8.1.1]</para>
       </sect3>
 
     </sect2>
     <sect2 id="airports">
       <title>Usability of airports</title>
-      <para>[EOM-A 8.1.2]</para>
 
       <para>easyJet is responsible for ensuring that all airports selected as destinations or alternates are adequate in
       all respects, including runway dimensions, obstacles, ATS, lighting, approach procedures, weather reporting and
@@ -854,6 +871,8 @@
       OFP confirms that this has been done. Operation to a category C aerodrome requires a briefing
       and then either a visit in an operating capacity or aerodrome specific training in an approved
       flight simulator.</para>
+
+      <para>[EOM-A 8.1.2]</para>
     </sect2>
 
     <sect2>
@@ -945,13 +964,14 @@
 	  assured due to wind or runway state or when no meteorological information is available for
 	  the destination.</para></listitem>
           <listitem><para>A table for interpretation of TAFs with regards these requirements can be
-          found in [EOM-A 8.1.6.1]</para></listitem>
+          found at EOM-A 8.1.6.1.</para></listitem>
 	  <listitem><para>Runways may be considered independent if each runway has a seperate
 	  approach procedure based on a seperate approach aid and no conceivable blockage of one
 	  runway would render the other unusable. If a destination is isolated these restrictions do
 	  not apply.</para></listitem>
         </orderedlist>
       </note>
+      <para>[EOM-A 8.1.2]</para>
       </sect3>
       <sect3>
         <title>Cruise alternates</title>
@@ -973,6 +993,7 @@
 	</table>
 
 	</para>
+	<para>[EOM-B 5.1]</para>
       </sect3>
     </sect2>
   </sect1>
