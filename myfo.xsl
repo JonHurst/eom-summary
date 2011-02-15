@@ -1,5 +1,6 @@
 <?xml version='1.0'?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+		xmlns:fo="http://www.w3.org/1999/XSL/Format" version="1.0">
 <xsl:import href="http://docbook.sourceforge.net/release/xsl/current/fo/docbook.xsl"/>
 <xsl:param name="fop.extensions" select="0"></xsl:param>
 <xsl:param name="fop1.extensions" select="1"></xsl:param>
@@ -24,6 +25,14 @@
 <xsl:param name="default.image.width">110mm</xsl:param>
 <xsl:param name="body.font.family">Times</xsl:param>
 <xsl:param name="header.column.widths">1 3 1</xsl:param>
+
+<!-- <xsl:param name="symbol.font.family" select="'Symbol,ZapfDingbats,unifont'"/> -->
+<xsl:param name="symbol.font.family" select="'Symbol'"/>
+<xsl:template match="symbol[@role = 'symbolfont']">
+  <fo:inline font-family="Symbol">
+    <xsl:call-template name="inline.charseq"/>
+  </fo:inline>
+</xsl:template>
 
 
 <xsl:param name="orderedlist.label.width">2em</xsl:param>
