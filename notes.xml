@@ -859,18 +859,19 @@
     <sect2>
       <title>Aerodrome Operating Minima</title>
 
-      <para>All easyJet aircraft, with the exception of the A321, are Category C for the purpose of
-      calculating operating minima. The A321s with MLW of 77,800kg are Category D.</para>
+      <para>All easyJet aircraft, with the exception of certain A321s, are Category&#xA0;C for the
+      purpose of calculating operating minima. The A321s with MLW of 77,800kg are
+      Category&#xA0;D.</para>
 
       <para>Aerodrome specific take-off minima are presented on Jeppesen chart 10-9. The required
       RVR must be achieved for all relevant reporting points<footnote><para>If operating to RVR
       minima <symbol role="symbolfont">&#x2265;</symbol> 150m, pilot assessment of the RVR for the
       initial part of the take-off roll is acceptable.</para></footnote>. When operating with RVR
       &lt; 150m, LVPs must be in force, crew must be LVO qualified and a 90m visual segment
-      (equivalent to 6 centre line lights add their standard spacing of 15m) must be available.</para>
+      (equivalent to 6 centre line lights at standard 15m spacing) must be available.</para>
 
       <para>Straight in visual approaches require RVR <symbol role="symbolfont">&#x2265;</symbol>
-      800m. A visual circuit requires met visibility <symbol role="symbolfont">&#x2265;</symbol> 5km
+      800m. A visual circuit requires Met Visibility <symbol role="symbolfont">&#x2265;</symbol> 5km
       and cloud base <symbol role="symbolfont">&#x2265;</symbol> 2,500ft. Visual approaches at night
       are authorised unless prohibited in the Aerodrome Briefings Supplement. Visual circuits must
       be flown at a height greater than 1500ft that ensures at least 500ft separation from
@@ -889,25 +890,26 @@
       Visibility to RVR for the purposes of complying with landing minima:
 
       <table>
-        <title>Met Visibility to RVR conversion for Cat I and non-precision landing minima</title>
+        <title>Met Visibility to RVR conversion</title>
         <tgroup cols="3">
           <colspec colwidth="3*"/>
           <colspec colwidth="*" colnum="2" colname="day" align="center"/>
           <colspec colwidth="*" colnum="3" colname="night" align="center"/>
           <thead>
-            <row><entry>Lighting Elements in Operation</entry><entry namest="day" nameend="night">RVR = Met Visibility X</entry></row>
+            <row><entry>Lighting Elements in Operation</entry><entry namest="day"
+	    nameend="night">RVR = Met Visibility x </entry></row>
             <row><entry></entry><entry>Day</entry><entry>Night</entry></row>
           </thead>
           <tbody>
-            <row><entry>HI Approach and Runway Lighting</entry><entry>1.5</entry><entry>2.0</entry></row>
-            <row><entry>Any Type of Lighting Installation Other than Above</entry><entry>1.0</entry><entry>1.5</entry></row>
-            <row><entry>No Lighting</entry><entry>1.0</entry><entry>N/A</entry></row>
+            <row><entry>HI approach and runway lighting</entry><entry>1.5</entry><entry>2.0</entry></row>
+            <row><entry>Any other type of lighting installation</entry><entry>1.0</entry><entry>1.5</entry></row>
+            <row><entry>No lighting</entry><entry>1.0</entry><entry>N/A</entry></row>
           </tbody>
         </tgroup>
       </table></para>
 
-      <para>Where minima for non-precision approaches are presented in terms of a minimum descent
-      altitude, 50ft should be added to create an effective decision altitude.</para>
+      <para>Where minima for non-precision approaches are presented in terms of a Minimum Descent
+      altitude, 50ft should be added to create an effective Decision Altitude.</para>
 
       <para>Circling minima should be used unmodified. It is permissable to descend prior to the
       final turn. However, descent below circling minima should only occur once the landing
