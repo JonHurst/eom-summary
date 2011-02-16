@@ -1040,7 +1040,7 @@
       <varlistentry>
         <term>FINRES</term>
         <listitem><para>Final reserve fuel. This is the amount of fuel required to hold at 1500ft
-	for 30 minutes commencing with only final reserve remaining.</para></listitem>
+	for 30 minutes assuming the tanks will be dry after this period.</para></listitem>
       </varlistentry>
 
       <varlistentry>
