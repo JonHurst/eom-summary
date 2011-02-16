@@ -995,87 +995,116 @@
 	<para>[EOM-B 5.1]</para>
       </sect3>
     </sect2>
+    <sect2>
+      <title>Pre-flight fuel planning</title>
+
+      <para>The OFP presents the following values for use in pre-flight fuel planning:
+
+      <variablelist>
+	<?dbfo term-width="0.6in"?>
+	<varlistentry>
+	  <term>TAXI</term>
+	  <listitem><para>Fuel expected to be used prior to takeoff, including engine start, taxi
+	  and APU consumption. This figure should be increased when significantly increased APU burn
+	  is likely (e.g. ATC slots) or when significantly increased taxi times may potentially
+	  occur.</para></listitem>
+	</varlistentry>
+
+	<varlistentry>
+	  <term>TRIP</term>
+	  <listitem><para>Fuel required for all phases from take-off at departure aerodrome to
+	  landing at destination aerodrome. The assumed runways and associated SIDs and STARs can be
+	  found on the OFP under "OFP ROUTE". This figure will need to be increased by 5kg per nm
+	  that actual routings are potentially longer than these assumed routings. The OFP also
+	  provides trip fuel corrections for carriage of more than minimum fuel and flight at non
+	  optimal levels).</para></listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>CONT</term>
+        <listitem><para>The greater of 5% of planned trip fuel or 5 minutes holding over destination
+        at 1500ft.</para></listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>ALTN</term>
+        <listitem><para>Fuel for all phases from a go-around at applicable MDA/DA at destination to
+        a landing at first alternate. The assumed runways and routings can be found on the OFP below
+        the Nav Log block. This figure will need to be increased by 5kg for each nm that actual
+        routings are potentially longer than these assumed routings. Where two alternates are
+        required (see <xref linkend="alternates"/>), this figure should be increased to the greater
+        of the two alternate fuel burns. Note that this does not allow for flight to a second
+        alternate after arriving at the first alternate.</para></listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>FINRES</term>
+        <listitem><para>Final reserve fuel. This is the amount of fuel required to hold at 1500ft
+	for 30 minutes commencing with only final reserve remaining.</para></listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>ADDNL</term>
+        <listitem><para>Usually zero. This is mainly used to add 15 minutes holding time when
+        operating without a destination alternate under the terms of <xref
+        linkend="alternates"/>. It may also be used on routes where there will be insufficient trip
+	fuel available to divert to an adequate alternate in the event of engine failure or loss of
+	pressurisation at the most critical point.</para></listitem>
+      </varlistentry>
+
+      <varlistentry>
+        <term>EXTRA</term>
+        <listitem><para>Additional fuel loaded at the discretion of the flight crew. There is not
+        much official guidance as to amounts; my personal ballpark figures for the A319/A320 are:
+
+	<itemizedlist>
+	  <listitem><para>40kg per minute of potential extra holding</para></listitem>
+	  <listitem><para>500kg per potential extra approach</para></listitem>
+	  <listitem><para>30 minutes extra holding when LVPs are expected at
+	  destination</para></listitem>
+	  <listitem><para>3kg per minute of extra anticipated anti-ice usage</para></listitem>
+	  <listitem><para>2kg per minute of extra anticipated APU usage</para></listitem>
+	</itemizedlist></para></listitem>
+      </varlistentry>
+
+
+      <varlistentry>
+        <term>TANKER</term>
+        <listitem><para>Extra fuel that may be carried due to fuel price differential between origin
+        and destination. Note that take-off and landing performance is not considered, and the
+        planned margins against structural limits can reflect over-confidence in predicted ZFW
+        data.</para></listitem>
+      </varlistentry>
+    </variablelist>
+      </para>
+      <para>[EOM-A 8.1.7, EOM-B 5]</para>
+      <sect3>
+	<title>Reducing fuel loads to allow increased payload</title>
+
+	<para>Where payloads are such that the carriage of normal fuel loads results in exceedence
+	of structural or performance limitations, EOM-A 8.1.7.4 presents a number of methods of
+	reducing fuel requirements below those that would normally apply.</para>
+
+	<para>The simplest method is to reduce the trip fuel requirement once it is certain that the
+	SID and/or STAR that will be flown requires less track mileage than those anticipated in the
+	OFP route. The adjustment is 4kg per nm.</para>
+
+	<para>More significant reductions can be acheived when the conditions for not requiring a
+	destination alternate (see <xref linkend="alternates"/>) are met. In this case, the
+	alternate fuel can be replaced with 15 minutes of holding at destination.</para>
+
+	<para>Finally, for sectors of over 1000nm, contingency fuel can be reduced from 5% to 3%
+	providing that a suitable en-route alternate is specified. The procedure is detailed at
+	EOM-A 8.1.7.4.4. Note that a new OFP should be used; OCC were unable to provide one last
+	time I asked.</para>
+
+	<para>[EOM-A 8.1.7.4]</para>
+      </sect3>
+    </sect2>
   </sect1>
 
 
 <!--
-<sect2 id="fuel">
-  <title>Fuel</title>
-  <para>[Ezy-A 8.1.7]</para>
-  <sect3>
-    <title>CFP fuel breakdown</title>
-    <variablelist>
-      <varlistentry>
-        <term>A-DEST</term>
-        <listitem><para>Fuel required for all phases from take-off at departure aerodrome to landing at destination
-        aerodrome. It takes into account the longest <emphasis>probable</emphasis> SID and STAR with additional profile
-        information included where applicable. The cruise section assumes optimum flight level and a fixed Mach of 0.78
-        for the -700 and 0.74 for the -300 (below FL 250 the -700 assumes 280kt and below FL210 the -300 assumes
-        300kt). A correction for aircraft burn degradation is also included.</para></listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>B-CONT</term>
-        <listitem><para>Contingency fuel, being the greater of 5% of the trip fuel or 5 minutes MLW holding at 1500ft
-        (182kg for -700, 211kg for 52888kg MLW -300 and 207kg for 51709kg MLW -300). It may be burnt at any time after
-        engine start.</para></listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>C-ALT</term>
-        <listitem><para>Fuel for all phases from a go-around at destination to a landing at first alternate. The longest
-        <emphasis>probable</emphasis> STAR and realistic flight levels are assumed. <emphasis>{find out whether any
-        account is taken of SIDs}</emphasis></para></listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>D-FINAL RES</term>
-        <listitem><para>Fuel required to hold at 1500ft for 30 minutes. The calculation uses estimated landing weight at
-        the alternate aerodrome. If it is determined that the fuel remaining on landing <emphasis>may</emphasis> be less
-        than final reserve, a PAN call must be made. If it is determined that it <emphasis>will</emphasis> be less than
-        final reserve, a MAYDAY call must be made.</para></listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>E-TAXY</term>
-        <listitem><para>Fuel for phases from engine start to line up. It is based on 11.3kg/min multiplied by
-        statistical taxi times, and should be exceeded on only 15% of occassions. Fuel for 6 minutes APU usage is also
-        included.</para></listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>F-REQUIRED</term>
-        <listitem><para>The sum of A to E</para></listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>TANKER</term>
-        <listitem><para>The maximum fuel that may be tankered without exceeding any of the structural limitations (a
-        margin of 500kg is provided for MLW). If the figure is non-zero, it indicates that tankering would be
-        preferable, but it must be manually amended to be the least of:
-        <itemizedlist spacing="compact">
-          <listitem><para>Fuel required for next sector + DEST + TAXY</para></listitem>
-          <listitem><para>4000kg + DEST + TAXY if fuel induced wing icing is anticipated</para></listitem>
-          <listitem><para>Maximum fuel taking into account take-off and landing performance</para></listitem>
-          <listitem><para>Maximum fuel to avoid breaking structural limitations in the event predicted ZFW or predicted
-          fuel burn is inaccurate</para></listitem>
-        </itemizedlist>
-      </para></listitem>
-      </varlistentry>
-      <varlistentry>
-        <term>CMR</term>
-        <listitem><para>FINAL RESERVE + ALT. This is the fuel that an aircraft must have at the point of go-around from
-        the destination airfield in order to achieve a landing at the alternate with final reserve fuel. It is
-        acceptable (and often safer) to plan to land with less than CMR at the destination if landing is
-        assured.</para></listitem>
-      </varlistentry>
-    </variablelist>  </sect3>
-  <sect3>
-    <title>Departure with less than CFP fuel</title>
-    <para>Fuel reduction below CFP for purely economic reasons should be limited to reducing taxy fuel where a short
-    taxi out is anticipated and reduction of trip fuel by 4kg/nm where shorter SIDS and STARS are anticipated.</para>
-    <para>If payload is critical, a number of other adjustments are possible. The alternate fuel may be reduced if a
-    closer suitable alternate is available, and may be replaced by 15 minutes holding fuel if a destination alternate is
-    not required (see table in [Ezy-A Appendix 1 to section 8.1.7 to section 8.1.7.4] for the actual
-    value for a given holding weight). It is also possible to slightly reduce contingency fuel requirements using either
-    an en-route alternate aerodrome or the Decision Point Procedure (details are in [Ezy-A
-    8.1.7.5]).</para>
-  </sect3>
-</sect2>
 <sect2 id="standard-weights">
   <title>Standard weights</title>
   <para>[Ezy-A 8.1.8]</para>
