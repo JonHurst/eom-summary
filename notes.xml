@@ -1017,7 +1017,7 @@
 	  found on the OFP under "OFP ROUTE". This figure will need to be increased by 5kg per nm
 	  that actual routings are potentially longer than these assumed routings. The OFP also
 	  provides trip fuel corrections for carriage of more than minimum fuel and flight at non
-	  optimal levels).</para></listitem>
+	  optimal levels.</para></listitem>
       </varlistentry>
 
       <varlistentry>
@@ -1111,7 +1111,7 @@
       reduced ATC charges; where this has been done, the new MTOW must be treated as a structural
       limit.</para>
 
-      <para>The basis for calcualtions to determine compliance with these structural limits is the
+      <para>The basis for calculations to determine compliance with these structural limits is the
       Dry Operating Weight (DOW). The DOW is the total weight of the aircraft with no usable fuel or
       payload. It is available at the top of the OFP, but the canonical value is that contained in
       the LPC database unless otherwise notified by a flight brief notice. Other weights are
