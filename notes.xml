@@ -1109,7 +1109,7 @@
       <para>The aircraft operating manual specifies maximum ramp, take-off, landing and zero fuel
       weights. The maximum take-off weight may also be reduced by easyJet to take advantage of
       reduced ATC charges; where this has been done, the new MTOW must be treated as a structural
-      limit.</para>
+      limit. These limitations are also presented in the weights block of the OFP.</para>
 
       <para>The basis for calculations to determine compliance with these structural limits is the
       Dry Operating Weight (DOW). The DOW is the total weight of the aircraft with no usable fuel or
