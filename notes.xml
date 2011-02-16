@@ -1101,47 +1101,68 @@
 	<para>[EOM-A 8.1.7.4]</para>
       </sect3>
     </sect2>
-  </sect1>
+    <sect2>
+      <title>Weight and Balance</title>
 
+      <sect3><title>Structural weight limitations</title>
 
-<!--
-<sect2 id="standard-weights">
-  <title>Standard weights</title>
-  <para>[Ezy-A 8.1.8]</para>
-    <table>
-      <title>Standard weights for passengers</title>
-      <tgroup cols="2">
-        <colspec colnum="1" colwidth="*"/>
-        <colspec colnum="2" align="center" colwidth="*"/>
-        <thead>
-          <row><entry>Type</entry><entry>Weight</entry></row>
-        </thead>
-        <tbody>
-          <row><entry>Male</entry><entry>93kg</entry></row>
-          <row><entry>Female</entry><entry>75kg</entry></row>
-          <row><entry>Adult</entry><entry>89kg</entry></row>
-          <row><entry>Child (Age 2-12)</entry><entry>35kg</entry></row>
-          <row><entry>Infant(Age&lt;2)</entry><entry>0kg</entry></row>
-        </tbody>
-      </tgroup>
-    </table>
-    <note><para>Gender independent adult weight should only be used in exceptional circumstances.</para></note>
-    <table>
-      <title>Standard weights of checked baggage</title>
-      <tgroup cols="2">
-        <colspec colnum="1" colwidth="*"/>
-        <colspec colnum="2" align="center" colwidth="*"/>
-        <thead>
-          <row><entry>Type of Flight</entry><entry>Weight</entry></row>
-        </thead>
-        <tbody>
-          <row><entry>Domestic</entry><entry>11 kg</entry></row>
-          <row><entry>Within the European Region</entry><entry>13 kg</entry></row>
-          <row><entry>Intercontinental</entry><entry>15 kg</entry></row>
-          <row><entry>All Other</entry><entry>13 kg</entry></row>
-        </tbody>
-      </tgroup>
-    </table>
+      <para>The aircraft operating manual specifies maximum ramp, take-off, landing and zero fuel
+      weights. The maximum take-off weight may also be reduced by easyJet to take advantage of
+      reduced ATC charges; where this has been done, the new MTOW must be treated as a structural
+      limit.</para>
+
+      <para>The basis for calcualtions to determine compliance with these structural limits is the
+      Dry Operating Weight (DOW). The DOW is the total weight of the aircraft with no usable fuel or
+      payload. It is available at the top of the OFP, but the canonical value is that contained in
+      the LPC database unless otherwise notified by a flight brief notice. Other weights are
+      calculated as follows:
+
+      <itemizedlist>
+	<listitem><para>Zero Fuel Weight (ZFW) = DOW + payload</para></listitem>
+	<listitem><para>Ramp weight (RW) = ZFW + total fuel</para></listitem>
+	<listitem><para>Take-off weight (TOW) = RW - taxi fuel</para></listitem>
+	<listitem><para>Landing weight (LW) = TOW - trip fuel</para></listitem>
+      </itemizedlist></para>
+
+      <para>[EOM-A 8.1.8.1]</para>
+      </sect3>
+
+      <sect3><title>Payload calculation</title>
+
+      <para>The following standard weights may be used when calculating  payload:
+      <table>
+	<title>Standard weights for passengers with hand baggage</title>
+	<tgroup cols="2">
+	  <colspec colnum="1" colwidth="*"/>
+	  <colspec colnum="2" align="center" colwidth="*"/>
+	  <thead>
+	    <row><entry>Type</entry><entry>Weight</entry></row>
+	  </thead>
+	  <tbody>
+	    <row><entry>Male</entry><entry>93kg</entry></row>
+	    <row><entry>Female</entry><entry>75kg</entry></row>
+	    <row><entry>Child (Age 2-11 inclusive)</entry><entry>35kg</entry></row>
+	    <row><entry>Infant(Age&lt;2)</entry><entry>0kg</entry></row>
+	  </tbody>
+	</tgroup>
+      </table>
+      <table>
+	<title>Standard weights for checked baggage</title>
+	<tgroup cols="2">
+	  <colspec colnum="1" colwidth="*"/>
+	  <colspec colnum="2" align="center" colwidth="*"/>
+	  <thead>
+	    <row><entry>Type of Flight</entry><entry>Weight</entry></row>
+	  </thead>
+	  <tbody>
+	    <row><entry>Domestic<footnote><para>Domestic flights are those where origin and
+	    destination are within the same state</para></footnote></entry><entry>11 kg</entry></row>
+	    <row><entry>Within the European Region</entry><entry>13 kg</entry></row>
+	    <row><entry>Intercontinental</entry><entry>15 kg</entry></row>
+	    <row><entry>All Other</entry><entry>13 kg</entry></row>
+	  </tbody>
+	</tgroup>
+      </table>
     <table>
       <title>Standard weights for crew</title>
       <tgroup cols="2">
@@ -1151,13 +1172,70 @@
           <row><entry>Crew Position</entry><entry>Weight</entry></row>
         </thead>
         <tbody>
-          <row><entry>Flight Crew</entry><entry>85 kg</entry></row>
-          <row><entry>Cabin Crew</entry><entry>75 kg</entry></row>
+          <row><entry>Flight Crew</entry><entry>85 kg<footnote id="crew-baggage"><para>An allowance
+          for hand baggage is included. Any additional crew baggage must be taken into
+          account.</para></footnote> </entry></row>
+	  <row><entry>Cabin Crew</entry><entry>75 kg<footnoteref linkend="crew-baggage"/></entry></row>
         </tbody>
       </tgroup>
     </table>
-    <note><para>An allowance for hand baggage is included. Any additional crew baggage must be taken into account.</para></note>
-</sect2>
+    <table>
+      <title>Guide weights for other items</title>
+      <tgroup cols="2">
+        <colspec colnum="1" colwidth="*"/>
+        <colspec colnum="2" align="center" colwidth="*"/>
+        <thead>
+	  <row><entry>Item</entry><entry>Weight</entry></row>
+	</thead>
+	<tbody>
+	  <row><entry>Guide Dog</entry><entry>35kg</entry></row>
+	  <row><entry>Cello</entry><entry>10kg</entry></row>
+	</tbody>
+      </tgroup>
+    </table>
+      </para>
+
+      <para>easyJet generally uses standard weights for passengers and crew and actual weights for
+      baggage. It is not permissable to use standard weights for baggage if this leads to a value
+      less than known actual weights. Freight must always be weighed.</para>
+
+      <para>[EOM-A 8.1.8]</para>
+      </sect3>
+
+      <sect3>
+	<title>Balance calculation</title>
+	<para>For the Airbus fleet, compliance with balance limitations is acheived using the LPC
+	Weight and Balance modules. If this is not available, weight and balance data should be
+	sourced from OCC.  When passenger load is more than 115 the default LPC passenger split may
+	be used. Otherwise the correct split (e.g. rows 1-9, 10-18, 19-26 for A319) should
+	be used.</para>
+
+	<para>[EOM-B 7.1.1]</para>
+      </sect3>
+
+      <sect3>
+	<title>Last minute changes</title>
+	<para>For the Airbus fleet, the following last minute changes do not require new LPC
+	calculations:
+
+	<itemizedlist>
+	  <listitem><para>&#xB1;5 Passengers</para></listitem>
+	  <listitem><para>&#xB1;500kg fuel</para></listitem>
+	  <listitem><para>&#xB1;500kg load in CP 2,3 or 4</para></listitem>
+	  <listitem><para>&#xB1;100kg load in CP 1 or 5</para></listitem>
+	</itemizedlist>
+	</para>
+	<para>A new ZFW must be calculated and entered for all LMC changes. Where the LMC is
+	positive, take-off performance must be recalculated; a 1° reduction in FLEX (assuming the
+	new value is greater that ISA+30) will suffice for changes up to 250kg.</para>
+
+	<para>[EOM-B 7.4]</para>
+      </sect3>
+
+    </sect2>
+  </sect1>
+
+<!--
 <sect2 id="tech-log">
   <title>Aircraft Technical Log</title>
   <para>[Ezy-A 8.1.11]</para>
