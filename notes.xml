@@ -1355,12 +1355,14 @@
 	<para role="multicite">[EOM-A 8.1.11.4]</para>
 
       </sect3>
-<sect3>
+      <sect3>
 	<title>Cabin defect log</title>
 
 	<para>The SCCM enters details of cabin defects in the cabin defect log and presents it to
 	the commander at the end of the flight. The commander must review the defects and transfer
 	any airworthiness items to the technical log.</para>
+
+	<para role="multicite">[EOM-A 8.1.11.17]</para>
       </sect3>
     </sect2>
     <sect2>
@@ -1400,6 +1402,7 @@
 	  flight</para></listitem>
 	  <listitem><para>Crew passports</para></listitem>
 	</itemizedlist>
+
       <para role="multisite">[Ezy-A 8.1.12]</para>
       </sect3>
     </sect2>
