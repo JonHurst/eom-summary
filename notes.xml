@@ -1245,6 +1245,116 @@
 
       <para role="multicite">[EOM-A 8.1.10]</para>
     </sect2>
+    <sect2 id="tech-log">
+      <title>Aircraft Technical Log</title>
+      <sect3>
+	<title>Standard of entries</title>
+
+	<para>All entries must be completed in block capitals.</para>
+
+	<para>Any signature must be accompanied by a printed surname, the date and any applicable
+	authorization or approval numbers.</para>
+
+	<para>If an entry is changed, the incorrect entry must have a single line drawn through it,
+	the reason for the alteration entered next to the original text and a signature.</para>
+
+	<para>The Tech Log must be cross checked for errors after the final sector of a duty.</para>
+
+	<para role="multicite">[EOM-A 8.1.11.2, EOM-A 8.1.11.3, EOM-A 8.1.11.5]</para>
+
+      </sect3>
+      <sect3>
+	<title>Layout and usage</title>
+
+	<para>The tech log is divided into prologue pages and a main section.</para>
+
+	<para>The prologue pages include the Certificate of Release to Service, records of
+	Acceptable Deferred Defects (ADD), the Damage Register and "Briefing Notes to Crew". These
+	must all be checked prior to accepting an aircraft.</para>
+
+	<para>Each page in the main section is divided into a defect section and four tear-off
+	sector record strips. Unused strips on the current page should be struck out if any entry
+	has been made in the defect section or when a crew change occurs without a direct
+	handover.</para>
+
+	<para>The top half of each sector record strip is for recording details of a sector after it
+	has been completed. The Log Time and Landings brought forward boxes are no longer used and
+	should be struck through. The "Full Rated Thrust T/O" and autoland reporting are only
+	relevant to the 737 fleet. If the record of the previous sector is found to be incorrect or
+	incomplete on arrival at an aircraft the duty pilot must be contacted for authorisation to
+	continue.</para>
+
+	<para>The bottom half of the strip is used to record pre-departure data and acceptance of
+	the aircraft. The "Oil Check" and APU oil level boxes are not relevant to flight crew and
+	should be struck through. If anti-icing is carried out more than once it will be necessary
+	to use multiple strips; each strip must have a copy of all the pre-departure data.</para>
+
+	<para>Each main section page has three coloured carbon copy sheets. The pink page is used to
+	comply with regulations requiring retention of documentation at departure station. The pink
+	strip with the commander's acceptance signature must always be left behind. The entire pink
+	page should be left behind when there are no more usable strips, including when the strips
+	have been struck out in accordance with the paragraph above. All other pages belong to
+	engineering.</para>
+
+	<para role="multicite">[EOM-A 8.1.11.5, EOM-A 8.1.11.6]</para>
+      </sect3>
+      <sect3>
+	<title>Defect management</title>
+	<para>All defects should be immediately entered into the tech log, with the following
+	exceptions:
+
+	<itemizedlist>
+	  <listitem><para>Recording of ECAM maintenance status messages may be deferred until the
+	  aircraft is next at a "main base". Consultation of the MEL is still
+	  required.</para></listitem>
+
+	  <listitem><para>Cabin defects must be immediately entered into the Cabin Defects Log. If
+	  the defect does not affect airworthiness (consult MOC if there is any doubt), then it does
+	  not need to be transferred to the tech log.</para></listitem>
+	</itemizedlist></para>
+
+	<para>MOC must be contacted whenever a defect is entered in the tech log. Where possible MOC
+	will arrange for engineering to rectify the defect or clear it to an ADD sheet in accordance
+	with the MEL.</para>
+
+	<para>When no engineering support is available, MOC may request that flight crew either
+	carry out certain limited engineering tasks in accordance with EOM-A 8.1.11.5 or clear a
+	defect to the ADD pages. Deferral of defects by flight crew is only possible when the defect
+	is assessed by MOC as having no effect on airworthiness or when the relevant MEL entry has
+	no maintenance actions specified.</para>
+
+	<para>To defer a defect the commander should make an entry in the "ACTION TAKEN" column with
+	the MEL reference, repair interval and ADD number. The commander signs for this in the
+	"ACTION TAKEN" column; MOC will arrange for the Release to Service column to be signed off
+	by a licenced engineer at the earliest opportunity. The relevant ADD entry should then be
+	completed. If the defect does not affect airworthiness, it should be entered on the level 2
+	(blue) ADD sheet. Otherwise, it should be entered on the level 1 (pink) sheet. The complete
+	tech log defect description should be transferred, along with the tech log page reference
+	and item number, any MEL/CDL reference number and limiting criteria (e.g. expiry date). The
+	ADD sheet should not be signed by the commander; it will be signed off by the engineer who
+	signs the release to service.</para>
+
+	<para role="multicite">[EOM-A 8.1.11, EOM-B 2.3.25.2]</para>
+      </sect3>
+            <sect3>
+	<title>Recurrent engineering checks</title>
+
+	<para>The validity of recurrent engineering checks must be confirmed prior to accepting an
+	aircraft. This is done for most checks by checking that the Certificate of Release to
+	Service is valid. Completion of the daily check is recorded via an entry in the defect
+	column; it is valid until 23:59 on the day after the daily check was signed off.</para>
+
+	<para role="multicite">[EOM-A 8.1.11.4]</para>
+
+      </sect3>
+<sect3>
+	<title>Cabin defect log</title>
+
+	<para>The SCCM enters details of cabin defects in the cabin defect log and presents it to
+	the commander at the end of the flight. The commander must review the defects and transfer
+	any airworthiness items to the technical log.</para>
+      </sect3>
+    </sect2>
   </sect1>
 
 <!--
