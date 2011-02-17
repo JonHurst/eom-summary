@@ -86,7 +86,7 @@
       </listitem>
     </orderedlist>
     </para>
-    <para>[EOM-A 1.4, EOM-A 8.1]</para>
+    <para role="multicite">[EOM-A 1.4, EOM-A 8.1]</para>
 
   </sect1>
   <sect1 id="crew-composition">
@@ -105,7 +105,7 @@
       until he has successfully passed his first recurrent simulator check. A First Officer is
       considered inexperienced until he has completed the amount of flying detailed in EOM-A 4.1.2.</para>
 
-      <para>[EOM-A 4]</para>
+      <para role="multicite">[EOM-A 4]</para>
 
     </sect2>
     <sect2>
@@ -173,7 +173,7 @@
       doctor or paramedic. This rule may be overridden at the Captain's discretion if "extraordinary
       circumstances" apply.</para>
 
-      <para>[EOM-A 4.1.3, EOM-A 4.1.4]</para>
+      <para role="multicite">[EOM-A 4.1.3, EOM-A 4.1.4]</para>
 
     </sect2>
     <sect2>
@@ -189,7 +189,7 @@
       authorisation of the duty pilot or the Network Duty Manager. In this case, crew must be shown
       on the crew list.</para>
 
-      <para>[EOM-A 4.5, EOM-A 4.6]</para>
+      <para role="multicite">[EOM-A 4.5, EOM-A 4.6]</para>
 
     </sect2>
     <sect2>
@@ -202,7 +202,7 @@
       <para>Flight Ops Inspectors may act as operating crew with the approval of the duty pilot, but
       may only fly with a training Captain.</para>
 
-      <para>[EOM-A 4.7]</para>
+      <para role="multicite">[EOM-A 4.7]</para>
 
     </sect2>
   </sect1>
@@ -289,7 +289,7 @@
       </listitem>
     </orderedlist>
     </para>
-    <para>[EOM-A 5]</para>
+    <para role="multicite">[EOM-A 5]</para>
   </sect1>
   <sect1 id="health">
     <title>Crew Health Precautions</title>
@@ -301,7 +301,7 @@
       front of passengers.</para>
       <para>Alcohol must never be consumed whilst in uniform in a public place.</para>
       <para>Alcohol must not be taken onto the flight deck during flight.</para>
-      <para>[EOM-A 6.1.1]</para>
+      <para role="multicite">[EOM-A 6.1.1]</para>
     </sect2>
     <sect2>
       <title>Cosmic radiation</title>
@@ -311,7 +311,7 @@
 
       <para>Embryos and foetuses are particularly susceptible to harm from cosmic radiation. Crew
       should not fly when pregnant.</para>
-      <para>[EOM-A 6.1.3]</para>
+      <para role="multicite">[EOM-A 6.1.3]</para>
     </sect2>
     <sect2>
       <title>Medication</title>
@@ -323,7 +323,7 @@
       <para>It is aceptable to operate whilst taking non drowsy cold remedies such as Sudafed. Seek
       medical advice before operating whilst taking any other medication.</para>
 
-      <para>[EOM-A 6.1.2, EOM-A 6.1.4]</para>
+      <para role="multicite">[EOM-A 6.1.2, EOM-A 6.1.4]</para>
     </sect2>
     <sect2>
       <title>Disease and Immunisation</title>
@@ -359,12 +359,12 @@
       are responsible for obtaining and applying appropriate
       medication.</para>
 
-      <para>[EOM-A 6.1.5, EOM-A 6.1.16]</para>
+      <para role="multicite">[EOM-A 6.1.5, EOM-A 6.1.16]</para>
     </sect2>
     <sect2>
       <title>Blood donation</title>
       <para>Crew should not donate blood within 24 hours of a duty.</para>
-      <para>[EOM-A 6.1.6]</para>
+      <para role="multicite">[EOM-A 6.1.6]</para>
     </sect2>
     <sect2>
       <title>Diving</title>
@@ -373,13 +373,13 @@
 
       <para>Crew who have been treated for decompression sickness must not fly within 72 hours of
       recovery.</para>
-      <para>[EOM-A 6.1.7]</para>
+      <para role="multicite">[EOM-A 6.1.7]</para>
     </sect2>
     <sect2>
       <title>Surgery</title>
       <para>Aeromedical advice should be sought before returning to duty following any surgical
       procedure.</para>
-      <para>[EOM-A 6.1.11]</para>
+      <para role="multicite">[EOM-A 6.1.11]</para>
     </sect2>
     <sect2>
       <title>Hypoxia</title>
@@ -399,7 +399,7 @@
           </tbody>
         </tgroup>
       </table>
-      <para>[Human Factors For Pilots, Green et al.]</para>
+      <para role="multicite">[Human Factors For Pilots, Green et al.]</para>
 
     </sect2>
     <sect2>
@@ -410,7 +410,7 @@
 
       <para>If food poisoning from crew food is suspected, a Food Safety Report form must be
       completed and medical tests carried out to identify the strain.</para>
-      <para>[EOM-A 6.1.8]</para>
+      <para role="multicite">[EOM-A 6.1.8]</para>
     </sect2>
 
   </sect1>
@@ -788,7 +788,7 @@
       etc.); it may only be utilized upon the controller's determination that an adequate radar
       return is being received.</para>
 
-      <para>[EOM-A 8.1.1, Jeppesen Text Manual - "Introduction"]</para>
+      <para role="multicite">[EOM-A 8.1.1, Jeppesen Text Manual - "Introduction"]</para>
 
       </sect3>
 
@@ -812,7 +812,7 @@
       <para>Note that the MORAs presented on the LIDO OFPs do not have any of these corrections
       applied.</para>
 
-      <para>[EOM-A 8.1.1.3]</para>
+      <para role="multicite">[EOM-A 8.1.1.3]</para>
       </sect3>
 
       <sect3><title>Operational requirements</title>
@@ -848,7 +848,7 @@
       routes or instrument approach procedure or when being vectored at levels not less than
       MVA.</para>
 
-      <para>[EOM-A 8.1.1]</para>
+      <para role="multicite">[EOM-A 8.1.1]</para>
       </sect3>
 
     </sect2>
@@ -871,7 +871,7 @@
       and then either a visit in an operating capacity or aerodrome specific training in an approved
       flight simulator.</para>
 
-      <para>[EOM-A 8.1.2]</para>
+      <para role="multicite">[EOM-A 8.1.2]</para>
     </sect2>
 
     <sect2>
@@ -940,7 +940,7 @@
       <para>MDA and DA must always be above OCA and must therefore be adjusted if OCA is increased
       by NOTAM.</para>
 
-      <para>[EOM-A 8.1.3, EOM-A 8.1.5, EOM-A 8.4.2.1]</para>
+      <para role="multicite">[EOM-A 8.1.3, EOM-A 8.1.5, EOM-A 8.4.2.1]</para>
     </sect2>
 
     <sect2 id="alternates">
@@ -970,7 +970,7 @@
 	  not apply.</para></listitem>
         </orderedlist>
       </note>
-      <para>[EOM-A 8.1.2]</para>
+      <para role="multicite">[EOM-A 8.1.2]</para>
       </sect3>
       <sect3>
         <title>Cruise alternates</title>
@@ -992,7 +992,7 @@
 	</table>
 
 	</para>
-	<para>[EOM-B 5.1]</para>
+	<para role="multicite">[EOM-B 5.1]</para>
       </sect3>
     </sect2>
     <sect2>
@@ -1077,7 +1077,7 @@
       </varlistentry>
     </variablelist>
       </para>
-      <para>[EOM-A 8.1.7, EOM-B 5]</para>
+      <para role="multicite">[EOM-A 8.1.7, EOM-B 5]</para>
       <sect3>
 	<title>Reducing fuel loads to allow increased payload</title>
 
@@ -1098,7 +1098,7 @@
 	EOM-A 8.1.7.4.4. Note that a new OFP should be used; OCC were unable to provide one last
 	time I asked.</para>
 
-	<para>[EOM-A 8.1.7.4]</para>
+	<para role="multicite">[EOM-A 8.1.7.4]</para>
       </sect3>
     </sect2>
     <sect2>
@@ -1124,7 +1124,7 @@
 	<listitem><para>Landing weight (LW) = TOW - trip fuel</para></listitem>
       </itemizedlist></para>
 
-      <para>[EOM-A 8.1.8.1]</para>
+      <para role="multicite">[EOM-A 8.1.8.1]</para>
       </sect3>
 
       <sect3><title>Payload calculation</title>
@@ -1199,7 +1199,7 @@
       baggage. It is not permissable to use standard weights for baggage if this leads to a value
       less than known actual weights. Freight must always be weighed.</para>
 
-      <para>[EOM-A 8.1.8]</para>
+      <para role="multicite">[EOM-A 8.1.8]</para>
       </sect3>
 
       <sect3>
@@ -1210,7 +1210,7 @@
 	be used. Otherwise the correct split (e.g. rows 1-9, 10-18, 19-26 for A319) should
 	be used.</para>
 
-	<para>[EOM-B 7.1.1]</para>
+	<para role="multicite">[EOM-B 7.1.1]</para>
       </sect3>
 
       <sect3>
@@ -1229,7 +1229,7 @@
 	positive, take-off performance must be recalculated; a 1° reduction in FLEX (assuming the
 	new value is greater that ISA+30) will suffice for changes up to 250kg.</para>
 
-	<para>[EOM-B 7.4]</para>
+	<para role="multicite">[EOM-B 7.4]</para>
       </sect3>
 
     </sect2>

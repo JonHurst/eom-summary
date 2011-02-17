@@ -105,4 +105,19 @@
   </l:l10n>
 </l:i18n>
 
+<xsl:template match="para[@role='multicite']">
+  <xsl:variable name="keep.together">
+    <xsl:call-template name="pi.dbfo_keep-together"/>
+  </xsl:variable>
+  <fo:block keep-with-previous="always" xsl:use-attribute-sets="normal.para.spacing">
+    <xsl:if test="$keep.together != ''">
+      <xsl:attribute name="keep-together.within-column"><xsl:value-of
+                      select="$keep.together"/></xsl:attribute>
+    </xsl:if>
+    <xsl:call-template name="anchor"/>
+    <xsl:apply-templates/>
+  </fo:block>
+</xsl:template>
+
+
 </xsl:stylesheet>
