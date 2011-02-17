@@ -1334,9 +1334,17 @@
 	ADD sheet should not be signed by the commander; it will be signed off by the engineer who
 	signs the release to service.</para>
 
-	<para role="multicite">[EOM-A 8.1.11, EOM-B 2.3.25.2]</para>
+	<para>Successful computer resets on the Airbus should be recorded by making a suitable entry
+	in the defect section, e.g. "CREW RESET: COM CIDS 1+ 2 FAULT ON THE GROUND, SUCCESSFUL RESET
+	AS PER QRH". Information that may be useful but which does not require immediate engineering
+	action may, with MOC's agreement, be recorded as a "FOR INFO" entry in a similar way,
+	e.g. "FOR INFO: FMGC1 FAILED. RECOVERED WITH NO CREW INTERVENTION". These entries do not
+	count as open defects, so signatures should be placed below the entry and the associated
+	"Action Taken" and RTS sections should be struck through.</para>
+
+	<para role="multicite">[EOM-A 8.1.11, EOM-B 2.3.25.2, EOM-B 3.3]</para>
       </sect3>
-            <sect3>
+      <sect3>
 	<title>Recurrent engineering checks</title>
 
 	<para>The validity of recurrent engineering checks must be confirmed prior to accepting an
