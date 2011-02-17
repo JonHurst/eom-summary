@@ -1355,101 +1355,49 @@
 	any airworthiness items to the technical log.</para>
       </sect3>
     </sect2>
+    <sect2>
+      <title>Documents to be carried</title>
+      <sect3>
+	<title>Certificates</title>
+	<itemizedlist>
+	  <listitem><para>Certificate of Registration</para></listitem>
+	  <listitem><para>Certificate of Airworthines</para></listitem>
+	  <listitem><para>Noise Certificate (may be a copy)</para></listitem>
+	  <listitem><para>Air Operator Certificate (may be a copy)</para></listitem>
+	  <listitem><para>Aircraft Radio Licence</para></listitem>
+	  <listitem><para>Third Party Liability Insurance Certificates (may be copies)</para></listitem>
+	  <listitem><para>Flight Crew Licences</para></listitem>
+	</itemizedlist>
+      </sect3>
+      <sect3>
+	<title>Manuals</title>
+	<itemizedlist>
+	  <listitem><para>Those parts of the Operations Manual relevant to the duties of crew</para></listitem>
+	  <listitem><para>Maps and Charts required to complete the flight</para></listitem>
+	  <listitem><para>Search and Rescue procedures</para></listitem>
+	</itemizedlist>
+      </sect3>
+      <sect3>
+	<title>Other</title>
+	<itemizedlist>
+	  <listitem><para>Technical Log</para></listitem>
+	  <listitem><para>Journey Log</para></listitem>
+	  <listitem><para>Operational Flight Plan (includes Air Traffic Service Flight Plan)</para></listitem>
+	  <listitem><para>Weather and Notam brief</para></listitem>
+	  <listitem><para>Loadsheet</para></listitem>
+	  <listitem><para>Forms to comply with reporting procedures</para></listitem>
+	  <listitem><para>Notification of special loads (if applicable)</para></listitem>
+	  <listitem><para>Notification of special passengers (e.g. deportees)</para></listitem>
+	  <listitem><para>Any other documentation required by states concerned with the
+	  flight</para></listitem>
+	  <listitem><para>Crew passports</para></listitem>
+	</itemizedlist>
+      <para role="multisite">[Ezy-A 8.1.12]</para>
+      </sect3>
+    </sect2>
   </sect1>
 
 <!--
-<sect2 id="tech-log">
-  <title>Aircraft Technical Log</title>
-  <para>[Ezy-A 8.1.11]</para>
-  <sect3>
-    <title>Standard of entries</title>
-    <para>All entries must be completed in block capitals, and any signature must be followed by a printed surname, any
-    applicable authorization or approval numbers and the date.</para>
-    <para>If an entry is made that is also the subject of an ASR, the descriptions should be the same on the two
-    documents.</para>
-    <para>If an entry is changed, the incorrect entry must have a single line drawn through it, the reason for the
-    alteration must be entered next to the original text and the alteration must be signed.</para>
-  </sect3>
-  <sect3>
-    <title>Layout</title>
-    <para>Each page is divided into a defect section and four tear-off sector record strips. The top half of each
-    tear-off strip is for recording details of a sector that has just been completed. The bottom half of the strip is
-    used to record pre-departure data.</para>
-    <para>With the exception of the Daily Check, engine starts and fuel used items, if anything has been entered in the
-    defect column, a new page must be started for the next flown sector, and any remaining record strips must be crossed
-    out.</para>
-    <para>Fuel figures should be recorded to the nearest 100kg. Where provided, the fuel uplift should be recorded
-    corrected for temperature [Ezy-A 8.2.1]. Oil figures should be entered if they can be determined
-    according to the manufacturer's recommendations, and should be crossed out if they cannot <emphasis>{find out the
-    Boeing recommendations on this}</emphasis>. The "Oil Check" box is only applicable to engineering, and should be
-    crossed out. Ground de-icing should be recorded or "nil" circled. If de-icing is done more than once, all the data
-    on the current strip should be copied to the next strip, and the de-icing recorded there.</para>
-  </sect3>
-  <sect3>
-    <title>Removal of pages</title>
-    <para>The pink detachable sector record is removed after the Captain signs his acceptance, and routed to the
-    maintenance organization. The whole pink page is removed if an entry has been made in the defect column (whether
-    cleared by Engineering or application of the Acceptable Deferred Defects <firstterm>(ADD)</firstterm> procedures),
-    or after scheduled maintenance. The yellow page is removed once all the sector strips have been removed or when the
-    whole pink page is removed.</para>
-  </sect3>
-  <sect3>
-    <title>Defect deferral</title>
-    <para>When it is not possible to clear a defect prior to the next sector, providing that it is specified in the MEL
-    as allowable or has been evaluated by an appropriately authorised engineer as not being an airworthiness item, it
-    may be transferred to one of the ADD Pages. Unless there are maintenance actions specified, the commander may carry
-    out this action.</para>
-    <para>If the defect does not affect airworthiness, it should be entered on the level 2 (blue) ADD
-    sheet. Otherwise, it should be entered on the level 1 (pink) sheet. The complete tech log defect description should
-    be transferred, along with the tech log page reference and item number, any MEL/CDL reference number and limiting
-    criteria (e.g. expiry date). Once this is done, the MEL/CDL reference, the repair interval and the ADD reference can
-    be entered in the "Action Taken" column and the defect can be signed off.</para>
-    <para>The ADD sheet should not be signed by the commander, but MOC must be informed so that it can be signed by
-    engineering as soon as possible.</para>
-  </sect3>
-  <sect3>
-  <title>Cabin defect log</title>
-  <para>The SCCM enters details of cabin defects in the cabin defect log and presents it to the commander at the end of
-  the flight. The commander must review the defects and transfer any airworthiness items to the technical log.</para>
-  </sect3>
-</sect2>
-<sect2>
-  <title>Documents to be carried</title>
-  <para>[Ezy-A 8.1.12]</para>
-  <sect3>
-    <title>Certificates</title>
-    <itemizedlist>
-      <listitem><para>Certificate of Registration</para></listitem>
-      <listitem><para>Certificate of Airworthines</para></listitem>
-      <listitem><para>Noise Certificate (may be a copy)</para></listitem>
-      <listitem><para>Air Operator Certificate (may be a copy)</para></listitem>
-      <listitem><para>Aircraft Radio Licence</para></listitem>
-      <listitem><para>Third Party Liability Insurance Certificates (may be copies)</para></listitem>
-      <listitem><para>Flight Crew Licences</para></listitem>
-    </itemizedlist>
-  </sect3>
-  <sect3>
-    <title>Manuals</title>
-    <itemizedlist>
-      <listitem><para>Those parts of the Operations Manual relevant to the duties of crew</para></listitem>
-      <listitem><para>Maps and Charts required to complete the flight</para></listitem>
-      <listitem><para>Search and Rescue procedures</para></listitem>
-    </itemizedlist>
-  </sect3>
-  <sect3>
-    <title>Other</title>
-    <itemizedlist>
-      <listitem><para>Technical Log</para></listitem>
-      <listitem><para>Journey Log</para></listitem>
-      <listitem><para>CFP (includes Operational Flight Plan and Air Traffic Service Flight Plan)</para></listitem>
-      <listitem><para>Weather and Notam brief</para></listitem>
-      <listitem><para>Loadsheet</para></listitem>
-      <listitem><para>Forms to comply with reporting procedures</para></listitem>
-      <listitem><para>Notification of special loads (if applicable)</para></listitem>
-      <listitem><para>Notification of special passengers (e.g. deportees)</para></listitem>
-    </itemizedlist>
-  </sect3>
-</sect2>
   </sect1>
   <sect1 id="ground-handling">
     <title>Operating procedures: Ground Handling Instructions</title>
