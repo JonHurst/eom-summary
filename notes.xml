@@ -1124,6 +1124,9 @@
 	<listitem><para>Landing weight (LW) = TOW - trip fuel</para></listitem>
       </itemizedlist></para>
 
+      <para>In addition to the main structural weights, there are maximum load limits for the cargo
+      compartments. These may be found in FCOM 2.1.20.5000.</para>
+
       <para role="multicite">[EOM-A 8.1.8.1]</para>
       </sect3>
 
@@ -1627,64 +1630,83 @@
       </sect3>
 
     </sect2>
-
-  </sect1>
-<!--
     <sect2>
-      <title>Carriage of cargo</title>
-      <para>[Ezy-A 8.2.2]</para>
-      <para>Wherever possible, cargo should be carried in a seperate hold to baggage. This is mandatory if there is any
-      risk that cargo could contaminate baggage. Usually, cargo will be carried in the forward hold. It is the
-      dispatcher's responsibility to ensure correct loading and that the cargo manifest matches the cargo carried. The
-      cargo documents are the responsibility of the SCCM during flight, and they should be handed <emphasis>immediately
-      </emphasis> on arrival to the dispatcher.</para>
+      <title>Baggage and freight</title>
+
       <sect3>
-        <title>Human remains</title>
-        <para>Coffins may be carried if accompanied by a death certificate.</para>
-        <para>Ashes may be carried if accompanied by a death certificate and a certificate of cremation. They should be
-        carried in a secure and appropriate container in the hand baggage of the passenger carrying them.</para>
+	<title>Cabin baggage</title>
+
+	<para>Each passenger may bring one piece of hand baggage with maximum dimensions of 560mm x
+	450mm x 250mm. Cabin baggage may only be stowed in the overhead lockers or under the
+	seats.</para>
+
+	<para>Underseat stowage should not be used in overwing exit rows, if the seat's restraint
+	bar is insufficient to be effective given the size of the baggage or if the baggage would
+	restrict egress from a seat row.</para>
+
+	<para>Placarded weight limitations on overhead stowages must be respected, and bulk should
+	not prevent secure closing of the doors. Where there is emergency equipment stowed in the
+	overhead lockers, it must not be impeded.</para>
+
+	<para>Carriage of personal medical oxygen bottles less than 500mm long and 250mm in diameter
+	is permitted. Details of correct stowage may be found in EOM-E 2.4.9.2.</para>
+
+	<para role="multicite">[EOM-A 8.2.2.15,	EOM-E 2.4.9]</para>
       </sect3>
+
       <sect3>
         <title>Musical instruments</title>
-        <para>Large musical instruments may be carried providing the passenger has purchased a seat for the
+
+	<para>Small musical instruments (max 300mmx1170mmx380mm) may be stowed in overhead
+	lockers. One extra small piece of hand baggage is allowed to be carried in this case.</para>
+
+       <para>Large musical instruments may be carried providing the passenger has purchased a seat for the
         instrument. A maximum of two instruments may be carried. An instrument must weigh less than 75kg and have a
         centre of mass less than 30cm above the seat cushion. It must be secured to a non-restricted window seat.</para>
+
+	<para role="multicite">[EOM-A 8.2.2.15]</para>
       </sect3>
+
       <sect3>
         <title>Aircraft spares</title>
-        <para>Aircraft spares that are not classified as dangerous goods may be carried on all routes except those to
-        and from Switzerland. No flight crew paperwork is required beyond inclusion on the load sheet.</para>
+
+        <para>OCC may authorise carriage of spares for AOG easyJet aircraft except on routes to and
+        from Switzerland. Spares must not be classified as dangerous goods. Individual items over
+        60kg require specific handling arrangements to be made. easyJet engineering are responsible
+        for delivery, labelling security screening and provision of a special load
+        NOTOC. Engineering must oversee the offload of the spares on arrival.</para>
+
+	<para role="multicite">[EOM-A 8.2.2.15]</para>
       </sect3>
+
       <sect3>
         <title>FDM Data</title>
-        <para>FDM data cards/ disks may be carried by hand. They are transported in blue padded zip sealed bags, and
-        will already have been x-rayed before loading.</para>
-        <para>If the zip seal is broken or missing, the bag may still be carried if it is thoroughly searched. The
-        broken seal should be reported to the FDM department.</para>
+
+        <para>FDM data cards/ disks may be carried in the flight deck. They are transported in blue
+        padded zip sealed bags, and will already have been x-rayed before loading. They will be
+	delivered and collected by engineering personnel.</para>
+
+        <para>If the zip seal is broken or missing, the bag may still be carried if it is thoroughly
+        searched. The broken seal should be reported to the FDM department.</para>
+
+	<para role="multicite">[EOM-A 8.2.2.15]</para>
       </sect3>
-      <sect3>
-        <title>Carriage of Royal Mail and British Forces Posted Overseas mail</title>
-        <para>Royal Mail may be carried either under the standard Post Office manifest documents (P2026 for domestic and
-        CN38 or AV7 for international), or under the cargo handling agent's own manifests. Any mail manifest must show
-        the weight and number of pieces of mail. Requirements for British Forces Posted Overseas mail are the
-        same.</para>
-      </sect3>
-      <sect3>
-        <title>Secure Cargo</title>
-        <para>Secure cargo is MOD diplomatic/ classified material carried by a diplomatic courier. It is exempt from
-        security screening, but is guaranteed to not contain problem items. The courier will oversee the ramp transfer
-        of the cargo and the closure of the hold and will then board the aircraft, identify himself to the SCCM (who
-        must check his ID) and sit in the seat nearest door 1L. On arrival, he will be first off the aircraft to be
-        present when the hold is opened. The courier must be briefed of any diversions ASAP, and any support required
-        should be provided.</para>
-      </sect3>
+
       <sect3>
         <title>Human Organs for Transplantation</title>
+
         <para>These will arrive at the aircraft in a box sealed with tamper-proof tags. They are exempt security
         screening, but the police will have verified the origin of the consignment before accepting the delivery. The
         box should be carried in the flight deck under the Captain's supervision.</para>
+
+	<para role="multicite">[EOM-E 2.4.11]</para>
+
       </sect3>
+
     </sect2>
+
+  </sect1>
+<!--
     <sect2>
       <title>Ground de-icing</title>
       <para>[Ezy-A 8.2.3]</para>
