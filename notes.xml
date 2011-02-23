@@ -1462,6 +1462,172 @@
 
     <para role="multicite">[EOM-A 8.2.1]</para>
     </sect2>
+
+    <sect2>
+      <title>Passenger groups</title>
+
+      <sect3>
+	<title>Able Bodied Passengers</title>
+
+	<para>Able bodied passengers (ABP) are those adult passengers that are deemed fit and strong
+	and thus likely to assist evacuation. Designated seats near emergency exits are for the use
+	of ABPs only.</para>
+
+	<para role="multicite">[EOM-A 8.2.2.1]</para>
+      </sect3>
+
+      <sect3 id="PRM">
+        <title>Persons of Reduced Mobility</title>
+        <para>A passenger is considered a Person of Reduced Mobility (PRM) when their physical,
+        medical or mental condition would make them likely to impede an evacuation. The number of
+        PRMs on board must not exceed the number of ABPs.  PRMs should be pre-boarded and seated
+        where they will not obstruct emergency exits or impede crew carrying out emergency
+        procedures.</para>
+
+	<para>Certain conditions entirely preclude carriage. A list is presented in EOM-A 8.2.2.2.</para>
+
+	<para role="multicite">[EOM-A 8.2.2.1, EOM-A 8.2.2.2]</para>
+
+      </sect3>
+
+      <sect3>
+        <title>Infants and children</title>
+
+        <para>Infants (children under two years) may fly free of charge if they sit on the lap of
+        the accompanying person. A maximum of two infants is allowed per accompanying person.  The
+        maximum total number of infants on laps is 10% of the number of seats on the
+        aircraft. Infants under two weeks of age are not permitted to fly. Premature babies are not
+        permitted to fly until six months post expected date.</para>
+
+        <para>A child is defined as a person aged between 2 years and 14 years inclusive. Children
+        must be accompanied by a person aged 16 years or older at a maximum ratio of 10:1.</para>
+
+        <para>In exceptional circumstances the carriage of an unaccompanied minor may be authorised
+        by the ALO. Under no circumstances may an unconnected passenger be allowed to accept
+        responsibility for an unaccompanied minor.</para>
+
+        <para>The following restraints are acceptable:
+        <table>
+          <title>Acceptable restraints for infants and children</title>
+          <tgroup cols="2">
+            <colspec colnum="1" colwidth="*"/>
+            <colspec colnum="2" colwidth="*"/>
+            <thead>
+              <row><entry>Restraint</entry><entry>Age range</entry></row>
+            </thead>
+            <tbody>
+              <row><entry>Infant extension seatbelt</entry><entry>2 weeks to 2 years</entry></row>
+              <row><entry>Suitable car-type safety seat<footnote><para>See EOM-E 2.4.12.3 for
+	      guidance on suitability</para></footnote></entry><entry>6 months to 3
+	      years</entry></row>
+	      <row><entry>Child retraint device (CARES)</entry><entry>Approx 1 to 4
+	      years<footnote><para>Specifically the child must be between 10kg and 20kg and capable
+	      of sitting upright unaided.</para></footnote></entry></row>
+	      <row><entry>Normal seatbelt</entry><entry>2 years or more</entry></row>
+            </tbody>
+          </tgroup>
+        </table>
+        </para>
+	<para role="multicite">[EOM-A 8.2.2.4, EOM-E 2.4.12]</para>
+      </sect3>
+
+     <sect3>
+        <title>Expectant mothers</title>
+        <para>Between 28 and 35 weeks (inclusive) of pregnancy, a medical certificate signed by a
+        doctor or midwife confirming pregnancy stage and fitness to fly is required. Passengers
+        cannot be accepted for travel on or after week 36 of pregnancy.</para>
+
+	<para>Infants may travel on the laps of expectant mothers.</para>
+
+	<para role="multicite">[EOM-A 8.2.2.4, EOM-E 2.4.12]</para>
+      </sect3>
+
+      <sect3 id="prisoners">
+	<title>Escorted passengers</title>
+
+	<para>Prisoners will only be accepted for carriage on the authority of the Network Duty
+	Manager. Normally a maximum of one prisoner will be allowed per flight.</para>
+
+	<para>They must be accompanied by either police, prison officers or members of a
+	recognised and apponted Civilian Security Firm. Convicted prisoners will normally be
+	accompanied by two prison officers, others may have a single escort. Escorts will travel in
+	plain clothes and will carry restraints, but not firearms.</para>
+
+	<para>Prisoners and escorts should board first and disembark last. They should be seated at
+	the rear of the aircraft.</para>
+
+	<para role="multicite">[EOM-A 8.2.2.6]</para>
+      </sect3>
+
+      <sect3>
+        <title>Deportees</title>
+
+	<para>When immigration authorities refuse a passenger admission, an Order to remove the
+	passenger may be served on easyJet, possibly through the relevant commander. The commander
+	retains the right to refuse the Order on safety grounds. UK immigration authorities have the
+	power to require that an unacceptable passenger be detained on board.</para>
+
+        <para>The Commander must be informed on all occasions when a deportee is carried, and the
+	deportee must be identified to the Commander ans SCCM</para>
+
+	<para>The passport and other travel documentation of the deportee, including any "Form of
+	Authority", sould be retained in flight by the SCCM and passed to the handling agent on
+	arrival. The deportee must not be permitted to disembark at any point within the deporting
+	territory unless escorted by a dispatcher or passenger handling staff. The deportee may
+	disembark at a destination other than that in their ticket provided Immigration Authorities
+	are contacted prior to arrival.</para>
+
+	<para>If the deportee is escorted, seating should be as per escorted passengers. Otherwise
+	it should be as per PRMs.</para>
+
+	<para>This section does not apply to the class of deportees referred to as "not-satisfied
+	genuine visitors", who should be treated as normal passengers.</para>
+
+	<para role="multicite">[EOM-A 8.2.2.7]</para>
+      </sect3>
+
+      <sect3>
+        <title>Stowaways</title>
+
+        <para>If a stowaway is discovered the police should be requested to meet the aircraft on
+        arrival so that the stowaway may be detained. The company should be informed and an ASR
+        filed.</para>
+
+	<para role="multicite">[EOM-A 8.2.2.1]</para>
+
+      </sect3>
+
+      <sect3>
+	<title>Human remains</title>
+
+	<para>Only ashes are permitted. They must be be appropriately packaged, carried in hand
+	baggage and accompanied by a copies of the death and cremation certificates.</para>
+
+	<para role="multicite">[EOM-A 8.2.2.5]</para>
+
+      </sect3>
+
+       <sect3>
+        <title>Live animals</title>
+
+        <para>The only permitted live animals are official Assistance and Guide Dogs. These may be
+        carried on domestic and international flights within the EU, Croatia and Switzerland. UK
+        International flights (which are subject to the UK Pet Passport Scheme) are restricted to
+        LTN, STN, NCL, BRS and BFS.</para>
+
+	<para>Dogs must be accompanied by official documentation; the identity tag attached to the
+	dog's official harness plus the owner's identity card will suffice. Larger dogs will be
+	accomodated on the cabin floor; smaller dogs may be carried on the owner's lap.  The owner
+	must provide a suitable harness that attaches to their seatbelt and provides an effective
+	level of restraint during take-off, landing and turbulence. It is acceptable for the dog to
+	be subject to less restraint during cruise.</para>
+
+	<para role="multicite">[EOM-E 2.4.10]</para>
+
+      </sect3>
+
+    </sect2>
+
   </sect1>
 <!--
     <sect2>
