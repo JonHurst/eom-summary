@@ -1286,8 +1286,10 @@
 
 	<para>The bottom half of the strip is used to record pre-departure data and acceptance of
 	the aircraft. The "Oil Check" and APU oil level boxes are not relevant to flight crew and
-	should be struck through. If anti-icing is carried out more than once it will be necessary
-	to use multiple strips; each strip must have a copy of all the pre-departure data.</para>
+	should be struck through. The ambient temperature fuel uplift should be recorded rather than
+	temperature corrected figures. To calculate approximate uplift in kg, multiply the uplift in
+	litres by 0.8. If anti-icing is carried out more than once it will be necessary to use
+	multiple strips; each strip must have a copy of all the pre-departure data.</para>
 
 	<para>Each main section page has three coloured carbon copy sheets. The pink page is used to
 	comply with regulations requiring retention of documentation at departure station. The pink
@@ -1296,7 +1298,7 @@
 	have been struck out in accordance with the paragraph above. All other pages belong to
 	engineering.</para>
 
-	<para role="multicite">[EOM-A 8.1.11.5, EOM-A 8.1.11.6]</para>
+	<para role="multicite">[EOM-A 8.1.11.5, EOM-A 8.1.11.6, EOM-A 8.2.1.3]</para>
       </sect3>
       <sect3>
 	<title>Defect management</title>
@@ -1408,41 +1410,60 @@
     </sect2>
   </sect1>
 
-<!--
-  </sect1>
   <sect1 id="ground-handling">
-    <title>Operating procedures: Ground Handling Instructions</title>
+    <title>Ground Handling Instructions</title>
     <sect2>
       <title>Fuelling procedures</title>
-      <para>[Ezy-A 8.2.1]</para>
-      <para>The fuel supplier is responsible for ensuring that all fuel/ water checks are completed, that the bowser is
-      properly earthed to the aircraft and that fuel caps are properly secured.</para>
-      <para>The commander (or suitable delegate) must ensure that fuel requirement is accurately communicated. When
-      arriving on stand the fuel chart may be displayed once a clear evacuation route from the aircraft is
-      established. The fuel requirement, including the requirement for each tank, must also be passed in person. If
-      there is any possibility of confusion arising in verbal communications, a Fuel Data Card should be used.</para>
-      <para>The commander must also ensure that no smoking takes place within 15m of the aircraft, that strobe lights
-      are not operated and that local restrictions are checked before starting the APU while fuelling.</para>
-      <para>PNF is responsible for monitoring the fuel gauges to ensure the correct amount of fuel is uplifted.</para>
+      <para>The fuel supplier is responsible for ensuring that all fuel quality checks are
+      completed, that the bowser is properly earthed to the aircraft and that fuel caps are properly
+      secured.</para>
+
+      <para>Whilst fuelling, no smoking may take place within 15m of the aircraft and the strobe
+      lights must not be operated. There may also be local restrictions regarding starting the
+      APU. If fuel vapour is detected inside the cabin or any other hazard arises, fuelling must be
+      suspended immediately. In the unlikely event that it becomes necessary to uplift wide cut fuel
+      there are extra safety restrictions detailed in EOM-A 8.2.1.</para>
+
       <para>Refuelling may take place with passengers on board, but the following restrictions apply:
       <itemizedlist>
-        <listitem><para>At least one pilot must be on the flight deck, and he must be in two way communication via
-        intercom with the supervising ground crew.</para></listitem>
-        <listitem><para>No individual items of electrical equipment may be turned on or off.</para></listitem>
-        <listitem><para>Passengers must be informed that refuelling is taking place and instructed to have their
-        seatbelts unfastened and told the toilets are out of use. The "No Smoking" sign should be on and the "Fasten
+	<listitem><para>Local restrictions must be checked.</para></listitem>
+
+        <listitem><para>At least one pilot must be on the flight deck.</para></listitem>
+
+	<listitem><para>A full cabin crew compliment is required. There must be at least one
+	cabin crew member at each set of floor level exits.</para></listitem>
+
+	<listitem><para>Passengers must be informed that refuelling is taking place and instructed to have their
+        seatbelts unfastened and told the toilets are out of use. Cabin crew should make a visual
+	check that passenger seatbelts remain unfastended. The "No Smoking" sign should be on and the "Fasten
         Seatbelts" sign should be off.</para></listitem>
-        <listitem><para>Three cabin crew are required and they must be at boarding stations. The front door must be open
-        with steps or airbridge attached. The rear door should ideally also be open with steps attached. If this is not
-        possible, refuelling may still take place as long as the slide is serviceable, the refueller is informed and the
-        cabin crew ensure the slide deployment area beneath the exit remains clear.</para></listitem>
-        <listitem><para>Local restrictions must be checked.</para></listitem>
+
+	<listitem><para>Door 1L must be open with steps or airbridge attached. Door 2L should
+	ideally also be open with steps attached, but it may remain closed provided the slide is
+	servicable. The ground area beneath exits and slide deployment areas must remain clear and
+	the positioning of fuelling equipment must not impede evacuation</para></listitem>
+
       </itemizedlist>
       </para>
-      <para>If ground transfer or defuelling is required, the fuel pump low pressure lights must be constantly monitored
-      and the fuel pumps turned off at the first indication of low pressure. The fuel quantity in the tank that is being
-      transferred from must not drop below 900kg. Ground transfer should not be used for de-icing.</para>
+
+      <para>Defuelling is not permitted with passengers on board.</para>
+
+      <para>The fuel card may be used to expedite the fuelling process, but fuel requirement must
+      also be passed in person. Display of the fuel card authorises the commencement of fuelling; if
+      any passengers remain on board it must be delayed until all relevent restrictions have been
+      met. Communication between flight deck and refueller is required prior to commencement of
+      refuelling. Positive acknowledgement of the fuel card by the refueller is deemed sufficient to
+      fulfill this requirement, but the member of flight crew on the flight deck must remain in
+      "visual contact" with the refueller whenever any passengers are on board. {TODO: EOM-A is
+      incredibly wooly on this; confirm meaning}. The fuel card must be stowed once fuelling is
+      complete.</para>
+
+      <para>The flight crew must monitor the fuel gauges during fuelling.</para>
+
+    <para role="multicite">[EOM-A 8.2.1]</para>
     </sect2>
+  </sect1>
+<!--
     <sect2>
       <title>Carriage of special passengers</title>
       <para>[Ezy-A 8.2.2]</para>
