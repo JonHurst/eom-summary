@@ -1705,41 +1705,65 @@
 
     </sect2>
 
-  </sect1>
-<!--
     <sect2>
-      <title>Ground de-icing</title>
-      <para>[Ezy-A 8.2.3]</para>
+      <title>Ground ice protection</title>
+
       <sect3>
         <title>Types of fluid</title>
+
         <para>ISO Type I fluid has a high glycol content and low viscosity. De-icing performance is good, but protection
         from freezing precipitaion is poor. It is best used for removing frozen deposits as part of a two stage process
-        or when precipitation has stopped. Type I fluids are usually clear.</para>
+        or when precipitation has stopped. Type I fluids are usually clear or light orange.</para>
+
         <para>ISO Type II fluid includes a pseudo plastic thickening agent. This allows it to remain on the surface
         after application to provide protection from freezing precipitation. Shearing of the fluid allows it to flow off
         the critical surfaces as airspeed increases. Type II fluids are usually straw coloured.</para>
-        <para>ISO Type IV fluid is similar in operation to type II fluid, but uses more advanced thickening systems to
+
+        <para>ISO Type IV fluid is similar in operation to Type II fluid, but uses more advanced thickening systems to
         give longer holdover times. Type IV fluids are usually green.</para>
-        <para>All fluids may be diluted with water. Required Type I fluid concentration is a function of OAT only, as
-        dilution has a negligible effect on holdover. Required Type II and Type IV concentrations are a factor of OAT
-        and holdover requirements. Tables are presented in [Ezy-A 8.2.4.6].</para>
+
+        <para>Heated water may be used as the first step of a two step process. All fluids may be
+        diluted with water. Required Type I fluid concentration is a function of OAT only, as
+        dilution has a negligible effect on holdover. Required Type II and Type IV concentrations
+        are a factor of OAT and holdover requirements.</para>
+
+	<para role="multicite">[EOM-A 8.2.4.3.2]</para>
       </sect3>
       <sect3>
+	<title>Holdover times</title>
+
+	<para>Guideline holdover time tables are presented on the Airbus LPC and at the front of the
+	NTC book. Definitions of precipitation type for use in the tables are presented at EOM-A
+	8.2.4.2. For a two step process, the holdover time begins at the commencement of the second
+	step. The lower time limit indicates holdover time for "moderate" precipitation, the higher
+	for "light" precipitation. Holdover times will be shortened by high winds, jet blast or when
+	the skin temperature is less than OAT.</para>
+
+	<para role="multicite">[EOM-A 8.2.4.3.3, EOM-A 8.2.4.3.4]</para>
+      </sect3>
+
+      <sect3>
         <title>Precautions</title>
+
         <para>De-icing fluid should not be used where it could cause loss of vision while being shed during the take-off
         roll.</para>
+
         <para>A walk-round inspection should be completed by a qualified person after de-icing is completed. Flying and
         control surfaces should be clear of deposits, intake and drain holes should be clear of obstructions and a check
         should be made that de-icing fluid that has been diluted by the removed deposits has not refrozen on other parts
         of the aircraft. Undercarriage components should be checked for cleanliness and microswitches and uplocks should
         be checked for normal operation. If possible, compressors should be rotated by hand to ensure they have not
         frozen.</para>
+
         <para>The flight crew should also move the control surfaces over their full range to ensure that they are free
         of obstruction.</para>
-        <para>Note that high winds or jet blast may cause damage to the de-icing fluid film and significantly shorten
-        holdover times.</para>
+
+	<para role="multicite">[EOM-A 8.2.4.3.4]</para>
       </sect3>
     </sect2>
+
+  </sect1>
+<!--
   </sect1>
   <sect1 id="flight-procedures">
     <title>Operating Procedures: Flight procedures</title>
