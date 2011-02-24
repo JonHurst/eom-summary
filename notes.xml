@@ -2,7 +2,8 @@
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN" "file:///usr/share/sgml/docbook/xml-dtd-4.4/docbookx.dtd">
 <article id="revision-notes">
   <title>Summary of easyJet manuals</title>
-  <sect1 id="commander-duties">
+  <subtitle><phrase condition="airbus">Airbus</phrase><phrase condition="boeing">Boeing</phrase> Edition</subtitle>
+    <sect1 id="commander-duties">
     <title>Authority, Duties and Responsibilities of a Commander </title>
     <para>The commander has overall responsibility for the safety of the aircraft, its occupants and its cargo, and
     the authority to issue any commands required to secure this. He has the authority to increase any safety
@@ -1787,13 +1788,104 @@
 
     <sect2>
       <title>Navigation policy</title>
-      <para>[Ezy-A 8.3.2]</para>
-      <para>Basic RNAV equipment is mandatory throughout Europe. This requires minimum track keeping accuracy of +/- 5nm
-      for 95% of the flight time (RNP-5). All EZY aircraft can meet this requirement, even with an inoperative DME
-      (providing the remaining DME is auto tuning).</para>
-      <para>RNAV SIDs and STARs may be followed if they are in the FMC database. The use of BRNAV on published feeder
-      routes into and out of terminal airspace is only permitted when above the relevant safety altitude.</para>
+
+      <sect3>
+	<title>Required Navigation Performance</title>
+
+	<para>Navigation requirements for a given phase of flight are defined in terms of Required
+	Navigation Performance (RNP). RNP is a value with units of nautical miles. To comply with a
+	given RNP, an aircraft must have a maximum navigational error equal to RNP for 95% of flight
+	time. In addition, the probability of an unannunciated navigational error of greater than
+	double the RNP value must be less than 10<superscript>-5</superscript> per flight hour and
+	the probability of an annunciated loss of RNP capabillity must be less than
+	10<superscript>-4</superscript> per flight hour.</para>
+
+	<para>easyJet aircraft are capable of the most restrictive RNP 0.3, but this may be
+	downgraded when navigational equipment is defective. The MEL will detail any downgrades to
+	RNP capability caused by deferred defects.</para>
+
+	<para condition="airbus">The FMS continuously calculates a value known as Estimated Position
+	Error (EPE) by cross checking data from all the navigation sensors. The FMS also calculates
+	a default RNP value<footnote><para>0.3nm for GPS approaches, 0.5nm for other approaches, 1.0
+	when below 15,000ft and within 51nm of destination and 2.0nm at all other
+	times.</para></footnote> and produces an ECAM warning when EPE exceeds it. This FMS
+	calculated RNP may be manually overridden if required.</para>
+
+
+      <para role="multicite">[EOM-A 8.3.2.4]</para>
+
+      </sect3>
+
+      <sect3>
+	<title>Basic RNAV</title>
+
+	<para>Basic RNAV (BRNAV) is defined as RNP 5. BRNAV capability is mandatory throughout ECAC
+	airspace above FL95. Some states also use BRNAV on selected routes into and out of terminal
+	airspace; the BRNAV portions of these routes will be above applicable safety
+	altitudes.</para>
+
+	<para condition="airbus">The INS system will maintain BRNAV capability for 2 hours after
+	alignment, independantly of estimated accuracy displayed on the MCDU.</para>
+
+	<para role="multicite">[EOM-A 8.3.2.7<phrase condition="airbus">, EOM-B 2.4.51</phrase>]</para>
+      </sect3>
+
+      <sect3>
+	<title>Precision RNAV</title>
+
+	<para>Precision RNAV (PRNAV) is defined as RNP 1. PRNAV may be used for departures and
+	arrivals, and may involve flight below relevant safety altitudes.</para>
+
+	<para>It is essential to check that each procedure loaded from the navigation database is
+	both current and accurate. It is acceptable to add altitude and speed restrictions that have
+	not been included. OCC must be contacted immediately if any discrepancies are discovered so
+	that they can promulgate restrictions on the use of the route. NOTAMs should be checked to
+	confirm the status of any required navigational aids. Where GNSS updating is not available,
+	a navigation reasonableness check must be carried out and care should be taken to correctly
+	use takeoff shift functionality.</para>
+
+	<para>In general a single navigation system will suffice for PRNAV, but some procedures
+	stipulate two RNAV systems. Some procedures also mandate GPS availability; the availability
+	of RAIM should be confirmed in this case.</para>
+
+	<para>PRNAV procedures may mandate an altimeter change passing a waypoint, in which case ATC
+	will not provide the usual trigger.</para>
+
+	<para condition="airbus">Managed modes are preferred for PRNAV procedures. Selected vertical
+	modes may be used, but altitude restrictions must be respected. Direct routings may be accepted,
+	but modification of the procedure with manually created waypoints is not permitted. It is
+	acceptable to intercept an ILS localiser in NAV as long as GPS PRIMARY is available.</para>
+
+	<para role="multicite">[EOM-A 8.3.2.8<phrase condition="airbus">, EOM-B 2.4.51</phrase>]</para>
+      </sect3>
+
+      <sect3>
+	<title>Contingencies</title>
+
+	<para>In-flight failure of navigation equipment may lead to downgrade of RNP
+	capability. <phrase condition="airbus">The QRH details required equipment for RNP 5 and RNP
+	1 on page 8.07.</phrase> If one RNAV system is degraded provided that the procedure does not
+	mandate dual systems it is acceptable to continue with the remaining system; a raw data
+	check will determine which, if any, system remains accurate.</para>
+
+	<para>Loss of relevant RNP capability must be reported to ATC as soon as practical. The
+	correct phraseology is "Unable RNAV due equipment, request re-clearance". If RNP 1 is lost
+	below MSA but above MVA, it may be possible to continue with radar vectors; otherwise an
+	expeditious climb above safety altitude will be required. Where possible navigation should
+	be continued using conventional aids.</para>
+
+	<para>Where weather precludes continuation of a PRNAV routing, ATC should be informed using
+	the phrase "Unable RNAV due weather". Radar vectors or climb should then be requested as
+	appropriate.</para>
+
+	<para role="multicite">[EOM-A 8.3.2.7, EOM-A 8.3.2.8<phrase condition="airbus">, EOM-B 2.4.51</phrase>]</para>
+
+      </sect3>
+
     </sect2>
+  </sect1>
+
+<!--
     <sect2>
       <title>RVSM</title>
       <para>[Ezy-A 8.3.2]</para>
