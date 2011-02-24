@@ -1763,19 +1763,28 @@
     </sect2>
 
   </sect1>
-<!--
-  </sect1>
+
   <sect1 id="flight-procedures">
-    <title>Operating Procedures: Flight procedures</title>
+    <title>Flight procedures</title>
     <sect2>
       <title>VFR/IFR policy</title>
-      <para>[Ezy-A 8.3.1]</para>
+
       <para>When controlled airspace exists between departure and destination airports, flights will be planned to
       remain within that airspace. Where controlled airspace does not exist, advisory airspace will be used if
-      available. VFR flight should be considered exceptional.</para>
-      <para>Where a flight is planned to remain within controlled or advisory airspace, flight outside that airspace
-      should only be considered for safety reasons.</para>
+      available.</para>
+
+      <para>Where a flight is planned to remain within controlled or advisory airspace, flight
+      outside that airspace should only be considered for safety reasons.{TODO: EOM-A then goes on
+      to contradict itself, saying that you can fly outside controlled airspace after all e.g. if you are VMC in
+      sight of airfield or flying in airspace known to be clear of other traffic}. The maximum level
+      of radar service should be sought whenever outside controlled airspace.</para>
+
+      <para>VFR flight should be considered exceptional and must be authorised by the post holder
+      flight operations.</para>
+
+      <para role="multicite">[EOM-A 8.3.1, EOM-A 8.1.1.1]</para>
     </sect2>
+
     <sect2>
       <title>Navigation policy</title>
       <para>[Ezy-A 8.3.2]</para>
