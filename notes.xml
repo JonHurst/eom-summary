@@ -833,16 +833,17 @@
 
       <para>Engine failure or loss of pressurisation may lead to a requirement for en-route
       descent. Currently, the highest obstacle affecting easyJet routes is Mont Blanc at
-      15,771ft. This is at least 2000ft below the A319 green dot one engine ceiling assuming MTOW
-      and ISA+20. Thus, there are currently no special drift down diversion procedures in place. In
-      the case of emergency descent following loss of pressurisation, all obstacles must be cleared
-      by at least 2000ft. It is worth noting that the time of useful consciousness without
-      supplementary oxygen is 30 minutes at 18,000ft.</para>
+      15,771ft. <phrase condition="airbus">This is at least 2000ft below the A319 green dot one
+      engine ceiling assuming MTOW and ISA+20. Thus, there are currently no special drift down
+      diversion procedures in place.</phrase> In the case of emergency descent following loss of
+      pressurisation, all obstacles must be cleared by at least 2000ft. It is worth noting that the
+      time of useful consciousness without supplementary oxygen is 30 minutes at 18,000ft.</para>
 
       <para>Obstacle clearance for take-off and initial climb phase is provided by a combination of
-      LPC performance calculation and SID and Engine Out SID design. Note that easyJet SOPs for loss
-      of thrust after divergence point are contrary to the specific Airbus recommendations in FCOM
-      4.4.30.4000; this can lead to some unwelcome grey areas in obstacle clearance.</para>
+      LPC performance calculation and SID and Engine Out SID design. <phrase condition="airbus">Note
+      that easyJet SOPs for loss of thrust after divergence point are contrary to the specific
+      Airbus recommendations in FCOM 4.4.30.4000; this can lead to some unwelcome grey areas in
+      obstacle clearance.</phrase></para>
 
       <para>For the approach phase, unless in visual contact with the ground with flight visibility sufficient
       to identify all relevant obstacles, flight below MSA should only be conducted on promulgated
@@ -860,10 +861,11 @@
       all respects, including runway dimensions, obstacles, ATS, lighting, approach procedures, weather reporting and
       emergency services.</para>
 
-      <para>For A319/A320/B737, fire and rescue category 6 is the normal minimum acceptable level of
-      cover. Temporary reductions to category 4 at departure and destination and to category 5 at
-      alternates are acceptable on a temporary basis; no crew action is required. A321 categories
-      are 1 higher than A319.</para>
+      <para><phrase condition="airbus">For the A319 and A320, fire</phrase><phrase
+      condition="boeing">Fire</phrase> and rescue category 6 is the normal minimum acceptable level
+      of cover. Temporary reductions to category 4 at departure and destination and to category 5 at
+      alternates are acceptable on a temporary basis; no crew action is required. <phrase
+      condition="airbus">A321 categories are 1 higher than A319.</phrase></para>
 
       <para>easyJet will categorise aerodromes from A to C in order of increasing difficulty. The
       category of an aerodrome is promulgated in the easyJet Aerodromes Briefing
@@ -973,7 +975,7 @@
       </note>
       <para role="multicite">[EOM-A 8.1.2]</para>
       </sect3>
-      <sect3>
+      <sect3 condition="airbus">
         <title>Cruise alternates</title>
         <para>In the case of an engine failure at any point along the planned route an adequate
         aerodrome must be available within 60 minutes single engine flying time. The equivalent
@@ -1078,7 +1080,7 @@
       </varlistentry>
     </variablelist>
       </para>
-      <para role="multicite">[EOM-A 8.1.7, EOM-B 5]</para>
+      <para role="multicite">[EOM-A 8.1.7<phrase condition="airbus">, EOM-B 5</phrase>]</para>
       <sect3>
 	<title>Reducing fuel loads to allow increased payload</title>
 
@@ -1125,8 +1127,8 @@
 	<listitem><para>Landing weight (LW) = TOW - trip fuel</para></listitem>
       </itemizedlist></para>
 
-      <para>In addition to the main structural weights, there are maximum load limits for the cargo
-      compartments. These may be found in FCOM 2.1.20.5000.</para>
+      <para condition="airbus">In addition to the main structural weights, there are maximum load
+      limits for the cargo compartments. These may be found in FCOM 2.1.20.5000.</para>
 
       <para role="multicite">[EOM-A 8.1.8.1]</para>
       </sect3>
@@ -1206,18 +1208,17 @@
       <para role="multicite">[EOM-A 8.1.8]</para>
       </sect3>
 
-      <sect3>
+      <sect3 condition="airbus">
 	<title>Balance calculation</title>
-	<para>For the Airbus fleet, compliance with balance limitations is acheived using the LPC
-	Weight and Balance modules. If this is not available, weight and balance data should be
-	sourced from OCC.  When passenger load is more than 115 the default LPC passenger split may
-	be used. Otherwise the correct split (e.g. rows 1-9, 10-18, 19-26 for A319) should
-	be used.</para>
+	<para>Compliance with balance limitations is acheived using the LPC Weight and Balance
+	modules. If this is not available, weight and balance data should be sourced from OCC.  When
+	passenger load is more than 115 the default LPC passenger split may be used. Otherwise the
+	correct split (e.g. rows 1-9, 10-18, 19-26 for A319) should be used.</para>
 
 	<para role="multicite">[EOM-B 7.1.1]</para>
       </sect3>
 
-      <sect3>
+      <sect3 condition="airbus">
 	<title>Last minute changes</title>
 	<para>For the Airbus fleet, the following last minute changes do not require new LPC
 	calculations:
@@ -1339,15 +1340,23 @@
 	ADD sheet should not be signed by the commander; it will be signed off by the engineer who
 	signs the release to service.</para>
 
-	<para>Successful computer resets on the Airbus should be recorded by making a suitable entry
-	in the defect section, e.g. "CREW RESET: COM CIDS 1+ 2 FAULT ON THE GROUND, SUCCESSFUL RESET
-	AS PER QRH". Information that may be useful but which does not require immediate engineering
-	action may, with MOC's agreement, be recorded as a "FOR INFO" entry in a similar way,
-	e.g. "FOR INFO: FMGC1 FAILED. RECOVERED WITH NO CREW INTERVENTION". These entries do not
-	count as open defects, so signatures should be placed below the entry and the associated
-	"Action Taken" and RTS sections should be struck through.</para>
+	<para condition="airbus">Successful computer resets should be recorded by making a suitable
+	entry in the defect section, e.g.
 
-	<para role="multicite">[EOM-A 8.1.11, EOM-B 2.3.25.2, EOM-B 3.3]</para>
+	<blockquote><para>CREW RESET: COM CIDS 1 + 2 FAULT ON THE GROUND, SUCCESSFUL RESET
+	AS PER QRH</para></blockquote></para>
+
+	<para>Information that may be useful but which does not require immediate engineering
+	action may, with MOC's agreement, be recorded as a "FOR INFO" entry in a similar way,
+	e.g.
+
+	<blockquote><para>FOR INFO: FMGC1 FAILED. RECOVERED WITH NO CREW
+	INTERVENTION.</para></blockquote>
+
+	These entries do not count as open defects, so signatures should be placed below the
+	entry and the associated "Action Taken" and RTS sections should be struck through.</para>
+
+	<para role="multicite">[EOM-A 8.1.11<phrase condition="airbus">, EOM-B 2.3.25.2, EOM-B 3.3</phrase>]</para>
       </sect3>
       <sect3>
 	<title>Recurrent engineering checks</title>
@@ -1732,12 +1741,12 @@
       <sect3>
 	<title>Holdover times</title>
 
-	<para>Guideline holdover time tables are presented on the Airbus LPC and at the front of the
-	NTC book. Definitions of precipitation type for use in the tables are presented at EOM-A
-	8.2.4.2. For a two step process, the holdover time begins at the commencement of the second
-	step. The lower time limit indicates holdover time for "moderate" precipitation, the higher
-	for "light" precipitation. Holdover times will be shortened by high winds, jet blast or when
-	the skin temperature is less than OAT.</para>
+	<para>Guideline holdover time tables are presented <phrase condition="airbus">on the LPC and
+	</phrase>at the front of the NTC book. Definitions of precipitation type for use in the
+	tables are presented at EOM-A 8.2.4.2. For a two step process, the holdover time begins at
+	the commencement of the second step. The lower time limit indicates holdover time for
+	"moderate" precipitation, the higher for "light" precipitation. Holdover times will be
+	shortened by high winds, jet blast or when the skin temperature is less than OAT.</para>
 
 	<para role="multicite">[EOM-A 8.2.4.3.3, EOM-A 8.2.4.3.4]</para>
       </sect3>
