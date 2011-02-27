@@ -743,7 +743,8 @@
 
   </sect1>
   <sect1 id="flight-preparation">
-    <title>Flight preparation instructions</title>
+    <title>Fli
+ght preparation instructions</title>
     <sect2 id="min-altitudes">
       <title>Minimum flight altitudes</title>
       <sect3><title>Definitions</title>
@@ -1057,8 +1058,9 @@
 
       <varlistentry>
         <term>EXTRA</term>
-        <listitem><para>Additional fuel loaded at the discretion of the flight crew. There is not
-        much official guidance as to amounts; my personal ballpark figures for the A319/A320 are:
+        <listitem><para condition="airbus">Additional fuel loaded at the discretion of the flight
+        crew. There is not much official guidance as to amounts; my personal ballpark figures for
+        the A319/A320 are:
 
 	<itemizedlist>
 	  <listitem><para>40kg per minute of potential extra holding</para></listitem>
@@ -1067,7 +1069,9 @@
 	  destination</para></listitem>
 	  <listitem><para>3kg per minute of extra anticipated anti-ice usage</para></listitem>
 	  <listitem><para>2kg per minute of extra anticipated APU usage</para></listitem>
-	</itemizedlist></para></listitem>
+	</itemizedlist></para><para condition="boeing">Additional fuel loaded at the discretion of
+        the flight crew.</para>
+	</listitem>
       </varlistentry>
 
 
