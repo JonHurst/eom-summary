@@ -2,3 +2,5 @@
 *.fo
 html
 images/*.png
+notes.airbus.xml
+notes.boeing.xml
