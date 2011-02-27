@@ -762,7 +762,7 @@
       distinguish it. Where MOCA is not presented, it may be assumed that it has the same value as
       MEA.</para>
 
-      <para>When national authorities have not defined MEA, Jeppesen presents a value known as
+      <para>When national authorities have not defined MEA, Jeppesen instead presents a value known as
       the Minimum Off-Route Altitude (<emphasis role="strong">MORA</emphasis>). This is in the same
       font as the MEAs, and is distinguished by an "a" suffix (e.g. 4200a). Jeppesen derives this
       value by examining charts or databases of known obstacles and terrain. The value should ensure
@@ -1006,9 +1006,9 @@
 	<varlistentry>
 	  <term>TAXI</term>
 	  <listitem><para>Fuel expected to be used prior to takeoff, including engine start, taxi
-	  and APU consumption. This figure should be increased when significantly increased APU burn
-	  is likely (e.g. ATC slots) or when significantly increased taxi times may potentially
-	  occur.</para></listitem>
+	  and APU consumption. This figure should be adjusted when significantly increased APU burn
+	  is likely (e.g. ATC slots) or when significantly increased taxi times may occur
+	  (e.g. remote de-icing).</para></listitem>
 	</varlistentry>
 
 	<varlistentry>
@@ -1041,7 +1041,7 @@
       <varlistentry>
         <term>FINRES</term>
         <listitem><para>Final reserve fuel. This is the amount of fuel required to hold at 1500ft
-	for 30 minutes assuming the tanks will be dry after this period.</para></listitem>
+	for 30 minutes assuming the tanks will be dry at the end of this period.</para></listitem>
       </varlistentry>
 
       <varlistentry>
@@ -1282,17 +1282,16 @@
 	handover.</para>
 
 	<para>The top half of each sector record strip is for recording details of a sector after it
-	has been completed. The Log Time and Landings brought forward boxes are no longer used and
-	should be struck through. The "Full Rated Thrust T/O" and autoland reporting are only
+	has been completed. The "Log Time" and "Landings brought forward" boxes are no longer used
+	and should be struck through. The "Full Rated Thrust T/O" and autoland reporting are only
 	relevant to the 737 fleet. If the record of the previous sector is found to be incorrect or
-	incomplete on arrival at an aircraft the duty pilot must be contacted for authorisation to
-	continue.</para>
+	incomplete the duty pilot must be contacted for authorisation to continue.</para>
 
 	<para>The bottom half of the strip is used to record pre-departure data and acceptance of
 	the aircraft. The "Oil Check" and APU oil level boxes are not relevant to flight crew and
 	should be struck through. The ambient temperature fuel uplift should be recorded rather than
-	temperature corrected figures. To calculate approximate uplift in kg, multiply the uplift in
-	litres by 0.8. If anti-icing is carried out more than once it will be necessary to use
+	the temperature corrected figure. To calculate approximate uplift in kg, multiply the uplift
+	in litres by 0.8. If anti-icing is carried out more than once it will be necessary to use
 	multiple strips; each strip must have a copy of all the pre-departure data.</para>
 
 	<para>Each main section page has three coloured carbon copy sheets. The pink page is used to
@@ -1306,8 +1305,8 @@
       </sect3>
       <sect3>
 	<title>Defect management</title>
-	<para>All defects should be immediately entered into the tech log, with the following
-	exceptions:
+	<para>All defects should, with the following exceptions, be immediately entered into the
+	tech log:
 
 	<itemizedlist>
 	  <listitem><para>Recording of ECAM maintenance status messages may be deferred until the
@@ -1437,7 +1436,7 @@
 	<listitem><para>A full cabin crew compliment is required. There must be at least one
 	cabin crew member at each set of floor level exits.</para></listitem>
 
-	<listitem><para>Passengers must be informed that refuelling is taking place and instructed to have their
+	<listitem><para>Passengers must be informed that refuelling is taking place, instructed to have their
         seatbelts unfastened and told the toilets are out of use. Cabin crew should make a visual
 	check that passenger seatbelts remain unfastended. The "No Smoking" sign should be on and the "Fasten
         Seatbelts" sign should be off.</para></listitem>
@@ -1572,19 +1571,19 @@
 	power to require that an unacceptable passenger be detained on board.</para>
 
         <para>The Commander must be informed on all occasions when a deportee is carried, and the
-	deportee must be identified to the Commander ans SCCM</para>
+	deportee must be identified to the Commander and SCCM</para>
 
 	<para>The passport and other travel documentation of the deportee, including any "Form of
-	Authority", sould be retained in flight by the SCCM and passed to the handling agent on
+	Authority", should be retained in flight by the SCCM and passed to the handling agent on
 	arrival. The deportee must not be permitted to disembark at any point within the deporting
 	territory unless escorted by a dispatcher or passenger handling staff. The deportee may
-	disembark at a destination other than that in their ticket provided Immigration Authorities
+	disembark at a destination other than that in their ticket provided immigration authorities
 	are contacted prior to arrival.</para>
 
 	<para>If the deportee is escorted, seating should be as per escorted passengers. Otherwise
 	it should be as per PRMs.</para>
 
-	<para>This section does not apply to the class of deportees referred to as "not-satisfied
+	<para>This section does not apply to the class of deportees referred to as "non-satisfied
 	genuine visitors", who should be treated as normal passengers.</para>
 
 	<para role="multicite">[EOM-A 8.2.2.7]</para>
@@ -1605,7 +1604,7 @@
 	<title>Human remains</title>
 
 	<para>Only ashes are permitted. They must be be appropriately packaged, carried in hand
-	baggage and accompanied by a copies of the death and cremation certificates.</para>
+	baggage and accompanied by copies of the death and cremation certificates.</para>
 
 	<para role="multicite">[EOM-A 8.2.2.5]</para>
 
@@ -1674,7 +1673,7 @@
         <para>OCC may authorise carriage of spares for AOG easyJet aircraft except on routes to and
         from Switzerland. Spares must not be classified as dangerous goods. Individual items over
         60kg require specific handling arrangements to be made. easyJet engineering are responsible
-        for delivery, labelling security screening and provision of a special load
+        for delivery, labelling, security screening and provision of a special load
         NOTOC. Engineering must oversee the offload of the spares on arrival.</para>
 
 	<para role="multicite">[EOM-A 8.2.2.15]</para>
@@ -1713,7 +1712,7 @@
         <title>Types of fluid</title>
 
         <para>ISO Type I fluid has a high glycol content and low viscosity. De-icing performance is good, but protection
-        from freezing precipitaion is poor. It is best used for removing frozen deposits as part of a two stage process
+        from freezing precipitation is poor. It is best used for removing frozen deposits as part of a two stage process
         or when precipitation has stopped. Type I fluids are usually clear or light orange.</para>
 
         <para>ISO Type II fluid includes a pseudo plastic thickening agent. This allows it to remain on the surface
@@ -1797,10 +1796,10 @@
 	given RNP, an aircraft must have a maximum navigational error equal to RNP for 95% of flight
 	time. In addition, the probability of an unannunciated navigational error of greater than
 	double the RNP value must be less than 10<superscript>-5</superscript> per flight hour and
-	the probability of an annunciated loss of RNP capabillity must be less than
+	the probability of an annunciated loss of RNP capability must be less than
 	10<superscript>-4</superscript> per flight hour.</para>
 
-	<para>easyJet aircraft are capable of the most restrictive RNP 0.3, but this may be
+	<para>All easyJet aircraft are capable of the most restrictive RNP 0.3, but this may be
 	downgraded when navigational equipment is defective. The MEL will detail any downgrades to
 	RNP capability caused by deferred defects.</para>
 
