@@ -1927,30 +1927,10 @@ ght preparation instructions</title>
       <para>[EOM-A 8.3.2]</para>
 
     </sect2>
+
   </sect1>
 
 <!--
-    <sect2>
-      <title>GPWS</title>
-      <para>[Ezy-A 8.3.5 and QRH NNM]</para>
-      <para>GPWS may generate either an "Alert" or a "Warning" depending on the situation. A "Warning" will use the
-      phrase "Pull Up".<emphasis>{note: Ezy-A disagrees with QRH on "too low terrain"}</emphasis>. If flying in VMC with
-      all obstacles clearly in sight or more than 5000ft above MORA, GPWS callouts may be disregarded. Otherwise, an
-      immediate and positive response must be made to an alert, and the terrain avoidance maneuver should be flown in
-      the event of a warning. </para>
-      <para>All alerts and warnings except "Glideslope" require an ASR.</para>
-    </sect2>
-    <sect2>
-      <title>TCAS</title>
-      <para>[Ezy-A 8.3.6]</para>
-      <para>TCAS alerts are divided into Traffic Advisories (TA) and Resolution Advisories (RA).</para>
-      <para>A TA alerts the crew that a RA may be imminent. The response to a TA is a visual search concentrating on the
-      area indicated. The flight path should only be changed if the visual search indicates a definite risk of
-      collision.</para>
-      <para>If an RA is given, the manoeuvre indicated by TCAS must be flown, regardless of visual aquisition or ATC
-      instructions to the contrary. ATC should be informed of the departure and, once adequate separation is acheived,
-      of the return to the previously cleared level. RAs require an ASR to be filed.</para>
-    </sect2>
     <sect2>
       <title>In-flight fuel management</title>
       <para>[Ezy-A 8.3.7 &amp; Ezy-B 2.3.23]</para>
