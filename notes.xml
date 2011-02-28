@@ -1895,33 +1895,27 @@ ght preparation instructions</title>
       </sect3>
 
     </sect2>
+
+    <sect2>
+      <title>RVSM</title>
+
+      <para>RVSM airspace is airspace above FL290 where only 1000ft vertical separation is
+      maintained. All easyJet aircraft are RVSM approved.</para>
+
+      <para condition="airbus">QRH 8.07 defines the equipment required for flight in RVSM airspace;
+      the primary altimeters must agree within 200ft. The altimeter being used to control the
+      aircraft should normally be selected as the input to the transponder. If equipment failure
+      leads to loss of RVSM capability, inform ATC immediately.</para>
+
+      <para>ATC must also be notified if severe turbulence is encountered.</para>
+
+      <para>[EOM-A 8.3.2]</para>
+
+    </sect2>
+
   </sect1>
 
 <!--
-    <sect2>
-      <title>RVSM</title>
-      <para>[Ezy-A 8.3.2]</para>
-      <para>RVSM airspace is airspace above FL290 where only 1000ft vertical separation is maintained. All easyJet
-      aircraft are RVSM approved.</para>
-      <para>When in RVSM airspace and within 1000ft of cleared flight level, vertical speed should not exceed
-      1500fpm. In addition, a check must be made passing FL200 that 1013 is set on all altimeters, and a check of the
-      altimeters should be recorded on the CFP at least every hour and whenever a change of cruise level occurs.</para>
-      <para>The minimum equipment required for entering RVSM airspace is:
-      <itemizedlist>
-        <listitem><para>Two main altimeters with a difference in readings of less than 200ft and no failure
-        flags</para></listitem>
-        <listitem><para>Two ADCs or two ADIRUs</para></listitem>
-        <listitem><para>Altitude alert system</para></listitem>
-        <listitem><para>At least one autopilot in CMD with either VNAV PATH or ALT HOLD annunciated.</para></listitem>
-      </itemizedlist>
-      </para>
-      <para>If any item of equipment in the above list fails, ATC must be notified. If both main altimeters fail exit
-      RVSM airspace.</para>
-      <para>If severe turbulence is encountered in RVSM airspace such that vertical navigation performance becomes
-      unacceptable, ATC should be informed immediately so that either horizontal separation or increased vertical
-      separation can be maintained. If the encounter is believed to be wake turbulence, paperwork should be submitted
-      to Eurocontrol in addition to the normal ASR.</para>
-    </sect2>
     <sect2>
       <title>Altimeter setting procedures</title>
       <para>[Ezy-A 8.3.3]</para>
