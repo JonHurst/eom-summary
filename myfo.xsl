@@ -59,7 +59,7 @@
 
 <xsl:attribute-set name="component.title.properties">
   <xsl:attribute name="font-size">
-    <xsl:value-of select="$body.font.master * 1.3"/>
+    <xsl:value-of select="$body.font.master * 1.4"/>
     <xsl:text>pt</xsl:text>
   </xsl:attribute>
 </xsl:attribute-set>
