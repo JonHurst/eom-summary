@@ -998,7 +998,7 @@
 	<para role="multicite">[EOM-B 5.1]</para>
       </sect3>
     </sect2>
-    <sect2>
+    <sect2 id="pre-flight-fuel">
       <title>Pre-flight fuel planning</title>
 
       <para>The OFP presents the following values for use in pre-flight fuel planning:
@@ -1927,29 +1927,43 @@
 
     </sect2>
 
-  </sect1>
-
-<!--
     <sect2>
       <title>In-flight fuel management</title>
-      <para>[Ezy-A 8.3.7 &amp; Ezy-B 2.3.23]</para>
-      <para>Flights of less than 20 minutes do not require a fuel check. Flights of less than one hour require a single
-      fuel check, and flights of more than one hour require fuel checks at not more than hourly intervals. A fuel check
-      should compare actual and planned consumption, check the remaining fuel is sufficient and determine expected fuel
-      on arrival. The fuel total used should be the lower of the FMC totalized figure and the total from the fuel
-      gauges.</para>
-      <para>If it is determined that fuel on landing at destination will be below CMR, action must be taken to reduce
-      fuel burn. Options include flying at LRC or CI=0, changing levels or requesting shortcuts. If fuel burn cannot be
-      reduced sufficiently to land with more than CMR, a decision must be made whether to divert or continue to
-      destination. A decision to continue to destination is a committal to land there, and is permissable if landing is
-      assured and the maximum anticipated delay is known. A landing is considered assured if no forecast weather
-      deterioration or single failure of ground or airborne equipment can prevent landing. In general this means that
-      Cat I minimas must be available at Cat III equipped aerodromes and non-precision minimas must be available at Cat
-      I equipped aerodromes.</para>
+
+      <para>Flights of less than 20 minutes do not require a fuel check. All other flights require a
+      written fuel check at the top of climb, then further written checks at intervals of 1 hour or
+      less. In addition, verbal fuel checks should be carried out at intervals of 30 minutes or
+      less.</para>
+
+      <para>Company Normal Reserves (CNR) is defined as ALTN + FINRES (see <xref
+      linkend="pre-flight-fuel"/>). The OFP provides a Minimum Fuel Required (MFR) value for each
+      planned waypoint. MFR is CNR plus the planned remaining fuel burn to destination. The fuel
+      check should record Actual Fuel On Board (FOB) at a planned waypoint and compare this with
+      MFR. The difference should be CONT + EXTRA + ~40kg per minute that you are early passing the
+      waypoint due to shortcuts. If the FOB is less than this without reasonable explanation then
+      the possibility of a fuel leak should be considered.</para>
+
+      <para>If it is determined that fuel on landing at destination will be below CNR, action must
+      be taken to reduce fuel burn. Options include flying at CI=0, changing levels or requesting
+      shortcuts. If fuel burn cannot be reduced sufficiently to land with more than CNR, a decision
+      must be made whether to divert or continue to destination. A decision to continue to
+      destination is a committal to land there, and is permissable if landing is assured and the
+      maximum anticipated delay is known. A landing is considered assured if no forecast weather
+      deterioration or single failure of ground or airborne equipment can prevent landing. In
+      general this means that Cat I minimas must be available at Cat III equipped aerodromes and
+      non-precision minimas must be available at Cat I equipped aerodromes.</para>
+
       <para>If it is determined that the fuel on landing <emphasis>may</emphasis> be less than final reserve, an
       emergency must be declared using a PAN call and ATC should be given an estimate of endurance. If it is determined
       that the fuel on landing <emphasis>will</emphasis> be less than final reserve, a MAYDAY call should be made.</para>
+
+      <para role="multicite">[EOM-A 8.3.7]</para>
+
     </sect2>
+
+  </sect1>
+
+<!--
     <sect2>
       <title>Thunderstorms</title>
       <para>Below FL200, any echo with sharp edges, strong intensities or strong gradients of intensity should be
