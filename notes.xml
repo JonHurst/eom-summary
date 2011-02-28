@@ -41,11 +41,11 @@
       <listitem>
         <para>Any person, or any part of the cargo, which may represent a potential hazard to the safety of the
         aircraft or its occupants is disembarked. This includes:
-        <simplelist>
-          <member>Persons under the influence of alcohol or drugs, to the extent that they pose a risk.</member>
-          <member>Inadmissible passengers, deportees or persons in custody if they pose any risk.</member>
-        </simplelist>
-        </para>
+        <itemizedlist>
+          <listitem><para>Persons under the influence of alcohol or drugs, to the extent that they pose a risk.</para></listitem>
+          <listitem><para>Inadmissible passengers, deportees or persons in custody if they pose any
+	  risk.</para></listitem>
+	</itemizedlist></para>
       </listitem>
       <listitem>
         <para>A full safety briefing, including exits and equipment carried, is given to the passengers.</para>
