@@ -1961,24 +1961,45 @@
 
     </sect2>
 
+    <sect2>
+      <title>Thunderstorms</title>
+
+      <para>Do not attempt to land or take-off when a thunderstorm is overhead or approaching.</para>
+
+      <para>Avoid thunderstorms by 20nm when above 20,000ft. Below 20,000ft avoid by 10nm:
+
+      <itemizedlist>
+	<listitem><para>any echoes with 'hooks', 'fingers', scalloped edges or other
+	protrusions</para></listitem>
+	<listitem><para>any echoes with sharp edges, strong intensities or strong gradients of
+	intensity</para></listitem>
+
+	<listitem><para>any echoes showing rapid change of intesity, shape or
+	height</para></listitem>
+      </itemizedlist></para>
+
+      <para>If overflying maintain at least 5000ft vertical clearance.</para>
+
+      <para>In general it is preferable to be upwind of a thunderstorm; severe turbulence and hail
+      are most often encountered on the downwind side. In particular avoid flying underneath the
+      anvil or in the cirrus or cirrostratus layers downwind of the storm. The greatest probability
+      of severe turbulence and lightning strikes is near the 0°C isotherm, so avoid this
+      level.</para>
+
+      <para>If an area of thunderstorm activity cannot be avoided, set the aircraft up for
+      turbulence <phrase condition="airbus">(autopilot on, autothrust disconnected when thrust
+      changes become excessive, thrust as per QRH 5.01)</phrase>, heavy icing (anti-ice systems all on) and heavy
+      precipitation (ignitors on). Turn up the cockpit lighting fully and lower the crew seats to
+      prevent blindness from lightning flashes. Disregard the ADF. Penetrate lines of thunderstorms
+      at 90° using the weather radar to identify the path of least activity. Once inside a
+      thunderstorm maintain heading as this is likely to be the shortest path through it. If manual
+      flight is required maintain attitude and expect large variations in altitude.</para>
+
+      <para role="multicite">[EOM-A 8.3.8.1, UK AIC P056/2010<phrase condition="airbus">, FCOM 3.4.91</phrase>]</para>
+    </sect2>
   </sect1>
 
 <!--
-    <sect2>
-      <title>Thunderstorms</title>
-      <para>Below FL200, any echo with sharp edges, strong intensities or strong gradients of intensity should be
-      avoided by 5nm. If it has protrusions, it should be avoided by 10nm. Avoid all echos by 10nm, 15nm and 20nm above
-      FL200, FL250 and FL300 respectively ((FL/10)-10).</para>
-      <para>If an area of thunderstorm activity cannot be avoided, set the aircraft up for turbulence, heavy icing and
-      heavy precipitation. Turn up the cockpit lighting fully and lower the crew seats to prevent blindness from
-      lightning flashes. Disregard the ADF. If the autopilot is making large trim adjustments it should be disengaged
-      (although the yaw damper must remain). Manual flying should concentrate on maintaining constant trim, power,
-      attitude and heading even at the expense of altitude maintenance.</para>
-      <para>If a thunderstorm is overhead or approaching prior to departure, delay the departure. If a thunderstorm is
-      overhead or approaching at destination, hold clear and if necessary, divert.</para>
-      <para>If overflying a storm, it is recommended that at least 5000ft vertical clearance is maintained. Flight
-      underneath a cb overhang is also hazardous as hail may be falling.</para>
-    </sect2>
     <sect2>
       <title>Wake turbulence</title>
       <para>[Ezy-A 8.3.9]</para>
