@@ -800,14 +800,33 @@
       <sect2><title>Corrections</title>
 
       <para>All published altitudes must be corrected for low temperatures. Altitudes within 5000ft
-      of the elevation of the source of a QNH measurement can be corrected for temperatures below 0°C
-      using the table presented in EOM-A 8.1.1.3.1.<footnote><para>This table is also available on
-      page 8.02 of the QRH.</para></footnote> A graph is presented below this table to correct
-      higher altitudes for temperatures below ISA.</para>
+      of the elevation of the source of a QNH measurement can be corrected for temperatures below
+      0°C using the table presented in <phrase condition="airbus">QRH 8.02</phrase><phrase
+      condition="boeing">EOM-A 8.1.1.3.1</phrase>. A graph is presented <phrase
+      condition="airbus">in EOM-A 8.1.1.3.1</phrase><phrase condition="boeing">below
+      this table</phrase> to correct higher altitudes for temperatures below ISA.</para>
 
       <para>When operating within 20nm of terrain that has an elevation greater than 2000ft, a
-      correction must be applied for wind. This is done using the table presented in EOM-A
-      8.1.1.3.2, although a correction of 2500ft will always be conservative.</para>
+      correction must be applied for wind as follows:
+
+      <table>
+        <title>MORA Wind Speed Correction</title>
+        <tgroup cols="5">
+          <colspec colnum="1" colwidth="2*"/>
+          <colspec colnum="2" align="center" colname="windsst" colwidth="*"/>
+          <colspec colnum="3" align="center" colwidth="*"/>
+          <colspec colnum="4" align="center" colwidth="*"/>
+          <colspec colnum="5" align="center" colname="windsend" colwidth="*"/>
+          <thead>
+            <row><entry>Terrain</entry><entry namest="windsst" nameend="windsend">Wind speed in Knots</entry></row>
+            <row><entry>Elevation</entry><entry>0 - 30</entry><entry>31 - 50</entry><entry>51 -70</entry><entry>70+</entry></row>
+          </thead>
+          <tbody>
+            <row><entry>2,000-8,000ft</entry><entry>500ft</entry><entry>1,000ft</entry><entry>1,500ft</entry><entry>2,000ft</entry></row>
+            <row><entry>More than 8,000ft</entry><entry>1,000ft</entry><entry>1,500ft</entry><entry>2,000ft</entry><entry>2,500ft</entry></row>
+          </tbody>
+        </tgroup>
+      </table></para>
 
       <para>When operating in low atmospheric pressure conditions with an altimeter setting of 1013,
       the aircraft will be ~30ft below the indicated altitude for every millibar that the QNH is
