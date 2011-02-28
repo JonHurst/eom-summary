@@ -1913,27 +1913,22 @@ ght preparation instructions</title>
 
     </sect2>
 
+    <sect2>
+      <title>Altimeter setting procedures</title>
+
+      <para condition="airbus">Pre-flight altimeter servicability checks are detailed in FCOM 3.4.34.</para>
+
+      <para>easyJet is a QNH operator. Main altimeters should be set to 1013 when cleared to a
+      flight level during climbout and set to QNH when cleared to an altitude during descent. The
+      standby altimeter should remain on QNH until passing MSA during climbout and should be set to
+      QNH before passing FL200 in the descent.</para>
+
+      <para>[EOM-A 8.3.3]</para>
+    </sect2>
+
   </sect1>
 
 <!--
-    <sect2>
-      <title>Altimeter setting procedures</title>
-      <para>[Ezy-A 8.3.3]</para>
-      <para>Main altimeters should be checked during the pre-flight phase by setting both to airport QNH and checking
-      that they are within 50ft of the airfield elevation and are within 50ft of each other. If planning a flight in
-      RVSM airspace in a -300, the altimeters should be within 40ft of each other [33V Vol-1
-      Limitations]. If any doubt exists concerning altimeter accuracy, an expanded procedure using QFE checks
-      is available in [Ezy-A 8.3.3].</para>
-      <para>Main altimeters should be set to QNH before take-off and then set to 1013 when first cleared to a flight
-      level. The standby altimeter should be set to QNH for take-off, and then set to 1013 when passing MSA. In the
-      descent, the main altimeters should be set to QNH when first cleared to an altitude and the standby altimeter
-      should be set to QNH when passing FL200 or at TOD if cruising below FL200.</para>
-      <para>Pressure altimeters are subject to temperature errors, which may be corrected using the table in
-      [Ezy-A 8.3.3 (once its updated!)]. When temperatures at aerodrome level are below zero,
-      corrections should be applied to DA, CDA/MDA and SE acceleration altitude. In extremely cold conditions
-      corrections should also be applied to MSA, procedure turn altitude, DME Arc and FAF [Level 1
-      NTC].</para>
-    </sect2>
     <sect2>
       <title>GPWS</title>
       <para>[Ezy-A 8.3.5 and QRH NNM]</para>
