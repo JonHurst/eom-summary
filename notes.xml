@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN" "file:///usr/share/sgml/docbook/xml-dtd-4.4/docbookx.dtd">
-<article id="revision-notes">
+<book id="revision-notes">
   <title>Summary of easyJet manuals</title>
   <subtitle><phrase condition="airbus">Airbus</phrase><phrase condition="boeing">Boeing</phrase> Edition</subtitle>
-    <sect1 id="commander-duties">
+  <bookinfo>
+    <author><personname>
+      <firstname>Jon</firstname><surname>Hurst</surname></personname></author>
+  </bookinfo>
+  <chapter id="commander-duties">
     <title>Authority, Duties and Responsibilities of a Commander </title>
     <para>The commander has overall responsibility for the safety of the aircraft, its occupants and its cargo, and
     the authority to issue any commands required to secure this. He has the authority to increase any safety
@@ -89,10 +93,10 @@
     </para>
     <para role="multicite">[EOM-A 1.4, EOM-A 8.1]</para>
 
-  </sect1>
-  <sect1 id="crew-composition">
+  </chapter>
+  <chapter id="crew-composition">
     <title>Crew composition</title>
-    <sect2>
+    <sect1>
       <title>Flight crew</title>
       <para>The minimum flight crew is two pilots, at least one of whom must be a Captain.</para>
       <para>The commander must sit in the left seat unless the commander is a training Captain and is required to occupy the
@@ -108,8 +112,8 @@
 
       <para role="multicite">[EOM-A 4]</para>
 
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Cabin crew</title>
 
       <para>The minimum cabin crew is normally one for every 50 <emphasis> installed</emphasis>
@@ -176,8 +180,8 @@
 
       <para role="multicite">[EOM-A 4.1.3, EOM-A 4.1.4]</para>
 
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Positioning crew</title>
 
 
@@ -192,8 +196,8 @@
 
       <para role="multicite">[EOM-A 4.5, EOM-A 4.6]</para>
 
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Flight Ops Inspectors</title>
 
       <para>Flight Ops Inspectors may, at any time, board any easyJet aircraft and enter and remain
@@ -205,9 +209,9 @@
 
       <para role="multicite">[EOM-A 4.7]</para>
 
-    </sect2>
-  </sect1>
-   <sect1 id="qualifications-and-recency">
+    </sect1>
+  </chapter>
+   <chapter id="qualifications-and-recency">
     <title>Qualification and Recency Requirements</title>
     <para>The minimum qualifications to act as a commander are:
     <orderedlist>
@@ -291,10 +295,10 @@
     </orderedlist>
     </para>
     <para role="multicite">[EOM-A 5]</para>
-  </sect1>
-  <sect1 id="health">
+  </chapter>
+  <chapter id="health">
     <title>Crew Health Precautions</title>
-    <sect2>
+    <sect1>
       <title>Alcohol</title>
       <para>Do not consume any alcohol within 10 hours of a duty, and consume no more that 5 units of alcohol within 24
       hours of a duty.</para>
@@ -303,8 +307,8 @@
       <para>Alcohol must never be consumed whilst in uniform in a public place.</para>
       <para>Alcohol must not be taken onto the flight deck during flight.</para>
       <para role="multicite">[EOM-A 6.1.1]</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Cosmic radiation</title>
       <para>Statutory directives state that the acceptable radiation exposure of aircrew is 6mSv/yr.
       Radiation exposure is modelled by easyJet to try to prevent exposure above this level.  At
@@ -313,8 +317,8 @@
       <para>Embryos and foetuses are particularly susceptible to harm from cosmic radiation. Crew
       should not fly when pregnant.</para>
       <para role="multicite">[EOM-A 6.1.3]</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Medication</title>
       <para>The use of non-prescribed narcotics or sleep inducing drugs is forbidden.</para>
 
@@ -325,8 +329,8 @@
       medical advice before operating whilst taking any other medication.</para>
 
       <para role="multicite">[EOM-A 6.1.2, EOM-A 6.1.4]</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Disease and Immunisation</title>
 
       <para>Crew who are operating overseas must satisfy any statutory requirement for vaccination
@@ -361,13 +365,13 @@
       medication.</para>
 
       <para role="multicite">[EOM-A 6.1.5, EOM-A 6.1.16]</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Blood donation</title>
       <para>Crew should not donate blood within 24 hours of a duty.</para>
       <para role="multicite">[EOM-A 6.1.6]</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Diving</title>
       <para>Crew should not fly within 48 hours of diving to a depth exceeding 10m. Crew should avoid any diving
       requiring the use of an aqua-lung within 24 hours of a duty.</para>
@@ -375,14 +379,14 @@
       <para>Crew who have been treated for decompression sickness must not fly within 72 hours of
       recovery.</para>
       <para role="multicite">[EOM-A 6.1.7]</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Surgery</title>
       <para>Aeromedical advice should be sought before returning to duty following any surgical
       procedure.</para>
       <para role="multicite">[EOM-A 6.1.11]</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Hypoxia</title>
       <table>
         <title>Time of useful consciousness</title>
@@ -402,8 +406,8 @@
       </table>
       <para role="multicite">[Human Factors For Pilots, Green et al.]</para>
 
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Food poisoning</title>
 
       <para>Crew who are operating together should not have the same meals. This includes crew food
@@ -412,12 +416,12 @@
       <para>If food poisoning from crew food is suspected, a Food Safety Report form must be
       completed and medical tests carried out to identify the strain.</para>
       <para role="multicite">[EOM-A 6.1.8]</para>
-    </sect2>
+    </sect1>
 
-  </sect1>
-  <sect1 id="ftl">
+  </chapter>
+  <chapter id="ftl">
     <title>Flight Time Limitations Scheme</title>
-    <sect2>
+    <sect1>
       <title>Definitions</title>
 
       <para><emphasis role="strong">Duty period</emphasis>: Any continuous period where a crew member is required to carry out a task
@@ -433,9 +437,9 @@
       <para><emphasis role="strong">Discretion event</emphasis>: The use of either commander's or individual's discretion to reduce a
       rest period, extend a duty period, ignore a cumulative limit or reduce a report time.</para>
 
-    </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
       <title>Days Off</title>
 
       <para>For crew operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3), FTL days off
@@ -453,7 +457,7 @@
       <para><xref linkend="consecutive"/> details additional days off restrictions for consecutive
       duties which overlap the period 01:00L to 06:59L.</para>
 
-      <sect3>
+      <sect2>
 	<title>Ignoring days off restrictions</title>
 
 	<para>The commander may, at his discretion, choose to allow the violation of days off
@@ -461,10 +465,10 @@
 
 	<para>The company may, due to unforseen circumstances, position a crew member back to base
 	when this forms their eighth consecutive duty.</para>
-      </sect3>
-    </sect2>
+      </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
 
       <title>Required rest</title>
 
@@ -472,7 +476,7 @@
       the length of the previous duty period, whichever is greater. For cabin crew, the rest
       required is one hour less than the flight crew.</para>
 
-      <sect3>
+      <sect2>
 	<title>Reducing required rest</title>
 
 	<para>At home base, flight crew may, at their discretion, reduce their required rest period
@@ -505,9 +509,9 @@
 	<para>There are additional limitations if the rest reduction forms part of a series of
 	discretion events.</para>
 
-      </sect3>
-    </sect2>
-    <sect2>
+      </sect2>
+    </sect1>
+    <sect1>
       <title>Maximum Flight Duty</title>
 
       <para>The maximum allowable flight duty for flight crew is governed by the number of sectors
@@ -536,7 +540,7 @@
       </table>
       </para>
       <para>The maximum allowable duty for cabin crew is one hour longer than the flight crew.</para>
-      <sect3>
+      <sect2>
 	<title>Increasing maximum flight duty</title>
 
 	<para>The commander may, at his discretion, increase the maximum flight duty detailed in
@@ -565,10 +569,10 @@
 	in <xref linkend="maxfd"/> to be extended by either 30 minutes or 60 minutes at the planning
 	stage. To utilise either of these exemptions a long list of conditions (detailed in EOM-A
 	7.1.12.9) must be met. Affected duties are annotated on rosters.</para>
-      </sect3>
-    </sect2>
+      </sect2>
+    </sect1>
 
-    <sect2 id="consecutive">
+    <sect1 id="consecutive">
       <title>Consecutive night, early start and late finish duties</title>
 
       <para>If any part of a duty falls within the period 02:00 to 04:59 local time, then it is a
@@ -619,17 +623,17 @@
       the variation approval, but my interpretation is a duty that commences between 01:00 and
       06:59</para></note>
 
-      <sect3>
+      <sect2>
 	<title>Ignoring consecutive night, early start and late finish duty limits</title>
 
 	<para>The commander may, at his discretion, allow violation of any of the consecutive night,
 	early start and late finish duty limits.</para>
 
-      </sect3>
+      </sect2>
 
-    </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
       <title>Cumulative limits</title>
       <para><xref linkend="cumulative"/> shows the cumulative duty time and block time limitations
       applicable to flight crew operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3)
@@ -683,16 +687,16 @@
       positioning home.  When not called out, time spent on standby during the period 22:00 to 08:00
       local time only counts half.</para>
 
-      <sect3>
+      <sect2>
 	<title>Ignoring cumulative limits</title>
 
 	<para>The commander, at his discretion, may allow violation of any cumulative limit. In this
 	case a Discretion Report Form must be completed to allow CAA audit.</para>
 
-      </sect3>
-    </sect2>
+      </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
       <title>Standby</title>
 
       <para>The maximum planned standby duration is 12 hours.</para>
@@ -708,9 +712,9 @@
       it must occur between 06:00L and 22:00L and the minimum time between call out and report must
       be 10 hours. The required rest period after a contactable is reduced to 10 hours, and the time
       spent on contactable does not count towards cumultive duty limits.</para>
-    </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
       <title>Transitions</title>
 
       <para>A "morning start duty" (MSD) is a duty with a report time between 03:00L and 09:29L. An
@@ -723,8 +727,8 @@
       transition is allowed per duty block. In addition, the August 2009 Rostering resolution prohibits
       transitions on day 5 of a duty block, and easyJet has made a commitment via pmail to limit
       rostered transitions to one per month.</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Pre and post flight duties</title>
 
       <para>For normal flight duty periods, a minimum of 1 hour must be planned for pre-flight
@@ -738,15 +742,15 @@
       commander reduces standard reporting time by more than 15 minutes, a Discretion Report form
       must be completed to allow CAA audit.</para>
 
-    </sect2>
+    </sect1>
 
 
-  </sect1>
-  <sect1 id="flight-preparation">
+  </chapter>
+  <chapter id="flight-preparation">
     <title>Flight preparation instructions</title>
-    <sect2 id="min-altitudes">
+    <sect1 id="min-altitudes">
       <title>Minimum flight altitudes</title>
-      <sect3><title>Definitions</title>
+      <sect2><title>Definitions</title>
 
       <para>When operating on a defined route segment, national authorities may have published the
       Minimum Enroute IFR Altitude (<emphasis role="strong">MEA</emphasis>) for that segment. This
@@ -791,9 +795,9 @@
 
       <para role="multicite">[EOM-A 8.1.1, Jeppesen Text Manual - "Introduction"]</para>
 
-      </sect3>
+      </sect2>
 
-      <sect3><title>Corrections</title>
+      <sect2><title>Corrections</title>
 
       <para>All published altitudes must be corrected for low temperatures. Altitudes within 5000ft
       of the elevation of the source of a QNH measurement can be corrected for temperatures below 0°C
@@ -814,9 +818,9 @@
       applied.</para>
 
       <para role="multicite">[EOM-A 8.1.1.3]</para>
-      </sect3>
+      </sect2>
 
-      <sect3><title>Operational requirements</title>
+      <sect2><title>Operational requirements</title>
 
       <para>When operating under IFR<footnote><para>Authorisation from the post holder flight
       operations is required to fly VFR.</para></footnote>, the minimum enroute altitudes should be
@@ -851,10 +855,10 @@
       MVA.</para>
 
       <para role="multicite">[EOM-A 8.1.1]</para>
-      </sect3>
+      </sect2>
 
-    </sect2>
-    <sect2 id="airports">
+    </sect1>
+    <sect1 id="airports">
       <title>Usability of airports</title>
 
       <para>easyJet is responsible for ensuring that all airports selected as destinations or alternates are adequate in
@@ -875,9 +879,9 @@
       flight simulator.</para>
 
       <para role="multicite">[EOM-A 8.1.2]</para>
-    </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
       <title>Aerodrome Operating Minima</title>
 
       <para>All easyJet aircraft, with the exception of certain A321s, are Category&#xA0;C for the
@@ -944,11 +948,11 @@
       by NOTAM.</para>
 
       <para role="multicite">[EOM-A 8.1.3, EOM-A 8.1.5, EOM-A 8.4.2.1]</para>
-    </sect2>
+    </sect1>
 
-    <sect2 id="alternates">
+    <sect1 id="alternates">
       <title>Selection of alternates</title>
-      <sect3>
+      <sect2>
       <title>Take-off and destination alternates</title>
         <mediaobject>
           <imageobject role="html">
@@ -974,8 +978,8 @@
         </orderedlist>
       </note>
       <para role="multicite">[EOM-A 8.1.2]</para>
-      </sect3>
-      <sect3 condition="airbus">
+      </sect2>
+      <sect2 condition="airbus">
         <title>Cruise alternates</title>
         <para>In the case of an engine failure at any point along the planned route an adequate
         aerodrome must be available within 60 minutes single engine flying time. The equivalent
@@ -996,9 +1000,9 @@
 
 	</para>
 	<para role="multicite">[EOM-B 5.1]</para>
-      </sect3>
-    </sect2>
-    <sect2 id="pre-flight-fuel">
+      </sect2>
+    </sect1>
+    <sect1 id="pre-flight-fuel">
       <title>Pre-flight fuel planning</title>
 
       <para>The OFP presents the following values for use in pre-flight fuel planning:
@@ -1084,7 +1088,7 @@
     </variablelist>
       </para>
       <para role="multicite">[EOM-A 8.1.7<phrase condition="airbus">, EOM-B 5</phrase>]</para>
-      <sect3>
+      <sect2>
 	<title>Reducing fuel loads to allow increased payload</title>
 
 	<para>Where payloads are such that the carriage of normal fuel loads results in exceedence
@@ -1105,12 +1109,12 @@
 	time I asked.</para>
 
 	<para role="multicite">[EOM-A 8.1.7.4]</para>
-      </sect3>
-    </sect2>
-    <sect2>
+      </sect2>
+    </sect1>
+    <sect1>
       <title>Weight and Balance</title>
 
-      <sect3><title>Structural weight limitations</title>
+      <sect2><title>Structural weight limitations</title>
 
       <para>The aircraft operating manual specifies maximum ramp, take-off, landing and zero fuel
       weights. The maximum take-off weight may also be reduced by easyJet to take advantage of
@@ -1134,9 +1138,9 @@
       limits for the cargo compartments. These may be found in FCOM 2.1.20.5000.</para>
 
       <para role="multicite">[EOM-A 8.1.8.1]</para>
-      </sect3>
+      </sect2>
 
-      <sect3><title>Payload calculation</title>
+      <sect2><title>Payload calculation</title>
 
       <para>The following standard weights may be used when calculating  payload:
       <table>
@@ -1209,9 +1213,9 @@
       less than known actual weights. Freight must always be weighed.</para>
 
       <para role="multicite">[EOM-A 8.1.8]</para>
-      </sect3>
+      </sect2>
 
-      <sect3 condition="airbus">
+      <sect2 condition="airbus">
 	<title>Balance calculation</title>
 	<para>Compliance with balance limitations is acheived using the LPC Weight and Balance
 	modules. If this is not available, weight and balance data should be sourced from OCC.  When
@@ -1219,9 +1223,9 @@
 	correct split (e.g. rows 1-9, 10-18, 19-26 for A319) should be used.</para>
 
 	<para role="multicite">[EOM-B 7.1.1]</para>
-      </sect3>
+      </sect2>
 
-      <sect3 condition="airbus">
+      <sect2 condition="airbus">
 	<title>Last minute changes</title>
 	<para>For the Airbus fleet, the following last minute changes do not require new LPC
 	calculations:
@@ -1238,10 +1242,10 @@
 	new value is greater that ISA+30) will suffice for changes up to 250kg.</para>
 
 	<para role="multicite">[EOM-B 7.4]</para>
-      </sect3>
+      </sect2>
 
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Operational Flight Plans</title>
 
       <para>Operational Flight Plans (OFP) are usually obtained via the crew room computers. OCC
@@ -1252,10 +1256,10 @@
       rooms via fax or email.</para>
 
       <para role="multicite">[EOM-A 8.1.10]</para>
-    </sect2>
-    <sect2 id="tech-log">
+    </sect1>
+    <sect1 id="tech-log">
       <title>Aircraft Technical Log</title>
-      <sect3>
+      <sect2>
 	<title>Standard of entries</title>
 
 	<para>All entries must be completed in block capitals.</para>
@@ -1270,8 +1274,8 @@
 
 	<para role="multicite">[EOM-A 8.1.11.2, EOM-A 8.1.11.3, EOM-A 8.1.11.5]</para>
 
-      </sect3>
-      <sect3>
+      </sect2>
+      <sect2>
 	<title>Layout and usage</title>
 
 	<para>The tech log is divided into prologue pages and a main section.</para>
@@ -1306,8 +1310,8 @@
 	engineering.</para>
 
 	<para role="multicite">[EOM-A 8.1.11.5, EOM-A 8.1.11.6, EOM-A 8.2.1.3]</para>
-      </sect3>
-      <sect3>
+      </sect2>
+      <sect2>
 	<title>Defect management</title>
 	<para>All defects should, with the following exceptions, be immediately entered into the
 	tech log:
@@ -1360,8 +1364,8 @@
 	entry and the associated "Action Taken" and RTS sections should be struck through.</para>
 
 	<para role="multicite">[EOM-A 8.1.11<phrase condition="airbus">, EOM-B 2.3.25.2, EOM-B 3.3</phrase>]</para>
-      </sect3>
-      <sect3>
+      </sect2>
+      <sect2>
 	<title>Recurrent engineering checks</title>
 
 	<para>The validity of recurrent engineering checks must be confirmed prior to accepting an
@@ -1371,8 +1375,8 @@
 
 	<para role="multicite">[EOM-A 8.1.11.4]</para>
 
-      </sect3>
-      <sect3>
+      </sect2>
+      <sect2>
 	<title>Cabin defect log</title>
 
 	<para>The SCCM enters details of cabin defects in the cabin defect log and presents it to
@@ -1380,11 +1384,11 @@
 	any airworthiness items to the technical log.</para>
 
 	<para role="multicite">[EOM-A 8.1.11.17]</para>
-      </sect3>
-    </sect2>
-    <sect2>
+      </sect2>
+    </sect1>
+    <sect1>
       <title>Documents to be carried</title>
-      <sect3>
+      <sect2>
 	<title>Certificates</title>
 	<itemizedlist>
 	  <listitem><para>Certificate of Registration</para></listitem>
@@ -1395,16 +1399,16 @@
 	  <listitem><para>Third Party Liability Insurance Certificates (may be copies)</para></listitem>
 	  <listitem><para>Flight Crew Licences</para></listitem>
 	</itemizedlist>
-      </sect3>
-      <sect3>
+      </sect2>
+      <sect2>
 	<title>Manuals</title>
 	<itemizedlist>
 	  <listitem><para>Those parts of the Operations Manual relevant to the duties of crew</para></listitem>
 	  <listitem><para>Maps and Charts required to complete the flight</para></listitem>
 	  <listitem><para>Search and Rescue procedures</para></listitem>
 	</itemizedlist>
-      </sect3>
-      <sect3>
+      </sect2>
+      <sect2>
 	<title>Other</title>
 	<itemizedlist>
 	  <listitem><para>Technical Log</para></listitem>
@@ -1421,13 +1425,13 @@
 	</itemizedlist>
 
       <para role="multisite">[Ezy-A 8.1.12]</para>
-      </sect3>
-    </sect2>
-  </sect1>
+      </sect2>
+    </sect1>
+  </chapter>
 
-  <sect1 id="ground-handling">
+  <chapter id="ground-handling">
     <title>Ground Handling Instructions</title>
-    <sect2>
+    <sect1>
       <title>Fuelling procedures</title>
       <para>The fuel supplier is responsible for ensuring that all fuel quality checks are
       completed, that the bowser is properly earthed to the aircraft and that fuel caps are properly
@@ -1476,12 +1480,12 @@
       <para>The flight crew must monitor the fuel gauges during fuelling.</para>
 
     <para role="multicite">[EOM-A 8.2.1]</para>
-    </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
       <title>Passenger groups</title>
 
-      <sect3>
+      <sect2>
 	<title>Able Bodied Passengers</title>
 
 	<para>Able bodied passengers (ABP) are those adult passengers that are deemed fit and strong
@@ -1489,9 +1493,9 @@
 	of ABPs only.</para>
 
 	<para role="multicite">[EOM-A 8.2.2.1]</para>
-      </sect3>
+      </sect2>
 
-      <sect3 id="PRM">
+      <sect2 id="PRM">
         <title>Persons of Reduced Mobility</title>
         <para>A passenger is considered a Person of Reduced Mobility (PRM) when their physical,
         medical or mental condition would make them likely to impede an evacuation. The number of
@@ -1503,9 +1507,9 @@
 
 	<para role="multicite">[EOM-A 8.2.2.1, EOM-A 8.2.2.2]</para>
 
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
         <title>Infants and children</title>
 
         <para>Infants (children under two years) may fly free of charge if they sit on the lap of
@@ -1544,9 +1548,9 @@
         </table>
         </para>
 	<para role="multicite">[EOM-A 8.2.2.4, EOM-E 2.4.12]</para>
-      </sect3>
+      </sect2>
 
-     <sect3>
+     <sect2>
         <title>Expectant mothers</title>
         <para>Between 28 and 35 weeks (inclusive) of pregnancy, a medical certificate signed by a
         doctor or midwife confirming pregnancy stage and fitness to fly is required. Passengers
@@ -1555,9 +1559,9 @@
 	<para>Infants may travel on the laps of expectant mothers.</para>
 
 	<para role="multicite">[EOM-A 8.2.2.4, EOM-E 2.4.12]</para>
-      </sect3>
+      </sect2>
 
-      <sect3 id="prisoners">
+      <sect2 id="prisoners">
 	<title>Escorted passengers</title>
 
 	<para>Prisoners will only be accepted for carriage on the authority of the Network Duty
@@ -1572,9 +1576,9 @@
 	the rear of the aircraft.</para>
 
 	<para role="multicite">[EOM-A 8.2.2.6]</para>
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
         <title>Deportees</title>
 
 	<para>When immigration authorities refuse a passenger admission, an Order to remove the
@@ -1599,9 +1603,9 @@
 	genuine visitors", who should be treated as normal passengers.</para>
 
 	<para role="multicite">[EOM-A 8.2.2.7]</para>
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
         <title>Stowaways</title>
 
         <para>If a stowaway is discovered the police should be requested to meet the aircraft on
@@ -1610,9 +1614,9 @@
 
 	<para role="multicite">[EOM-A 8.2.2.1]</para>
 
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
 	<title>Human remains</title>
 
 	<para>Only ashes are permitted. They must be be appropriately packaged, carried in hand
@@ -1620,9 +1624,9 @@
 
 	<para role="multicite">[EOM-A 8.2.2.5]</para>
 
-      </sect3>
+      </sect2>
 
-       <sect3>
+       <sect2>
         <title>Live animals</title>
 
         <para>The only permitted live animals are official Assistance and Guide Dogs. These may be
@@ -1639,13 +1643,13 @@
 
 	<para role="multicite">[EOM-E 2.4.10]</para>
 
-      </sect3>
+      </sect2>
 
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Baggage and freight</title>
 
-      <sect3>
+      <sect2>
 	<title>Cabin baggage</title>
 
 	<para>Each passenger may bring one piece of hand baggage with maximum dimensions of 560mm x
@@ -1664,9 +1668,9 @@
 	is permitted. Details of correct stowage may be found in EOM-E 2.4.9.2.</para>
 
 	<para role="multicite">[EOM-A 8.2.2.15,	EOM-E 2.4.9]</para>
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
         <title>Musical instruments</title>
 
 	<para>Small musical instruments (max 300mmx1170mmx380mm) may be stowed in overhead
@@ -1677,9 +1681,9 @@
         centre of mass less than 30cm above the seat cushion. It must be secured to a non-restricted window seat.</para>
 
 	<para role="multicite">[EOM-A 8.2.2.15]</para>
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
         <title>Aircraft spares</title>
 
         <para>OCC may authorise carriage of spares for AOG easyJet aircraft except on routes to and
@@ -1689,9 +1693,9 @@
         NOTOC. Engineering must oversee the offload of the spares on arrival.</para>
 
 	<para role="multicite">[EOM-A 8.2.2.15]</para>
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
         <title>FDM Data</title>
 
         <para>FDM data cards/ disks may be carried in the flight deck. They are transported in blue
@@ -1702,9 +1706,9 @@
         searched. The broken seal should be reported to the FDM department.</para>
 
 	<para role="multicite">[EOM-A 8.2.2.15]</para>
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
         <title>Human Organs for Transplantation</title>
 
         <para>These will arrive at the aircraft in a box sealed with tamper-proof tags. They are exempt security
@@ -1713,14 +1717,14 @@
 
 	<para role="multicite">[EOM-E 2.4.11]</para>
 
-      </sect3>
+      </sect2>
 
-    </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
       <title>Ground ice protection</title>
 
-      <sect3>
+      <sect2>
         <title>Types of fluid</title>
 
         <para>ISO Type I fluid has a high glycol content and low viscosity. De-icing performance is good, but protection
@@ -1740,8 +1744,8 @@
         are a factor of OAT and holdover requirements.</para>
 
 	<para role="multicite">[EOM-A 8.2.4.3.2]</para>
-      </sect3>
-      <sect3>
+      </sect2>
+      <sect2>
 	<title>Holdover times</title>
 
 	<para>Guideline holdover time tables are presented <phrase condition="airbus">on the LPC and
@@ -1752,9 +1756,9 @@
 	shortened by high winds, jet blast or when the skin temperature is less than OAT.</para>
 
 	<para role="multicite">[EOM-A 8.2.4.3.3, EOM-A 8.2.4.3.4]</para>
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
         <title>Precautions</title>
 
         <para>De-icing fluid should not be used where it could cause loss of vision while being shed during the take-off
@@ -1771,14 +1775,14 @@
         of obstruction.</para>
 
 	<para role="multicite">[EOM-A 8.2.4.3.4]</para>
-      </sect3>
-    </sect2>
+      </sect2>
+    </sect1>
 
-  </sect1>
+  </chapter>
 
-  <sect1 id="flight-procedures">
+  <chapter id="flight-procedures">
     <title>Flight procedures</title>
-    <sect2>
+    <sect1>
       <title>VFR/IFR policy</title>
 
       <para>When controlled airspace exists between departure and destination airports, flights will be planned to
@@ -1795,12 +1799,12 @@
       flight operations.</para>
 
       <para role="multicite">[EOM-A 8.3.1, EOM-A 8.1.1.1]</para>
-    </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
       <title>Navigation policy</title>
 
-      <sect3>
+      <sect2>
 	<title>Required Navigation Performance</title>
 
 	<para>Navigation requirements for a given phase of flight are defined in terms of Required
@@ -1825,9 +1829,9 @@
 
       <para role="multicite">[EOM-A 8.3.2.4]</para>
 
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
 	<title>Basic RNAV</title>
 
 	<para>Basic RNAV (BRNAV) is defined as RNP 5. BRNAV capability is mandatory throughout ECAC
@@ -1839,9 +1843,9 @@
 	alignment, independantly of estimated accuracy displayed on the MCDU.</para>
 
 	<para role="multicite">[EOM-A 8.3.2.7<phrase condition="airbus">, EOM-B 2.4.51</phrase>]</para>
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
 	<title>Precision RNAV</title>
 
 	<para>Precision RNAV (PRNAV) is defined as RNP 1. PRNAV may be used for departures and
@@ -1868,9 +1872,9 @@
 	acceptable to intercept an ILS localiser in NAV as long as GPS PRIMARY is available.</para>
 
 	<para role="multicite">[EOM-A 8.3.2.8<phrase condition="airbus">, EOM-B 2.4.51</phrase>]</para>
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
 	<title>Contingencies</title>
 
 	<para>In-flight failure of navigation equipment may lead to downgrade of RNP
@@ -1891,11 +1895,11 @@
 
 	<para role="multicite">[EOM-A 8.3.2.7, EOM-A 8.3.2.8<phrase condition="airbus">, EOM-B 2.4.51</phrase>]</para>
 
-      </sect3>
+      </sect2>
 
-    </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
       <title>Altimeter setting procedures</title>
 
       <para condition="airbus">On the ground, the main altimeters should be within 20ft of each
@@ -1908,9 +1912,9 @@
       QNH before passing FL200 in the descent.</para>
 
       <para role="multicite">[EOM-A 8.3.3, <phrase condition="airbus">FCOM 4.3.34</phrase>]</para>
-    </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
       <title>RVSM</title>
 
       <para>RVSM airspace is airspace above FL290 where only 1000ft vertical separation is
@@ -1925,9 +1929,9 @@
 
       <para role="multicite">[EOM-A 8.3.2]</para>
 
-    </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
       <title>In-flight fuel management</title>
 
       <para>Flights of less than 20 minutes do not require a fuel check. All other flights require a
@@ -1959,9 +1963,9 @@
 
       <para role="multicite">[EOM-A 8.3.7]</para>
 
-    </sect2>
+    </sect1>
 
-    <sect2>
+    <sect1>
       <title>Thunderstorms</title>
 
       <para>Do not attempt to land or take-off when a thunderstorm is overhead or approaching.</para>
@@ -1996,14 +2000,14 @@
       flight is required maintain attitude and expect large variations in altitude.</para>
 
       <para role="multicite">[EOM-A 8.3.8.1, UK AIC P056/2010<phrase condition="airbus">, FCOM 3.4.91</phrase>]</para>
-    </sect2>
-  </sect1>
+    </sect1>
+  </chapter>
 
 <!--
-    <sect2>
+    <sect1>
       <title>Wake turbulence</title>
       <para>[Ezy-A 8.3.9]</para>
-      <sect3>
+      <sect2>
         <title>Final approach</title>
         <para>The following minimum distances should be applied when following an aircraft on final approach:
         <informaltable>
@@ -2021,8 +2025,8 @@
           </tgroup>
         </informaltable>
         </para>
-      </sect3>
-      <sect3>
+      </sect2>
+      <sect2>
         <title>Departure</title>
         <para>The following time should elapse between the time a heavy aircraft in front becomes airborne and the time
         you become airborne when operating from the same runway or from parallel runways less than 760m apart.
@@ -2040,14 +2044,14 @@
           </tgroup>
         </informaltable>
         </para>
-      </sect3>
-      <sect3>
+      </sect2>
+      <sect2>
         <title>Displaced landing thresholds</title>
         <para>When a displaced landing threshold will cause the flight path of a landing heavy aircraft to cross your
         departure flight path, or will cause the departure flight path of a heavy aircraft to cross your landing flight path,
         <emphasis>2 minutes</emphasis> must elapse between the times the aircraft are airborne.</para>
-      </sect3>
-      <sect3>
+      </sect2>
+      <sect2>
         <title>Crossing projected flight paths</title>
         <para>If the flight path of an aircraft operating from a crossing, diverging or independent parallel runway
         (separated by more than 760m) crosses your projected flight path, the following distance should exist between
@@ -2067,16 +2071,16 @@
           </tgroup>
         </informaltable>
         </para>
-      </sect3>
-      <sect3>
+      </sect2>
+      <sect2>
         <title>Opposite direction</title>
         <para><emphasis>2 minutes</emphasis> must elapse before take-off or landing when a heavy aircraft has made
         an opposite direction low or missed approach to the runway. <emphasis>2 minutes</emphasis> must also elapse
         before a landing is made when a heavy aircraft has made an opposite direction low or missed approach on a
         parallel runway separated by less than 760m.</para>
-      </sect3>
-    </sect2>
-    <sect2>
+      </sect2>
+    </sect1>
+    <sect1>
       <title>Admission to flight deck</title>
       <para>[Ezy-A 8.3.12]</para>
       <para>Refreshments should only be brought into the flight deck when the flight time exceeds 1 hour and the
@@ -2087,14 +2091,14 @@
       <para>Passengers must never be allowed on the flight deck when engines are running.</para>
       <para>A list of personnel that are authorised to use the jump seat is included in [Ezy-A
       8.3.12].</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Use of vacant crew seats</title>
       <para>[Ezy-A 8.3.13]</para>
       <para>If insufficient passenger seats are available, with the specific authorisation of the duty pilot an easyJet
       staff member travelling as a passenger may occupy a vacant crew seat.</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Incapacitation of crew members</title>
       <para>[Ezy-A 8.3.14]</para>
       <para>It may be assumed that a crew member is incapacitated if he does not respond appropriately to two verbal
@@ -2105,11 +2109,11 @@
       member, an emergency should be declared and a diversion should be made to the nearest suitable airport. The
       incapacitated crew member must take no further part in the flight, even if he appears to have fully
       recovered. Medical advice should be sought by the remaining crew before further flying.</para>
-    </sect2>
-  </sect1>
-  <sect1>
+    </sect1>
+  </chapter>
+  <chapter>
     <title>Operating Procedures: All weather operations</title>
-    <sect2>
+    <sect1>
       <title>Definitions</title>
       <variablelist>
         <varlistentry>
@@ -2147,10 +2151,10 @@
         </para></listitem>
         </varlistentry>
       </variablelist>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Low visibility operations</title>
-      <sect3>
+      <sect2>
         <title>Precision approach categories</title>
         <informaltable>
           <tgroup cols="4" align="center">
@@ -2169,8 +2173,8 @@
             </tbody>
           </tgroup>
         </informaltable>
-      </sect3>
-      <sect3>
+      </sect2>
+      <sect2>
         <title>Events during Cat II/III approaches</title>
         <mediaobject>
           <imageobject role="dblatex">
@@ -2183,9 +2187,9 @@
             <imagedata format="SVG" width="110mm" align="left" fileref="images/cat-III-events.svg"/>
           </imageobject>
         </mediaobject>
-      </sect3>
+      </sect2>
 
-      <sect3>
+      <sect2>
         <title>Equipment failures during Cat II/III approaches</title>
         <variablelist>
           <varlistentry>
@@ -2226,34 +2230,34 @@
           are engaged.</para></listitem>
         </varlistentry>
         </variablelist>
-      </sect3>
-    </sect2>
-    <sect2>
+      </sect2>
+    </sect1>
+    <sect1>
       <title>Miscellaneous</title>
       <para>If two consecutive approaches to an airfield have resulted in go-arounds, a third approach may not be made
       unless there has been a significant change in reported weather conditions.</para>
       <para>An automatic landing should be made from a Cat II approach.</para>
-    </sect2>
-  </sect1>
-  <sect1 id="dangerous-goods">
+    </sect1>
+  </chapter>
+  <chapter id="dangerous-goods">
     <title>Carriage of Dangerous Goods</title>
     <para>TODO</para>
-  </sect1>
-  <sect1 id="security">
+  </chapter>
+  <chapter id="security">
     <title>Security Procedures</title>
     <para>TODO</para>
-  </sect1>
-  <sect1 id="accidents">
+  </chapter>
+  <chapter id="accidents">
     <title>Accident and Incident Handling</title>
     <para>TODO</para>
-  </sect1>
-  <sect1 id="sops">
+  </chapter>
+  <chapter id="sops">
     <title>Standard Operating Procedures</title>
     <para>TODO</para>
-  </sect1>
-  <sect1 id="misc">
+  </chapter>
+  <chapter id="misc">
     <title>Miscellaneous</title>
-    <sect2>
+    <sect1>
       <title>Missing manuals</title>
       <para>[Ezy-A 0.2.2]</para>
       <para>If an easyJet manual is missing from the flight deck library, a replacement manual may be taken from a crew
@@ -2262,8 +2266,8 @@
       copied to NAV/PERF/OPS INFO.</para>
       <para>If a chart or page is missing from a Jeppensen manual, the yellow Jeppensen comments sheet should be filled
       in, and the journey log suitably annotated.</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Positioning crew</title>
       <para>[Ezy-A 4.5]</para>
       <para>Ramp transfer or remaining on aircraft for positioning is permissible if crew have arrived from a domestic
@@ -2271,22 +2275,22 @@
       <para>Flight crew, cabin crew and engineers may travel without a passenger booking as "extra crew" with the
       authorization of the duty pilot. If a gendec is required for the flight, anyone positioning as extra crew must be
       included.</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Drunkenness on board</title>
       <para>[Ezy-A 8.2.2]</para>
       <para>No person may embark if drunk. Passengers may not consume their own alcohol, and must not be served
       alcoholic beverages if it is suspected that they are drunk. If a passenger is refused carriage or a drink related
       incident occurs on board, an ASR must be raised and forwarded to the Quality Manager. Details of the items that
       should be included in the ASR are in Ezy-A.</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Operation of doors from the outside</title>
       <para>[Ezy-A 8.2.2]</para>
       <para>Cabin crew are not permitted to open or close doors from the outside. Flight crew may only open or close
       doors from the outside if an airbridge or ground steps are used.</para>
-    </sect2>
-    <sect2>
+    </sect1>
+    <sect1>
       <title>Flight crew seats</title>
       <para>[Ezy-A 8.3.10]</para>
       <para>Flight crew must remain in their seats except that one member of flight crew at at time may leave his
@@ -2294,7 +2298,7 @@
       person during his absence.</para>
       <para>Both pilots must wear full harnesses for take-off and landing and whenever the "Fasten Belts" signs are
       on.</para>
-    </sect2>
-  </sect1>
+    </sect1>
+  </chapter>
 -->
-</article>
+</book>

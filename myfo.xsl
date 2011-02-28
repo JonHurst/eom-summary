@@ -21,10 +21,12 @@
 <xsl:param name="section.autolabel.max.depth" select="2"/>
 <!-- <xsl:param name="insert.xref.page.number" select="'yes'"/> -->
 <xsl:param name="toc.indent.width" select="'30'"/>
+<xsl:param name="toc.section.depth" select="'1'"/>
+
 <xsl:param name="default.table.width" select="'110mm'"/>
 <xsl:param name="default.image.width">110mm</xsl:param>
 <xsl:param name="body.font.family">Times</xsl:param>
-<xsl:param name="header.column.widths">1 3 1</xsl:param>
+<xsl:param name="header.column.widths">1 10 1</xsl:param>
 
 <!-- <xsl:param name="symbol.font.family" select="'Symbol,ZapfDingbats,unifont'"/> -->
 <xsl:param name="symbol.font.family" select="'Symbol'"/>
@@ -54,6 +56,15 @@
   <xsl:attribute name="padding-bottom">2pt</xsl:attribute>
 </xsl:attribute-set>
 
+
+<xsl:attribute-set name="component.title.properties">
+  <xsl:attribute name="font-size">
+    <xsl:value-of select="$body.font.master * 1.3"/>
+    <xsl:text>pt</xsl:text>
+  </xsl:attribute>
+</xsl:attribute-set>
+
+
 <xsl:attribute-set name="admonition.title.properties">
   <xsl:attribute name="font-size">12pt</xsl:attribute>
 </xsl:attribute-set>
@@ -64,9 +75,9 @@
 </xsl:attribute-set>
 
 
-<xsl:attribute-set name="section.level1.properties">
-  <xsl:attribute name="break-before">page</xsl:attribute>
-</xsl:attribute-set>
+<!-- <xsl:attribute-set name="section.level1.properties"> -->
+<!--   <xsl:attribute name="break-before">page</xsl:attribute> -->
+<!-- </xsl:attribute-set> -->
 
 <xsl:attribute-set name="section.title.level1.properties">
   <xsl:attribute name="font-size">
@@ -119,5 +130,12 @@
   </fo:block>
 </xsl:template>
 
-
+<xsl:template name="header.content">
+  <xsl:param name="position" select="''"/>
+  <xsl:choose>
+    <xsl:when test="$position = 'center'">
+      <xsl:apply-templates select="."  mode="object.title.markup"/>
+    </xsl:when>
+  </xsl:choose>
+</xsl:template>
 </xsl:stylesheet>
