@@ -1908,7 +1908,7 @@ ght preparation instructions</title>
       standby altimeter should remain on QNH until passing MSA during climbout and should be set to
       QNH before passing FL200 in the descent.</para>
 
-      <para>[EOM-A 8.3.3, <phrase condition="airbus">FCOM 4.3.34</phrase>]</para>
+      <para role="multicite">[EOM-A 8.3.3, <phrase condition="airbus">FCOM 4.3.34</phrase>]</para>
     </sect2>
 
     <sect2>
@@ -1924,7 +1924,7 @@ ght preparation instructions</title>
 
       <para>ATC must also be notified if severe turbulence is encountered.</para>
 
-      <para>[EOM-A 8.3.2]</para>
+      <para role="multicite">[EOM-A 8.3.2]</para>
 
     </sect2>
 
