@@ -1916,14 +1916,16 @@ ght preparation instructions</title>
     <sect2>
       <title>Altimeter setting procedures</title>
 
-      <para condition="airbus">Pre-flight altimeter servicability checks are detailed in FCOM 3.4.34.</para>
+      <para condition="airbus">On the ground, the main altimeters should be within 20ft of each
+      other and within 25ft of the airfield elevation. The ISIS should be within 100ft of the main
+      altimeters.</para>
 
       <para>easyJet is a QNH operator. Main altimeters should be set to 1013 when cleared to a
       flight level during climbout and set to QNH when cleared to an altitude during descent. The
       standby altimeter should remain on QNH until passing MSA during climbout and should be set to
       QNH before passing FL200 in the descent.</para>
 
-      <para>[EOM-A 8.3.3]</para>
+      <para>[EOM-A 8.3.3, <phrase condition="airbus">FCOM 4.3.34</phrase>]</para>
     </sect2>
 
   </sect1>
