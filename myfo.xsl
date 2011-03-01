@@ -23,8 +23,8 @@
 <xsl:param name="toc.indent.width" select="'30'"/>
 <xsl:param name="toc.section.depth" select="'1'"/>
 
-<xsl:param name="default.table.width" select="'110mm'"/>
-<xsl:param name="default.image.width">110mm</xsl:param>
+<xsl:param name="default.table.width" select="'112mm'"/>
+<xsl:param name="default.image.width">112mm</xsl:param>
 <xsl:param name="body.font.family">Times</xsl:param>
 <xsl:param name="header.column.widths">1 10 1</xsl:param>
 
