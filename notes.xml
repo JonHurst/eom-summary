@@ -842,19 +842,19 @@
 
       <table>
         <title>MORA Wind Speed Correction</title>
-        <tgroup cols="5">
-          <colspec colnum="1" colwidth="2*"/>
-          <colspec colnum="2" align="center" colname="windsst" colwidth="*"/>
+        <tgroup cols="4">
+          <colspec colnum="1" align="center" colname="windsst" colwidth="*"/>
+          <colspec colnum="2" align="center" colwidth="*"/>
           <colspec colnum="3" align="center" colwidth="*"/>
-          <colspec colnum="4" align="center" colwidth="*"/>
-          <colspec colnum="5" align="center" colname="windsend" colwidth="*"/>
+          <colspec colnum="4" align="center" colname="windsend" colwidth="*"/>
           <thead>
-            <row><entry>Terrain</entry><entry namest="windsst" nameend="windsend">Wind speed in Knots</entry></row>
-            <row><entry>Elevation</entry><entry>0 - 30</entry><entry>31 - 50</entry><entry>51 -70</entry><entry>70+</entry></row>
+            <row><entry namest="windsst" nameend="windsend">Wind speed in Knots</entry></row>
+            <row><entry>0 - 30</entry><entry>31 - 50</entry><entry>51 -70</entry><entry>70+</entry></row>
           </thead>
           <tbody>
-            <row><entry>2,000-8,000ft</entry><entry>500ft</entry><entry>1,000ft</entry><entry>1,500ft</entry><entry>2,000ft</entry></row>
-            <row><entry>More than 8,000ft</entry><entry>1,000ft</entry><entry>1,500ft</entry><entry>2,000ft</entry><entry>2,500ft</entry></row>
+            <row><entry>500ft</entry><entry>1,000ft</entry><entry>1,500ft</entry><entry>2,000ft</entry></row>
+            <row><entry namest="windsst" nameend="windsend">Add a further <emphasis
+            role="strong">500ft</emphasis> for terrain over <emphasis role="strong">8,000ft</emphasis></entry></row>
           </tbody>
         </tgroup>
       </table></para>
