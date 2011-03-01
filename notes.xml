@@ -2185,22 +2185,28 @@
 
 	<para role="multicite">[EOM-A 8.3.11]</para>
       </sect2>
+
+      <sect2>
+	<title>Incapacitation of crew members</title>
+
+	<para>It may be assumed that a crew member is incapacitated if he does not respond
+	appropriately to two verbal communications or does not respond to a verbal communication
+	associated with a significant deviation from a standard flight profile.</para>
+
+	<para>If the incapacitation occurs when the aircraft is on approach, fully configured, and
+	visual with the runway, the landing should be completed. Otherwise, other crew should be
+	summoned to care for the incapacitated crew member, an emergency should be declared and a
+	diversion should be made to the nearest suitable airport. The incapacitated crew member must
+	take no further part in the flight, even if he appears to have fully recovered. Medical
+	advice should be sought by the remaining crew before further flying.</para>
+
+	<para role="multicite">[EOM-A 8.3.14]</para>
+      </sect2>
+
     </sect1>
   </chapter>
 
 <!--
-    <sect1>
-      <title>Incapacitation of crew members</title>
-      <para>[Ezy-A 8.3.14]</para>
-      <para>It may be assumed that a crew member is incapacitated if he does not respond appropriately to two verbal
-      communications or does not respond to a verbal communication associated with a significant deviation from a
-      standard flight profile.</para>
-      <para>If the incapacitation occurs when the aircraft is on approach, fully configured, and visual with the runway,
-      the landing should be completed. Otherwise, other crew should be summoned to care for the incapacitated crew
-      member, an emergency should be declared and a diversion should be made to the nearest suitable airport. The
-      incapacitated crew member must take no further part in the flight, even if he appears to have fully
-      recovered. Medical advice should be sought by the remaining crew before further flying.</para>
-    </sect1>
   </chapter>
   <chapter>
     <title>Operating Procedures: All weather operations</title>
