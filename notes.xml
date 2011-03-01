@@ -2017,40 +2017,60 @@
     </sect1>
 
     <sect1>
-      <title>Thunderstorms</title>
+      <title>Hazardous atmospheric conditions</title>
 
-      <para>Do not attempt to land or take-off when a thunderstorm is overhead or approaching.</para>
+      <sect2>
+	<title>Thunderstorms</title>
 
-      <para>Avoid thunderstorms by 20nm when above 20,000ft. Below 20,000ft avoid by 10nm:
+	<para>Do not attempt to land or take-off when a thunderstorm is overhead or approaching.</para>
 
-      <itemizedlist>
-	<listitem><para>any echoes with 'hooks', 'fingers', scalloped edges or other
-	protrusions</para></listitem>
-	<listitem><para>any echoes with sharp edges, strong intensities or strong gradients of
-	intensity</para></listitem>
+	<para>Avoid thunderstorms by 20nm when above 20,000ft. Below 20,000ft avoid by 10nm:
 
-	<listitem><para>any echoes showing rapid change of intesity, shape or
-	height</para></listitem>
-      </itemizedlist></para>
+	<itemizedlist>
+	  <listitem><para>any echoes with 'hooks', 'fingers', scalloped edges or other
+	  protrusions</para></listitem>
+	  <listitem><para>any echoes with sharp edges, strong intensities or strong gradients of
+	  intensity</para></listitem>
 
-      <para>If overflying maintain at least 5000ft vertical clearance.</para>
+	  <listitem><para>any echoes showing rapid change of intesity, shape or
+	  height</para></listitem>
+	</itemizedlist></para>
 
-      <para>In general it is preferable to be upwind of a thunderstorm; severe turbulence and hail
-      are most often encountered on the downwind side. In particular avoid flying underneath the
-      anvil or in the cirrus or cirrostratus layers downwind of the storm. The greatest probability
-      of severe turbulence and lightning strikes is near the 0°C isotherm, so avoid this
-      level.</para>
+	<para>If overflying maintain at least 5000ft vertical clearance.</para>
 
-      <para>If an area of thunderstorm activity cannot be avoided, set the aircraft up for
-      turbulence <phrase condition="airbus">(autopilot on, autothrust disconnected when thrust
-      changes become excessive, thrust as per QRH 5.01)</phrase>, heavy icing (anti-ice systems all on) and heavy
-      precipitation (ignitors on). Turn up the cockpit lighting fully and lower the crew seats to
-      prevent blindness from lightning flashes. Disregard the ADF. Penetrate lines of thunderstorms
-      at 90° using the weather radar to identify the path of least activity. Once inside a
-      thunderstorm maintain heading as this is likely to be the shortest path through it. If manual
-      flight is required maintain attitude and expect large variations in altitude.</para>
+	<para>In general it is preferable to be upwind of a thunderstorm; severe turbulence and hail
+	are most often encountered on the downwind side. In particular avoid flying underneath the
+	anvil or in the cirrus or cirrostratus layers downwind of the storm. The greatest
+	probability of severe turbulence and lightning strikes is near the 0°C isotherm, so avoid
+	this level.</para>
 
-      <para role="multicite">[EOM-A 8.3.8.1, UK AIC P056/2010<phrase condition="airbus">, FCOM 3.4.91</phrase>]</para>
+	<para>If an area of thunderstorm activity cannot be avoided, set the aircraft up for
+	turbulence <phrase condition="airbus">(autopilot on, autothrust disconnected when thrust
+	changes become excessive, thrust as per QRH 5.01)</phrase>, heavy icing (anti-ice systems
+	all on) and heavy precipitation (ignitors on). Turn up the cockpit lighting fully and lower
+	the crew seats to prevent blindness from lightning flashes. Disregard the ADF. Penetrate
+	lines of thunderstorms at 90° using the weather radar to identify the path of least
+	activity. Once inside a thunderstorm maintain heading as this is likely to be the shortest
+	path through it. If manual flight is required maintain attitude and expect large variations
+	in altitude.</para>
+
+	<para role="multicite">[EOM-A 8.3.8.1, UK AIC P056/2010<phrase condition="airbus">, FCOM
+	3.4.91</phrase>]</para>
+      </sect2>
+
+      <sect2>
+	<title>Turbulence</title>
+
+	<para>The cabin crew should be informed of any forecast turbulence during the pre-flight
+	brief.</para>
+
+	<para>When reporting turbulence to ATC, the term "severe turbulence" indicates that the
+	aircraft is momentarily out of control and the term "extreme turbulence" indicates that the
+	aircraft is practically impossible to control and likely to be suffering structural
+	damage.</para>
+
+	<para role="multicite">[EOM-A 8.3.8.3]</para>
+      </sect2>
     </sect1>
   </chapter>
 
