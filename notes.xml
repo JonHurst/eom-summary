@@ -2072,12 +2072,9 @@
 	<para role="multicite">[EOM-A 8.3.8.3]</para>
       </sect2>
     </sect1>
-  </chapter>
 
-<!--
     <sect1>
       <title>Wake turbulence</title>
-      <para>[Ezy-A 8.3.9]</para>
       <sect2>
         <title>Final approach</title>
         <para>The following minimum distances should be applied when following an aircraft on final approach:
@@ -2089,68 +2086,47 @@
               <row><entry>Type</entry><entry>Separation</entry></row>
             </thead>
             <tbody>
+              <row><entry>A380</entry><entry>7nm</entry></row>
               <row><entry>Heavy</entry><entry>5nm</entry></row>
-              <row><entry>B757</entry><entry>4nm</entry></row>
-              <row><entry>Medium or small</entry><entry>3nm</entry></row>
+              <row><entry>Upper Medium (e.g.757, 707)</entry><entry>4nm (UK only)</entry></row>
             </tbody>
           </tgroup>
         </informaltable>
+	<note><para>Boeing 757 and Boeing 737-800/900 are classified as heavy for the purposes of
+	final approach in some countries.</para></note>
         </para>
+	<para>[EOM-A 8.3.9]</para>
+
       </sect2>
       <sect2>
         <title>Departure</title>
-        <para>The following time should elapse between the time a heavy aircraft in front becomes airborne and the time
-        you become airborne when operating from the same runway or from parallel runways less than 760m apart.
+        <para>The following time should elapse between the time the aircraft in front becomes
+        airborne and the time you become airborne when operating from the same runway or from
+        parallel runways less than 760m apart:
         <informaltable>
           <tgroup cols="2" align="center">
-            <colspec colnum="1" colwidth="*"/>
-            <colspec colnum="2" colwidth="*"/>
+            <colspec colnum="1" colwidth="*" colname="start"/>
+            <colspec colnum="2" colwidth="*" colname="end"/>
             <thead>
-              <row><entry>Departure position</entry><entry>Separation</entry></row>
+              <row><entry>Type</entry><entry>Separation</entry></row>
             </thead>
             <tbody>
-              <row><entry>Same</entry><entry>2 mins</entry></row>
-              <row><entry>Intermediate</entry><entry>3 mins</entry></row>
+              <row><entry>A380</entry><entry>3 mins</entry></row>
+              <row><entry>Heavy</entry><entry>2 mins</entry></row>
+	      <row><entry namest="start" nameend="end">Add 1 minute if departure is not from the same position</entry></row>
             </tbody>
           </tgroup>
         </informaltable>
         </para>
+
+	<para>[EOM-A 8.3.9]</para>
+
       </sect2>
-      <sect2>
-        <title>Displaced landing thresholds</title>
-        <para>When a displaced landing threshold will cause the flight path of a landing heavy aircraft to cross your
-        departure flight path, or will cause the departure flight path of a heavy aircraft to cross your landing flight path,
-        <emphasis>2 minutes</emphasis> must elapse between the times the aircraft are airborne.</para>
-      </sect2>
-      <sect2>
-        <title>Crossing projected flight paths</title>
-        <para>If the flight path of an aircraft operating from a crossing, diverging or independent parallel runway
-        (separated by more than 760m) crosses your projected flight path, the following distance should exist between
-        the aircraft at the time of crossing:
-        <informaltable>
-          <tgroup cols="3" align="center">
-            <colspec colnum="1" colwidth="*"/>
-            <colspec colnum="2" colwidth="*"/>
-            <colspec colnum="3" colwidth="*"/>
-            <thead>
-              <row><entry>Type</entry><entry>Min distance</entry><entry>Time equivalent</entry></row>
-            </thead>
-            <tbody>
-              <row><entry>Heavy</entry><entry>5nm</entry><entry>3 mins</entry></row>
-              <row><entry>Medium or small</entry><entry>3nm</entry><entry>2 mins</entry></row>
-            </tbody>
-          </tgroup>
-        </informaltable>
-        </para>
-      </sect2>
-      <sect2>
-        <title>Opposite direction</title>
-        <para><emphasis>2 minutes</emphasis> must elapse before take-off or landing when a heavy aircraft has made
-        an opposite direction low or missed approach to the runway. <emphasis>2 minutes</emphasis> must also elapse
-        before a landing is made when a heavy aircraft has made an opposite direction low or missed approach on a
-        parallel runway separated by less than 760m.</para>
-      </sect2>
+
     </sect1>
+  </chapter>
+
+<!--
     <sect1>
       <title>Admission to flight deck</title>
       <para>[Ezy-A 8.3.12]</para>
