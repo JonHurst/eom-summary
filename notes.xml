@@ -2238,6 +2238,24 @@
 	<para role="multicite">[EOM-A 8.3.18, EOM-A 8.3.19]</para>
 
       </sect2>
+
+      <sect2>
+	<title>Communications policy</title>
+
+	<para>VHF1 will be used for the active ATC frequency and must be monitored by both pilots at
+	all times. VHF2 may be set to 121.5 when it is not operationally necessary to use it for
+	other purposes. Whenever set to 121.5 both pilots should monitor VHF2.</para>
+
+	<para>Headsets must be used on the ground whenever engines are running or when copying an
+	ATC clearance. Headsets may be removed in level cruise, but must be worn in all other
+	phases. Headsets should be worn covering both ears except when engaged in three way
+	communication with ground crew when use of the intercom may lead to confusion.</para>
+
+	<para>Calls to handling agents or OCC should only be made in level flight and should be
+	completed at least 15 minutes prior to top of descent.</para>
+
+	<para role="multicite">[EOM-A 8.3.20]</para>
+      </sect2>
     </sect1>
   </chapter>
 
