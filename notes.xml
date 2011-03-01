@@ -2124,6 +2124,30 @@
       </sect2>
 
     </sect1>
+    <sect1>
+      <title>Miscellaneous flight procedures</title>
+
+      <sect2>
+	<title>Controlled rest</title>
+
+	<para>Controlled rest is defined as a period "off task", that may include sleep. It may be
+	used at the commander's discretion to manage unexpected fatigue; if it is felt likely before
+	flight that controlled rest will be required, the flight should not depart.</para>
+
+	<para>The period of controlled rest should be no longer than 45 minutes in order to avoid
+	periods of deep sleep with their associated long recovery times; multiple controlled rest
+	periods within a single sector are acceptable. A crew member should not be left in sole
+	control of the aircraft for a period of 20 minutes after the completion of a period of
+	controlled rest. Controlled rest periods should terminate at least 30 minutes before top of
+	descent.</para>
+
+	<para>The resting crew member should wear their full harness and adjust their seat to
+	minimise the chances of interfering with controls.</para>
+
+	<para>The cabin crew should be appraised of any controlled rest periods being taken so that
+	they can increase their monitoring of the alertness of the remaining flight crew
+	member. Appropriate alarm devices may also be useful as a line of last defense.</para>
+      </sect2>
   </chapter>
 
 <!--
