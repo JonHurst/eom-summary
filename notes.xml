@@ -220,6 +220,7 @@
       <listitem>
         <para>Valid ATQP recurrent checks:
         <informaltable>
+	  <?dbfo table-width="105mm"?>
           <tgroup cols="2">
             <colspec colwidth="2*"/>
             <colspec colwidth="*"/>
