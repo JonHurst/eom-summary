@@ -2274,6 +2274,8 @@
 	<para>An approach must not be continued below <emphasis role="strong">1000ft</emphasis> AAL
 	unless the RVR or Met Visibility is sufficient to comply with aerodrome minima. Once below
 	1000ft AAL the approach may be continued even if conditions worsen.</para>
+
+	<para role="multicite">[EOM-A 8.4.3]</para>
       </sect2>
 
       <sect2>
@@ -2293,6 +2295,9 @@
 	<para>For non-precision approaches the threshold, touch down zone, PAPIs or suitable parts
 	of the approach or runway lighting system must be distinctly visible and
 	identifiable.</para>
+
+	<para role="multicite">[EOM-A 8.4.4, EOM-A 8.4.5, EOM-A 8.4.9]</para>
+
       </sect2>
     </sect1>
 
@@ -2302,6 +2307,8 @@
       missed approach was due to weather or when there has been a significant improvement in weather
       conditions. Exceptionally, if only one of the missed approaches was due to weather and landing
       is considered assured a third approach may be flown.</para>
+
+      <para role="multicite">[EOM-A 8.4.2]</para>
     </sect1>
 
   </chapter>
