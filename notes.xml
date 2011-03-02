@@ -942,14 +942,14 @@
 
       <para>Aerodrome specific take-off minima are presented on Jeppesen chart 10-9. The required
       RVR must be achieved for all relevant reporting points<footnote><para>If operating to RVR
-      minima <symbol role="symbolfont">&#x2265;</symbol> 150m, pilot assessment of the RVR for the
-      initial part of the take-off roll is acceptable.</para></footnote>. When operating with RVR
-      &lt; 150m, LVPs must be in force, crew must be LVO qualified and a 90m visual segment
-      (equivalent to 6 centre line lights at standard 15m spacing) must be available.</para>
+      minima &#x2265; 150m, pilot assessment of the RVR for the initial part of the take-off roll is
+      acceptable.</para></footnote>. When operating with RVR &lt; 150m, LVPs must be in force, crew
+      must be LVO qualified and a 90m visual segment (equivalent to 6 centre line lights at standard
+      15m spacing) must be available.</para>
 
-      <para>Straight in visual approaches require RVR <symbol role="symbolfont">&#x2265;</symbol>
-      800m. A visual circuit requires Met Visibility <symbol role="symbolfont">&#x2265;</symbol> 5km
-      and cloud base <symbol role="symbolfont">&#x2265;</symbol> 2,500ft. Visual approaches at night
+      <para>Straight in visual approaches require RVR &#x2265;
+      800m. A visual circuit requires Met Visibility &#x2265; 5km
+      and cloud base &#x2265; 2,500ft. Visual approaches at night
       are authorised unless prohibited in the Aerodrome Briefings Supplement. Visual circuits must
       be flown at a height greater than 1500ft that ensures at least 500ft separation from
       obstacles.</para>
@@ -962,9 +962,9 @@
       Text manual. Only RVRs applicable to segments of the runway where speed is expected to be
       above 60kt need to be considered for landing.</para>
 
-      <para>When RVR is not reported, and provided that required RVR <symbol
-      role="symbolfont">&#x2265;</symbol> 800m, the following table may be used to convert Met
-      Visibility to RVR for the purposes of complying with landing minima:
+      <para>When RVR is not reported, and provided that required RVR &#x2265; 800m, the following
+      table may be used to convert Met Visibility to RVR for the purposes of complying with landing
+      minima:
 
       <table>
         <title>Met Visibility to RVR conversion</title>
