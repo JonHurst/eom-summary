@@ -2153,6 +2153,59 @@
 
     </sect1>
     <sect1>
+      <title>All Weather Operations</title>
+
+      <sect2>
+	<title>Determination of minima</title>
+	<para>Determination of aerodrome minima is discussed in <xref linkend="minima"/></para>
+      </sect2>
+
+      <sect2>
+	<title>Approach Ban</title>
+	<para>An approach must not be continued below <emphasis role="strong">1000ft</emphasis> AAL
+	unless the RVR or Met Visibility is sufficient to comply with aerodrome minima. Once below
+	1000ft AAL the approach may be continued even if conditions worsen.</para>
+
+	<para role="multicite">[EOM-A 8.4.3]</para>
+      </sect2>
+
+      <sect2>
+	<title>Required visual reference</title>
+
+	<para>An approach should not continue below relevant DH/DA/eDA unless the required visual
+	reference is attained.</para>
+
+	<para>No visual reference is required for Cat IIIB operations with no DH. At least one
+	center line light must be attained for Cat IIIB operations with DH.</para>
+
+	<para>Cat IIIA operations require 3 consecutive lights. These can be the centre-line lights
+	of the approach lighting, the TDZ lights, the runway centre line lights or the runway edge
+	lights. Cat II operations require the same reference as Cat IIIA plus a lateral element of
+	the ground pattern (e.g. an approach lighting crossbar).</para>
+
+	<para>easyJet policy is to use autoland systems for all Cat II and Cat III approaches.</para>
+
+	<para>For non-precision approaches the threshold, touch down zone, PAPIs or suitable parts
+	of the approach or runway lighting system must be distinctly visible and
+	identifiable.</para>
+
+	<para role="multicite">[EOM-A 8.4.4, EOM-A 8.4.5, EOM-A 8.4.9]</para>
+
+      </sect2>
+
+      <sect2>
+	<title>Consecutive missed approaches</title>
+
+	<para>A third consecutive approach to the same airfield should only be considered if neither
+	missed approach was due to weather or when there has been a significant improvement in
+	weather conditions. Exceptionally, if only one of the missed approaches was due to weather
+	and landing is considered assured a third approach may be flown.</para>
+
+	<para role="multicite">[EOM-A 8.4.2]</para>
+      </sect2>
+    </sect1>
+
+    <sect1>
       <title>Miscellaneous flight procedures</title>
 
       <sect2>
@@ -2285,61 +2338,5 @@
 	<para role="multicite">[EOM-A 8.3.20]</para>
       </sect2>
     </sect1>
-  </chapter>
-  <chapter>
-    <title>All Weather Operations</title>
-
-    <sect1>
-      <title>Aerodrome minima</title>
-
-      <sect2>
-	<title>Determination of minima</title>
-	<para>Determination of aerodrome minima is discussed in <xref linkend="minima"/></para>
-      </sect2>
-
-      <sect2>
-	<title>Approach Ban</title>
-	<para>An approach must not be continued below <emphasis role="strong">1000ft</emphasis> AAL
-	unless the RVR or Met Visibility is sufficient to comply with aerodrome minima. Once below
-	1000ft AAL the approach may be continued even if conditions worsen.</para>
-
-	<para role="multicite">[EOM-A 8.4.3]</para>
-      </sect2>
-
-      <sect2>
-	<title>Required visual reference</title>
-
-	<para>An approach should not continue below relevant DH/DA/eDA unless the required visual
-	reference is attained.</para>
-
-	<para>No visual reference is required for Cat IIIB operations with no DH. At least one
-	center line light must be attained for Cat IIIB operations with DH.</para>
-
-	<para>Cat IIIA operations require 3 consecutive lights. These can be the centre-line lights
-	of the approach lighting, the TDZ lights, the runway centre line lights or the runway edge
-	lights. Cat II operations require the same reference as Cat IIIA plus a lateral element of
-	the ground pattern (e.g. an approach lighting crossbar).</para>
-
-	<para>easyJet policy is to use autoland systems for all Cat II and Cat III approaches.</para>
-
-	<para>For non-precision approaches the threshold, touch down zone, PAPIs or suitable parts
-	of the approach or runway lighting system must be distinctly visible and
-	identifiable.</para>
-
-	<para role="multicite">[EOM-A 8.4.4, EOM-A 8.4.5, EOM-A 8.4.9]</para>
-
-      </sect2>
-    </sect1>
-
-    <sect1>
-      <title>Consecutive missed approaches</title>
-      <para>A third consecutive approach to the same airfield should only be considered if neither
-      missed approach was due to weather or when there has been a significant improvement in weather
-      conditions. Exceptionally, if only one of the missed approaches was due to weather and landing
-      is considered assured a third approach may be flown.</para>
-
-      <para role="multicite">[EOM-A 8.4.2]</para>
-    </sect1>
-
   </chapter>
 </book>
