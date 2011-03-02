@@ -25,16 +25,18 @@
 
 <xsl:param name="default.table.width" select="'112mm'"/>
 <xsl:param name="default.image.width">112mm</xsl:param>
-<xsl:param name="body.font.family">Times</xsl:param>
+<xsl:param name="body.font.family">FreeSerif</xsl:param>
+<xsl:param name="title.font.family">FreeSans</xsl:param>
+
 <xsl:param name="header.column.widths">1 10 1</xsl:param>
 
 <!-- <xsl:param name="symbol.font.family" select="'Symbol,ZapfDingbats,unifont'"/> -->
-<xsl:param name="symbol.font.family" select="'Symbol'"/>
-<xsl:template match="symbol[@role = 'symbolfont']">
-  <fo:inline font-family="Symbol" font-size="0.85em">
-    <xsl:call-template name="inline.charseq"/>
-  </fo:inline>
-</xsl:template>
+<xsl:param name="symbol.font.family" select="'FreeSerif'"/>
+<!-- <xsl:template match="symbol[@role = 'symbolfont']"> -->
+<!--   <fo:inline font-family="Symbol" font-size="0.85em"> -->
+<!--     <xsl:call-template name="inline.charseq"/> -->
+<!--   </fo:inline> -->
+<!-- </xsl:template> -->
 
 
 <xsl:param name="orderedlist.label.width">2em</xsl:param>
@@ -69,10 +71,9 @@
   <xsl:attribute name="font-size">12pt</xsl:attribute>
 </xsl:attribute-set>
 
-
-<xsl:attribute-set name="section.title.properties">
-  <xsl:attribute name="font-family">Times</xsl:attribute>
-</xsl:attribute-set>
+<!-- <xsl:attribute-set name="section.title.properties"> -->
+<!--   <xsl:attribute name="font-family">Times New Roman</xsl:attribute> -->
+<!-- </xsl:attribute-set> -->
 
 
 <!-- <xsl:attribute-set name="section.level1.properties"> -->
