@@ -31,7 +31,7 @@
 <!-- <xsl:param name="symbol.font.family" select="'Symbol,ZapfDingbats,unifont'"/> -->
 <xsl:param name="symbol.font.family" select="'Symbol'"/>
 <xsl:template match="symbol[@role = 'symbolfont']">
-  <fo:inline font-family="Symbol">
+  <fo:inline font-family="Symbol" font-size="0.85em">
     <xsl:call-template name="inline.charseq"/>
   </fo:inline>
 </xsl:template>
