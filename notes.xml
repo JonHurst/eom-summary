@@ -335,38 +335,41 @@
       <para role="multicite">[EOM-A 6.1.2, EOM-A 6.1.4]</para>
     </sect1>
     <sect1>
-      <title>Disease and Immunisation</title>
+      <title>Immunisation</title>
 
-      <para>Crew who are operating overseas must satisfy any statutory requirement for vaccination
-      and be able to produce a WHO approved "Certificate of Vaccination" if required.</para>
+      <para>easyJet does not currently fly to any destination requiring vaccinations beyond those
+      recommended for everyday life in Europe. Any change to this situation will be notified by
+      NTC.</para>
+      <!-- <para>Crew who are operating overseas must satisfy any statutory requirement for vaccination -->
+      <!-- and be able to produce a WHO approved "Certificate of Vaccination" if required.</para> -->
 
-      <para>Immunity after vaccination is not immediate and it will reduce with time. Approximate
-      effectiveness is as follows:</para>
+      <!-- <para>Immunity after vaccination is not immediate and it will reduce with time. Approximate -->
+      <!-- effectiveness is as follows:</para> -->
 
-      <informaltable>
-        <tgroup cols="3">
-            <colspec align="center" colwidth="*"/>
-            <colspec align="center" colwidth="*"/>
-            <colspec align="center" colwidth="*"/>
-          <thead>
-            <row><entry>Vaccination</entry><entry>Effective after</entry><entry>Ineffective after</entry></row>
-          </thead>
-          <tbody>
-            <row><entry>Yellow Fever</entry><entry>10 days</entry><entry>10 years</entry></row>
-            <row><entry>Cholera</entry><entry>7 days</entry><entry>6 months</entry></row>
-            <row><entry>Typhoid</entry><entry>7 days</entry><entry>30 years</entry></row>
-            <row><entry>Poliomyelitis</entry><entry>3 vaccinations</entry><entry>10 years</entry></row>
-            <row><entry>Tetanus</entry><entry>3 vaccinations</entry><entry>10 years</entry></row>
+      <!-- <informaltable> -->
+      <!--   <tgroup cols="3"> -->
+      <!--       <colspec align="center" colwidth="*"/> -->
+      <!--       <colspec align="center" colwidth="*"/> -->
+      <!--       <colspec align="center" colwidth="*"/> -->
+      <!--     <thead> -->
+      <!--       <row><entry>Vaccination</entry><entry>Effective after</entry><entry>Ineffective after</entry></row> -->
+      <!--     </thead> -->
+      <!--     <tbody> -->
+      <!--       <row><entry>Yellow Fever</entry><entry>10 days</entry><entry>10 years</entry></row> -->
+      <!--       <row><entry>Cholera</entry><entry>7 days</entry><entry>6 months</entry></row> -->
+      <!--       <row><entry>Typhoid</entry><entry>7 days</entry><entry>30 years</entry></row> -->
+      <!--       <row><entry>Poliomyelitis</entry><entry>3 vaccinations</entry><entry>10 years</entry></row> -->
+      <!--       <row><entry>Tetanus</entry><entry>3 vaccinations</entry><entry>10 years</entry></row> -->
 
-          </tbody>
-        </tgroup>
-      </informaltable>
+      <!--     </tbody> -->
+      <!--   </tgroup> -->
+      <!-- </informaltable> -->
 
-      <para>Crew should not operate within 24 hours of receiving immunisation.</para>
+      <!-- <para>Crew should not operate within 24 hours of receiving immunisation.</para> -->
 
-      <para>When operating in malaria infected countries, crew members
-      are responsible for obtaining and applying appropriate
-      medication.</para>
+      <!-- <para>When operating in malaria infected countries, crew members -->
+      <!-- are responsible for obtaining and applying appropriate -->
+      <!-- medication.</para> -->
 
       <para role="multicite">[EOM-A 6.1.5, EOM-A 6.1.16]</para>
     </sect1>
