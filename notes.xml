@@ -1432,7 +1432,11 @@
 	These entries do not count as open defects, so signatures should be placed below the
 	entry and the associated "Action Taken" and RTS sections should be struck through.</para>
 
-	<para role="multicite">[EOM-A 8.1.11<phrase condition="airbus">, EOM-B 2.3.25.2, EOM-B 3.3</phrase>]</para>
+	<para>Bird strikes that do not result in damage may be recorded as "For Info" entries,
+	providing the restrictions in EOM-A 8.1.11.19 are observed.</para>
+
+	<para role="multicite">[EOM-A 8.1.11<phrase condition="airbus">, EOM-B 2.3.25.2, EOM-B
+	3.3</phrase>, EOM-A 8.1.11.19]</para>
       </sect2>
       <sect2>
 	<title>Recurrent engineering checks</title>
