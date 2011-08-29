@@ -971,11 +971,13 @@
 
       <para>Minima for instrument approaches (including circling approaches) are presented on the
       relevant Jeppesen approach plates (11- to 18-). easyJet is authorised to use these minima
-      whenever the minima block is titled "JAR-OPS", "JAA MINIMUMS" or "STANDARD". Where none of
-      these titles appear, the authorised minima will be presented separately on plate 10-9X. Minima
-      for Cat II and III operations are presented in their own section at the start of the Jeppesen
-      Text manual. Only RVRs applicable to segments of the runway where speed is expected to be
-      above 60kt need to be considered for landing.</para>
+      whenever the minima block is titled "STANDARD". Where this is not the case, the DA/MDA on the
+      chart will be valid, but crew must calculate RVR minima<footnote><para>Use Jeppesen Text
+      Manual, Air Traffic Control, EU OPS-1, Table 6 (Page 604 as of 29/8/2011), entering with
+      DH/MDH and the ALS type.</para></footnote>. Minima for Cat II and III operations are presented
+      in their own section at the start of the Jeppesen Text manual. Only RVRs applicable to
+      segments of the runway where speed is expected to be above 60kt need to be considered for
+      landing.</para>
 
       <para>When RVR is not reported, and provided that required RVR &#x2265; 800m, the following
       table may be used to convert Met Visibility to RVR for the purposes of complying with landing
