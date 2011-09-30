@@ -2360,5 +2360,17 @@
 	<para role="multicite">[EOM-A 8.3.20]</para>
       </sect2>
     </sect1>
-  </chapter>
+</chapter>
+<chapter>
+  <title>Miscelleaneous</title>
+  <sect1>
+    <title>Uniform policy</title>
+
+    <para>The pilot uniform standard is described in the "All Pilot Uniform Standards"
+    document. Ties must be worn whenever outside the flight deck. Uniform jackets may be removed at
+    the discretion of the commander. Flight crew may operate out of uniform at the discretion of the
+    duty pilot.</para>
+  </sect1>
+
+</chapter>
 </book>
