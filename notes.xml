@@ -55,7 +55,10 @@
    <xref linkend="crew_seating_and_harnesses"/>.</para></listitem>
    <listitem><para>Removed recommendation for use of autopilot when intentionally reducing approach
    guidance to a NPA from <xref linkend="skills_retention"/>.</para></listitem>
-	<listitem><para>Added <xref linkend="uniform_policy"/> to incorporate new uniform directives.</para></listitem>
+	<listitem><para>Added <xref linkend="uniform_policy"/> to incorporate new uniform
+   directives.</para></listitem>
+   <listitem><para>Updated <xref linkend="lmc"/> to incorporate minus 10 passengers as being
+   eligible.</para></listitem>
       </itemizedlist>
     </sect1>
   </preface>
@@ -1357,13 +1360,13 @@
 	<para role="multicite">[EOM-B 7.1.1]</para>
       </sect2>
 
-      <sect2 condition="airbus">
+      <sect2 condition="airbus" id="lmc">
 	<title>Last minute changes</title>
 	<para>For the Airbus fleet, the following last minute changes do not require new LPC
 	calculations:
 
 	<itemizedlist>
-	  <listitem><para>&#xB1;5 Passengers</para></listitem>
+	  <listitem><para>+5/-10 Passengers</para></listitem>
 	  <listitem><para>&#xB1;500kg fuel</para></listitem>
 	  <listitem><para>&#xB1;500kg load in CP 2,3 or 4</para></listitem>
 	  <listitem><para>&#xB1;100kg load in CP 1 or 5</para></listitem>
