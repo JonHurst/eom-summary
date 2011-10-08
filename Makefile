@@ -19,7 +19,7 @@ boeing : notes.boeing.xml myxhtml.xsl myfo.xsl
 	fop -c fop.xconf  -fo notes.fo -pdf notes.pdf
 
 html : notes.airbus.xml myxhtml.xsl
-	xsltproc myxhtml.xsl notes.airbus.xml
+	xsltproc changebars.xsl notes.airbus.xml
 	ln -fs ../style.css html/style.css
 
 pdf: notes.pdf

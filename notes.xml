@@ -20,8 +20,43 @@
       by the Apache Formatting Objects Processor.</para>
     </sect1>
     <sect1>
-      <title>Changes since version </title>
-      <para>Changes go here!</para>
+      <title>Changes since version 1.0</title>
+      <itemizedlist>
+	<listitem><para>Added pilot age restriction to <xref linkend="flightcrew_composition"/>.</para></listitem>
+	<listitem><para>Added limitations on *** cabin crew flying together to <xref linkend="cabincrew_composition"/>.</para></listitem>
+	<listitem><para>Added new 45 day recency requirement to <xref linkend="qualifications-and-recency"/>.</para></listitem>
+   <listitem><para>Changed <xref linkend="cosmic_radiation"/> to refer to exposure monitoring
+   incorporation into AIMS.</para></listitem>
+	<listitem><para>Simplified <xref linkend="immunisation"/> to remove irrelevant information
+	about immunisation in favour of a statement that standard European immunisations will
+	currently suffice for easyJet crew.</para></listitem>
+   <listitem><para>Updated <xref linkend="diving"/> to refer to "SCUBA equipment" rather than an "aqua-lung".</para></listitem>
+	<listitem><para>Added <xref linkend="laserattacks"/>.</para></listitem>
+   <listitem><para>Added new rules regarding rest reduction at home base when staying in company
+   supplied accommodation to <xref linkend="rest_reduction"/>.</para></listitem>
+   <listitem><para>Added rule regarding an MSD or EFD following a dual duty not constituting a
+   transition to <xref linkend="transitions"/>.</para></listitem>
+   <listitem><para>Added absolute minimum flight crew report time of 45 minutes to <xref
+   linkend="pre_and_post_flight_duties"/>.</para></listitem>
+	<listitem><para>Modified <xref linkend="minima"/> to remove RVR 150m restriction on pilot
+	assessment of initial part of take-off run.</para></listitem>
+	<listitem><para>Modified <xref linkend="minima"/> to indicate that Jeppesen calculated RVR
+	may only be used when the minimas block is labelled "STANDARD".</para></listitem>
+   <listitem><para>Removed reference to provision of still air OFPs by OCC in the case of system
+   failure from <xref linkend="ofp"/> as this facility is no longer available.</para></listitem>
+   <listitem><para>Added explicit instructions for the recording of anti-icing operations to <xref linkend="techlog_layout_and_usage"/>.</para></listitem>
+	<listitem><para>Updated "For Info" entries paragraph in <xref linkend="defect_management"/>
+	to indicate that under certain circumstances bird strikes may be recorded in this
+	way.</para></listitem>
+   <listitem><para>Removed age restrictions on use of car-type safety seat from <xref
+   linkend="infants_and_children"/>.</para></listitem>
+   <listitem><para>Added new rules to <xref linkend="prisoners"/></para></listitem>
+   <listitem><para>Added new age restriction for the use of vacant cabin crew seat by an ABP to
+   <xref linkend="crew_seating_and_harnesses"/>.</para></listitem>
+   <listitem><para>Removed recommendation for use of autopilot when intentionally reducing approach
+   guidance to a NPA from <xref linkend="skills_retention"/>.</para></listitem>
+	<listitem><para>Added <xref linkend="uniform_policy"/> to incorporate new uniform directives.</para></listitem>
+      </itemizedlist>
     </sect1>
   </preface>
   <chapter id="commander-duties">
@@ -113,11 +148,11 @@
   </chapter>
   <chapter id="crew-composition">
     <title>Crew composition</title>
-    <sect1>
+    <sect1 id="flightcrew_composition">
       <title>Flight crew</title>
       <para>The minimum flight crew is two pilots, at least one of whom must be a Captain.</para>
 
-      <para>Not more than one pilot may be aged 60 years or more.</para>
+      <para revisionflag="added">Not more than one pilot may be aged 60 years or more.</para>
 
       <para>The commander must sit in the left seat unless the commander is a training Captain and is required to occupy the
       right seat for a training detail.</para>
@@ -133,10 +168,10 @@
       <para role="multicite">[EOM-A 4]</para>
 
     </sect1>
-    <sect1>
+    <sect1 id="cabincrew_composition">
       <title>Cabin crew</title>
 
-      <para>The minimum cabin crew is normally one for every 50 <emphasis> installed</emphasis>
+      <para revisionflag="changed">The minimum cabin crew is normally one for every 50 <emphasis> installed</emphasis>
       seats. Where 4 cabin crew are present, a maximum of 2 may be inexperienced (i.e. ***). Where
       only 3 cabin crew are present, only 1 may be inexperienced [CSPM 5.4.3].</para>
 
@@ -304,7 +339,7 @@
         </informaltable>
       </para></listitem>
       <listitem>
-	<para>One take-off and one landing as PF in the preceding 45 days.</para>
+	<para revisionflag="added">One take-off and one landing as PF in the preceding 45 days.</para>
       </listitem>
       <listitem>
 	<para>Three take-offs and three landings as PF in the preceding 90 days.</para>
@@ -336,9 +371,9 @@
       <para>Alcohol must not be taken onto the flight deck during flight.</para>
       <para role="multicite">[EOM-A 6.1.1]</para>
     </sect1>
-    <sect1>
+    <sect1 id="cosmic_radiation">
       <title>Cosmic radiation</title>
-      <para>Statutory directives state that the acceptable radiation exposure of aircrew is 6mSv/yr.
+      <para revisionflag="changed">Statutory directives state that the acceptable radiation exposure of aircrew is 6mSv/yr.
       Radiation exposure is modelled by easyJet to try to prevent exposure above this level. easyJet
       continuously monitors estimated radiation doses; personal estimated exposure is published on
       "Touch and Go". </para>
@@ -359,7 +394,7 @@
 
       <para role="multicite">[EOM-A 6.1.2, EOM-A 6.1.4]</para>
     </sect1>
-    <sect1>
+    <sect1 id="immunisation" revisionflag="changed">
       <title>Immunisation</title>
 
       <para>easyJet does not currently fly to any destination requiring vaccinations beyond those
@@ -403,9 +438,9 @@
       <para>Crew should not donate blood within 24 hours of a duty.</para>
       <para role="multicite">[EOM-A 6.1.6]</para>
     </sect1>
-    <sect1>
+    <sect1 id="diving">
       <title>Diving</title>
-      <para>Crew should not fly within 48 hours of diving to a depth exceeding 10m. Crew should avoid any diving
+      <para revisionflag="changed">Crew should not fly within 48 hours of diving to a depth exceeding 10m. Crew should avoid any diving
       requiring the use of SCUBA equipment within 24 hours of a duty.</para>
 
       <para>Crew who have been treated for decompression sickness must not fly within 72 hours of
@@ -450,7 +485,7 @@
       <para role="multicite">[EOM-A 6.1.8]</para>
     </sect1>
 
-    <sect1>
+    <sect1 id="laserattacks" revisionflag="added">
       <title>Laser attacks</title>
 
       <para>To mitigate the attack, look away, increase the brightness of interior lights and avoid
@@ -518,16 +553,16 @@
       the length of the previous duty period, whichever is greater. For cabin crew, the rest
       required is one hour less than the flight crew.</para>
 
-      <sect2>
+      <sect2 id="rest_reduction">
 	<title>Reducing required rest</title>
 
-	<para>When rest is acheived at home, flight crew may, at their discretion, reduce their
+	<para revisionflag="changed">When rest is acheived at home, flight crew may, at their discretion, reduce their
 	required rest period by a maximum of one hour providing that the rest period is still at
 	least 12 hours. Cabin crew may similarly reduce their rest providing the rest period is
 	still at least 11 hours. All crew members must inform the commander at the start of a duty
 	if individual discretion has been used to reduce rest.</para>
 
-	<para>When rest is acheived in easyJet provided accommodation:
+	<para revisionflag="changed">When rest is acheived in easyJet provided accommodation:
 	<itemizedlist>
 	  <listitem><para>The commander may, at his discretion, reduce rest by an unlimited amount
 	  provided that at least 10 hours are spent in suitable accommodation.</para></listitem>
@@ -756,10 +791,10 @@
       spent on contactable does not count towards cumulative duty limits.</para>
     </sect1>
 
-    <sect1>
+    <sect1 id="transitions">
       <title>Transitions</title>
 
-      <para>A "morning start duty" (MSD) is a duty with a report time between 03:00L and 09:29L. An
+      <para revisionflag="changed">A "morning start duty" (MSD) is a duty with a report time between 03:00L and 09:29L. An
       "evening finish duty" (EFD) is either a duty finishing between 18:00L and 03:00L or a duty
       with a report time between 18:00L and 03:00L that finishes between 03:00L and 17:59L. A
       transition occurs when an EFD occurs immediately after an MSD or vice versa. It is possible
@@ -772,7 +807,7 @@
       transitions on day 5 of a duty block, and easyJet has made a commitment via pmail to limit
       rostered transitions to one per month.</para>
     </sect1>
-    <sect1>
+    <sect1 id="pre_and_post_flight_duties">
       <title>Pre and post flight duties</title>
 
       <para>For normal flight duty periods, a minimum of 1 hour must be planned for pre-flight
@@ -782,7 +817,7 @@
       <para>The practice of using non-standard reporting times to move a duty into a less limiting
       FDP band is prohibited.</para>
 
-      <para>The commander may, at his discretion, reduce these times. The company may not. If the
+      <para revisionflag="changed">The commander may, at his discretion, reduce these times. The company may not. If the
       commander reduces standard reporting time by more than 15 minutes, a Discretion Report form
       must be completed to allow CAA audit. The absolute minimum pre flight report time for
       <emphasis>flight crew</emphasis> is 45 minutes.</para>
@@ -984,7 +1019,7 @@
       purpose of calculating operating minima. The A321s with MLW of 77,800kg are
       Category&#xA0;D.</para>
 
-      <para>Aerodrome specific take-off minima are presented on Jeppesen chart 10-9. Pilot
+      <para revisionflag="changed">Aerodrome specific take-off minima are presented on Jeppesen chart 10-9. Pilot
       assessment of RVR for the initial part of the take-off run is permissable in all cases, but
       reported RVR must be considered for all other relevant reporting points. When operating with
       RVR &lt; 150m, LVPs must be in force, crew must be LVO qualified and a 90m visual segment
@@ -997,7 +1032,7 @@
       be flown at a height greater than 1500ft that ensures at least 500ft separation from
       obstacles.</para>
 
-      <para>Minima for instrument approaches (including circling approaches) are presented on the
+      <para revisionflag="changed">Minima for instrument approaches (including circling approaches) are presented on the
       relevant Jeppesen approach plates (11- to 18-). easyJet is authorised to use these minima
       whenever the minima block is titled "STANDARD". Where this is not the case, the DA/MDA on the
       chart will be valid, but crew must calculate RVR minima<footnote><para>Use Jeppesen Text
@@ -1342,10 +1377,10 @@
       </sect2>
 
     </sect1>
-    <sect1>
+    <sect1 id="ofp">
       <title>Operational Flight Plans</title>
 
-      <para>Operational Flight Plans (OFP) are usually obtained via the crew room computers. OCC
+      <para revisionflag="changed">Operational Flight Plans (OFP) are usually obtained via the crew room computers. OCC
       also have the ability to provide OFPs by email, fax or SITA if required. OFPs may be modified
       by OCC without crew notification until 30 minutes before crew report. The status of OFPs must
       be checked prior to acceptance; contact OCC if the OFP status is not annotated "Final".</para>
@@ -1370,7 +1405,7 @@
 	<para role="multicite">[EOM-A 8.1.11.2, EOM-A 8.1.11.3, EOM-A 8.1.11.5]</para>
 
       </sect2>
-      <sect2>
+      <sect2 id="techlog_layout_and_usage">
 	<title>Layout and usage</title>
 
 	<para>The tech log is divided into prologue pages and a main section.</para>
@@ -1390,7 +1425,7 @@
 	relevant to the 737 fleet. If the record of the previous sector is found to be incorrect or
 	incomplete the duty pilot must be contacted for authorisation to continue.</para>
 
-	<para>The bottom half of the strip is used to record pre-departure data and acceptance of
+	<para revisionflag="changed">The bottom half of the strip is used to record pre-departure data and acceptance of
 	the aircraft. The "Oil Check" and APU oil level boxes are not relevant to flight crew and
 	should be struck through. The ambient temperature fuel uplift should be recorded rather than
 	the temperature corrected figure. To calculate approximate uplift in kg, multiply the uplift
@@ -1408,7 +1443,7 @@
 
 	<para role="multicite">[EOM-A 8.1.11.5, EOM-A 8.1.11.6, EOM-A 8.2.1.3]</para>
       </sect2>
-      <sect2>
+      <sect2 id="defect_management">
 	<title>Defect management</title>
 	<para>All defects should, with the following exceptions, be immediately entered into the
 	tech log:
@@ -1460,7 +1495,7 @@
 	These entries do not count as open defects, so signatures should be placed below the
 	entry and the associated "Action Taken" and RTS sections should be struck through.</para>
 
-	<para>Bird strikes that do not result in damage may be recorded as "For Info" entries,
+	<para revisionflag="added">Bird strikes that do not result in damage may be recorded as "For Info" entries,
 	providing the restrictions in EOM-A 8.1.11.19 are observed.</para>
 
 	<para role="multicite">[EOM-A 8.1.11<phrase condition="airbus">, EOM-B 2.3.25.2, EOM-B
@@ -1610,7 +1645,7 @@
 
       </sect2>
 
-      <sect2>
+      <sect2 id="infants_and_children">
         <title>Infants and children</title>
 
         <para>Infants (children under two years) may fly free of charge if they sit on the lap of
@@ -1626,7 +1661,7 @@
         by the ALO. Under no circumstances may an unconnected passenger be allowed to accept
         responsibility for an unaccompanied minor.</para>
 
-        <para>The following restraints are acceptable:
+        <para revisionflag="changed">The following restraints are acceptable:
         <table>
           <title>Acceptable restraints for infants and children</title>
           <tgroup cols="2">
@@ -1672,7 +1707,7 @@
 	accompanied by two prison officers, others may have a single escort. Escorts will travel in
 	plain clothes and will carry restraints, but not firearms.</para>
 
-	<para>Prisoners and escorts should board first and disembark last. They should be seated at
+	<para revisionflag="changed">Prisoners and escorts should board first and disembark last. They should be seated at
 	the rear of the aircraft with the prisoner in the window seat. Prisoners may be handcuffed
 	at the discretion of their escort, but only to themselves and their hands must be in front
 	of them.</para>
@@ -2299,7 +2334,7 @@
 
       </sect2>
 
-      <sect2>
+      <sect2 id="crew_seating_and_harnesses">
 	<title>Crew seating and harnesses</title>
 
 	<para>Both pilots must wear full harnesses whenever the "fasten belts" sign is on. Seats
@@ -2311,7 +2346,7 @@
 	found at EOM-A 8.3.12. Some of these will only be entitled to use the jump seat if they
 	carry a valid cockpit permit.</para>
 
-	<para>Should a passenger seat become unservicable the spare cabin crew seat may be utilised
+	<para revisionflag="changed">Should a passenger seat become unservicable the spare cabin crew seat may be utilised
 	to accommodate an ABP at the discretion of the commander. Such a passenger must be at least
 	16 years old and capable of assisting in an emergency. They must be fully briefed on
 	emergency procedures.</para>
@@ -2351,10 +2386,10 @@
 
       </sect2>
 
-      <sect2>
+      <sect2 id="skills_retention">
 	<title>Skills retention</title>
 
-	<para>Where conditions are suitable it is permissible and encouraged that crew regularly
+	<para revisionflag="changed">Where conditions are suitable it is permissible and encouraged that crew regularly
 	practice flying with deliberately reduced levels of automation. It is also permissible to
 	make an approach utilising reduced levels of approach guidance (e.g. an NDB approach when
 	an ILS is available). A thorough briefing of intentions is required in both cases.</para>
@@ -2392,7 +2427,7 @@
 </chapter>
 <chapter>
   <title>Miscellaneous</title>
-  <sect1>
+  <sect1 id="uniform_policy" revisionflag="added">
     <title>Uniform policy</title>
 
     <para>The pilot uniform standard is described in the "All Pilot Uniform Standards"
