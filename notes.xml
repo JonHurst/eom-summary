@@ -203,7 +203,7 @@
       </itemizedlist></para>
 
       <para>If the reduction in cabin crew results in no SCCM being carried there are additional
-      procedures detailed in EOM-A 4.1.4g.</para>
+      procedures detailed in EOM-A 4.1.4h.</para>
 
       <para>It is permissible to board with one cabin crew member absent provided that:
 
@@ -1444,7 +1444,7 @@
 	have been struck out in accordance with the paragraph above. All other pages belong to
 	engineering.</para>
 
-	<para role="multicite">[EOM-A 8.1.11.5, EOM-A 8.1.11.6, EOM-A 8.2.1.3]</para>
+	<para role="multicite">[EOM-A 8.1.11.5, EOM-A 8.1.11.6]</para>
       </sect2>
       <sect2 id="defect_management">
 	<title>Defect management</title>
@@ -1675,7 +1675,7 @@
             </thead>
             <tbody>
               <row><entry>Infant extension seatbelt</entry><entry>2 weeks to 2 years</entry></row>
-              <row><entry>Suitable car-type safety seat<footnote><para>See EOM-E 2.4.12.3 for
+              <row><entry>Suitable car-type safety seat<footnote><para>See CSPM 2.4.12.3 for
 	      guidance on suitability</para></footnote></entry><entry>No age restriction</entry></row>
 	      <row><entry>Child restraint device (CARES)</entry><entry>Approx 1 to 4
 	      years<footnote><para>Specifically the child must be between 10kg and 20kg and capable
@@ -1685,7 +1685,7 @@
           </tgroup>
         </table>
         </para>
-	<para role="multicite">[EOM-A 8.2.2.4, EOM-E 2.4.12]</para>
+	<para role="multicite">[EOM-A 8.2.2.4, CSPM 2.4.12]</para>
       </sect2>
 
      <sect2>
@@ -1696,7 +1696,7 @@
 
 	<para>Infants may travel on the laps of expectant mothers.</para>
 
-	<para role="multicite">[EOM-A 8.2.2.4, EOM-E 2.4.12]</para>
+	<para role="multicite">[EOM-A 8.2.2.4, CSPM 2.4.12]</para>
       </sect2>
 
       <sect2 id="prisoners">
@@ -1781,7 +1781,7 @@
 	level of restraint during take-off, landing and turbulence. It is acceptable for the dog to
 	be subject to less restraint during cruise.</para>
 
-	<para role="multicite">[EOM-E 2.4.10]</para>
+	<para role="multicite">[CSPM 2.4.10]</para>
 
       </sect2>
 
@@ -1805,9 +1805,9 @@
 	overhead lockers, it must not be impeded.</para>
 
 	<para>Carriage of personal medical oxygen bottles less than 500mm long and 250mm in diameter
-	is permitted. Details of correct stowage may be found in EOM-E 2.4.9.2.</para>
+	is permitted. Details of correct stowage may be found in CSPM 2.4.9.2.</para>
 
-	<para role="multicite">[EOM-A 8.2.2.15,	EOM-E 2.4.9]</para>
+	<para role="multicite">[EOM-A 8.2.2.15,	CSPM 2.4.9]</para>
       </sect2>
 
       <sect2>
@@ -1855,7 +1855,7 @@
         screening, but the police will have verified the origin of the consignment before accepting the delivery. The
         box should be carried in the flight deck under the Captain's supervision.</para>
 
-	<para role="multicite">[EOM-E 2.4.11]</para>
+	<para role="multicite">[CSPM 2.4.11]</para>
 
       </sect2>
 
@@ -2079,7 +2079,7 @@
       standby altimeter should remain on QNH until passing MSA during climbout and should be set to
       QNH before passing FL200 in the descent.</para>
 
-      <para role="multicite">[EOM-A 8.3.3, <phrase condition="airbus">FCOM 4.3.34</phrase>]</para>
+      <para role="multicite">[EOM-A 8.3.3, <phrase condition="airbus">FCOM PRO.SUP.34</phrase>]</para>
     </sect1>
 
     <sect1>
@@ -2095,7 +2095,7 @@
 
       <para>ATC must also be notified if severe turbulence is encountered.</para>
 
-      <para role="multicite">[EOM-A 8.3.2]</para>
+      <para role="multicite">[EOM-A 8.3.2.11]</para>
 
     </sect1>
 
@@ -2172,7 +2172,7 @@
 	in altitude.</para>
 
 	<para role="multicite">[EOM-A 8.3.8.1, UK AIC P056/2010<phrase condition="airbus">, FCOM
-	3.4.91</phrase>]</para>
+	PRO.SUP.91.101</phrase>]</para>
       </sect2>
 
       <sect2>
@@ -2354,7 +2354,7 @@
 	16 years old and capable of assisting in an emergency. They must be fully briefed on
 	emergency procedures.</para>
 
-	<para role="multicite">[EOM-A 8.3.11]</para>
+	<para role="multicite">[EOM-A 8.3.11, EOM-A 8.3.13]</para>
       </sect2>
 
       <sect2>
@@ -2437,6 +2437,8 @@
     document. Ties must be worn whenever outside the flight deck. Uniform jackets may be removed at
     the discretion of the commander. Flight crew may operate out of uniform at the discretion of the
     duty pilot.</para>
+
+    <para role="multicite">[EOM-A 1.4, EOM-A 1.5]</para>
   </sect1>
 
 </chapter>
