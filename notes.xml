@@ -43,6 +43,8 @@
 	assessment of initial part of take-off run.</para></listitem>
 	<listitem><para>Modified <xref linkend="minima"/> to indicate that Jeppesen calculated RVR
 	may only be used when the minimas block is labelled "STANDARD".</para></listitem>
+   <listitem><para>Updated <xref linkend="lmc"/> to incorporate minus 10 passengers as being
+   eligible.</para></listitem>
    <listitem><para>Removed reference to provision of still air OFPs by OCC in the case of system
    failure from <xref linkend="ofp"/> as this facility is no longer available.</para></listitem>
    <listitem><para>Added explicit instructions for the recording of anti-icing operations to <xref linkend="techlog_layout_and_usage"/>.</para></listitem>
@@ -58,8 +60,6 @@
    guidance to a NPA from <xref linkend="skills_retention"/>.</para></listitem>
 	<listitem><para>Added <xref linkend="uniform_policy"/> to incorporate new uniform
    directives.</para></listitem>
-   <listitem><para>Updated <xref linkend="lmc"/> to incorporate minus 10 passengers as being
-   eligible.</para></listitem>
       </itemizedlist>
     </sect1>
   </preface>
