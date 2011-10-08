@@ -743,10 +743,12 @@
       <title>Transitions</title>
 
       <para>A "morning start duty" (MSD) is a duty with a report time between 03:00L and 09:29L. An
-      "evening finish duty" (EFD) is either a duty finishing between 18:00L and 03:00L or a duty with a
-      report time between 18:00L and 03:00L that finishes between 03:00L and 17:59L. A transition
-      occurs when an EFD occurs immediately after an MSD or vice versa. It is possible for a single
-      duty to be both an MSD and an EFD, and this also constitutes a transition.</para>
+      "evening finish duty" (EFD) is either a duty finishing between 18:00L and 03:00L or a duty
+      with a report time between 18:00L and 03:00L that finishes between 03:00L and 17:59L. A
+      transition occurs when an EFD occurs immediately after an MSD or vice versa. It is possible
+      for a single duty to be both an MSD and an EFD; this is termed a "Dual duty" and is considered
+      a transition in and of itself. Either an MSD or an EFD can follow a Dual duty without
+      constituting a second transition.</para>
 
       <para>When crew are operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3), only one
       transition is allowed per duty block. In addition, the August 2009 Rostering resolution prohibits
