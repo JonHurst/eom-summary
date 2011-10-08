@@ -1331,9 +1331,7 @@
       <para>Operational Flight Plans (OFP) are usually obtained via the crew room computers. OCC
       also have the ability to provide OFPs by email, fax or SITA if required. OFPs may be modified
       by OCC without crew notification until 30 minutes before crew report. The status of OFPs must
-      be checked prior to acceptance; contact OCC if the OFP status is not annotated "Final". In the
-      event of failure of the flight planning system, OCC will provide still air OFPs to the crew
-      rooms via fax or email.</para>
+      be checked prior to acceptance; contact OCC if the OFP status is not annotated "Final".</para>
 
       <para role="multicite">[EOM-A 8.1.10]</para>
     </sect1>
