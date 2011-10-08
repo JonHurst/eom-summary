@@ -2,7 +2,8 @@
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.4//EN" "file:///usr/share/sgml/docbook/xml-dtd-4.4/docbookx.dtd">
 <book id="revision-notes">
   <title>Summary of easyJet manuals</title>
-  <subtitle><phrase condition="airbus">Airbus</phrase><phrase condition="boeing">Boeing</phrase> Edition</subtitle>
+  <subtitle><phrase condition="airbus">Airbus</phrase><phrase condition="boeing">Boeing</phrase>
+  Edition, Version 1.1</subtitle>
   <bookinfo>
     <author><personname>
       <firstname>Jon</firstname><surname>Hurst</surname></personname></author>
