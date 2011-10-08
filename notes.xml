@@ -1377,8 +1377,10 @@
 	the aircraft. The "Oil Check" and APU oil level boxes are not relevant to flight crew and
 	should be struck through. The ambient temperature fuel uplift should be recorded rather than
 	the temperature corrected figure. To calculate approximate uplift in kg, multiply the uplift
-	in litres by 0.8. If anti-icing is carried out more than once it will be necessary to use
-	multiple strips; each strip must have a copy of all the pre-departure data.</para>
+	in litres by 0.8. If anti-icing has been carried out, the type of fluid, concentration and
+	start and end times should be recorded. If anti-icing is carried out more than once it will
+	be necessary to use multiple strips; each strip must have a copy of all the pre-departure
+	data.</para>
 
 	<para>Each main section page has three coloured carbon copy sheets. The pink page is used to
 	comply with regulations requiring retention of documentation at departure station. The pink
