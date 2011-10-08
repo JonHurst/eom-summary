@@ -7,6 +7,23 @@
     <author><personname>
       <firstname>Jon</firstname><surname>Hurst</surname></personname></author>
   </bookinfo>
+  <preface>
+    <title>Change log</title>
+    <sect1>
+      <title>Change highlighting</title>
+      <para>Change highlighting is only available in the online version. This may be found at:
+
+      <blockquote><para><ulink
+      url="http://www.hursts.eclipse.co.uk">http://www.hursts.eclipse.co.uk</ulink></para></blockquote></para>
+
+      <para>Change bars will be incorporated into the printed version as soon as they are supported
+      by the Apache Formatting Objects Processor.</para>
+    </sect1>
+    <sect1>
+      <title>Changes since version </title>
+      <para>Changes go here!</para>
+    </sect1>
+  </preface>
   <chapter id="commander-duties">
     <title>Authority, Duties and Responsibilities of a Commander </title>
     <para>The commander has overall responsibility for the safety of the aircraft, its occupants and its cargo, and
@@ -2374,7 +2391,7 @@
     </sect1>
 </chapter>
 <chapter>
-  <title>Miscelleaneous</title>
+  <title>Miscellaneous</title>
   <sect1>
     <title>Uniform policy</title>
 
