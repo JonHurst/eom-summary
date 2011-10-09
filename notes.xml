@@ -1367,7 +1367,7 @@
 	calculations:
 
 	<itemizedlist>
-	  <listitem><para>+5/-10 Passengers</para></listitem>
+	  <listitem><para revisionflag="changed">+5/-10 Passengers</para></listitem>
 	  <listitem><para>&#xB1;500kg fuel</para></listitem>
 	  <listitem><para>&#xB1;500kg load in CP 2,3 or 4</para></listitem>
 	  <listitem><para>&#xB1;100kg load in CP 1 or 5</para></listitem>
