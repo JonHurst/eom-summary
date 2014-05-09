@@ -27,6 +27,8 @@
 	restrictions.</para></listitem>
 	<listitem><para><xref linkend="qualifications-and-recency"/> updated with latest
 	restrictions.</para></listitem>
+	<listitem><para>Correction requirement change to -10°C added to <xref
+	linkend="corrections"/></para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -896,13 +898,13 @@
 
       </sect2>
 
-      <sect2><title>Corrections</title>
+      <sect2 id="corrections"><title>Corrections</title>
 
-      <para>All published altitudes must be corrected for low temperatures. Altitudes within 5000ft
+      <para revisionflag="changed">All published altitudes must be corrected for low temperatures. Altitudes within 5000ft
       of the elevation of the source of a QNH measurement can be corrected for temperatures below
-      0°C using the following table:
+      -10°C using the following table:
 
-      <table>
+      <table revisionflag="changed">
         <title>Low temperature altitude corrections</title>
         <tgroup cols="10">
           <colspec colnum="1" align="center" colwidth="1.2*"/>
@@ -921,8 +923,6 @@
             <entry>1000</entry><entry>2000</entry><entry>3000</entry><entry>4000</entry><entry>5000</entry></row>
           </thead>
           <tbody>
-            <row><entry>0°C</entry><entry>20</entry><entry>20</entry><entry>30</entry><entry>30</entry>
-            <entry>60</entry><entry>120</entry><entry>170</entry><entry>230</entry><entry>280</entry></row>
             <row><entry>-10°C</entry><entry>20</entry><entry>30</entry><entry>40</entry><entry>50</entry>
             <entry>100</entry><entry>200</entry><entry>290</entry><entry>390</entry><entry>490</entry></row>
             <row><entry>-20°C</entry><entry>30</entry><entry>50</entry><entry>60</entry><entry>70</entry>
