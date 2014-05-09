@@ -35,6 +35,8 @@
 	linkend="fuelling"/>.</para></listitem>
 	<listitem><para>Definition of child changed in <xref
 	linkend="infants_and_children"/>.</para></listitem>
+	<listitem><para>Uncontrolled airspace without radar cover added to <xref
+	linkend="vfrifr"/>/</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -1973,18 +1975,19 @@
 
   <chapter id="flight-procedures">
     <title>Flight procedures</title>
-    <sect1>
+    <sect1 id="vfrifr">
       <title>VFR/IFR policy</title>
 
       <para>When controlled airspace exists between departure and destination airports, flights will be planned to
       remain within that airspace. Where controlled airspace does not exist, advisory airspace will be used if
       available.</para>
 
-      <para>Where a flight is planned to remain within controlled or advisory airspace, flight
+      <para revisionflag="changed">Where a flight is planned to remain within controlled or advisory airspace, flight
       outside that airspace should only be considered for safety reasons.{TODO: EOM-A then goes on
       to contradict itself, saying that you can fly outside controlled airspace after all e.g. if you are VMC in
       sight of airfield or flying in airspace known to be clear of other traffic}. The maximum level
-      of radar service should be sought whenever outside controlled airspace.</para>
+      of radar service should be sought whenever outside controlled airspace. Flight in uncontrolled
+      airspace without radar cover requires authorisation from the duty pilot.</para>
 
       <para>VFR flight should be considered exceptional and must be authorised by the post holder
       flight operations.</para>
