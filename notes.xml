@@ -21,6 +21,12 @@
       by the Apache Formatting Objects Processor.</para>
     </sect1>
     <sect1>
+      <title>Changes since version 1.1</title>
+      <itemizedlist>
+	<listitem><para><xref linkend="cabincrew_composition"/> updated with latest restrictions.</para></listitem>
+      </itemizedlist>
+    </sect1>
+    <sect1>
       <title>Changes since version 1.0</title>
       <itemizedlist>
 	<listitem><para>Added pilot age restriction to <xref linkend="flightcrew_composition"/>.</para></listitem>
@@ -186,12 +192,12 @@
 	<listitem>
 	  <para>Authorisation is received from the duty pilot</para>
 	</listitem>
+	<listitem revisionflag="added"><para>The aircraft is not an A319 with seat blockers and 3 crew.</para></listitem>
 	<listitem>
 	  <para>The aircraft does not dispatch from its originating base.</para>
 	</listitem>
 	<listitem>
-	  <para>The applicable sectors are either part of the original series of flights or
-	  are associated diversions.</para>
+	  <para revisionflag="changed">The reduction is for a single flight.</para>
 	</listitem>
 	<listitem>
 	  <para>A maximum of 50 passengers (not including infants) per cabin crew member is
@@ -227,14 +233,11 @@
 	</listitem>
       </itemizedlist></para>
 
-      <para>It is also permissible to board with a non operating crew member provided that they are
+      <para revisionflag="changed">It is also permissible to board with a non operating crew member provided that they are
       fully qualified on type, in uniform and fit to operate. They are not required to have taken
-      part in the pre-flight brief, but must be briefed on their duties during boarding and must
-      have answered one SEP and one First Aid question. The non operating crew member must remain
+      part in the pre-flight brief, but must be briefed on their duties during boarding.
+      The non operating crew member must remain
       with the aircraft until the rostered crew member arrives.</para>
-
-      <para>During disembarkation, once there are less than 20 passengers remaining on board the
-      required crew complement is reduced to the SCCM and one member of flight crew.</para>
 
       <para>If a cabin crew member is incapacitated due to sickness, injury, tiredness or fatigue,
       they must be offloaded. They will then be considered unfit to fly until certified fit by a
