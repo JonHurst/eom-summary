@@ -23,7 +23,10 @@
     <sect1>
       <title>Changes since version 1.1</title>
       <itemizedlist>
-	<listitem><para><xref linkend="cabincrew_composition"/> updated with latest restrictions.</para></listitem>
+	<listitem><para><xref linkend="cabincrew_composition"/> updated with latest
+	restrictions.</para></listitem>
+	<listitem><para><xref linkend="qualifications-and-recency"/> updated with latest
+	restrictions.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -351,9 +354,10 @@
       <listitem>
 	<para>Three take-offs and three landings as PF in the preceding 90 days.</para>
       </listitem>
-      <listitem>
-	<para>For Cat III, two landings, possibly in a simulator, using Cat III procedures
-	within 12 months. This requirement is usually satisfied by the LPC.</para>
+      <listitem revisionflag="changed">
+	<para>In a simulator, two Cat III approaches including 1 landing and 1 go-around at lowest
+	authorised RVR and one takeoff, also at lowest authorised RVR. This requirement is usually
+	satisfied by the LPC.</para>
       </listitem>
       <listitem>
         <para>3000 factored hours of which 500 hours must be on a medium or large jet
@@ -361,6 +365,14 @@
       </listitem>
       <listitem>
           <para>Successful completion of a Command Course.</para>
+      </listitem>
+      <listitem revisionflag="added">
+	<para>For part time pilots, 3 active days in any 30 day period. Leave or LPC/LOE can replace
+	one of these days.
+	</para>
+      </listitem>
+      <listitem revisionflag="added">
+	<para>Pilots new on type require 6 operational days per month for first year.</para>
       </listitem>
     </orderedlist>
     </para>
