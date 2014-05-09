@@ -31,6 +31,8 @@
 	linkend="corrections"/></para></listitem>
 	<listitem><para>MOC supplying AMOS number added <xref
 	linkend="defect_management"/></para></listitem>
+	<listitem><para>Requirement for two-way communication added to <xref
+	linkend="fuelling"/>.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -1588,7 +1590,7 @@
 
   <chapter id="ground-handling">
     <title>Ground Handling Instructions</title>
-    <sect1>
+    <sect1 id="fuelling">
       <title>Fuelling procedures</title>
       <para>The fuel supplier is responsible for ensuring that all fuel quality checks are
       completed, that the bowser is properly earthed to the aircraft and that fuel caps are properly
@@ -1604,7 +1606,8 @@
       <itemizedlist>
 	<listitem><para>Local restrictions must be checked.</para></listitem>
 
-        <listitem><para>At least one pilot must be on the flight deck.</para></listitem>
+        <listitem revisionflag="changed"><para>At least one pilot must be on the flight deck and must establish and
+	maintain two-way communication with the fueller.</para></listitem>
 
 	<listitem><para>A full cabin crew compliment is required. There must be at least one
 	cabin crew member at each set of floor level exits.</para></listitem>
@@ -1617,7 +1620,7 @@
 	<listitem><para>Door 1L must be open with steps or airbridge attached. Door 2L should
 	ideally also be open with steps attached, but it may remain closed provided the slide is
 	serviceable. The ground area beneath exits and slide deployment areas must remain clear and
-	the positioning of fuelling equipment must not impede evacuation</para></listitem>
+	the positioning of fuelling equipment must not impede evacuation.</para></listitem>
 
       </itemizedlist>
       </para>
