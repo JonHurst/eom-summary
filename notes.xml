@@ -29,6 +29,8 @@
 	restrictions.</para></listitem>
 	<listitem><para>Correction requirement change to -10°C added to <xref
 	linkend="corrections"/></para></listitem>
+	<listitem><para>MOC supplying AMOS number added <xref
+	linkend="defect_management"/></para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -1487,8 +1489,8 @@
 	is assessed by MOC as having no effect on airworthiness or when the relevant MEL entry has
 	no maintenance actions specified.</para>
 
-	<para>To defer a defect the commander should make an entry in the "ACTION TAKEN" column with
-	the MEL reference, repair interval and ADD number. The commander signs for this in the
+	<para revisionflag="changed">To defer a defect the commander should make an entry in the "ACTION TAKEN" column with
+	the MEL reference, repair interval and ADD number (AMOS number available from MOC). The commander signs for this in the
 	"ACTION TAKEN" column; MOC will arrange for the Release to Service column to be signed off
 	by a licenced engineer at the earliest opportunity. The relevant ADD entry should then be
 	completed. If the defect does not affect airworthiness, it should be entered on the level 2
