@@ -37,6 +37,8 @@
 	linkend="infants_and_children"/>.</para></listitem>
 	<listitem><para>Uncontrolled airspace without radar cover added to <xref
 	linkend="vfrifr"/>/</para></listitem>
+	<listitem><para>"Minimum fuel" call added to <xref
+	linkend="inflight-fuel"/>.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -2125,7 +2127,7 @@
 
     </sect1>
 
-    <sect1>
+    <sect1 id="inflight-fuel">
       <title>In-flight fuel management</title>
 
       <para>Flights of less than 20 minutes do not require a fuel check. All other flights require a
@@ -2151,9 +2153,10 @@
       general this means that Cat I minimas must be available at Cat III equipped aerodromes and
       non-precision minimas must be available at Cat I equipped aerodromes.</para>
 
-      <para>If it is determined that the fuel on landing <emphasis>may</emphasis> be less than final reserve, an
-      emergency must be declared using a PAN call and ATC should be given an estimate of endurance. If it is determined
-      that the fuel on landing <emphasis>will</emphasis> be less than final reserve, a MAYDAY call should be made.</para>
+      <para revisionflag="changed">If it is determined that any change in current clearance would result in a landing with
+      less than final reserve fuel, declare "Minimum fuel" to ATC. This is not an emergency call,
+      just a heads up.  If it is determined that the fuel on landing <emphasis>will</emphasis> be
+      less than final reserve, a MAYDAY call should be made.</para>
 
       <para role="multicite">[EOM-A 8.3.7]</para>
 
