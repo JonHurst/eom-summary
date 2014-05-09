@@ -33,6 +33,8 @@
 	linkend="defect_management"/></para></listitem>
 	<listitem><para>Requirement for two-way communication added to <xref
 	linkend="fuelling"/>.</para></listitem>
+	<listitem><para>Definition of child changed in <xref
+	linkend="infants_and_children"/>.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -1678,7 +1680,7 @@
         aircraft. Infants under two weeks of age are not permitted to fly. Premature babies are not
         permitted to fly until six months post expected date.</para>
 
-        <para>A child is defined as a person aged between 2 years and 14 years inclusive. Children
+        <para revisionflag="changed">A child is defined as a person aged between 2 years and 13 years inclusive. Children
         must be accompanied by a person aged 16 years or older at a maximum ratio of 10:1.</para>
 
         <para>In exceptional circumstances the carriage of an unaccompanied minor may be authorised
