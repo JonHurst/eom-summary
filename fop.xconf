@@ -95,9 +95,11 @@ the location of this file.
         </font>
         -->
         <!-- register all the fonts found in a directory -->
-        <directory recursive="true">/usr/share/fonts/truetype</directory>
-        <directory recursive="true">/usr/share/fonts/type1</directory>
-        <directory recursive="true">/usr/share/fonts/X11/Type1</directory>
+        <!-- <directory recursive="true">/usr/share/fonts/truetype</directory> -->
+        <!-- <directory recursive="true">/usr/share/fonts/type1</directory> -->
+        <!-- <directory recursive="true">/usr/share/fonts/X11/Type1</directory> -->
+        <directory>/usr/share/fonts/truetype/msttcorefonts</directory>
+        <directory>/usr/share/fonts/truetype/freefont</directory>
 
         <!-- register all the fonts found in a directory
              and all of its sub directories (use with care) -->
@@ -165,4 +167,3 @@ the location of this file.
   </renderers>
 
 </fop>
-
