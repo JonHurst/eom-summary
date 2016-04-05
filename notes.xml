@@ -219,12 +219,12 @@
 	<listitem>
 	  <para>Authorisation is received from the duty pilot</para>
 	</listitem>
-	<listitem revisionflag="added"><para>The aircraft is not an A319 with seat blockers and 3 crew.</para></listitem>
+	<listitem><para>The aircraft is not an A319 with seat blockers and 3 crew.</para></listitem>
 	<listitem>
 	  <para>The aircraft does not dispatch from its originating base.</para>
 	</listitem>
 	<listitem>
-	  <para revisionflag="changed">The reduction is for a single flight.</para>
+	  <para>The reduction is for a single flight.</para>
 	</listitem>
 	<listitem>
 	  <para>A maximum of 50 passengers (not including infants) per cabin crew member is
@@ -260,7 +260,7 @@
 	</listitem>
       </itemizedlist></para>
 
-      <para revisionflag="changed">It is also permissible to board with a non operating crew member provided that they are
+      <para>It is also permissible to board with a non operating crew member provided that they are
       fully qualified on type, in uniform and fit to operate. They are not required to have taken
       part in the pre-flight brief, but must be briefed on their duties during boarding.
       The non operating crew member must remain
@@ -378,7 +378,7 @@
       <listitem>
 	<para>Three take-offs and three landings as PF in the preceding 90 days.</para>
       </listitem>
-      <listitem revisionflag="changed">
+      <listitem>
 	<para>In a simulator, two Cat III approaches including 1 landing and 1 go-around at lowest
 	authorised RVR and one takeoff, also at lowest authorised RVR. This requirement is usually
 	satisfied by the LPC.</para>
@@ -390,12 +390,12 @@
       <listitem>
           <para>Successful completion of a Command Course.</para>
       </listitem>
-      <listitem revisionflag="added">
+      <listitem>
 	<para>For part time pilots, 3 active days in any 30 day period. Leave or LPC/LOE can replace
 	one of these days.
 	</para>
       </listitem>
-      <listitem revisionflag="added">
+      <listitem>
 	<para>Pilots new on type require 6 operational days per month for first year.</para>
       </listitem>
     </orderedlist>
@@ -922,11 +922,11 @@
 
       <sect2 id="corrections"><title>Corrections</title>
 
-      <para revisionflag="changed">All published altitudes must be corrected for low temperatures. Altitudes within 5000ft
+      <para>All published altitudes must be corrected for low temperatures. Altitudes within 5000ft
       of the elevation of the source of a QNH measurement can be corrected for temperatures below
       -10°C using the following table:
 
-      <table revisionflag="changed">
+      <table>
         <title>Low temperature altitude corrections</title>
         <tgroup cols="10">
           <colspec colnum="1" align="center" colwidth="1.2*"/>
@@ -1509,7 +1509,7 @@
 	is assessed by MOC as having no effect on airworthiness or when the relevant MEL entry has
 	no maintenance actions specified.</para>
 
-	<para revisionflag="changed">To defer a defect the commander should make an entry in the "ACTION TAKEN" column with
+	<para>To defer a defect the commander should make an entry in the "ACTION TAKEN" column with
 	the MEL reference, repair interval and ADD number (AMOS number available from MOC). The commander signs for this in the
 	"ACTION TAKEN" column; MOC will arrange for the Release to Service column to be signed off
 	by a licenced engineer at the earliest opportunity. The relevant ADD entry should then be
@@ -1624,7 +1624,7 @@
       <itemizedlist>
 	<listitem><para>Local restrictions must be checked.</para></listitem>
 
-        <listitem revisionflag="changed"><para>At least one pilot must be on the flight deck and must establish and
+        <listitem><para>At least one pilot must be on the flight deck and must establish and
 	maintain two-way communication with the fueller.</para></listitem>
 
 	<listitem><para>A full cabin crew compliment is required. There must be at least one
@@ -1696,7 +1696,7 @@
         aircraft. Infants under two weeks of age are not permitted to fly. Premature babies are not
         permitted to fly until six months post expected date.</para>
 
-        <para revisionflag="changed">A child is defined as a person aged between 2 years and 13 years inclusive. Children
+        <para>A child is defined as a person aged between 2 years and 13 years inclusive. Children
         must be accompanied by a person aged 16 years or older at a maximum ratio of 10:1.</para>
 
         <para>In exceptional circumstances the carriage of an unaccompanied minor may be authorised
@@ -1996,7 +1996,7 @@
       remain within that airspace. Where controlled airspace does not exist, advisory airspace will be used if
       available.</para>
 
-      <para revisionflag="changed">Where a flight is planned to remain within controlled or advisory airspace, flight
+      <para>Where a flight is planned to remain within controlled or advisory airspace, flight
       outside that airspace should only be considered for safety reasons.{TODO: EOM-A then goes on
       to contradict itself, saying that you can fly outside controlled airspace after all e.g. if you are VMC in
       sight of airfield or flying in airspace known to be clear of other traffic}. The maximum level
@@ -2165,7 +2165,7 @@
       general this means that Cat I minimas must be available at Cat III equipped aerodromes and
       non-precision minimas must be available at Cat I equipped aerodromes.</para>
 
-      <para revisionflag="changed">If it is determined that any change in current clearance would result in a landing with
+      <para>If it is determined that any change in current clearance would result in a landing with
       less than final reserve fuel, declare "Minimum fuel" to ATC. This is not an emergency call,
       just a heads up.  If it is determined that the fuel on landing <emphasis>will</emphasis> be
       less than final reserve, a MAYDAY call should be made.</para>
