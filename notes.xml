@@ -3,7 +3,7 @@
 <book id="revision-notes">
   <title>Summary of easyJet manuals</title>
   <subtitle><phrase condition="airbus">Airbus</phrase><phrase condition="boeing">Boeing</phrase>
-  Edition, Version 1.2</subtitle>
+  Edition, Version 2.0</subtitle>
   <bookinfo>
     <author><personname>
       <firstname>Jon</firstname><surname>Hurst</surname></personname></author>
