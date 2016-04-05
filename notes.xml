@@ -93,26 +93,28 @@
     <para>He must ensure that:
     <orderedlist>
       <listitem>
-        <para>All SOPS are fully complied with.</para>
+        <para revisionflag="changed">All SOPS and checklists are fully complied with.</para>
       </listitem>
-      <listitem>
-        <para>The weather will not infringe operating minima and the required alternates are available.</para>
-      </listitem>
+      <!-- <listitem> -->
+      <!--   <para>The weather will not infringe operating minima and the required alternates are available.</para> -->
+      <!-- </listitem> -->
       <listitem>
         <para>Ground facilities and services required for the planned flight are available and adequate.</para>
       </listitem>
       <listitem>
-        <para>The correct types and quantities of fuel and oil are carried, and uplifts are recorded.</para>
+        <para revisionflag="changed">The correct types and quantities of fuel, oil and oxygen are carried, and uplifts are recorded.</para>
       </listitem>
-      <listitem>
-        <para>The aircraft and required equipment are serviceable or only have unserviceabilities that comply with
-        the CDL or MEL. If third party maintenance is required whilst away from base, the procedures referred to in
-        EOM-A 8.1.11 must be followed.</para>
+      <listitem revisionflag="changed">
+        <para>The aircraft is airworthy with any unserviceable equipment compliant with
+        the CDL or MEL and all emergency equipment easily accessible for immediate use.
+        <!-- If third party maintenance is required whilst away from base, the procedures referred to in -->
+        <!-- EOM-A 8.1.11 must be followed. --></para>
       </listitem>
       <listitem>
         <para>The preflight inspection has been completed, and that all required documents, maps and charts are onboard
         and valid.</para>
       </listitem>
+      <listitem><para revisionflag="added">No loose articles are present in the flight deck.</para></listitem>
       <listitem>
         <para>The aircraft is within its weight and balance envelope and the load is properly secured.</para>
       </listitem>
@@ -132,8 +134,8 @@
         <para>A full safety briefing, including exits and equipment carried, is given to the passengers.</para>
       </listitem>
       <listitem>
-        <para>Crew members are not permitted to perform any activity during take-off, initial climb, final
-        approach and landing except those duties required for the safe operation of the aircraft.</para>
+        <para revisionflag="changed">Crew members are not permitted to perform any activity during critical phases of flight
+        except those duties required for the safe operation of the aircraft.</para>
       </listitem>
       <listitem>
         <para>A continuous listening watch is maintained on the appropriate radio frequencies.</para>
@@ -142,10 +144,10 @@
         <para>The cabin is secured (passengers secured and cabin baggage properly stowed) for taxi, take-off,
         landing and whenever turbulence is expected.</para>
       </listitem>
-      <listitem>
-        <para>The cabin crew are secured in their allocated seats for takeoff, landing and when not carrying out
-        essential duties whilst taxiing.</para>
-      </listitem>
+      <!-- <listitem> -->
+      <!--   <para>The cabin crew are secured in their allocated seats for takeoff, landing and when not carrying out -->
+      <!--   essential duties whilst taxiing.</para> -->
+      <!-- </listitem> -->
       <listitem>
         <para>The flight data recorder is not disabled, switched off or erased during flight nor erased after
         flight in the event of an accident or an incident subject to mandatory reporting.</para>
@@ -157,8 +159,8 @@
         </para>
       </listitem>
       <listitem>
-        <para>
-          A post flight debrief is carried out.
+        <para revisionflag="changed">
+          A post flight debrief is carried out as deemed appropriate.
         </para>
       </listitem>
       <listitem>
@@ -166,6 +168,11 @@
           A journey log or equivalent ACARS is completed.
         </para>
       </listitem>
+      <listitem><para revisionflag="added">Any manoeuvre in response to airborne collision avoidance system resolution
+      advisory is reported to the competent authority.</para></listitem>
+      <listitem><para revisionflag="added">Any bird strikes or bird hazards are reported promptly to the relevant ATS and
+      any bird strike resulting in damage or malfunction is reported to the competent authority.</para></listitem>
+      <listitem><para revisionflag="added">Pilot uniform standards are maintained.</para></listitem>
     </orderedlist>
     </para>
     <para role="multicite">[EOM-A 1.4, EOM-A 8.1]</para>
