@@ -25,6 +25,7 @@
       <itemizedlist>
         <listitem><para>Updated <xref linkend="commander-duties"/> with latest changes from EOMA.</para></listitem>
         <listitem><para>Updated <xref linkend="flightcrew_composition"/>.</para></listitem>
+        <listitem><para>Updated <xref linkend="cabincrew_composition"/>.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -186,68 +187,65 @@
     <sect1 id="cabincrew_composition">
       <title>Cabin crew</title>
 
-      <para>The minimum cabin crew is normally one for every 50 <emphasis> installed</emphasis>
-      seats. Where 4 cabin crew are present, a maximum of 2 may be inexperienced (i.e. ***). Where
-      only 3 cabin crew are present, only 1 may be inexperienced [CSPM 5.4.3].</para>
+      <para revisionflag="changed">The minimum cabin crew is 4 unless operating an A319 with seat
+      blockers, in which case it is 3, or operating a non-commercial flight with less than 19
+      passengers, in which case cabin crew are not required.</para>
 
-      <para>In extreme circumstances the standard complement may be reduced by one cabin crew member
-      providing that:
+      <para revisionflag="added">One Cabin Crew member will be nominated by the company as Senior
+      Cabin Crew Member.</para>
+
+      <para revisionflag="added">Cabin crew are considered inexperienced (i.e. ***) until they have
+      completed 40 sectors (or 20 sectors with caveats) as operating crew. At least two cabin crew
+      members must be experienced.</para>
+
+      <para revisionflag="changed">In extreme circumstances the cabin crew complement may be reduced to 3 providing:
 
       <itemizedlist>
 	<listitem>
 	  <para>Authorisation is received from the duty pilot</para>
 	</listitem>
-	<listitem><para>The aircraft is not an A319 with seat blockers and 3 crew.</para></listitem>
 	<listitem>
-	  <para>The aircraft does not dispatch from its originating base.</para>
+	  <para>The aircraft operates its originally planned flight and does not dispatch from its
+	  originating base.</para>
 	</listitem>
 	<listitem>
 	  <para>The reduction is for a single flight.</para>
 	</listitem>
 	<listitem>
-	  <para>A maximum of 50 passengers (not including infants) per cabin crew member is
-	  carried.</para>
+	  <para>A maximum of 150 passengers (not including infants or the original cabin crew member
+          who is no longer operating) are carried.</para>
 	</listitem>
 	<listitem>
 	  <para>All passengers are seated in a position where they can adequately view the safety
 	  demonstration.</para>
 	</listitem>
+        <listitem>
+          <para>If required, the commander may nominate a new SCCM, provided the nominee has a
+          minimum of 12 months operational experience and at least 20 sectors on type.</para>
+        </listitem>
       </itemizedlist></para>
 
-      <para>If the reduction in cabin crew results in no SCCM being carried there are additional
-      procedures detailed in EOM-A 4.1.4h.</para>
+      <para revisionflag="added">In general, cabin crew who have become unfit to fly should be
+      offloaded. Under extraordinary circumstances, the commander may elect to repatriate the cabin
+      crew member.</para>
 
-      <para>It is permissible to board with one cabin crew member absent provided that:
+      <para revisionflag="changed">It is permissible to board with only SCCM, CC2 and CC3 provided that:
 
       <itemizedlist>
-	<listitem>
-	  <para>The operating SCCM is present.</para>
-	</listitem>
-	<listitem>
-	  <para>A member of the flight crew is on the flight deck. In case of emergency a member of
-	  flight crew will assist at the front of the cabin.</para>
-	</listitem>
- 	<listitem>
-	  <para>The front and rear doors each have at least one attendant cabin crew member.</para>
-	</listitem>
-	<listitem>
-	  <para>The aircraft is not being fuelled.</para>
-	</listitem>
  	<listitem>
 	  <para>A maximum of 50 passengers per cabin crew member are boarded.</para>
 	</listitem>
+	<listitem>
+	  <para>A member of the flight crew is on the flight deck.</para>
+	</listitem>
+	<listitem>
+	  <para>The aircraft is not being fuelled or de-fuelled, and electrical power is available.</para>
+	</listitem>
+ 	<listitem>
+	  <para>SCCM is present at forward door, CC2 is present at rear door and CC3 is present in
+          the middle of the cabin, taking responsibility for the overwings.</para>
+	</listitem>
       </itemizedlist></para>
-
-      <para>It is also permissible to board with a non operating crew member provided that they are
-      fully qualified on type, in uniform and fit to operate. They are not required to have taken
-      part in the pre-flight brief, but must be briefed on their duties during boarding.
-      The non operating crew member must remain
-      with the aircraft until the rostered crew member arrives.</para>
-
-      <para>If a cabin crew member is incapacitated due to sickness, injury, tiredness or fatigue,
-      they must be offloaded. They will then be considered unfit to fly until certified fit by a
-      doctor or paramedic. This rule may be overridden at the Captain's discretion if "extraordinary
-      circumstances" apply.</para>
 
       <para role="multicite">[EOM-A 4.1.3, EOM-A 4.1.4]</para>
 
