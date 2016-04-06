@@ -24,6 +24,7 @@
       <title>Changes since version 1.2</title>
       <itemizedlist>
         <listitem><para>Updated <xref linkend="commander-duties"/> with latest changes from EOMA.</para></listitem>
+        <listitem><para>Updated <xref linkend="flightcrew_composition"/>.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -151,22 +152,35 @@
     <title>Crew composition</title>
     <sect1 id="flightcrew_composition">
       <title>Flight crew</title>
-      <para>The minimum flight crew is two pilots, at least one of whom must be a Captain.</para>
+      <para revisionflag="changed">The minimum flight crew is two pilots, at least one of whom must
+      be a Captain. In addition, a safety pilot fully qualified to operate in the right seat must be
+      carried for base training and line flying under supervision until positive release.</para>
 
-      <para>Not more than one pilot may be aged 60 years or more.</para>
+      <para revisionflag="changed">The maximum age for a pilot is 65. Not more than one pilot may be aged 60 years or
+      more. Pilots with Operational Medical Limitations must not fly together and must not fly with
+      pilots aged 60 years or greater.</para>
 
-      <para>The commander must sit in the left seat unless the commander is a training Captain and is required to occupy the
-      right seat for a training detail.</para>
-      <para>A training Captain may carry out both PNF and PF roles from either seat. Other Captains may only carry out
-      the PNF role from the right seat.</para>
-      <para>If an aircraft is only being taxied, the occupant of the right seat may be a non-type rated pilot or a
-      suitably qualified ground employee. The occupant of the left seat must, however, be a fully type qualified
-      commander. </para>
-      <para>Inexperienced (***) crew must not operate together. A Captain is considered inexperienced
-      until he has successfully passed his first recurrent simulator check. A First Officer is
-      considered inexperienced until he has completed the amount of flying detailed in EOM-A 4.1.2.</para>
+      <para revisionflag="changed">Inexperienced (***) flight crew must not operate together. To be
+      considered experienced, crew must have completed 100 flight hours and 10 sectors within 120
+      days of final line check or 150 flight hours and 20 sectors after final line check without
+      time limit. A Captain, in addition, must successfully complete their first recurrent simulator
+      session and a first officer must complete a continuation training flight.</para>
 
-      <para role="multicite">[EOM-A 4]</para>
+      <para revisionflag="added">At least one flight crew member must be present for
+      boarding.</para>
+
+      <para revisionflag="changed">The minimum crew for taxiing is a type qualified Commander and a
+      second pilot qualified on type.</para>
+
+      <!-- <para>The commander must sit in the left seat unless the commander is a training Captain and is required to occupy the -->
+      <!-- right seat for a training detail.</para> -->
+      <!-- <para>A training Captain may carry out both PNF and PF roles from either seat. Other Captains may only carry out -->
+      <!-- the PNF role from the right seat.</para> -->
+      <!-- <para>If an aircraft is only being taxied, the occupant of the right seat may be a non-type rated pilot or a -->
+      <!-- suitably qualified ground employee. The occupant of the left seat must, however, be a fully type qualified -->
+      <!-- commander. </para> -->
+
+      <para role="multicite">[EOMA 4.1.1]</para>
 
     </sect1>
     <sect1 id="cabincrew_composition">
