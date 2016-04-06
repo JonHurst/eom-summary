@@ -27,6 +27,7 @@
         <listitem><para>Updated <xref linkend="flightcrew_composition"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="cabincrew_composition"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="positioning"/>.</para></listitem>
+        <listitem><para>Updated <xref linkend="inspectors"/>.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -265,17 +266,20 @@
       <para role="multicite">[EOM-A 4.5, EOM-A 4.6]</para>
 
     </sect1>
-    <sect1>
-      <title>Flight Ops Inspectors</title>
+    <sect1 revisionflag="changed" id="inspectors">
+      <title>Inspectors and Auditors</title>
 
       <para>Flight Ops Inspectors may, at any time, board any easyJet aircraft and enter and remain
       on the flight deck unless it is the commander's opinion that this would endanger the safety of
       the aircraft.</para>
 
-      <para>Flight Ops Inspectors may act as operating crew with the approval of the duty pilot, but
-      may only fly with a training Captain.</para>
+      <para>easyJet Compliance Monitoring Auditors may also from time to time fly on easyJet
+      aircraft to conduct a flight inspection.</para>
 
-      <para role="multicite">[EOM-A 4.7]</para>
+      <para>EOMA 8.3.13 lists documentation and procedures for allowing persons other than operating
+      crew access to the flight deck.</para>
+
+      <para role="multicite">[EOM-A 4.7/8]</para>
 
     </sect1>
   </chapter>
