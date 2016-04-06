@@ -21,6 +21,12 @@
       by the Apache Formatting Objects Processor.</para>
     </sect1>
     <sect1>
+      <title>Changes since version 1.2</title>
+      <itemizedlist>
+        <listitem><para>Updated <xref linkend="commander-duties"/> with latest changes from EOMA.</para></listitem>
+      </itemizedlist>
+    </sect1>
+    <sect1>
       <title>Changes since version 1.1</title>
       <itemizedlist>
 	<listitem><para><xref linkend="cabincrew_composition"/> updated with latest
@@ -39,48 +45,6 @@
 	linkend="vfrifr"/>/</para></listitem>
 	<listitem><para>"Minimum fuel" call added to <xref
 	linkend="inflight-fuel"/>.</para></listitem>
-      </itemizedlist>
-    </sect1>
-    <sect1>
-      <title>Changes since version 1.0</title>
-      <itemizedlist>
-	<listitem><para>Added pilot age restriction to <xref linkend="flightcrew_composition"/>.</para></listitem>
-	<listitem><para>Added limitations on *** cabin crew flying together to <xref linkend="cabincrew_composition"/>.</para></listitem>
-	<listitem><para>Added new 45 day recency requirement to <xref linkend="qualifications-and-recency"/>.</para></listitem>
-   <listitem><para>Changed <xref linkend="cosmic_radiation"/> to refer to exposure monitoring
-   incorporation into AIMS.</para></listitem>
-	<listitem><para>Simplified <xref linkend="immunisation"/> to remove irrelevant information
-	about immunisation in favour of a statement that standard European immunisations will
-	currently suffice for easyJet crew.</para></listitem>
-   <listitem><para>Updated <xref linkend="diving"/> to refer to "SCUBA equipment" rather than an "aqua-lung".</para></listitem>
-	<listitem><para>Added <xref linkend="laserattacks"/>.</para></listitem>
-   <listitem><para>Added new rules regarding rest reduction at home base when staying in company
-   supplied accommodation to <xref linkend="rest_reduction"/>.</para></listitem>
-   <listitem><para>Added rule regarding an MSD or EFD following a dual duty not constituting a
-   transition to <xref linkend="transitions"/>.</para></listitem>
-   <listitem><para>Added absolute minimum flight crew report time of 45 minutes to <xref
-   linkend="pre_and_post_flight_duties"/>.</para></listitem>
-	<listitem><para>Modified <xref linkend="minima"/> to remove RVR 150m restriction on pilot
-	assessment of initial part of take-off run.</para></listitem>
-	<listitem><para>Modified <xref linkend="minima"/> to indicate that Jeppesen calculated RVR
-	may only be used when the minimas block is labelled "STANDARD".</para></listitem>
-   <listitem><para>Updated <xref linkend="lmc"/> to incorporate minus 10 passengers as being
-   eligible.</para></listitem>
-   <listitem><para>Removed reference to provision of still air OFPs by OCC in the case of system
-   failure from <xref linkend="ofp"/> as this facility is no longer available.</para></listitem>
-   <listitem><para>Added explicit instructions for the recording of anti-icing operations to <xref linkend="techlog_layout_and_usage"/>.</para></listitem>
-	<listitem><para>Updated "For Info" entries paragraph in <xref linkend="defect_management"/>
-	to indicate that under certain circumstances bird strikes may be recorded in this
-	way.</para></listitem>
-   <listitem><para>Removed age restrictions on use of car-type safety seat from <xref
-   linkend="infants_and_children"/>.</para></listitem>
-   <listitem><para>Added new rules to <xref linkend="prisoners"/></para></listitem>
-   <listitem><para>Added new age restriction for the use of vacant cabin crew seat by an ABP to
-   <xref linkend="crew_seating_and_harnesses"/>.</para></listitem>
-   <listitem><para>Removed recommendation for use of autopilot when intentionally reducing approach
-   guidance to a NPA from <xref linkend="skills_retention"/>.</para></listitem>
-	<listitem><para>Added <xref linkend="uniform_policy"/> to incorporate new uniform
-   directives.</para></listitem>
       </itemizedlist>
     </sect1>
   </preface>
