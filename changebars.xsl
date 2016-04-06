@@ -23,10 +23,10 @@
 
 <style type="text/css">
 <xsl:text>
-div.added    { background-color: #ffffB9;}
+td.added, div.added    { background-color: #ffffB9;}
 div.deleted  { text-decoration: line-through;
                background-color: #FF7F7F; }
-div.changed  { background-color: #B9ffB9; }
+td.changed, div.changed  { background-color: #B9ffB9; }
 div.off      {  }
 
 span.added   { background-color: #ffff99;
