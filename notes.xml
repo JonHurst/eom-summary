@@ -170,18 +170,14 @@
       <para revisionflag="added">At least one flight crew member must be present for
       boarding.</para>
 
-      <para revisionflag="changed">The minimum crew for taxiing is a type qualified Commander and a
-      second pilot qualified on type.</para>
+      <para revisionflag="changed">The minimum crew for taxiing is a Commander and a second pilot,
+      both qualified on type.</para>
 
-      <!-- <para>The commander must sit in the left seat unless the commander is a training Captain and is required to occupy the -->
-      <!-- right seat for a training detail.</para> -->
-      <!-- <para>A training Captain may carry out both PNF and PF roles from either seat. Other Captains may only carry out -->
-      <!-- the PNF role from the right seat.</para> -->
-      <!-- <para>If an aircraft is only being taxied, the occupant of the right seat may be a non-type rated pilot or a -->
-      <!-- suitably qualified ground employee. The occupant of the left seat must, however, be a fully type qualified -->
-      <!-- commander. </para> -->
+      <para revisionflag="changed">The commander must sit in the left seat unless required to command from the right seat
+      in order to conduct a training detail. Captains may only operate from the right seat if they
+      have undergone specific training and recurrency checks (see EOM 4.2.2).</para>
 
-      <para role="multicite">[EOMA 4.1.1]</para>
+      <para role="multicite">[EOMA 4.1.1, EOMA 4.2]</para>
 
     </sect1>
     <sect1 id="cabincrew_composition">
