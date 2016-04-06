@@ -28,6 +28,7 @@
         <listitem><para>Updated <xref linkend="cabincrew_composition"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="positioning"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="inspectors"/>.</para></listitem>
+        <listitem><para>Updated <xref linkend="qualifications-and-recency"/>.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -291,8 +292,9 @@
     <title>Qualification and Recency Requirements</title>
     <para>The minimum qualifications to act as a commander are:
     <orderedlist>
-      <listitem><para>A UK JAA-FCL ATPL with relevant type rating</para></listitem>
+      <listitem><para revisionflag="changed">A UK or CH EASA-FCL ATPL with instrument rating and relevant type rating</para></listitem>
       <listitem><para>Class I medical</para></listitem>
+      <listitem revisionflag="added"><para>ICAO level 5 language proficiency requirement (level 4 for EZS)</para></listitem>
       <listitem>
         <para>Valid ATQP recurrent checks:
         <informaltable>
@@ -305,8 +307,8 @@
             </thead>
             <tbody>
               <row>
-                <entry>Licence Proficiency Check <footnote><para>Incorporates Operator Proficiency
-                Check, Instrument Rating renewal, and elements of Ground and Refresher
+                <entry>Licence Proficiency Check <footnote><para revisionflag="changed">Incorporates Operator Proficiency
+                Check, Instrument Rating renewal, elements of CRM and elements of Ground and Refresher
                 Training.</para></footnote></entry>
                 <entry>12 months
 
@@ -326,7 +328,7 @@
 		</entry>
               </row>
               <row>
-                <entry>Line Oriented Evaluation <footnote><para>Incorporates elements of Ground and Refresher
+                <entry>Line Oriented Evaluation <footnote><para revisionflag="changed">Incorporates elements of CRM and Ground and Refresher
                 Training.</para></footnote></entry>
                 <entry>12 months <footnoteref linkend="validity-start-date"/><footnoteref linkend="validity-start-date-renewal"/></entry>
               </row>
@@ -336,30 +338,28 @@
               </row>
 	      <row>
 		<entry>Dangerous Goods</entry>
-		<entry>24 months less 1 day</entry>
+		<entry revisionflag="changed">24 months <footnoteref linkend="validity-start-date"/><footnoteref linkend="validity-start-date-renewal"/></entry>
 	      </row>
 	      <row>
 		<entry>Aviation Security</entry>
 		<entry>12 months <footnoteref linkend="validity-start-date"/></entry>
 	      </row>
 	      <row>
-		<entry>Annual Emergency and Safety Equipment Check</entry>
+		<entry revisionflag="changed">Emergency and Safety Equipment Training</entry>
 		<entry>24 months <footnoteref linkend="validity-start-date"/><footnoteref
 		linkend="validity-start-date-renewal"/></entry>
 	      </row>
 	      <row>
-		<entry>Triennial Emergency and Safety Equipment Check</entry>
-		<entry>3 years <footnoteref linkend="validity-start-date"/></entry>
+	        <entry>Crew Resource Management</entry>
+	        <entry>Three year recurrent training cycle</entry>
 	      </row>
             </tbody>
           </tgroup>
         </informaltable>
       </para></listitem>
-      <listitem>
-	<para>One take-off and one landing as PF in the preceding 45 days.</para>
-      </listitem>
-      <listitem>
-	<para>Three take-offs and three landings as PF in the preceding 90 days.</para>
+      <listitem revisionflag="changed">
+	<para>Three take-off and landings as an operating pilot in the preceding 45 days. A
+        simulator may be used.</para>
       </listitem>
       <listitem>
 	<para>In a simulator, two Cat III approaches including 1 landing and 1 go-around at lowest
@@ -367,19 +367,11 @@
 	satisfied by the LPC.</para>
       </listitem>
       <listitem>
-        <para>3000 factored hours of which 500 hours must be on a medium or large jet
-	transport (see EOM-A 5.2.1 for factored hours table).</para>
+        <para revisionflag="changed">3500 factored hours of which 500 hours must be on a medium or large jet
+	transport.</para>
       </listitem>
       <listitem>
           <para>Successful completion of a Command Course.</para>
-      </listitem>
-      <listitem>
-	<para>For part time pilots, 3 active days in any 30 day period. Leave or LPC/LOE can replace
-	one of these days.
-	</para>
-      </listitem>
-      <listitem>
-	<para>Pilots new on type require 6 operational days per month for first year.</para>
       </listitem>
     </orderedlist>
     </para>
