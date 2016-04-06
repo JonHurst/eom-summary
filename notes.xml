@@ -29,6 +29,7 @@
         <listitem><para>Updated <xref linkend="positioning"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="inspectors"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="qualifications-and-recency"/>.</para></listitem>
+        <listitem><para>Updated <xref linkend="health"/>.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -391,14 +392,14 @@
     </sect1>
     <sect1 id="cosmic_radiation">
       <title>Cosmic radiation</title>
-      <para>Statutory directives state that the acceptable radiation exposure of aircrew is 6mSv/yr.
+      <para revisionflag="changed">Statutory directives state that the acceptable radiation exposure of aircrew is 6mSv/yr.
       Radiation exposure is modelled by easyJet to try to prevent exposure above this level. easyJet
       continuously monitors estimated radiation doses; personal estimated exposure is published on
-      "Touch and Go". </para>
+      AIMS. </para>
 
       <para>Embryos and foetuses are particularly susceptible to harm from cosmic radiation. Crew
       should not fly when pregnant.</para>
-      <para role="multicite">[EOM-A 6.1.3]</para>
+      <para role="multicite">[EOM-A 6.1]</para>
     </sect1>
     <sect1>
       <title>Medication</title>
@@ -410,7 +411,7 @@
       <para>It is acceptable to operate whilst taking non drowsy cold remedies such as Sudafed. Seek
       medical advice before operating whilst taking any other medication.</para>
 
-      <para role="multicite">[EOM-A 6.1.2, EOM-A 6.1.4]</para>
+      <para role="multicite">[EOM-A 6.2, EOM-A 6.4]</para>
     </sect1>
     <sect1 id="immunisation">
       <title>Immunisation</title>
@@ -418,38 +419,8 @@
       <para>easyJet does not currently fly to any destination requiring vaccinations beyond those
       recommended for everyday life in Europe. Any change to this situation will be notified by
       NTC.</para>
-      <!-- <para>Crew who are operating overseas must satisfy any statutory requirement for vaccination -->
-      <!-- and be able to produce a WHO approved "Certificate of Vaccination" if required.</para> -->
 
-      <!-- <para>Immunity after vaccination is not immediate and it will reduce with time. Approximate -->
-      <!-- effectiveness is as follows:</para> -->
-
-      <!-- <informaltable> -->
-      <!--   <tgroup cols="3"> -->
-      <!--       <colspec align="center" colwidth="*"/> -->
-      <!--       <colspec align="center" colwidth="*"/> -->
-      <!--       <colspec align="center" colwidth="*"/> -->
-      <!--     <thead> -->
-      <!--       <row><entry>Vaccination</entry><entry>Effective after</entry><entry>Ineffective after</entry></row> -->
-      <!--     </thead> -->
-      <!--     <tbody> -->
-      <!--       <row><entry>Yellow Fever</entry><entry>10 days</entry><entry>10 years</entry></row> -->
-      <!--       <row><entry>Cholera</entry><entry>7 days</entry><entry>6 months</entry></row> -->
-      <!--       <row><entry>Typhoid</entry><entry>7 days</entry><entry>30 years</entry></row> -->
-      <!--       <row><entry>Poliomyelitis</entry><entry>3 vaccinations</entry><entry>10 years</entry></row> -->
-      <!--       <row><entry>Tetanus</entry><entry>3 vaccinations</entry><entry>10 years</entry></row> -->
-
-      <!--     </tbody> -->
-      <!--   </tgroup> -->
-      <!-- </informaltable> -->
-
-      <!-- <para>Crew should not operate within 24 hours of receiving immunisation.</para> -->
-
-      <!-- <para>When operating in malaria infected countries, crew members -->
-      <!-- are responsible for obtaining and applying appropriate -->
-      <!-- medication.</para> -->
-
-      <para role="multicite">[EOM-A 6.1.5, EOM-A 6.1.16]</para>
+      <para role="multicite">[EOM-A 6.5]</para>
     </sect1>
     <sect1>
       <title>Blood donation</title>
@@ -463,13 +434,13 @@
 
       <para>Crew who have been treated for decompression sickness must not fly within 72 hours of
       recovery.</para>
-      <para role="multicite">[EOM-A 6.1.7]</para>
+      <para role="multicite">[EOM-A 6.7]</para>
     </sect1>
     <sect1>
       <title>Surgery</title>
       <para>Aeromedical advice should be sought before returning to duty following any surgical
       procedure.</para>
-      <para role="multicite">[EOM-A 6.1.11]</para>
+      <para role="multicite">[EOM-A 6.11]</para>
     </sect1>
     <sect1>
       <title>Hypoxia</title>
@@ -498,9 +469,9 @@
       <para>Crew who are operating together should not have the same meals. This includes crew food
       and eating together when downroute or on airport standby.</para>
 
-      <para>If food poisoning from crew food is suspected, a Food Safety Report form must be
-      completed and medical tests carried out to identify the strain.</para>
-      <para role="multicite">[EOM-A 6.1.8]</para>
+      <para>If food poisoning from crew food is suspected, an ASR must be completed and a sample
+      brought back to local base management team for further investigation.</para>
+      <para role="multicite">[EOM-A 6.8]</para>
     </sect1>
 
     <sect1 id="laserattacks">
