@@ -481,12 +481,22 @@
       rubbing your eyes. Seek medical advice if symptoms persist.</para>
 
       <para>Notify ATC and file an ASR.</para>
-      <para role="multicite">[EOM-A 6.1.17]</para>
+      <para role="multicite">[EOM-A 6.18]</para>
     </sect1>
 
   </chapter>
   <chapter id="ftl">
     <title>Flight Time Limitations Scheme</title>
+    <sect1 revisionflag="added">
+      <title>Warning</title>
+
+      <para>With the introduction of EASA FTL and ongoing union negotiations across multiple
+      nations, FTL has become a fast moving, confused and highly complex topic. This section
+      represents my best understanding of how easyJet FTL applies to a UK pilot as of 6th April
+      2016. Furthermore, I have so far only had time to analyse the 5453 ruleset.</para>
+
+    </sect1>
+
     <sect1>
       <title>Definitions</title>
 
@@ -496,9 +506,8 @@
       <para><emphasis role="strong">Flight duty period</emphasis>: The period between reporting to operate a flight or series of flights
       and the on blocks time of the last sector operated.</para>
 
-      <para><emphasis role="strong">Day off</emphasis>: A period of at least 34 hours that is free
-      from duty and contains two consecutive local nights, a local night being a period of 8 hours
-      in the period 22:00 to 08:00 local time.</para>
+      <para><emphasis role="strong">Local Night</emphasis>: 8 hours within the period 22:00 to 08:00
+      local time.</para>
 
       <para><emphasis role="strong">Discretion event</emphasis>: The use of either commander's or individual's discretion to reduce a
       rest period, extend a duty period, ignore a cumulative limit or reduce a report time.</para>
@@ -508,133 +517,157 @@
     <sect1>
       <title>Days Off</title>
 
-      <para>For crew operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3), FTL days off
-      restrictions will always be satisfied by the fixed pattern, even when a day off has been
-      violated by a delay on the last day of a block of late duties. The rostering agreement
-      specifies that 10 days off must be achieved in the 28 day reserve period, 3 of these being the
-      final three days. In addition the variation specifies that two consecutive days off must be
-      achieved within any 10 day period and that two consecutive days off must be achieved after any
-      7 consecutive duties.</para>
+      <sect2><title>5453 ruleset</title>
 
-      <para>Crew who are not operating under a variation require 7 days off in 4 consecutive
-      weeks and 24 days off in 12 consecutive weeks. No more that 7 days can be worked between days
-      off, and two consecutive days off must be achieved in any 14 day period.</para>
+      <para>A singleton day off is defined as at least 36 hours and 2 local nights. Two consecutive
+      days off must include 3 local nights.</para>
 
-      <para><xref linkend="consecutive"/> details additional days off restrictions for consecutive
-      duties which overlap the period 01:00L to 06:59L.</para>
+      <para>FTL days off restrictions will always be satisfied by the fixed pattern part of the 5453
+      ruleset, even when a day off has been violated by a delay on the last day of a block of late
+      duties.</para>
 
-      <sect2>
-	<title>Ignoring days off restrictions</title>
-
-	<para>The commander may, at his discretion, choose to allow the violation of days off
-	restrictions.</para>
-
-	<para>The company may, due to unforeseen circumstances, position a crew member back to base
-	when this forms their eighth consecutive duty.</para>
+      <para>The rostering agreement specifies that 10 days off must be achieved in the 28 day
+      reserve period, 3 of these being the final three days. A duty block may consist of a maximum
+      of 5 FDPs, although a sixth is exceptionally permissable to return to home base following
+      unforseen circumstances. A singleton day off may only be followed by a maximum 4 FDPs, then at
+      least two days off. Two consecutive days off must be planned within any 10 consecutive
+      days.</para>
       </sect2>
+
+      <!-- <para>Crew who are not operating under a variation require 7 days off in 4 consecutive -->
+      <!-- weeks and 24 days off in 12 consecutive weeks. No more that 7 days can be worked between days -->
+      <!-- off, and two consecutive days off must be achieved in any 14 day period.</para> -->
+
+      <!-- <para><xref linkend="consecutive"/> details additional days off restrictions for consecutive -->
+      <!-- duties which overlap the period 01:00L to 06:59L.</para> -->
+
+      <!-- <sect2> -->
+      <!--   <title>Ignoring days off restrictions</title> -->
+
+      <!--   <para>The commander may, at his discretion, choose to allow the violation of days off -->
+      <!--   restrictions.</para> -->
+
+      <!--   <para>The company may, due to unforeseen circumstances, position a crew member back to base -->
+      <!--   when this forms their eighth consecutive duty.</para> -->
+      <!-- </sect2> -->
     </sect1>
 
     <sect1>
 
       <title>Required rest</title>
+      <para>From home base, the rest required before operating a duty is 12 hours or the length of
+      the previous duty period, whichever is greater. When operating away from home base, EASA
+      requires 10 hours plus total travelling time above one hour or the length of the previous
+      duty, whichever is greater. If easyJet provides “Suitable Accomodation” at home base, the away
+      from base limits apply. easyJet adds to this a “planning limit” of 12 hours rest away from
+      home base.</para>
 
-      <para>For flight crew, the rest required before operating a duty is 12 hours or
-      the length of the previous duty period, whichever is greater. For cabin crew, the rest
-      required is one hour less than the flight crew.</para>
+      <para>EASA adds the concept of the “Recurrent Extended Recovery Rest Period,” henceforth
+      RERRP, a rest period of 36 hours including 2 local nights that must occur with a maximum
+      separation of 168 hours (7 days), and at least twice a month must include 2 local days, a
+      local day being a 24 hour period starting at 00:00L.</para>
+
+      <para>EASA also adds “Time Zone Differences” as a factor in determining minimum rest. If the
+      timezone you are staying in is 4 hours or more different from your home base time zone,
+      consult EOMA 7.1.11.6.</para>
 
       <sect2 id="rest_reduction">
 	<title>Reducing required rest</title>
 
-	<para>When rest is acheived at home, flight crew may, at their discretion, reduce their
-	required rest period by a maximum of one hour providing that the rest period is still at
-	least 12 hours. Cabin crew may similarly reduce their rest providing the rest period is
-	still at least 11 hours. All crew members must inform the commander at the start of a duty
-	if individual discretion has been used to reduce rest.</para>
+        <para>EASA allows rest to be reduced at home base to a minimum of 12 hours and out of base
+        to a minimum of 10 hours. At most 2 reduced rest periods can occur between two
+        RERRPs. easyJet adds to this that when away from base, a minimum of 10 hours must be spent
+        at the hotel. Any reduction must be deducted from the subsequent maximum FDP, and it must be
+        appended to the next minimum rest period.</para>
 
-	<para>When rest is acheived in easyJet provided accommodation:
-	<itemizedlist>
-	  <listitem><para>The commander may, at his discretion, reduce rest by an unlimited amount
-	  provided that at least 10 hours are spent in suitable accommodation.</para></listitem>
+        <para>It is <emphasis>extremely</emphasis> unclear as to who is entitled to authorise
+        reduced rest. Appendix B indicates it is the responsibility of the commander under the
+        authority of a CDR, wheras Appendix G refers to “rostered reduced rest” being applied to
+        “defined and specific pairings,” adding a caveat that crew must be acclimatised and the
+        reduced rest period must include 01:00L to 05:59L. The EASA section simply says ”easyJet
+        will manage reduced rest through the Company FRMS,” which indicates that FRMS might be able
+        to autonomously reduce rest.</para>
 
-	  <listitem><para>Where a commander is not available, such as when a crew has split,
-	  individuals may, at their own discretion, also reduce rest by an unlimited amount
-	  provided that at least 10 hours are spent in suitable accommodation. The commander in
-	  charge of the subsequent duty period must be informed of this occurrence prior to the first
-	  sector.</para></listitem>
-
-	  <listitem><para>Where the preceding duty was less than 12 hours, easyJet may roster a
-	  reduction in rest equal to one hour minus any time that the total accommodation transfer
-	  time exceeds one hour.</para></listitem>
-	</itemizedlist>
-	</para>
-
-	<para>Exercise of discretion to reduce rest must be reported on the journey log of the
-	subsequent duty. If the reduction is greater than one hour, a Discretion Report form must
-	also be completed to allow CAA audit.</para>
-
-	<para>There are additional limitations if the rest reduction forms part of a series of
-	discretion events.</para>
+        <para>An added EASA twist is that the commander can <emphasis>increase</emphasis> required
+        rest on befalf of all crew without limit, although more than 2 hours gets the duty pilot
+        involved.</para>
 
       </sect2>
     </sect1>
     <sect1>
       <title>Maximum Flight Duty</title>
 
-      <para>The maximum allowable flight duty for flight crew is governed by the number of sectors
-      flown and the report time in local time:
+      <para>The maximum allowable flight duty for flight crew is governed by the country in which
+      they are based, the number of sectors flown and the report time in local time. For UK pilots:
 
       <table id="maxfd">
 	<title>Maximum flight duty</title>
-	<tgroup cols="5">
+	<tgroup cols="4">
 	  <colspec colwidth="2*" align="center"/>
 	  <colspec colwidth="*" align="center" colname="1"/>
 	  <colspec colwidth="*" align="center"/>
-	  <colspec colwidth="*" align="center"/>
-	  <colspec colwidth="*"  align="center" colname="4"/>
+	  <colspec colwidth="*"  align="center" colname="3"/>
 	  <thead>
-	    <row><entry></entry><entry namest="1" nameend="4">Sectors <footnote><para>For 5 or more sectors, refer to the full table in EOM-A 7.1.12.8</para></footnote></entry></row>
-	    <row><entry>Local time</entry><entry>1</entry><entry>2</entry><entry>3</entry><entry>4</entry></row>
+	    <row><entry></entry><entry namest="1" nameend="3">Sectors <footnote><para>For 5 or more sectors, refer to the full table in EOM-A 7.1.12.8</para></footnote></entry></row>
+	    <row><entry>Local time</entry><entry>1 or 2</entry><entry>3</entry><entry>4</entry></row>
 	  </thead>
 	  <tbody>
-	    <row><entry>06:00 - 07:59</entry><entry>13:00</entry><entry>12:15</entry><entry>11:30</entry><entry>10:45</entry></row>
-	    <row><entry>08:00 - 12:59</entry><entry>14:00</entry><entry>13:15</entry><entry>12:30</entry><entry>11:45</entry></row>
-	    <row><entry>13:00 - 1759</entry><entry>13:00</entry><entry>12:15</entry><entry>11:30</entry><entry>10:45</entry></row>
-	    <row><entry>18:00 - 21:59</entry><entry>12:00</entry><entry>11:15</entry><entry>10:30</entry><entry>9:45</entry></row>
-	    <row><entry>22:00 - 05:59</entry><entry>11:00</entry><entry>10:15</entry><entry>9:30</entry><entry>9:00</entry></row>
+	    <row><entry>05:00 - 05:59</entry><entry>11:15</entry><entry>9:30</entry><entry>9:00</entry></row>
+	    <row><entry>06:00 - 07:59</entry><entry>13:00</entry><entry>11:30</entry><entry>10:45</entry></row>
+	    <row><entry>08:00 - 12:59</entry><entry>13:00</entry><entry>12:30</entry><entry>11:45</entry></row>
+	    <row><entry>13:00 - 13:29</entry><entry>13:00</entry><entry>11:30</entry><entry>10:45</entry></row>
+	    <row><entry>13:30 - 13:59</entry><entry>12:45</entry><entry>11:30</entry><entry>10:45</entry></row>
+	    <row><entry>14:00 - 14:29</entry><entry>12:30</entry><entry>11:30</entry><entry>10:45</entry></row>
+	    <row><entry>14:30 - 14:59</entry><entry>12:15</entry><entry>11:30</entry><entry>10:45</entry></row>
+	    <row><entry>15:00 - 15:29</entry><entry>12:00</entry><entry>11:30</entry><entry>10:45</entry></row>
+	    <row><entry>15:30 - 15:59</entry><entry>11:45</entry><entry>11:15</entry><entry>10:45</entry></row>
+	    <row><entry>16:00 - 16:29</entry><entry>11:30</entry><entry>11:00</entry><entry>10:30</entry></row>
+	    <row><entry>16:30 - 16:59</entry><entry>11:15</entry><entry>10:45</entry><entry>10:15</entry></row>
+	    <row><entry>17:00 - 21:59</entry><entry>11:00</entry><entry>10:30</entry><entry>9:45</entry></row>
+	    <row><entry>22:00 - 04:59</entry><entry>11:00</entry><entry>9:30</entry><entry>9:00</entry></row>
 	  </tbody>
 	  </tgroup>
       </table>
       </para>
-      <para>The maximum allowable duty for cabin crew is one hour longer than the flight crew.</para>
+      <para>Compared to UK flight crew, UK Cabin crew have the same limits for 1 and 2 sectors and
+      less restrictive limits for 3 or more sectors. Crew based in Italy, Netherlands, Portugal and
+      Spain have the same limits as UK cabin crew. Crew based in France and Germany have more
+      restrictive limits than UK flight crew for 1 and 2 sectors but less restrictive limits for 3
+      or more sectors.</para>
       <sect2>
 	<title>Increasing maximum flight duty</title>
 
-	<para>The commander may, at his discretion, increase the maximum flight duty detailed in
-	<xref linkend="maxfd"/> by up to 2 hours. If required by a delay occurring during the
-	turnaround before the final sector of a duty, the maximum flight duty may be extended by a
-	further hour. Whenever this discretion is used it must be reported via the journey
-	log. Where the discretion is greater than two hours a Discretion Report Form must also be
-	completed to allow mandatory reporting to the CAA. There are additional conditions when
-	exercising this discretion as part of a sequence of discretion events.</para>
+        <para>The company may extend the maximum FDP by up to one hour in accordance with table 7.4
+        in EOMA 7.1.5.4.4. This must be pre-planned and rest periods around the extended duty are
+        increased, either by 4 hours post FDP or by 2 hours both pre and post FDP. This cannot be
+        combined with split duty and may not occur more than twice in 7 consecutive days.</para>
 
-	<para>Reporting times may be delayed by up to 4 hours if the crew member is informed of the
-	change before leaving their place of rest. In this case the report time used in <xref
-	linkend="maxfd"/> will be the original report time, but the flight duty will be deemed to
-	start at the delayed report time. Where a delay is greater than 4 hours, the more
-	restrictive of the original and delayed report time will be used when calculating max FDP,
-	and the flight duty will be deemed to have commenced 4 hours after the original report
-	time.</para>
+        <para>The commander may, at his discretion, increase maximum flight duty by at most 2
+        hours. If unforeseen circumstances after take-off result in an exceedance of this, the
+        flight may continue to planned destination or alternate. If the flight is operating with
+        extended FDP, the commander's discretion is applied to the relevant basic table rather than
+        the extended table.</para>
 
-	<para>Where a flight duty is scheduled such that a rest period of between 3 and 10
-	consecutive hours may be taken between sectors, the company can increase the maximum flight
-	duty by one half of that rest period. If this method is used, any positioning journeys count
-	as sectors. The allowance for inter-sector pre and post flight duties and the type of
-	accommodation required are specified in EOM-A 7.1.13.</para>
+        <para>EASA also allows for the commander to reduce allowable flight duty period by an
+        unlimited amount on behalf of all crew. More than 2 hours gets the duty pilot
+        involved.</para>
 
-	<para>easyJet has also negotiated FTL exemptions that allow the maximum flight duty lengths
-	in <xref linkend="maxfd"/> to be extended by either 30 minutes or 60 minutes at the planning
-	stage. To utilise either of these exemptions a long list of conditions (detailed in EOM-A
-	7.1.12.9) must be met. Affected duties are annotated on rosters.</para>
+        <para>The company can attempt to increase maximum flight duty by contacting crew before they
+        have left their place of rest and delaying the report time. Cabin crew may be contacted 2
+        hours before report, and flight crew, 90 minutes before report. When the delay is less than
+        4 hours, maximum FDP is based on the <emphasis>original</emphasis> reporting time but FDP
+        starts from the delayed reporting time. If the delay is more than 4 hours, the maximum FDP
+        is based on the <emphasis>more limiting</emphasis> of the original and delayed reporting
+        times, and the FDP starts at the original reporting time plus 4 hours. A delay of more than
+        10 hours is considered a rest period. Further rules apply if a second delay notification is
+        given, but this should only occur where a base has no crew facilities.</para>
+
+        <para>The company may also increase maximum FDP through the use of split duty. Where a crew
+        has a break on the ground of between three and ten consecutive hours, 50% of the break may
+        be added to the maximum FDP. The FDP continues throughout the break, and a number of caveats
+        with regards to accommodation and post and pre-flight duties apply (see FRMS Appendix
+        E).</para>
+
       </sect2>
     </sect1>
 
