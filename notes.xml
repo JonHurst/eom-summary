@@ -608,7 +608,8 @@
 	  <colspec colwidth="*" align="center"/>
 	  <colspec colwidth="*"  align="center" colname="3"/>
 	  <thead>
-	    <row><entry></entry><entry namest="1" nameend="3">Sectors <footnote><para>For 5 or more sectors, refer to the full table in EOM-A 7.1.12.8</para></footnote></entry></row>
+	    <row><entry></entry><entry namest="1" nameend="3">Sectors <footnote><para>For 5 or more
+	    sectors, refer to the full table in FRMS Appendix I</para></footnote></entry></row>
 	    <row><entry>Local time</entry><entry>1 or 2</entry><entry>3</entry><entry>4</entry></row>
 	  </thead>
 	  <tbody>
@@ -633,7 +634,7 @@
       less restrictive limits for 3 or more sectors. Crew based in Italy, Netherlands, Portugal and
       Spain have the same limits as UK cabin crew. Crew based in France and Germany have more
       restrictive limits than UK flight crew for 1 and 2 sectors but less restrictive limits for 3
-      or more sectors.</para>
+      or more sectors. These tables are available in FRMS Appendix I.</para>
       <sect2>
 	<title>Increasing maximum flight duty</title>
 
