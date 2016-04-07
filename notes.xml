@@ -878,18 +878,41 @@
     <sect1 id="transitions">
       <title>Transitions</title>
 
-      <para>A "morning start duty" (MSD) is a duty with a report time between 03:00L and 09:29L. An
-      "evening finish duty" (EFD) is either a duty finishing between 18:00L and 03:00L or a duty
-      with a report time between 18:00L and 03:00L that finishes between 03:00L and 17:59L. A
-      transition occurs when an EFD occurs immediately after an MSD or vice versa. It is possible
-      for a single duty to be both an MSD and an EFD; this is termed a "Dual duty" and is considered
-      a transition in and of itself. Either an MSD or an EFD can follow a Dual duty without
-      constituting a second transition.</para>
+      <para>For the purposes of transition control:
 
-      <para>When crew are operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3), only one
-      transition is allowed per duty block. In addition, the August 2009 Rostering resolution prohibits
-      transitions on day 5 of a duty block, and easyJet has made a commitment via pmail to limit
-      rostered transitions to one per month.</para>
+      <itemizedlist>
+        <listitem><para>A “morning duty” (MD) is a duty with a report time between 00:00L and 09:29L which
+        finishes befor 17:59L.</para></listitem>
+        <listitem><para>An “evening duty” (ED) is a duty starting after 09:30L that
+        finishes after 18:00L.</para></listitem>
+        <listitem><para>A “dual duty“ (DD) is a duty with a report time between 00:00L and 09:29L
+        which finishes after 18:00L.</para></listitem>
+        <listitem><para>A “neutral duty” lies entirely within the period 09:30L to 17:59L</para></listitem>
+      </itemizedlist></para>
+
+      <para>Only one transition is allowed per “duty block”. A “duty block”, in this case, is
+      defined as a series of duties bookended by rest periods of 34 hours or greater that contain
+      two local nights.</para>
+
+      <para>The latest off duty time following a MD-ED transition is 02:00L.</para>
+
+      <para>A dual duty counts as a single transition (i.e. MD-DD-ED is not two transitions).</para>
+
+      <para>For UK pilots, the BALPA consolidated scheduling agreement (BCSA), dated 26th November
+      2014, adds further transition control:
+
+      <itemizedlist>
+        <listitem><para>Only one transition is allowed per calendar month.</para></listitem>
+        <listitem><para>Transitions are not allowed between day 4 and 5 of a duty
+        block.</para></listitem>
+        <listitem><para>If a dual duty is occurs on day 4 of a duty block, only a neutral duty or a
+        rest day may be scheduled for day 5.</para></listitem>
+        <listitem><para>No more than one ED is allowed in a late block.</para></listitem>
+      </itemizedlist></para>
+
+      <para>Transitions due to disruption “on the day” are not considered a violation of these
+      rules, but must be taken into account for future rostering.</para>
+
     </sect1>
     <sect1 id="pre_and_post_flight_duties">
       <title>Pre and post flight duties</title>
