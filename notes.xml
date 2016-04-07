@@ -493,7 +493,7 @@
       <para>With the introduction of EASA FTL and ongoing union negotiations across multiple
       nations, FTL has become a fast moving, confused and highly complex topic. This section
       represents my best understanding of how easyJet FTL applies to a UK pilot as of 6th April
-      2016. Furthermore, I have so far only had time to analyse the 5453 ruleset.</para>
+      2016.</para>
 
     </sect1>
 
@@ -509,18 +509,15 @@
       <para><emphasis role="strong">Local Night</emphasis>: 8 hours within the period 22:00 to 08:00
       local time.</para>
 
-      <para><emphasis role="strong">Discretion event</emphasis>: The use of either commander's or individual's discretion to reduce a
-      rest period, extend a duty period, ignore a cumulative limit or reduce a report time.</para>
-
     </sect1>
 
     <sect1>
       <title>Days Off</title>
 
-      <sect2><title>5453 ruleset</title>
-
       <para>A singleton day off is defined as at least 36 hours and 2 local nights. Two consecutive
       days off must include 3 local nights.</para>
+
+      <sect2><title>5453 ruleset</title>
 
       <para>FTL days off restrictions will always be satisfied by the fixed pattern part of the 5453
       ruleset, even when a day off has been violated by a delay on the last day of a block of late
@@ -534,22 +531,12 @@
       days.</para>
       </sect2>
 
-      <!-- <para>Crew who are not operating under a variation require 7 days off in 4 consecutive -->
-      <!-- weeks and 24 days off in 12 consecutive weeks. No more that 7 days can be worked between days -->
-      <!-- off, and two consecutive days off must be achieved in any 14 day period.</para> -->
+      <sect2><title>Other rulesets</title>
 
-      <!-- <para><xref linkend="consecutive"/> details additional days off restrictions for consecutive -->
-      <!-- duties which overlap the period 01:00L to 06:59L.</para> -->
+      <para>Each ruleset has its own highly complex system for allocating days off, with little
+      commonality between them. Consult FRMS A.10 for the gory details.</para>
+      </sect2>
 
-      <!-- <sect2> -->
-      <!--   <title>Ignoring days off restrictions</title> -->
-
-      <!--   <para>The commander may, at his discretion, choose to allow the violation of days off -->
-      <!--   restrictions.</para> -->
-
-      <!--   <para>The company may, due to unforeseen circumstances, position a crew member back to base -->
-      <!--   when this forms their eighth consecutive duty.</para> -->
-      <!-- </sect2> -->
     </sect1>
 
     <sect1>
@@ -598,7 +585,9 @@
       <title>Maximum Flight Duty</title>
 
       <para>The maximum allowable flight duty for flight crew is governed by the country in which
-      they are based, the number of sectors flown and the report time in local time. For UK pilots:
+      they are based, the number of sectors flown and the report time in local time. For
+      Acclimatised<footnote><para>Acclimatised means reporting in a place where the local time is no more than two hours
+      different from local time at home base.</para></footnote> UK pilots:
 
       <table id="maxfd">
 	<title>UK Flight Crew Maximum Flight Duty</title>
@@ -641,7 +630,7 @@
         <para>The company may extend the maximum FDP by up to one hour in accordance with table 7.4
         in EOMA 7.1.5.4.4. This must be pre-planned and rest periods around the extended duty are
         increased, either by 4 hours post FDP or by 2 hours both pre and post FDP. This cannot be
-        combined with split duty and may not occur more than twice in 7 consecutive days.</para>
+        combined with split duty and may not occur more than once in 7 consecutive days.</para>
 
         <para>The commander may, in the case of unforeseen circumstances occuring at or after
         reporting time, at his discretion, increase maximum flight duty by at most 2 hours. If
@@ -896,6 +885,8 @@
 
       <para>The latest off duty time following a MD-ED transition is 02:00L.</para>
 
+      <para>An ED-MD transition must include a rest period incorporating a local night.</para>
+
       <para>A dual duty counts as a single transition (i.e. MD-DD-ED is not two transitions).</para>
 
       <para>For UK pilots, the BALPA consolidated scheduling agreement (BCSA), dated 26th November
@@ -917,18 +908,28 @@
     <sect1 id="pre_and_post_flight_duties">
       <title>Pre and post flight duties</title>
 
-      <para>For normal flight duty periods, a minimum of 1 hour must be planned for pre-flight
-      duties, and a minimum of 30 minutes planned for post flight duties. For training and
-      positioning refer to EOM-A 7.1.12.</para>
+      <para>For “normal” flight duty periods, a minimum of 1 hour must be planned for pre-flight
+      duties, and a minimum of 30 minutes must be planned for post-flight duties. If post-flight
+      duties exceed the standard allowance, crewing must be notified. For training and positioning
+      refer to EOM-A 7.1.5.1.</para>
 
       <para>The practice of using non-standard reporting times to move a duty into a less limiting
       FDP band is prohibited.</para>
 
-      <para>The commander may, at his discretion, reduce these times. The company may not. If the
-      commander reduces standard reporting time by more than 15 minutes, a Discretion Report form
-      must be completed to allow CAA audit. The absolute minimum pre flight report time for
-      <emphasis>flight crew</emphasis> is 45 minutes.</para>
+      <para>The commander may, at his discretion, reduce these times. The company may not. At the
+      very least, one member of flight crew <emphasis>must</emphasis> receive a briefing allowance
+      of 45 minutes. A flight deck member or the cabin manager having received less than 30 minutes
+      briefing allowance will <emphasis>always</emphasis> trigger an investigation.</para>
 
+    </sect1>
+    <sect1><title>Miscellaneous</title>
+    <sect2><title>Positioning</title>
+    <para>All time spent positioning counts as duty time for the purposes of all FTL limits. Time
+    spent positioning prior to operating counts as FDP, but does not count as a sector.</para>
+    </sect2>
+    <sect2><title>6 sector duties</title>
+    <para>No more than 3 consective 6 sector duties are allowed.</para>
+    </sect2>
     </sect1>
 
 
