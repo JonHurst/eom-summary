@@ -567,30 +567,30 @@
       separation of 168 hours (7 days), and at least twice a month must include 2 local days, a
       local day being a 24 hour period starting at 00:00L.</para>
 
-      <para>EASA also adds “Time Zone Differences” as a factor in determining minimum rest. If the
-      timezone you are staying in is 4 hours or more different from your home base time zone,
-      consult EOMA 7.1.11.6.</para>
+      <para>EASA also adds “Time Zone Differences” as a factor in determining minimum rest. If an
+      FDP involves a change of 4 hours or more, consult EOMA 7.1.11.6.</para>
 
       <sect2 id="rest_reduction">
 	<title>Reducing required rest</title>
 
-        <para>EASA allows rest to be reduced at home base to a minimum of 12 hours and out of base
-        to a minimum of 10 hours. At most 2 reduced rest periods can occur between two
-        RERRPs. easyJet adds to this that when away from base, a minimum of 10 hours must be spent
-        at the hotel. Any reduction must be deducted from the subsequent maximum FDP, and it must be
-        appended to the next minimum rest period.</para>
-
-        <para>It is <emphasis>extremely</emphasis> unclear as to who is entitled to authorise
-        reduced rest. Appendix B indicates it is the responsibility of the commander under the
-        authority of a CDR, wheras Appendix G refers to “rostered reduced rest” being applied to
-        “defined and specific pairings,” adding a caveat that crew must be acclimatised and the
-        reduced rest period must include 01:00L to 05:59L. The EASA section simply says ”easyJet
-        will manage reduced rest through the Company FRMS,” which indicates that FRMS might be able
-        to autonomously reduce rest.</para>
+        <para>The commander may, in response to unforeseen circumstances <emphasis>occuring at or
+        after reporting time</emphasis>, at his discretion, reduce the minimum rest requirement such
+        that at home base it is a minimum of 12 hours and out of base it is a minimum of 10
+        hours. At most 2 reduced rest periods can occur between two RERRPs. easyJet adds to this
+        that when away from base, a minimum of 10 hours must be spent at the hotel. Any reduction
+        must be deducted from the subsequent maximum FDP, and must be appended to the next minimum
+        rest period.</para>
 
         <para>An added EASA twist is that the commander can <emphasis>increase</emphasis> required
-        rest on befalf of all crew without limit, although more than 2 hours gets the duty pilot
+        rest without limit on behalf of all crew. More than 2 hours gets the duty pilot
         involved.</para>
+
+        <para>EASA introduces the concept of “Rostered Reduced Rest”. easyJet may, for “defined and
+        specific pairings”, roster a reduction of required rest to a minimum of 12 hours at home
+        base and 10 hours away from base, providing that the period 01:00L to 05:59L is
+        included. The crew member must be notified at latest prior to undertaking the immediately
+        preceding non reduced rest period. After roster publication, only one such reduced rest
+        period may be rostered between two RERRPs.</para>
 
       </sect2>
     </sect1>
@@ -601,7 +601,7 @@
       they are based, the number of sectors flown and the report time in local time. For UK pilots:
 
       <table id="maxfd">
-	<title>Maximum flight duty</title>
+	<title>UK Flight Crew Maximum Flight Duty</title>
 	<tgroup cols="4">
 	  <colspec colwidth="2*" align="center"/>
 	  <colspec colwidth="*" align="center" colname="1"/>
@@ -643,9 +643,10 @@
         increased, either by 4 hours post FDP or by 2 hours both pre and post FDP. This cannot be
         combined with split duty and may not occur more than twice in 7 consecutive days.</para>
 
-        <para>The commander may, at his discretion, increase maximum flight duty by at most 2
-        hours. If unforeseen circumstances after take-off result in an exceedance of this, the
-        flight may continue to planned destination or alternate. If the flight is operating with
+        <para>The commander may, in the case of unforeseen circumstances occuring at or after
+        reporting time, at his discretion, increase maximum flight duty by at most 2 hours. If
+        unforeseen circumstances after take-off on the final sector result in an exceedance of this,
+        the flight may continue to planned destination or alternate. If the flight is operating with
         extended FDP, the commander's discretion is applied to the relevant basic table rather than
         the extended table.</para>
 
@@ -669,75 +670,86 @@
         with regards to accommodation and post and pre-flight duties apply (see FRMS Appendix
         E). A split duty cannot follow reduced rest.</para>
 
+        <para>If cabin crew are required to report earlier than flight crew, the cabin crews’
+        maximum FDP is extended by the difference in report time, up to a maximum of one
+        hour.</para>
+
       </sect2>
     </sect1>
 
     <sect1 id="consecutive">
       <title>Consecutive night, early start and late finish duties</title>
 
-      <para>If any part of a duty falls within the period 02:00 to 04:59 local time, then it is a
-      "night duty". Consecutive night duties are only allowed with the following
-      restrictions:
+      <para>If any part of a duty falls within the period 02:00 to 04:59 local time (in the time
+      zone that the crew member is Acclimatised), then it is a "night duty". Consecutive night
+      duties are only allowed with the following restrictions:
 
       <itemizedlist>
+        <listitem><para>Limited to a maximum of 4 sectors per duty.</para></listitem>
+
 	<listitem><para>If two consecutive night duties are scheduled, the preceding duty must
 	finish by 23:59 local time.</para></listitem>
 
 	<listitem><para>If three consecutive night duties are scheduled, the preceding duty must
 	finish by 21:00.</para></listitem>
 
-	<listitem><para>If four or five consecutive night duties are scheduled, the <xref
-	linkend="maxfd"/> limits are replaced by an 8 hour limit, regardless of sectors; in
-	addition, 24 hours rest must be taken prior to the series and 54 hours rest must be taken
-	post the series.</para></listitem>
+        <listitem><para>No more that three consecutive night duties can be scheduled.</para></listitem>
+
       </itemizedlist>
       </para>
 
-      <para>No more than three consecutive duties are allowed where any part of a duty falls within
-      the period 01:00 to 06:59, nor will more than 4 such duties occur within any 7 day
-      period. There are the following exceptions to this rule:
+      <para>EASA introduces the concept of “Disruptive Schedule”, and easyJet operates under the
+      “late type”. This defines an “Early Start” Duty Period as one starting in the period
+      02:00L<footnote><para>EOMA 7.1.2.7 defines “Early Start” as 05:00L to 06:59L, but FRMS
+      Appendix A overrides this. </para></footnote> to 06:59L, and a “Late Finish” as a duty period
+      finishing between 00:00L and 01:59L. A “Disruptive Duty” is a duty where any part occurs
+      between 01:00L and 06:59L. “Consecutive” duties are defined as separation of less than 34
+      hours between disruptive duties of a given type.</para>
+
+      <para>If crew perform 4 or more disruptive duties between 2 RERRPs, the second RERRP is futher
+      extended to be 60 hours (2½ days).</para>
+
+      <para>4 or 5 consecutive Early Start duties are allowed provided:
 
       <itemizedlist>
-	<listitem><para>Crew operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3) may
-	operate four or five consecutive "early start duties" where max flight duty is as per <xref
-	linkend="maxfd"/>. Only one of the series may have a report time between 03:00 and 04:59 and
-	that duty must be 2 sectors or less. In addition, 2 days off must be achieved before any
-	series of 4 early starts, 3 days off must be achieved before any series of 5 early starts
-	and 72 hours must be achieved after either series. The rostering agreement further
-	stipulates that 4 days off must be achieved before any block of earlies in the fixed
-	pattern. Generally, a maximum of 5 consecutive FDPs is allowable under this variation, but
-	exceptionally a sixth may be operated in accordance with the terms in EOM-A
-	7.3.3.8. </para></listitem>
-
-	<listitem><para>Crew not operating under a variation may operate four or five consecutive
-	"early start duties" where the <xref linkend="maxfd"/> limits are replaced by a 9 hour
-	limit, regardless of sectors; in addition, 24 hours rest must be taken prior to the series
-	and 63 hours rest must be taken post the series.</para></listitem>
+        <listitem><para>2 days off precede 4 consecutive Early Starts and 3 days off precede 5
+        consecutive Early Starts.</para></listitem>
+        <listitem><para>No more than 1 of the FDPs starts in the period 02:00 to 04:59, and this
+        FDP is a maximum of 2 sectors.</para></listitem>
+        <listitem><para>72 hours off follow.</para></listitem>
       </itemizedlist>
       </para>
 
-      <para>Any run of consecutive night, early start or late finish duties can be broken by a
-      period of 34 hours free from such duties.</para>
+      <para>Otherwise, a maximum of 3 consecutive disruptive duties are allowed, and a maximum of
+      4 disruptive duties are allowed in any 7 day period.</para>
 
-      <note><para>The definition of an "early start duty" is inconsistent between EOM-A 7.1.4.7 and
-      the variation approval, but my interpretation is a duty that commences between 01:00 and
-      06:59</para></note>
+      <para>Groupings of 10 Early Start duties must be separated by at least 5 days free of such
+      duties.</para>
 
       <sect2>
 	<title>Ignoring consecutive night, early start and late finish duty limits</title>
 
-	<para>The commander may, at his discretion, allow violation of any of the consecutive night,
-	early start and late finish duty limits.</para>
+        <para>If an individual crew member has violated the 21:00 finish time before 3 consecutive
+        night finishes by less than 3 hours, if he/she is “willing”, the published roster may
+        continue. This does not appear to require use of commander's discretion.</para>
+
+	<para>Under EASA, there does not appear to be any specific authorisation for a commander to
+	exercise discretion to allow violation of any of the consecutive disruptive duty limits. The
+	closest to an authorisation is in FRMS Appendix B para 1, which allows the commander to
+	“modify the limits on flight duty, duty and rest periods in the case of unforeseen
+	circumstances in flight operations, which start at or after the reporting time.” The
+	Appendix then goes into detail for other forms of commander's discretion, but notably omits
+	consecutive disruptive duties.</para>
 
       </sect2>
 
     </sect1>
 
-    <sect1>
+    <sect1 id="cumulative-limits">
       <title>Cumulative limits</title>
       <para><xref linkend="cumulative"/> shows the cumulative duty time and block time limitations
-      applicable to flight crew operating under the "easyJet Variation Phase IV" (a.k.a 5/4/5/3)
-      and to cabin crew operating without variations:</para>
+      applicable to flight crew operating under the 5453 ruleset and to cabin crew operating under
+      the cabin crew default ruleset:</para>
       <table id="cumulative">
 	<title>Cumulative limits</title>
 	<tgroup cols="5">
@@ -759,39 +771,39 @@
 	    operation.</para></footnote>
 
 	    <footnote id="randc-agreement"><para>This limitation is in the Rostering and Crewing Agreement, amended
-	    01/08/2008, which supersedes the limit in EOM-A 7.3.3.4.</para></footnote>
+	    01/08/2008, which supersedes the limit in FRMS A.10.4.</para></footnote>
 
-	    </entry><entry></entry><entry>60
-
-	    <footnote><para>Can be increased to 65 hours where unforeseen delays occur in a duty
-	    block.</para></footnote>
-
-	    </entry><entry></entry></row>
+	    </entry><entry></entry><entry>60</entry><entry></entry></row>
 	    <row><entry>14 days</entry><entry>95
 
 	    <footnote><para>Can be increased to 100 hours where unforeseen delays occur on the day of
 	    operation.</para></footnote> <footnoteref linkend="randc-agreement"/>
 
-	    </entry><entry></entry><entry>105</entry><entry></entry></row>
-	    <row><entry>28 days</entry><entry>190</entry><entry>100</entry><entry>210</entry><entry></entry></row>
-	    <row><entry>12 weeks</entry><entry>480</entry><entry>270</entry><entry></entry><entry></entry></row>
-	    <row><entry>6 months</entry><entry></entry><entry>550</entry><entry></entry><entry></entry></row>
-	    <row><entry>9 months</entry><entry></entry><entry>750</entry><entry></entry><entry></entry></row>
-	    <row><entry>12 months</entry><entry>1880</entry><entry>900</entry><entry></entry><entry></entry></row>
+	    </entry><entry></entry><entry>110</entry><entry></entry></row>
+	    <row><entry>28 days</entry><entry>190</entry><entry>100</entry><entry>190</entry><entry>100</entry></row>
+	    <row><entry>12 weeks</entry><entry>480</entry><entry>270</entry><entry>525</entry><entry>270</entry></row>
+	    <row><entry>6 months</entry><entry></entry><entry>550</entry><entry></entry><entry>550</entry></row>
+	    <row><entry>9 months</entry><entry></entry><entry>750</entry><entry></entry><entry>750</entry></row>
+	    <row><entry>12 months</entry><entry>1880</entry><entry>900</entry><entry>2000</entry><entry>900</entry></row>
 	</tbody>
 	</tgroup>
       </table>
 
-      <para>Duty time spent on "contactable" does not count towards cumulative duty hours, nor does
-      a "duty break" of over 6 hours (but less than minimum rest) in suitable accommodation prior to
-      positioning home.  When not called out, time spent on standby during the period 22:00 to 08:00
-      local time only counts half.</para>
+      <para>Duty time spent on "contactable" does not count towards cumulative duty hours. Time
+      spent on home standby counts in full except, when not called out, time spent on standby during
+      the period 22:00 to 08:00 local time only counts half.<footnote><para>This is an easyJet
+      variation; under vanilla EASA only 25% of time spent on home standby contributes to duty
+      time.</para></footnote> A strange hybrid standby where crew are pre-advised that at least
+      three hours notice prior to report will be given is also possible, and time spent on such a
+      standby only counts half towards cumulative duty limits.</para>
 
       <sect2>
 	<title>Ignoring cumulative limits</title>
 
-	<para>The commander, at his discretion, may allow violation of any cumulative limit. In this
-	case a Discretion Report Form must be completed to allow CAA audit.</para>
+	<para>The commander, at his discretion, may “exceptionally“ allow violation of any
+	cumulative limit provided the exceedance was only apparent after the commencement of the
+	affected FDP. The commander must have been aware of the exceedance — this discretion cannot
+	be exercised retrospectively.</para>
 
       </sect2>
     </sect1>
@@ -799,19 +811,68 @@
     <sect1>
       <title>Standby</title>
 
-      <para>The maximum planned standby duration is 12 hours.</para>
+      <sect2><title>Home Standby</title>
 
-      <para>In general, the local time used to determine max flight duty in <xref linkend="maxfd"/>
-      will be the most restricting of standby start time and report time. If, however, both
-      standby start time and report time occur in the period 22:00-08:00, report time is used.</para>
+      <para>Maximum planned duration is 8 hours; a call out for a duty commencing beyond 8 hours is
+      allowed. The assigned report time must be at least 90 minutes from call out. Crew will be given
+      a maximum of 2 hours notice before report if called between 23:00L and 07:00L.</para>
 
-      <para>The maximum flight duty must be reduced by the amount that the time between starting the
-      standby and reporting exceeds 6 hours.</para>
+      <para>If called out, FDP is calculated from report time.<footnote><para>Under the old scheme,
+      the most restrictive max FDP of the standby start time and report time was generally used. I
+      could find nothing similar under EASA, so I assume that it is simply report time that is used
+      in the tables.</para></footnote> Maximum FDP must be reduced by the amount of home standby
+      worked in excess of six hours. For home standby worked between 23:00L and 07:00L, only the
+      time after contact from crewing counts as standby worked for the purposes of this rule. If
+      called out for a split duty, for six hours, read eight hours.</para>
 
-      <para>A "contactable" is a special case of standby. It's duration must be less than an hour,
-      it must occur between 06:00L and 22:00L and the minimum time between call out and report must
-      be 10 hours. The required rest period after a contactable is reduced to 10 hours, and the time
-      spent on contactable does not count towards cumulative duty limits.</para>
+      <para>Home standby does not count as duty for the purposes of calculating minimum rest
+      requirement.<footnote><para>If more than 12 hours is spent on home standby and no assignment
+      is received, the minimum rest requirement is equal to the time spent on home standby. EASA
+      actually allows home standby of 16 hours duration, hence this rule. easyJet at this time does
+      not intend to have home standby of more than 8 hours, so this rule should not affect easyJet’s
+      operation for the moment.</para></footnote> It counts towards cumulative duty limits as
+      described in <xref linkend="cumulative-limits"/>. It also counts as disruptive duty if it
+      occurs in the bands described in <xref linkend="consecutive"/>.</para>
+
+      </sect2>
+
+      <sect2><title>Airport Standby</title>
+
+      <para>Maximum planned duration is 7 hours; a call out for a duty commencing beyond 7 hours is
+      allowed. If called out, the FDP is calculated to start at <emphasis>notified report
+      time</emphasis>, although maximum FDP must be reduced by any time spent on Airport Standby in
+      excess of 4 hours and the maximum time from commencing Airport Standby to finishing the
+      assigned FDP is 16 hours.</para>
+
+      <para>Time spent on airport standby counts in full towards cumulative duty limits and minimum
+      rest requirements.</para>
+
+      <para>Accomodation that provides the crew member the possibility of sleep must be
+      provided. Since easyJet crew rooms do not yet have such a facility, Airport Standby is not in
+      use at this time.</para>
+      </sect2>
+
+      <sect2><title>Airport Duty</title>
+
+      <para>Maximum planned duration is 7 hours; a call out for a duty commencing beyond 7 hours is
+      allowed. For the purposes of all limits, Airport Duty counts as a normal FDP, commencing at
+      report.</para>
+      </sect2>
+
+      <sect2><title>Contactable</title>
+
+      <para>easyJet defines contactable as a period of no longer than one hour between 06:00 and
+      22:00 when a crew member will be available to receive a message. At least 10 hours notice will
+      be given prior to any assigned duty. It does not count as duty for any purpose.</para>
+
+      <para>EASA uses the term “contactable” to refer to a new concept of “reserve”, where for 7
+      consecutive days you must be available to the company for a 16 hours period with an eight hour
+      period specified in which you must sleep. EOMA 7.1.10 refers you to FRMS Appendix A, which
+      refers you to the definition above, so hopefully easyJet is not intending to utilise EASA's
+      reserve concept.</para>
+
+      </sect2>
+
     </sect1>
 
     <sect1 id="transitions">
