@@ -2644,15 +2644,15 @@
         windshield and upper cockpit fuselage before turning on the window heat so as to avoid
         contamination of critical areas by re-frozen run off.</para>
 
-        <para>The airframe de-icing procedure is available on page 10.02 of the QRH. This procedure
-        prevents the ingress of de-icing fluid through the use of the ditching button. As this
-        closes the outflow valve, all air sources, including ground air sources, must be turned off
-        or disconnected during de-icing. It is permissible to de-ice the aircraft with the engines
-        and/or APU running. With the engines running it is particularly important to maintain
-        communications with the ground personnel so that they can be co-ordinated should an
-        evacuation become necessary. If the APU is running and the fuselage has been sprayed, the
-        APU bleed should remain off for approximately 5 minutes after de-icing to prevent the
-        ingestion of de-icing fluid into the air conditioning system.</para>
+        <para>The airframe de-icing procedure is available in the supplementary information section
+        of the QRH. This procedure prevents the ingress of de-icing fluid through the use of the
+        ditching button. As this closes the outflow valve, all air sources, including ground air
+        sources, must be turned off or disconnected during de-icing. It is permissible to de-ice the
+        aircraft with the engines and/or APU running. With the engines running it is particularly
+        important to maintain communications with the ground personnel so that they can be
+        co-ordinated should an evacuation become necessary. If the APU is running and the fuselage
+        has been sprayed, the APU bleed should remain off for approximately 5 minutes after de-icing
+        to prevent the ingestion of de-icing fluid into the air conditioning system.</para>
 
         <para>Once contamination has been removed, the airframe must remain uncontaminated until
         airborne. If conditions are such that re-contamination may occur, viscous anti-icing fluids
@@ -2684,7 +2684,7 @@
         unprotected areas to precipitation and should therefore be left until just before takeoff in
         these conditions.</para>
 
-        <para role="multicite">[QRH 10.02, FCOM PRO.SUP.91.30, EOMA 8.2.4.3]</para>
+        <para role="multicite">[FCOM PRO.SUP.91.30, EOMA 8.2.4]</para>
       </section>
 
       <section>
@@ -2702,7 +2702,7 @@
         an additional run up to 70% with no dwell time should be carried out every 10
         minutes.</para>
 
-        <para role="multicite">[FCOM PRO.NOR.SOP.09]</para>
+        <para role="multicite">[EOMB 2.4.91]</para>
       </section>
     </section>
 
@@ -2739,13 +2739,13 @@
 
     <itemizedlist>
       <listitem><para>Item 1 is dealt with by introducing more restrictive crosswind limitations,
-      these being promulgated on page SI-60 of the QRH. Either reported braking action or
+      these being promulgated in EOMB 2.1. Either reported braking action or
       contamination type may be used.</para></listitem>
 
       <listitem><para>Items 2 and 3 are dealt with through the use of more restrictive performance
-      data. This data is available via the LPC's runway condition field. The LPC runway condition
+      data. This data is available via the EFB's runway condition field. The EFB runway condition
       field does not have an option for snow, so a table is presented in EOMB 4.6.8 for takeoff and
-      EOMB 4.11.3 for landing to transform snow contamination into equivalent slush or water
+      QRH PER-C for landing to transform snow contamination into equivalent slush or water
       contamination.</para></listitem>
     </itemizedlist>
 
@@ -2756,7 +2756,7 @@
     <para>The captain must be PF for all contaminated runway operations, and all contaminated
     take-offs should use TOGA thrust.</para>
 
-    <para role="multicite">[QRH SI-60, EOMB 4.6.8, EOMB 4.6.10, EOMB 4.11.3]</para>
+    <para role="multicite">[EOMB 4.6.8, EOMB 4.6.10, EOMB 4.13.7]</para>
   </section>
 </chapter>
 
