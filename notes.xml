@@ -1065,20 +1065,21 @@
       all respects, including runway dimensions, obstacles, ATS, lighting, approach procedures, weather reporting and
       emergency services.</para>
 
-      <para><phrase condition="airbus">For the A319 and A320, fire</phrase><phrase
-      condition="boeing">Fire</phrase> and rescue category 6 is the normal minimum acceptable level
-      of cover. Temporary reductions to category 4 at departure and destination and to category 5 at
-      alternates are acceptable; no crew action is required. <phrase
-      condition="airbus">A321 categories are 1 higher than A319.</phrase></para>
+      <para revisionflag="changed">Rescue and Fire Fighting Service (RFFS) category 6 is the normal minimum acceptable
+      level of cover. For some destinations, category 5 is considered acceptable; this will be
+      notified on the OFP. Temporary reductions to category 4 is permitted at departure and
+      destination for a period of time not exceeding 72 hours. Downgrade to category 5 at UK
+      alternates and category 4 at non-UK alternates is acceptable. If a downgrade occurs during
+      flight, the Commander may elect to land at an aerodrome regardless of RFSS category if it is
+      considered safer than diverting.</para>
 
-      <para>easyJet will categorise aerodromes from A to C in order of increasing difficulty. The
-      category of an aerodrome is promulgated in the easyJet Aerodromes Briefing
-      Supplement. Operation to a category B aerodrome requires self-briefing from EOM-C. Signing the
-      OFP confirms that this has been done. Operation to a category C aerodrome requires a briefing
-      and then either a visit in an operating capacity or aerodrome specific training in an approved
-      flight simulator.</para>
+      <para revisionflag="changed">easyJet will categorise aerodromes from A to C in order of
+      increasing difficulty. The category of an aerodrome is promulgated in its LIDO CCI
+      page. Operation to a category B aerodrome requires self-briefing. Signing the OFP confirms
+      that this has been done. Operation to a category C requires specific crew
+      qualification.</para>
 
-      <para role="multicite">[EOM-A 8.1.2]</para>
+      <para role="multicite">[EOM-A 8.1.2.1, EOMA 8.1.2.5]</para>
     </sect1>
 
     <sect1 id="minima">
