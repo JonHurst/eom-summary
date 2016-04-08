@@ -36,6 +36,7 @@
         <listitem><para>Updated <xref linkend="minima"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="alternates"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="balance"/> due allocated seating.</para></listitem>
+        <listitem><para>Updated <xref linkend="lmc"/>.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -1418,21 +1419,17 @@
 	<para role="multicite">[EOM-B 7.1.1]</para>
       </sect2>
 
-      <sect2 condition="airbus" id="lmc">
+      <sect2 condition="airbus" id="lmc" revisionflag="changed">
 	<title>Last minute changes</title>
-	<para>For the Airbus fleet, the following last minute changes do not require new LPC
-	calculations:
 
-	<itemizedlist>
-	  <listitem><para>+5/-10 Passengers</para></listitem>
-	  <listitem><para>&#xB1;500kg fuel</para></listitem>
-	  <listitem><para>&#xB1;500kg load in CP 2,3 or 4</para></listitem>
-	  <listitem><para>&#xB1;100kg load in CP 1 or 5</para></listitem>
-	</itemizedlist>
-	</para>
-	<para>A new ZFW must be calculated and entered for all LMC changes. Where the LMC is
-	positive, take-off performance must be recalculated; a 1° reduction in FLEX (assuming the
-	new value is greater that ISA+30) will suffice for changes up to 250kg.</para>
+	<para>An LMC involving +10/-20 Passengers requires new paperwork and a new performance
+	calculation.</para>
+        <para>A change in CG greater than 2% requires a new performance calculation.</para>
+        <para>An increase of payload of more than 250kg requires a new performance calculation. If
+        payload increases by less than 250kg, a 1° reduction in FLEX suffices, provided that the new
+        FLEX remains above TREF and the increase is less than the underload before LMC. A decrease
+        in payload does not require any action as long as the change in CG is less than 2%.</para>
+
 
 	<para role="multicite">[EOM-B 7.4]</para>
       </sect2>
