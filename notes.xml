@@ -41,6 +41,9 @@
         Report and new FOR INFO methodology.</para></listitem>
         <listitem><para>Updated <xref linkend="rec-eng-checks"/> with new ”early daily” procedure.</para></listitem>
         <listitem><para>Updated <xref linkend="rqd-docs"/> due to change to electronic presentation.</para></listitem>
+        <listitem><para>Updated <xref linkend="fuelling"/> updated to emphasise requirement for
+        evacuation route when fuelling with passengers on board, and to allow visual contact with
+        the refueller to be equivalent to two-way communication.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -1639,18 +1642,22 @@
       completed, that the bowser is properly earthed to the aircraft and that fuel caps are properly
       secured.</para>
 
-      <para>Whilst fuelling, no smoking may take place within 15m of the aircraft and the strobe
-      lights must not be operated. There may also be local restrictions regarding starting the
-      APU. If fuel vapour is detected inside the cabin or any other hazard arises, fuelling must be
-      suspended immediately. In the unlikely event that it becomes necessary to uplift wide cut fuel
-      there are extra safety restrictions detailed in EOM-A 8.2.1.</para>
+      <para>Whilst fuelling, the strobe lights must not be operated. There may also be local
+      restrictions regarding starting the APU. If fuel vapour is detected inside the cabin or any
+      other hazard arises, fuelling must be suspended immediately. In the unlikely event that it
+      becomes necessary to uplift wide cut fuel - there are extra safety restrictions detailed in
+      EOM-A 8.2.1.1.</para>
 
       <para>Refuelling may take place with passengers on board, but the following restrictions apply:
       <itemizedlist>
+        <listitem revisionflag="added"><para>A clear evacuation route from the aircraft must be
+        available via airbridge or steps. The fuel card should not be displayed until this condition
+        is met.</para></listitem>
+
 	<listitem><para>Local restrictions must be checked.</para></listitem>
 
-        <listitem><para>At least one pilot must be on the flight deck and must establish and
-	maintain two-way communication with the fueller.</para></listitem>
+        <listitem revisionflag="changed"><para>At least one pilot must be on the flight deck and must establish and
+	maintain visual contact or two-way communication with the fueller.</para></listitem>
 
 	<listitem><para>A full cabin crew compliment is required. There must be at least one
 	cabin crew member at each set of floor level exits.</para></listitem>
