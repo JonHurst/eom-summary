@@ -49,6 +49,8 @@
         QRH.</para></listitem>
         <listitem><para>Simplified <xref linkend="inflight-fuel"/>.</para></listitem>
         <listitem><para>Wake turbulence section removed due coverage in other notes.</para></listitem>
+        <listitem><para>Added Cat I LTS to <xref linkend="reqd-vis-ref"/>.</para></listitem>
+        <listitem><para>Added requirement for 2 crew in flight deck to <xref linkend="fddoor"/>.</para></listitem>
         <listitem><para>Added <xref linkend="oceanicops"/>.</para></listitem>
         <listitem><para>Added <xref linkend="winterops"/>.</para></listitem>
       </itemizedlist>
@@ -2185,7 +2187,7 @@
 	<para role="multicite">[EOM-A 8.4.3]</para>
       </sect2>
 
-      <sect2>
+      <sect2 id="reqd-vis-ref">
 	<title>Required visual reference</title>
 
 	<para>An approach should not continue below relevant DH/DA/eDA unless the required visual
@@ -2194,12 +2196,14 @@
 	<para>No visual reference is required for Cat IIIB operations with no DH. At least one
 	centre line light must be attained for Cat IIIB operations with DH.</para>
 
-	<para>Cat IIIA operations require 3 consecutive lights. These can be the centre-line lights
+	<para revisionflag="changed">Cat IIIA operations require 3 consecutive lights. These can be the centre-line lights
 	of the approach lighting, the TDZ lights, the runway centre line lights or the runway edge
 	lights. Cat II operations require the same reference as Cat IIIA plus a lateral element of
-	the ground pattern (e.g. an approach lighting crossbar).</para>
+	the ground pattern (e.g. an approach lighting crossbar). Cat I LTS operations require the
+        same reference as Cat II.</para>
 
-	<para>easyJet policy is to use autoland systems for all Cat II and Cat III approaches.</para>
+	<para>easyJet policy is to use autoland systems for all Cat I LTS, Cat II and Cat III
+	approaches.</para>
 
 	<para>For non-precision approaches the threshold, touch down zone, PAPIs or suitable parts
 	of the approach or runway lighting system must be distinctly visible and
@@ -2249,18 +2253,17 @@
 
       </sect2>
 
-      <sect2>
+      <sect2 id="fddoor">
 	<title>Flight deck door</title>
 
-	<para>Except for essential entry and egress of crew, the flight deck door should remain
+	<para revisionflag="changed">Except for essential entry and egress of crew, the flight deck door should remain
 	locked whenever the engines are running. The door should be unlocked for the minimum time
 	possible, and whenever it is unlocked it should be guarded by a cabin crew member standing
 	outside the flight deck and facing the cabin. The flight crew should monitor compliance via
-	CCTV or spy-hole before unlocking the door. If CCTV is not available and a pilot needs to
-	leave the flight deck a member of cabin crew must remain in the flight deck to utilise the
-	spy-hole.</para>
+	CCTV or spy-hole before unlocking the door. If a pilot needs to leave the flight deck a
+	member of cabin crew must remain in the flight deck.</para>
 
-	<para role="multicite">[EOM-A 8.3.10, EOM-A 8.3.12]</para>
+	<para role="multicite">[EOM-A 8.3.11.1, EOM-A 8.3.12]</para>
 
       </sect2>
 
