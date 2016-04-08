@@ -1317,7 +1317,7 @@
       <para>The basis for calculations to determine compliance with these structural limits is the
       Dry Operating Weight (DOW). The DOW is the total weight of the aircraft with no usable fuel or
       payload. It is available at the top of the OFP, but the canonical value is that contained in
-      the LPC database unless otherwise notified by a flight brief notice. Other weights are
+      the EFB database unless otherwise notified by a flight brief notice. Other weights are
       calculated as follows:
 
       <itemizedlist>
@@ -1328,9 +1328,9 @@
       </itemizedlist></para>
 
       <para condition="airbus">In addition to the main structural weights, there are maximum load
-      limits for the cargo compartments. These may be found in FCOM 2.1.20.5000.</para>
+      limits for the cargo compartments. These may be found in FCOM PER.LOD.CGO.</para>
 
-      <para role="multicite">[EOM-A 8.1.8.1]</para>
+      <para role="multicite">[EOM-A 8.1.8.1.1]</para>
       </sect2>
 
       <sect2><title>Payload calculation</title>
