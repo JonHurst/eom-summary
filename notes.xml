@@ -1563,7 +1563,7 @@
       <sect2 id="rec-eng-checks">
 	<title>Recurrent engineering checks</title>
 
-	<para>The validity of recurrent engineering checks must be confirmed prior to accepting an
+	<para revisionflag="changed">The validity of recurrent engineering checks must be confirmed prior to accepting an
 	aircraft. This is done for most checks by checking that the Certificate of Release to
 	Service is valid. Completion of the daily check is recorded via an entry in the defect
 	column; the earliest a daily inspection for a given calendar day may be certified is 18:00z on
