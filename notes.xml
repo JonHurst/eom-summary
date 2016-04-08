@@ -37,6 +37,8 @@
         <listitem><para>Updated <xref linkend="alternates"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="balance"/> due allocated seating.</para></listitem>
         <listitem><para>Updated <xref linkend="lmc"/>.</para></listitem>
+        <listitem><para>Updated <xref linkend="defect_management"/> with regards Aircraft Status
+        Report and new FOR INFO methodology.</para></listitem>
         <listitem><para>Updated <xref linkend="rec-eng-checks"/> with new ”early daily” procedure.</para></listitem>
       </itemizedlist>
     </sect1>
@@ -1527,32 +1529,35 @@
 	is assessed by MOC as having no effect on airworthiness or when the relevant MEL entry has
 	no maintenance actions specified.</para>
 
-	<para>To defer a defect the commander should make an entry in the "ACTION TAKEN" column with
-	the MEL reference, repair interval and ADD number (AMOS number available from MOC). The commander signs for this in the
-	"ACTION TAKEN" column; MOC will arrange for the Release to Service column to be signed off
-	by a licenced engineer at the earliest opportunity. The relevant ADD entry should then be
-	completed. If the defect does not affect airworthiness, it should be entered on the level 2
-	(blue) ADD sheet. Otherwise, it should be entered on the level 1 (pink) sheet. The complete
-	tech log defect description should be transferred, along with the tech log page reference
-	and item number, any MEL/CDL reference number and limiting criteria (e.g. expiry date). The
-	ADD sheet should not be signed by the commander; it will be signed off by the engineer who
-	signs the release to service.</para>
+	<para revisionflag="changed">To defer a defect the commander should make an entry in the "ACTION TAKEN" column with
+	the MEL reference, repair interval and ADD number (AMOS number available from MOC). The
+	commander signs for this in the "ACTION TAKEN" column; MOC will arrange for the Release to
+	Service column to be signed off by a licenced engineer at the earliest opportunity. The
+	relevant ADD entry should then be completed on the Aircraft Status Report sheet. The
+	complete tech log defect description should be transferred, along with the tech log page
+	reference and item number, any MEL/CDL reference number and limiting criteria (e.g. expiry
+	date). The ADD entry should not be signed by the commander; it will be signed off by the
+	engineer who signs the release to service.</para>
 
 	<para condition="airbus">Successful computer resets should be recorded by making a suitable
 	entry in the defect section, e.g.
 
 	<blockquote><para>CREW RESET: COM CIDS 1 + 2 FAULT ON THE GROUND, SUCCESSFUL RESET
-	AS PER QRH</para></blockquote></para>
+	AS PER QRH</para></blockquote>
 
-	<para>Information that may be useful but which does not require immediate engineering
+	These entries do not count as open defects, so signatures should be placed below the
+	entry and the associated "Action Taken" and RTS sections should be struck through.</para>
+
+	<para revisionflag="changed">Information that may be useful but which does not require immediate engineering
 	action may, with MOC's agreement, be recorded as a "FOR INFO" entry in a similar way,
 	e.g.
 
 	<blockquote><para>FOR INFO: FMGC1 FAILED. RECOVERED WITH NO CREW
 	INTERVENTION.</para></blockquote>
 
-	These entries do not count as open defects, so signatures should be placed below the
-	entry and the associated "Action Taken" and RTS sections should be struck through.</para>
+        Signatures should be placed below the entry, and the phrase “reviewed and nil defect
+        confirmed” should be entered in the “Action Taken” column to indicate that MOC are
+        aware.</para>
 
 	<para>Bird strikes that do not result in damage may be recorded as "For Info" entries,
 	providing the restrictions in EOM-A 8.1.11.19 are observed.</para>
