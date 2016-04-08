@@ -48,6 +48,7 @@
         <listitem><para>Updated <xref linkend="rvsm"/> due removal of equipment list from
         QRH.</para></listitem>
         <listitem><para>Simplified <xref linkend="inflight-fuel"/>.</para></listitem>
+        <listitem><para>Wake turbulence section removed due coverage in other notes.</para></listitem>
         <listitem><para>Added <xref linkend="oceanicops"/>.</para></listitem>
         <listitem><para>Added <xref linkend="winterops"/>.</para></listitem>
       </itemizedlist>
@@ -2163,62 +2164,11 @@
 	aircraft is practically impossible to control and likely to be suffering structural
 	damage.</para>
 
-	<para role="multicite">[EOM-A 8.3.8.3]</para>
+	<para role="multicite">[EOM-A 8.3.9.3]</para>
       </sect2>
     </sect1>
 
-    <sect1>
-      <title>Wake turbulence</title>
-      <sect2>
-        <title>Final approach</title>
-        <para>The following minimum distances should be applied when following an aircraft on final approach:
-        <informaltable>
-          <tgroup cols="2" align="center">
-            <colspec colnum="1" colwidth="*"/>
-            <colspec colnum="2" colwidth="*"/>
-            <thead>
-              <row><entry>Type</entry><entry>Separation</entry></row>
-            </thead>
-            <tbody>
-              <row><entry>A380</entry><entry>7nm</entry></row>
-              <row><entry>Heavy</entry><entry>5nm</entry></row>
-              <row><entry>Upper Medium (e.g.757, 707)</entry><entry>4nm (UK only)</entry></row>
-            </tbody>
-          </tgroup>
-        </informaltable>
-	<note><para>Boeing 757 and Boeing 737-800/900 are classified as heavy for the purposes of
-	final approach in some countries.</para></note>
-        </para>
-	<para>[EOM-A 8.3.9]</para>
-
-      </sect2>
-      <sect2>
-        <title>Departure</title>
-        <para>The following time should elapse between the time the aircraft in front becomes
-        airborne and the time you become airborne when operating from the same runway or from
-        parallel runways less than 760m apart:
-        <informaltable>
-          <tgroup cols="2" align="center">
-            <colspec colnum="1" colwidth="*" colname="start"/>
-            <colspec colnum="2" colwidth="*" colname="end"/>
-            <thead>
-              <row><entry>Type</entry><entry>Separation</entry></row>
-            </thead>
-            <tbody>
-              <row><entry>A380</entry><entry>3 mins</entry></row>
-              <row><entry>Heavy</entry><entry>2 mins</entry></row>
-	      <row><entry namest="start" nameend="end">Add 1 minute if departure is not from the same position</entry></row>
-            </tbody>
-          </tgroup>
-        </informaltable>
-        </para>
-
-	<para>[EOM-A 8.3.9]</para>
-
-      </sect2>
-
-    </sect1>
-    <sect1>
+<sect1>
       <title>All Weather Operations</title>
 
       <sect2>
