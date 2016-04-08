@@ -45,6 +45,9 @@
         evacuation route when fuelling with passengers on board, and to allow visual contact with
         the refueller to be equivalent to two-way communication.</para></listitem>
         <listitem><para>Updated <xref linkend="exp-mothers"/> with latest rules.</para></listitem>
+
+        <listitem><para>Added <xref linkend="oceanicops"/>.</para></listitem>
+        <listitem><para>Added <xref linkend="winterops"/>.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -2413,4 +2416,398 @@
   </sect1>
 
 </chapter>
+<chapter id="oceanicops" revisionflag="added">
+  <title>Oceanic operations</title>
+
+  <section>
+    <title>Authorised routes</title>
+
+    <para>In general, two HF radios and two LRNSs (LRNS=FMGC for A320 family) {TODO: Jeppesen says 2
+    LRNS, QRH Supplementary says 1} are required for oceanic operations. easyJet's A319s
+    have no HF radios, and the A320s have only one. This limits oceanic operations to the “special
+    routes” where less than the normal minimum communication and navigation equipment are required,
+    which include T9 and the Blue Spruce Routes between Scotland, Iceland, Greenland and
+    Labrador.</para>
+  </section>
+
+  <section>
+    <title>Additional procedures</title>
+
+    <section>
+      <title>FMGC programming</title>
+
+      <para>Extra care must be taken to ensure the coordinates of all waypoints are accurately
+      entered in the FMGC. The second pilot should independently verify these coordinates, marking
+      the waypoint on the OFP with a circled “O” to indicate that this has been done.</para>
+
+      <para>Track and distance between waypoints should also be checked against the OFP. Tick these
+      items on the OFP to indicate that they have been checked.</para>
+
+    </section>
+
+    <section>
+      <title>HF/SELCAL</title>
+
+      <para>Do not operate the HF when refuelling or when in a hangar.</para>
+
+      <para>If HF is required, a SELCAL check should be carried out before entering oceanic
+      airspace. This may be done on the ground through Stockholm radio.</para>
+
+    </section>
+
+    <section>
+      <title>Oceanic clearance</title>
+
+      <para>For T9, contact Shanwick Oceanic on 127.65 for oceanic clearance 40 minutes before
+      Shanwick OCA boundary. If unable to contact Shanwick on VHF use NAT C {TODO: EOM-C says NAT B}
+      HF frequencies from the Atlantic Orientation Chart or relay through domestic ATC.</para>
+
+      <para>For Blue Spruce Routes, contact Iceland Radio (127.85/126.55) 20 minutes before entering
+      Reykjavic OCA; authorisation to enter Reyjavik OCA can also be sought from Scottish ATC if
+      necessary.</para>
+
+      <para>Do not enter Shanwick OCA without clearance. Other OCAs may be entered whilst
+      awaiting a delayed clearance.</para>
+
+      <para>The clearance request should include:
+
+      <orderedlist>
+        <listitem><para>Callsign</para></listitem>
+        <listitem><para>Frequency being used (HF only)</para></listitem>
+        <listitem><para>OCA entry point and ETA<footnote id="fn_ETA"><para>ETA should be expressed in hours and
+        minutes.</para></footnote></para></listitem>
+        <listitem><para>Requested Mach number</para></listitem>
+        <listitem><para>Requested level</para></listitem>
+        <listitem><para>Next acceptable higher level</para></listitem>
+      </orderedlist>
+      </para>
+
+      <para>Coordinate with domestic ATC to be at the correct level and speed at the OCA entry
+      point.</para>
+
+      <para>Reclearance will be required if it becomes apparent that the ETA to the OCA entry point
+      is incorrect by more than 3 minutes.</para>
+
+    </section>
+
+    <section>
+      <title>Inside OCA</title>
+
+      <section>
+        <title>Communications</title>
+
+        <para>30 minutes after entry, squawk 2000 unless otherwise advised. This does not apply to
+        Reykjavic OCA. In the Shanwick Oceanic Transiton Area (SOTA), squawks will be given by
+        Shannon ACC.</para>
+
+        <para>123.45 and 121.5 should be monitored on VHF radios. HF does not need to be monitored
+        if SELCAL is available.</para>
+      </section>
+
+      <section>
+        <title>Position reports</title>
+
+        <para>Position reports should be made overhead waypoints and/or at significant points listed in
+        the flight plan. The format of a position report is:
+
+        <orderedlist>
+          <listitem><para>Callsign</para></listitem>
+          <listitem><para>Frequency being used</para></listitem>
+          <listitem><para>Waypoint and time</para></listitem>
+          <listitem><para>Flight level</para></listitem>
+          <listitem><para>Next waypoint and ETA<footnoteref linkend="fn_ETA"/></para></listitem>
+          <listitem><para>Subsequent waypoint</para></listitem>
+        </orderedlist>
+        </para>
+
+        <para>ATC must be notified if it becomes apparent that any passed ETA will be incorrect by
+        more than 3 minutes.</para>
+
+        <para>For waypoints expressed as lat/long pairs, longitude minutes may be omitted for
+        predominantly east-west flights and latitude minutes may be omitted for predominantly
+        north-south flights.</para>
+
+        <para>Copy in ACC for adjacent OCAs when operating within 60nm of a common boundary
+        (e.g. “SANTA MARIA copy SHANWICK, …”).</para>
+      </section>
+
+      <section>
+        <title>Navigation monitoring</title>
+
+        <para>Overhead each waypoint, confirm the coordinates of the next waypoint (mark it with a
+        “\” to indicate this check has been done) and compare the track and distance to the next
+        waypoint with the OFP and the navigation chart. Mark the overflown waypoint with an
+        “X”.</para>
+
+        <para>Midway between waypoints, compare the actual winds to those on the OFP and in the
+        weather brief.</para>
+      </section>
+
+      <section>
+        <title>Strategic Lateral Offset Procedure (SLOP)</title>
+
+        <para>When operating outside radar controlled airspace there are three positions, at pilot's
+        discretion, that it is permissable to fly: centerline, 1nm right of centerline and 2nm right
+        of centerline. No ATC clearance or notification is required.</para>
+
+        <para>Overtaking aircraft should select an offset that will cause the least wake turbulence
+        for the overtaken aircraft.</para>
+
+        <para>The offset must be removed before the OCA exit point.</para>
+      </section>
+
+      <section>
+        <title>Level and Speed changes</title>
+
+        <para>Since longitudinal separation may be predicated purely on postion reports and Mach
+        number, reclearance must be requested for any changes to either Mach number or level once
+        inside the OCA.</para>
+      </section>
+    </section>
+
+  </section>
+  <section>
+    <title>Contingency procedures</title>
+
+    <section>
+      <title>Weather avoidance</title>
+
+      <para>Notify ATC and request clearance to deviate from track.</para>
+
+      <para>If ATC are not able to establish appropriate separation, they will advise the pilot of
+      the conflicting traffic; responsibility for separation then rests with the pilot. In this
+      case:
+
+      <itemizedlist>
+        <listitem><para>Alert nearby aircraft of intentions on the frequency in use, 123.45 or
+        121.5.</para></listitem>
+
+        <listitem><para>Turn on all available lights.</para></listitem>
+
+        <listitem><para>Deviate away from the organized track system if possible. If the deviation
+        is greater than 10nm, change level according to the following table:
+
+        <informaltable>
+          <tgroup cols='3'>
+            <colspec colwidth="2*"/>
+            <colspec colwidth="*"/>
+            <colspec colwidth="*"/>
+            <thead>
+              <row><entry>Route centre line
+              track</entry><entry>Direction</entry><entry>Change</entry></row>
+            </thead>
+            <tbody>
+              <row><entry morerows="1">000° to 179°</entry><entry>Left</entry><entry>Descend
+              300ft</entry></row>
+              <row><entry>Right</entry><entry>Climb 300ft</entry></row>
+              <row><entry morerows="1">180° to 359°</entry><entry>Left</entry><entry>Climb
+              300ft</entry></row>
+              <row><entry>Right</entry><entry>Descend 300ft</entry></row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+      </para>
+
+      <para>Return to assigned flight level within 10nm of track when rejoining.</para>
+        </listitem>
+      </itemizedlist>
+      </para>
+    </section>
+    <section>
+      <title>En-route diversion</title>
+
+      <para>Whenever possible, obtain a revised clearance before initiating any action.</para>
+
+      <para>If this is not possible, leave the assigned track by turning at least 45° to establish
+      on a 15nm parallel offset track. Once 10nm from the centerline, descend 500ft. Once
+      established on the offset track, descend to a level below FL285 that differs from those
+      normally used by 500ft. A diversion across the flow of traffic can then be commenced. If
+      unable to descend below FL285, any level that differs by 500ft may be used. Keep nearby
+      aircraft informed of position and intentions on 121.5 or 123.45.</para>
+
+      <para>If unable to initially maintain assigned flight level, minimise rate of descent when
+      leaving original track then expedite to a feasible flight level which differs by 500ft from
+      those normally used.</para>
+
+    </section>
+    <section>
+      <title>FMGC failure</title>
+
+      <para>Flight into MNPS airspace is permissable with a single FMGC failure. With the exception
+      of a few notified routes, MNPS airspace should not be entered with dual FMGC failure.</para>
+
+      <para>If both FMGCs fail whilst inside MNPS airspace, ATC should be notified and a revised
+      clearance sought. If this is not possible, navigate by plotting IR lat/long data on a suitable
+      chart as described in EOM-C.</para>
+    </section>
+
+    <section>
+      <title>Comms failure</title>
+
+      <para>If failure occurs in domestic airspace prior to OCA entry, domestic diversion is
+      recommended. It is, however, permissable to continue into the OCA in accordance with the last
+      received and acknowledged oceanic clearance, or, if such a clearance has not been received, in
+      accordance with the filed flight plan.</para>
+
+      <para>In the event of comms failure inside the OCA, continue in accordance with the last
+      received and acknowledged oceanic clearance to the last specified oceanic route point and then
+      revert to the flight plan and normal lost comms procedures.</para>
+    </section>
+
+  </section>
+</chapter>
+<chapter id="winterops" revisionflag="added">
+  <title>Winter Operations</title>
+  <section>
+    <title>Aircraft contamination on the ground</title>
+
+    <section>
+      <title>Allowable contamination</title>
+      <para>The effect of frozen contamination on aircraft take-off performance is
+      unpredictable. Allowable contamination is therefore limited by Airbus to the following
+      cases:</para>
+
+      <orderedlist>
+        <listitem><para>Thin hoar frost on upper fuselage</para></listitem>
+        <listitem><para>≤3mm of frost on underside of wing tank area</para></listitem>
+      </orderedlist>
+
+      <para>In the WIH easyJet relaxes this slightly, allowing contamination of the entire fuselage,
+      the radome and the nacelles by thin hoar frost. {TODO: This alleviation is due for
+      incorporation into the FCOM at the next revision — check that this has happens}.</para>
+
+      <para role="multicite">[FCOM PRO.SUP.91.30, WIH 3.2]</para>
+    </section>
+
+    <section>
+      <title>Removal of contamination</title>
+      <section>
+        <title>Airframe</title>
+
+        <para>Airframe contamination is primarily removed using de-icing
+        fluid.<footnote><para>“Forced air” de-icing has recently been introduced at certain
+        stations. This may be used in addition to or instead of de-icing fluid under certain
+        circumstances.</para></footnote> The main exception is the areas forward of the cockpit
+        windows which should be de-iced mechanically.<footnote><para>De-icing fluid remaining on
+        these areas will run back over the windows and obscure vision during the take-off
+        roll.</para></footnote> Note also that Airbus recommends removing contamination from the
+        windshield and upper cockpit fuselage before turning on the window heat so as to avoid
+        contamination of critical areas by re-frozen run off.</para>
+
+        <para>The airframe de-icing procedure is available on page 10.02 of the QRH. This procedure
+        prevents the ingress of de-icing fluid through the use of the ditching button. As this
+        closes the outflow valve, all air sources, including ground air sources, must be turned off
+        or disconnected during de-icing. It is permissible to de-ice the aircraft with the engines
+        and/or APU running. With the engines running it is particularly important to maintain
+        communications with the ground personnel so that they can be co-ordinated should an
+        evacuation become necessary. If the APU is running and the fuselage has been sprayed, the
+        APU bleed should remain off for approximately 5 minutes after de-icing to prevent the
+        ingestion of de-icing fluid into the air conditioning system.</para>
+
+        <para>Once contamination has been removed, the airframe must remain uncontaminated until
+        airborne. If conditions are such that re-contamination may occur, viscous anti-icing fluids
+        that remain attached to the aircraft are used to provide protection until they are sheared
+        off by high speed airflow during the take-off roll.</para>
+
+        <para>Anti-icing fluids have the potential to fail, either by freezing or losing their
+        viscosity and flowing off the aircraft. A fluid's freezing point and viscosity is determined
+        by its chemical makeup and its dilution, dilution being a function of initial
+        dilution<footnote><para>Fluids may be applied pre-diluted with water to save
+        expense.</para></footnote> and the amount of water absorbed in the process of protecting the
+        aircraft. “Hold over time” tables are provided to allow estimation of the amount of time
+        available before fluid failure occurs for a given combination of fluid type, temperature,
+        intial dilution and precipitation type. The time is given as a range, the shorter time
+        corresponding to “medium“ precipitation and the longer time corresponding to “light”
+        precipitation. It is possible that the wing may be colder than its surroundings due to cold
+        soaked fuel contained within. Therefore if the fuel temperature is below the ambient
+        temperature, the fuel temperature should be used in hold over time calculations.</para>
+
+        <para>As anti-ice fluids are designed to shear off the aircraft as airspeed increases they
+        are also susceptible to failure due to high winds and jet blast.</para>
+
+        <para>De-icing may be combined with anti-icing or carried out as distinct steps. In a two
+        step process, hold over time begins at the commencement of the anti-icing step.</para>
+
+        <para>When taxiing over contaminated areas there is a risk that slush will contaminate the
+        flap mechanisms. For this reason the flaps are kept retracted under these circumstances and
+        will usually also be retracted during de-icing. Extending the flaps will therefore expose
+        unprotected areas to precipitation and should therefore be left until just before takeoff in
+        these conditions.</para>
+
+        <para role="multicite">[QRH 10.02, FCOM PRO.SUP.91.30, EOMA 8.2.4.3]</para>
+      </section>
+
+      <section>
+        <title>Engines</title>
+
+        <para>The engines must not be started until all contamination has been removed. Removal of
+        this contamination is an engineering function, usually involving the use of hot air blowers.
+        </para>
+
+        <para>When operating for extended periods in icing conditions it is possible that the fan
+        blades will become contaminated by ice. Airbus provides a fan blade ice shedding procedure
+        which should be applied when ground operations in icing conditions have exceeded 30 minutes.
+        The procedure is to accelerate the engines to 70% N1 for 30 seconds every 30 minutes and
+        additionally just before take-off. If operating in freezing fog, freezing rain or heavy snow
+        an additional run up to 70% with no dwell time should be carried out every 10
+        minutes.</para>
+
+        <para role="multicite">[FCOM PRO.NOR.SOP.09]</para>
+      </section>
+    </section>
+
+  </section>
+
+  <section>
+    <title>Contaminated runway operations</title>
+    <para>Runway contamination affects aircraft operations in three ways:</para>
+
+    <orderedlist>
+      <listitem><para>Reduced lateral tyre friction reduces lateral control, thus lighter crosswinds
+      become limiting.</para></listitem>
+      <listitem><para>Reduced longitudinal tyre friction reduces the aircraft's ability to stop,
+      affecting both accelerate stop and landing distances.</para></listitem>
+      <listitem><para>Contaminant drag caused by displacement and impingement reduces the aircraft's
+      ability to accelerate, affecting all aspects of take-off performance.</para></listitem>
+    </orderedlist>
+
+    <para>Each contaminant type results in a different mix of these factors.</para>
+
+    <para>Where less than 25% of the runway is contaminated and/or the depth of the contaminant is
+    the equivalent of 3mm of water (3mm slush, 4mm wet snow, 15mm dry snow) or less the effects are
+    negligible enough to simply consider the runway wet. This may, however, not be appropriate if
+    contamination is localised to critical areas of the runway.</para>
+
+    <para>Where contamination depths exceed the equivalent of 12.6mm of water (12.6mm of slush,
+    25.3mm of wet snow, 101.5mm of dry snow) take-off is prohibited. Both takeoff and landing are
+    prohibited if there is a layer of contaminant on top of a layer of ice or compacted snow since
+    no performance data is available for combinations of contaminants. In addition EOMB 4.11.3
+    prohibits both takeoff and landing on ice if temperature≥-3°C.</para>
+
+    <para>Between these extremes, take-off and landing are permitted so long as the effects of the
+    contamination are mitigated:</para>
+
+    <itemizedlist>
+      <listitem><para>Item 1 is dealt with by introducing more restrictive crosswind limitations,
+      these being promulgated on page SI-60 of the QRH. Either reported braking action or
+      contamination type may be used.</para></listitem>
+
+      <listitem><para>Items 2 and 3 are dealt with through the use of more restrictive performance
+      data. This data is available via the LPC's runway condition field. The LPC runway condition
+      field does not have an option for snow, so a table is presented in EOMB 4.6.8 for takeoff and
+      EOMB 4.11.3 for landing to transform snow contamination into equivalent slush or water
+      contamination.</para></listitem>
+    </itemizedlist>
+
+    <para>In addition, snow clearing operations may have resulted in the build up of snow banks in
+    the proximity of the runway. A diagram in EOMB 4.6.10 defines the maximum snow bank height
+    against distance from the runway that is permitted for take-off.</para>
+
+    <para>The captain must be PF for all contaminated runway operations, and all contaminated
+    take-offs should use TOGA thrust.</para>
+
+    <para role="multicite">[QRH SI-60, EOMB 4.6.8, EOMB 4.6.10, EOMB 4.11.3]</para>
+  </section>
+</chapter>
+
 </book>
