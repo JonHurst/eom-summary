@@ -47,7 +47,7 @@
         <listitem><para>Updated <xref linkend="exp-mothers"/> with latest rules.</para></listitem>
         <listitem><para>Updated <xref linkend="rvsm"/> due removal of equipment list from
         QRH.</para></listitem>
-
+        <listitem><para>Simplified <xref linkend="inflight-fuel"/>.</para></listitem>
         <listitem><para>Added <xref linkend="oceanicops"/>.</para></listitem>
         <listitem><para>Added <xref linkend="winterops"/>.</para></listitem>
       </itemizedlist>
@@ -2079,10 +2079,9 @@
     <sect1 id="inflight-fuel">
       <title>In-flight fuel management</title>
 
-      <para>Flights of less than 20 minutes do not require a fuel check. All other flights require a
-      written fuel check at the top of climb, then further written checks at intervals of 1 hour or
-      less. In addition, verbal fuel checks should be carried out at intervals of 30 minutes or
-      less.</para>
+      <para revisionflag="changed">All flights require a written fuel check at the top of climb, then further written
+      checks at intervals of 1 hour or less.<!--  In addition, verbal fuel checks should be carried out -->
+      <!-- at intervals of 30 minutes or less. --></para>
 
       <para>Company Normal Reserves (CNR) is defined as ALTN + FINRES (see <xref
       linkend="pre-flight-fuel"/>). The OFP provides a Minimum Fuel Required (MFR) value for each
