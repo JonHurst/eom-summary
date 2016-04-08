@@ -45,6 +45,8 @@
         evacuation route when fuelling with passengers on board, and to allow visual contact with
         the refueller to be equivalent to two-way communication.</para></listitem>
         <listitem><para>Updated <xref linkend="exp-mothers"/> with latest rules.</para></listitem>
+        <listitem><para>Updated <xref linkend="rvsm"/> due removal of equipment list from
+        QRH.</para></listitem>
 
         <listitem><para>Added <xref linkend="oceanicops"/>.</para></listitem>
         <listitem><para>Added <xref linkend="winterops"/>.</para></listitem>
@@ -2055,20 +2057,22 @@
       <para role="multicite">[EOM-A 8.3.4, <phrase condition="airbus">FCOM PRO.SUP.34</phrase>]</para>
     </sect1>
 
-    <sect1>
+    <sect1 id="rvsm">
       <title>RVSM</title>
 
       <para>RVSM airspace is airspace above FL290 where only 1000ft vertical separation is
       maintained. All easyJet aircraft are RVSM approved.</para>
 
-      <para condition="airbus">QRH 8.07 defines the equipment required for flight in RVSM airspace;
-      the primary altimeters must agree within 200ft. The altimeter being used to control the
-      aircraft should normally be selected as the input to the transponder. If equipment failure
-      leads to loss of RVSM capability, inform ATC immediately.</para>
+      <para condition="airbus" revisionflag="changed">On entry to RVSM airspace the following equipment must be installed
+      and serviceable: 2 primary altimeters, one automatic altitude control system, one altitude
+      alerting system and one SSR transponder with altitude reporting. The primary altimeters must
+      agree within 200ft. The altimeter being used to control the aircraft should normally be
+      selected as the input to the transponder. If equipment failure leads to loss of RVSM
+      capability, inform ATC immediately.</para>
 
       <para>ATC must also be notified if severe turbulence is encountered.</para>
 
-      <para role="multicite">[EOM-A 8.3.2.11]</para>
+      <para role="multicite">[EOM-A 8.3.3.13]</para>
 
     </sect1>
 
