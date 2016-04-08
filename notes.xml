@@ -53,6 +53,7 @@
         <listitem><para>Added requirement for 2 crew in flight deck to <xref linkend="fddoor"/>.</para></listitem>
         <listitem><para>Changed <xref linkend="paxpeds"/> to allow use of passenger PEDs in all
         phases of flight except LVOs.</para></listitem>
+        <listitem><para>Added bank angle limitation to <xref linkend="skills_retention"/>.</para></listitem>
         <listitem><para>Added <xref linkend="oceanicops"/>.</para></listitem>
         <listitem><para>Added <xref linkend="winterops"/>.</para></listitem>
       </itemizedlist>
@@ -2321,7 +2322,8 @@
 	<para>Where conditions are suitable it is permissible and encouraged that crew regularly
 	practice flying with deliberately reduced levels of automation. It is also permissible to
 	make an approach utilising reduced levels of approach guidance (e.g. an NDB approach when
-	an ILS is available). A thorough briefing of intentions is required in both cases.</para>
+	an ILS is available). A thorough briefing of intentions is required in both cases. The
+        maximum bank angle permitted with flight directors off is 25°.</para>
 
 	<para>It is permissible to practice LVO approaches, but these should generally be restricted
 	to times when ATC is able to protect the ILS sensitive areas. It is acceptable to set up the
