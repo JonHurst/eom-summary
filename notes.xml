@@ -51,6 +51,8 @@
         <listitem><para>Wake turbulence section removed due coverage in other notes.</para></listitem>
         <listitem><para>Added Cat I LTS to <xref linkend="reqd-vis-ref"/>.</para></listitem>
         <listitem><para>Added requirement for 2 crew in flight deck to <xref linkend="fddoor"/>.</para></listitem>
+        <listitem><para>Changed <xref linkend="paxpeds"/> to allow use of passenger PEDs in all
+        phases of flight except LVOs.</para></listitem>
         <listitem><para>Added <xref linkend="oceanicops"/>.</para></listitem>
         <listitem><para>Added <xref linkend="winterops"/>.</para></listitem>
       </itemizedlist>
@@ -2305,12 +2307,11 @@
 	<para>Passengers may use mobile phones on the aircraft whenever the doors are open,
 	including when fuelling. Passengers may also use mobile phones at the commander's discretion
 	during extended delays on the ground, including when remote holding with running
-	engines. All electronic equipment must be switched off for take-off and landing. The only
-	radio transmitters acceptable for use in the cruise are Bluetooth transmitters. Devices
-	containing any other transmitters may only be used if those transmitters are disabled. There
-	is no requirement for passengers to remove headphones at any time.</para>
+	engines. Use of non-transmitting PEDs or transmitting PEDs in “flight mode” is permitted in
+	all phases of flight except during LVOs. There is no requirement for passengers to remove
+	headphones at any time.</para>
 
-	<para role="multicite">[EOM-A 8.3.16]</para>
+	<para role="multicite">[EOM-A 8.3.23]</para>
 
       </sect2>
 
