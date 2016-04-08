@@ -1285,7 +1285,7 @@
 	<title>Reducing fuel loads to allow increased payload</title>
 
 	<para>Where payloads are such that the carriage of normal fuel loads results in exceedance
-	of structural or performance limitations, EOM-A 8.1.7.4 presents a number of methods of
+	of structural or performance limitations, EOM-A 8.1.7.6 presents a number of methods of
 	reducing fuel requirements below those that would normally apply.</para>
 
 	<para>The simplest method is to reduce the trip fuel requirement once it is certain that the
@@ -1298,10 +1298,10 @@
 
 	<para>Finally, for sectors of over 1000nm, contingency fuel can be reduced from 5% to 3%
 	providing that a suitable en-route alternate is specified. The procedure is detailed at
-	EOM-A 8.1.7.4.4. Note that a new OFP should be used; OCC were unable to provide one last
+	EOM-A 8.1.7.6.4. Note that a new OFP should be used; OCC were unable to provide one last
 	time I asked.</para>
 
-	<para role="multicite">[EOM-A 8.1.7.4]</para>
+	<para role="multicite">[EOM-A 8.1.7.6]</para>
       </sect2>
     </sect1>
     <sect1>
