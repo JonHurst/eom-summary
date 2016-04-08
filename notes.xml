@@ -31,6 +31,7 @@
         <listitem><para>Updated <xref linkend="qualifications-and-recency"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="health"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="ftl"/>.</para></listitem>
+        <listitem><para>Updated <xref linkend="min-altitudes"/></para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -939,50 +940,45 @@
     <title>Flight preparation instructions</title>
     <sect1 id="min-altitudes">
       <title>Minimum flight altitudes</title>
-      <sect2><title>Definitions</title>
+      <sect2 revisionflag="changed"><title>Definitions</title>
+
+      <para>Minimum Flight Altitude (MFA) is the generic term for the minimum altitude at which it
+      is safe for an aircraft to fly.</para>
 
       <para>When operating on a defined route segment, national authorities may have published the
       Minimum Enroute IFR Altitude (<emphasis role="strong">MEA</emphasis>) for that segment. This
-      altitude (or flight level) ensures obstacle clearance and navaid reception. On Jeppesen
-      enroute charts it is shown below the approximate centre of the route segment in small red
-      font. Where a segment is wholly contained within controlled airspace, the MEA will provide a
-      buffer of at least 500ft from uncontrolled airspace {TODO: This information comes from an FAA
-      handbook and comparison of Jepp enroute charts and UK AIP airway specification. Confirm that
-      it is correct}. Where applicable, national authorities may also publish a lower segment safety
-      altitude which provides obstacle clearance only. This is called the Minimum Obstruction
-      Clearance Altitude (<emphasis role="strong">MOCA</emphasis>). On Jeppesen charts, MOCA is
-      presented adjacent to, and in the same font as, MEA; a suffix of "T" (e.g. 4200T) is used to
-      distinguish it. Where MOCA is not presented, it may be assumed that it has the same value as
-      MEA.</para>
+      altitude (or flight level) ensures obstacle clearance and navaid reception. When available,
+      MEA is published in black on the LIDO en-route charts below the airway designator. Alongside,
+      in red, LIDO publishes Minimum Terrain Clearance Altitude (MTCA). This is a LIDO derived
+      value, based on rounding up the elevation of the highest obstruction within 10nm of the airway
+      to the nearest 100ft, then adding 1000ft tor terrain below 6000ft or 2000ft for terrain
+      above. MTCA is always available.</para>
 
-      <para>When national authorities have not defined MEA, Jeppesen instead presents a value known as
-      the Minimum Off-Route Altitude (<emphasis role="strong">MORA</emphasis>). This is in the same
-      font as the MEAs, and is distinguished by an "a" suffix (e.g. 4200a). Jeppesen derives this
-      value by examining charts or databases of known obstacles and terrain. The value should ensure
-      at least 1000ft clearance of all obstacles within 10nm of any point on the route segment. When
-      the obstacles are over 5000ft altitude, 2000ft of clearance is provided. MORA is also
-      presented on the LIDO OFPs.</para>
+      <para>LIDO OFPs present Route Minimum Off Route Altitude (Route MORA). This is a LIDO derived
+      value based on the highest terrain within 20nm of a given route segment. For terrain up to
+      5000ft Route MORA provides 1000ft clearance; for higher elevations it provides 2000ft
+      clearance.</para>
 
-      <para>When not operating on a defined route segment, Jeppesen presents area obstacle clearance
-      data in the form of a Grid Minimum Off-Route Altitude (<emphasis role="strong">Grid
-      MORA</emphasis>). This is again a Jeppesen derived value. It should provide the same obstacle
-      clearance as MORA within the area enclosed by the latitude and longitude lines of a Jeppesen
-      enroute chart. It is presented in large green or red font near the centre of the applicable
-      area<footnote><para>Red is used when the value is greater than
-      14,000ft</para></footnote>.</para>
+      <para>When not operating on a defined route segment, LIDO presents area obstacle clearance
+      data in the form of a Minimum Grid Altitude (<emphasis role="strong">MGA</emphasis>). MGA is
+      calculated by rounding up the highest obstruction within the respective grid area to the next
+      100ft then adding either 1000ft for obstructions up to 6000ft or 2000ft if they are
+      higher. The lowest indicated MGA on LIDO charts is 2000ft. MGA is shown in purple if it is
+      less than 10000ft and in red if it is greater.</para>
 
-      <para>Minimum Safe Altitude (<emphasis role="strong">MSA</emphasis>) is the minimum altitude
+      <para>Minimum Sector Altitude (<emphasis role="strong">MSA</emphasis>) is the minimum altitude
       that provides 1000ft of obstacle clearance within 25nm (unless otherwise specified) of a
-      specified navigation facility. It is published as a circle on Jeppesen plates. Where the
-      circle is divided into segments, the altitudes are referred to as Minimum Sector Altitudes. It
-      is for emergency use only, and does not necessarily guarantee navaid reception.</para>
+      specified navigation facility. It is published as a segmented circle on LIDO plates. It is for
+      emergency use only, and does not necessarily guarantee navaid reception.</para>
 
-      <para>Minimum Vectoring Altitude (<emphasis role="strong">MVA</emphasis>) is the lowest
-      altitude at which an IFR aircraft will be vectored by a radar controller (excepting SRAs
-      etc.); it may only be utilised upon the controller's determination that an adequate radar
-      return is being received.</para>
+      <para>Additionally, various instrument flight procedure altitudes are calculated by national
+      authorities when designing instrument procedures, and these are published on LIDO instrument
+      plates. In particular Minimum Radar Vectoring Altitudes (MRVA) are provided to ATC and may be
+      flown when the aircraft is under positive radar control. The LIDO MRC chart shows MRVAs to
+      allow cross checking of ATC instructions.
+      </para>
 
-      <para role="multicite">[EOM-A 8.1.1, Jeppesen Text Manual - "Introduction"]</para>
+      <para role="multicite">[EOM-A 8.1.1, EOMA 8.1.1.4, LIDO route manual]</para>
 
       </sect2>
 
@@ -1025,34 +1021,16 @@
       to add 1% of the altitude for every 2° that the actual temperature is below ISA, e.g for a
       20,000ft MEA with ISA-20° add 200x20/2=2000ft.</para>
 
-      <para>When operating within 20nm of terrain that has an elevation greater than 2000ft, a
-      correction must be applied for wind as follows:
-
-      <table>
-        <title>MORA Wind Speed Correction</title>
-        <tgroup cols="4">
-          <colspec colnum="1" align="center" colname="windsst" colwidth="*"/>
-          <colspec colnum="2" align="center" colwidth="*"/>
-          <colspec colnum="3" align="center" colwidth="*"/>
-          <colspec colnum="4" align="center" colname="windsend" colwidth="*"/>
-          <thead>
-            <row><entry namest="windsst" nameend="windsend">Wind speed in Knots</entry></row>
-            <row><entry>0 - 30</entry><entry>31 - 50</entry><entry>51 -70</entry><entry>70+</entry></row>
-          </thead>
-          <tbody>
-            <row><entry>500ft</entry><entry>1,000ft</entry><entry>1,500ft</entry><entry>2,000ft</entry></row>
-            <row><entry namest="windsst" nameend="windsend">Add a further <emphasis
-            role="strong">500ft</emphasis> for terrain over <emphasis role="strong">8,000ft</emphasis></entry></row>
-          </tbody>
-        </tgroup>
-      </table></para>
-
       <para>When operating in low atmospheric pressure conditions with an altimeter setting of 1013,
       the aircraft will be ~30ft below the indicated altitude for every millibar that the QNH is
       below 1013. This can be applied as a positive increment to a published minimum altitude to
       calculate a minimum flight level.</para>
 
-      <para>Note that the MORAs presented on the LIDO OFPs do not have any of these corrections
+      <para revisionflag="changed">A combination of high winds and high terrain can result in localised variations in
+      atmospheric pressure; consideration should be given to increasing MFA under these
+      conditions.</para>
+
+      <para>Note that the Route MORAs presented on the LIDO OFPs do not have any of these corrections
       applied.</para>
 
       <para role="multicite">[EOM-A 8.1.1.3]</para>
