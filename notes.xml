@@ -35,6 +35,7 @@
         <listitem><para>Updated <xref linkend="airports"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="minima"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="alternates"/>.</para></listitem>
+        <listitem><para>Updated <xref linkend="balance"/> due allocated seating.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -1408,12 +1409,10 @@
       <para role="multicite">[EOM-A 8.1.8]</para>
       </sect2>
 
-      <sect2 condition="airbus">
+      <sect2 condition="airbus" id="balance">
 	<title>Balance calculation</title>
-	<para>Compliance with balance limitations is achieved using the LPC Weight and Balance
-	modules. If this is not available, weight and balance data should be sourced from OCC.  When
-	passenger load is more than 115 the default LPC passenger split may be used. Otherwise the
-	correct split (e.g. rows 1-9, 10-18, 19-26 for A319) should be used.</para>
+	<para revisionflag="changed">Compliance with balance limitations is achieved using the LPC Weight and Balance
+	modules with actual seating positions.</para>
 
 	<para role="multicite">[EOM-B 7.1.1]</para>
       </sect2>
