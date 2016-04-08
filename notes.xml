@@ -2376,12 +2376,11 @@
   <section>
     <title>Authorised routes</title>
 
-    <para>In general, two HF radios and two LRNSs (LRNS=FMGC for A320 family) {TODO: Jeppesen says 2
-    LRNS, QRH Supplementary says 1} are required for oceanic operations. easyJet's A319s
-    have no HF radios, and the A320s have only one. This limits oceanic operations to the “special
-    routes” where less than the normal minimum communication and navigation equipment are required,
-    which include T9 and the Blue Spruce Routes between Scotland, Iceland, Greenland and
-    Labrador.</para>
+    <para>In general, two HF radios and two LRNSs (LRNS=FMGC for A320 family) are required for
+    oceanic operations. easyJet's A319s have no HF radios, and the A320s have only one. This limits
+    oceanic operations to the “special routes” where less than the normal minimum communication and
+    navigation equipment are required, which include T9 and the Blue Spruce Routes between Scotland,
+    Iceland, Greenland and Labrador.</para>
   </section>
 
   <section>
