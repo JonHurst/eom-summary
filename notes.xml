@@ -1412,7 +1412,8 @@
       <sect2 condition="airbus" id="balance">
 	<title>Balance calculation</title>
 	<para revisionflag="changed">Compliance with balance limitations is achieved using the LPC Weight and Balance
-	modules with actual seating positions.</para>
+	modules with actual seating positions. A “free seating contingency” is available at EOMB 7.5
+        for exceptional circumstances precluding the use of allocated seating data.</para>
 
 	<para role="multicite">[EOM-B 7.1.1]</para>
       </sect2>
