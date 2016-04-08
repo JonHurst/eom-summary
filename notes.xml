@@ -1036,20 +1036,10 @@
       <para role="multicite">[EOM-A 8.1.1.3]</para>
       </sect2>
 
-      <sect2><title>Operational requirements</title>
+      <sect2 revisionflag="changed"><title>Operational requirements</title>
 
-      <para>When operating under IFR<footnote><para>Authorisation from the post holder flight
-      operations is required to fly VFR.</para></footnote>, the minimum enroute altitudes should be
-      the higher of the corrected MOCA and the corrected MORA. EOM-A 8.1.1.2.3.1 states:
-
-      <blockquote><para>"During flight preparation, the en-route minimum altitudes must be
-      established for all the route segments".</para></blockquote>
-
-      The OFPs provide uncorrected MORAs only. Therefore, as part of pre-flight preparation, MOCAs
-      for each route segment should be extracted from the Jeppesen en-route charts and compared to
-      the OFP MORAs, and the higher of these values should then be corrected for temperature and
-      wind to establish en-route minimum altitudes {TODO: this is clearly impractical - check
-      whether my interpretation is incorrect}.</para>
+      <para>Obstacle clearance for take-off and initial climb phase is provided by a combination of
+      LPC performance calculation and SID and EOSID design.</para>
 
       <para>Engine failure or loss of pressurisation may lead to a requirement for en-route
       descent. Currently, the highest obstacle affecting easyJet routes is Mont Blanc at
@@ -1059,18 +1049,12 @@
       pressurisation, all obstacles must be cleared by at least 2000ft. It is worth noting that the
       time of useful consciousness without supplementary oxygen is 30 minutes at 18,000ft.</para>
 
-      <para>Obstacle clearance for take-off and initial climb phase is provided by a combination of
-      LPC performance calculation and SID and Engine Out SID design. <phrase condition="airbus">Note
-      that easyJet SOPs for loss of thrust after divergence point are contrary to the specific
-      Airbus recommendations in FCOM 4.4.30.4000; this can lead to some unwelcome grey areas in
-      obstacle clearance.</phrase></para>
-
       <para>For the approach phase, unless in visual contact with the ground with flight visibility sufficient
       to identify all relevant obstacles, flight below MSA should only be conducted on promulgated
       routes or instrument approach procedure or when being vectored at levels not less than
       MVA.</para>
 
-      <para role="multicite">[EOM-A 8.1.1]</para>
+      <para role="multicite">[EOM-A 8.1.1.4]</para>
       </sect2>
 
     </sect1>
