@@ -33,6 +33,8 @@
         <listitem><para>Updated <xref linkend="ftl"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="min-altitudes"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="airports"/>.</para></listitem>
+        <listitem><para>Updated <xref linkend="minima"/>.</para></listitem>
+        <listitem><para>Updated <xref linkend="alternates"/>.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -1086,36 +1088,24 @@
     <sect1 id="minima">
       <title>Aerodrome Operating Minima</title>
 
-      <para>All easyJet aircraft, with the exception of certain A321s, are Category&#xA0;C for the
-      purpose of calculating operating minima. The A321s with MLW of 77,800kg are
-      Category&#xA0;D.</para>
+      <para revisionflag="changed">All easyJet aircraftare Category C for the purpose of calculating operating
+      minima.</para>
 
-      <para>Aerodrome specific take-off minima are presented on Jeppesen chart 10-9. Pilot
-      assessment of RVR for the initial part of the take-off run is permissable in all cases, but
-      reported RVR must be considered for all other relevant reporting points. When operating with
-      RVR &lt; 150m, LVPs must be in force, crew must be LVO qualified and a 90m visual segment
-      (equivalent to 6 centre line lights at standard 15m spacing) must be available.</para>
+      <para revisionflag="changed">Aerodrome specific take-off minima are presented on LIDO AOI
+      charts. Pilot assessment of RVR for the initial part of the take-off run is permissable, but
+      reported RVR must be considered for all other <emphasis>relevant</emphasis> reporting
+      points.</para>
 
-      <para>Straight in visual approaches require RVR &#x2265;
-      800m. A visual circuit requires Met Visibility &#x2265; 5km
-      and cloud base &#x2265; 2,500ft. Visual approaches at night
-      are authorised unless prohibited in the Aerodrome Briefings Supplement. Visual circuits must
-      be flown at a height greater than 1500ft that ensures at least 500ft separation from
-      obstacles.</para>
+      <para revisionflag="changed">Minima for instrument approaches (including circling approaches) are presented on the
+      relevant LIDO approach plates. Where decision height is listed as “Company”, NO DH should be
+      used for CAT3B and 50RA should be used for CAT3A. easyJet is not certified to use “Localiser
+      Perfomance with Vertical guidance” (LPV) minimas. Only RVRs applicable to relevant segments of
+      the runway need to be considered for landing. Required stop end RVR is always 75m and required
+      mid-point RVR is always 125m unless ROLLOUT mode is used, in which case it is also 75m.</para>
 
-      <para>Minima for instrument approaches (including circling approaches) are presented on the
-      relevant Jeppesen approach plates (11- to 18-). easyJet is authorised to use these minima
-      whenever the minima block is titled "STANDARD". Where this is not the case, the DA/MDA on the
-      chart will be valid, but crew must calculate RVR minima<footnote><para>Use Jeppesen Text
-      Manual, Air Traffic Control, EU OPS-1, Table 6 (Page 604 as of 29/8/2011), entering with
-      DH/MDH and the ALS type.</para></footnote>. Minima for Cat II and III operations are presented
-      in their own section at the start of the Jeppesen Text manual. Only RVRs applicable to
-      segments of the runway where speed is expected to be above 60kt need to be considered for
-      landing.</para>
-
-      <para>When RVR is not reported, and provided that required RVR &#x2265; 800m, the following
-      table may be used to convert Met Visibility to RVR for the purposes of complying with landing
-      minima:
+      <para>When RVR is not reported, and provided that required RVR &#x2265; 800m (after
+      conversion), the following table may be used to convert Met Visibility to RVR for the purposes
+      of complying with <emphasis>landing</emphasis> minima:
 
       <table>
         <title>Met Visibility to RVR conversion</title>
@@ -1136,16 +1126,18 @@
         </tgroup>
       </table></para>
 
-      <para>Where minima for non-precision approaches are presented in terms of a Minimum Descent
-      altitude, 50ft should be added to create an effective Decision Altitude.</para>
-
       <para>Circling minima should be used unmodified. It is permissible to descend prior to the
       final turn. However, descent below circling minima should only occur once the landing
       threshold has been identified and all surrounding terrain is in sight.</para>
 
       <para>If standby ILS transmitters, markers, meteorological measuring equipment or lighting
       systems are downgraded, approach minima may need to be modified. A table is presented at EOM-A
-      8.1.3.10 for this purpose.</para>
+      8.1.3.5 for this purpose.</para>
+
+      <para revisionflag="changed">A visual approach requires Met Visibility &#x2265; 5km and cloud base &#x2265;
+      2,500ft. Visual approaches at night are authorised unless prohibited in the relevant
+      CCI. Visual circuits must be flown at a height greater than 1500ft that ensures at least 500ft
+      separation from obstacles.</para>
 
       <para>MDA and DA must always be above OCA and must therefore be adjusted if OCA is increased
       by NOTAM.</para>
@@ -1172,12 +1164,11 @@
 	  <listitem><para>Two destination alternates are required when landing performance cannot be
 	  assured due to wind or runway state or when no meteorological information is available for
 	  the destination.</para></listitem>
-          <listitem><para>A table for interpretation of TAFs with regards these requirements can be
-          found at EOM-A 8.1.6.1.</para></listitem>
+          <listitem revisionflag="changed"><para>A table for interpretation of TAFs with regards these requirements can be
+          found at EOM-A 8.1.2.4.</para></listitem>
 	  <listitem><para>Runways may be considered independent if each runway has a separate
 	  approach procedure based on a separate approach aid and no conceivable blockage of one
-	  runway would render the other unusable. If a destination is isolated these restrictions do
-	  not apply.</para></listitem>
+	  runway would render the other unusable.</para></listitem>
         </orderedlist>
       </note>
       <para role="multicite">[EOM-A 8.1.2]</para>
@@ -2032,8 +2023,9 @@
       of radar service should be sought whenever outside controlled airspace. Flight in uncontrolled
       airspace without radar cover requires authorisation from the duty pilot.</para>
 
-      <para>VFR flight should be considered exceptional and must be authorised by the post holder
-      flight operations.</para>
+      <para revisionflag="changed">VFR flight should be considered exceptional and must be authorised by the post holder
+      flight operations. It must be conducted in accordance with the normal VFR minimum visibility
+      and distance for cloud regulations, set out in EOMA 8.1.4/</para>
 
       <para role="multicite">[EOM-A 8.3.1, EOM-A 8.1.1.1]</para>
     </sect1>
