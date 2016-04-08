@@ -2302,7 +2302,7 @@
 	<para role="multicite">[EOM-A 8.3.14]</para>
       </sect2>
 
-      <sect2>
+      <sect2 id="paxpeds">
 	<title>Passenger electronic equipment</title>
 
 	<para>Passengers may use mobile phones on the aircraft whenever the doors are open,
