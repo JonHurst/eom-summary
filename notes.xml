@@ -44,6 +44,7 @@
         <listitem><para>Updated <xref linkend="fuelling"/> updated to emphasise requirement for
         evacuation route when fuelling with passengers on board, and to allow visual contact with
         the refueller to be equivalent to two-way communication.</para></listitem>
+        <listitem><para>Updated <xref linkend="exp-mothers"/> with latest rules.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -1754,15 +1755,13 @@
 	<para role="multicite">[EOM-A 8.2.2.4, CSPM 2.4.12]</para>
       </sect2>
 
-     <sect2>
-        <title>Expectant mothers</title>
-        <para>Between 28 and 35 weeks (inclusive) of pregnancy, a medical certificate signed by a
-        doctor or midwife confirming pregnancy stage and fitness to fly is required. Passengers
-        cannot be accepted for travel on or after week 36 of pregnancy.</para>
+     <sect2 revisionflag="changed" id="exp-mothers">
+       <title>Expectant mothers</title>
+       <para>Expectant mothers can be accepted for travel up to their 35th week for single
+       pregnancies or 32nd week for multiple pregnancies. Medical certification is not
+       required.</para>
 
-	<para>Infants may travel on the laps of expectant mothers.</para>
-
-	<para role="multicite">[EOM-A 8.2.2.4, CSPM 2.4.12]</para>
+	<para role="multicite">[EOM-A 8.2.2.4, CSPM 6.21]</para>
       </sect2>
 
       <sect2 id="prisoners">
