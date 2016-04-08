@@ -1677,15 +1677,10 @@
 
       <para>Defuelling is not permitted with passengers on board.</para>
 
-      <para>The fuel card may be used to expedite the fuelling process, but fuel requirement must
-      also be passed in person. Display of the fuel card authorises the commencement of fuelling; if
-      any passengers remain on board it must be delayed until all relevant restrictions have been
-      met. Communication between flight deck and refueller is required prior to commencement of
-      refuelling. Positive acknowledgement of the fuel card by the refueller is deemed sufficient to
-      fulfil this requirement, but the member of flight crew on the flight deck must remain in
-      "visual contact" with the refueller whenever any passengers are on board. {TODO: EOM-A is
-      incredibly wooly on this; confirm meaning}. The fuel card must be stowed once fuelling is
-      complete.</para>
+      <para revisionflag="changed">The fuel card may be used to expedite the fuelling
+      process. Display of the fuel card authorises the commencement of fuelling; if any passengers
+      remain on board it must be delayed until all relevant restrictions have been met. The fuel
+      card must be stowed once fuelling is complete.</para>
 
       <para>The flight crew must monitor the fuel gauges during fuelling.</para>
 
