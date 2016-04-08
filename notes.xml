@@ -1953,8 +1953,8 @@
       <sect2>
 	<title>Holdover times</title>
 
-	<para>Guideline holdover time tables are presented <phrase condition="airbus">on the LPC and
-	</phrase>at the front of the NTC book. Definitions of precipitation type for use in the
+	<para>Guideline holdover time tables are presented <phrase condition="airbus">on the
+	EFB</phrase> in the Winter Ops section. Definitions of precipitation type for use in the
 	tables are presented at EOM-A 8.2.4.2. For a two step process, the holdover time begins at
 	the commencement of the second step. The lower time limit indicates holdover time for
 	"moderate" precipitation, the higher for "light" precipitation. Holdover times will be
