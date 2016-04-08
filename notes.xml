@@ -30,6 +30,7 @@
         <listitem><para>Updated <xref linkend="inspectors"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="qualifications-and-recency"/>.</para></listitem>
         <listitem><para>Updated <xref linkend="health"/>.</para></listitem>
+        <listitem><para>Updated <xref linkend="ftl"/>.</para></listitem>
       </itemizedlist>
     </sect1>
     <sect1>
@@ -497,7 +498,7 @@
 
     </sect1>
 
-    <sect1>
+    <sect1 revisionflag="changed">
       <title>Definitions</title>
 
       <para><emphasis role="strong">Duty period</emphasis>: Any continuous period where a crew member is required to carry out a task
@@ -511,7 +512,7 @@
 
     </sect1>
 
-    <sect1>
+    <sect1 revisionflag="changed">
       <title>Days Off</title>
 
       <para>A singleton day off is defined as at least 36 hours and 2 local nights. Two consecutive
@@ -539,7 +540,7 @@
 
     </sect1>
 
-    <sect1>
+    <sect1 revisionflag="changed">
 
       <title>Required rest</title>
       <para>From home base, the rest required before operating a duty is 12 hours or the length of
@@ -581,7 +582,7 @@
 
       </sect2>
     </sect1>
-    <sect1>
+    <sect1 revisionflag="changed">
       <title>Maximum Flight Duty</title>
 
       <para>The maximum allowable flight duty for flight crew is governed by the country in which
@@ -666,7 +667,7 @@
       </sect2>
     </sect1>
 
-    <sect1 id="consecutive">
+    <sect1 id="consecutive" revisionflag="changed">
       <title>Consecutive night, early start and late finish duties</title>
 
       <para>If any part of a duty falls within the period 02:00 to 04:59 local time (in the time
@@ -734,7 +735,7 @@
 
     </sect1>
 
-    <sect1 id="cumulative-limits">
+    <sect1 id="cumulative-limits" revisionflag="changed">
       <title>Cumulative limits</title>
       <para><xref linkend="cumulative"/> shows the cumulative duty time and block time limitations
       applicable to flight crew operating under the 5453 ruleset and to cabin crew operating under
@@ -797,7 +798,7 @@
       </sect2>
     </sect1>
 
-    <sect1>
+    <sect1 revisionflag="changed">
       <title>Standby</title>
 
       <sect2><title>Home Standby</title>
@@ -864,7 +865,7 @@
 
     </sect1>
 
-    <sect1 id="transitions">
+    <sect1 id="transitions" revisionflag="changed">
       <title>Transitions</title>
 
       <para>For the purposes of transition control:
@@ -905,7 +906,7 @@
       rules, but must be taken into account for future rostering.</para>
 
     </sect1>
-    <sect1 id="pre_and_post_flight_duties">
+    <sect1 id="pre_and_post_flight_duties" revisionflag="changed">
       <title>Pre and post flight duties</title>
 
       <para>For “normal” flight duty periods, a minimum of 1 hour must be planned for pre-flight
@@ -922,7 +923,7 @@
       briefing allowance will <emphasis>always</emphasis> trigger an investigation.</para>
 
     </sect1>
-    <sect1><title>Miscellaneous</title>
+    <sect1 revisionflag="added"><title>Miscellaneous</title>
     <sect2><title>Positioning</title>
     <para>All time spent positioning counts as duty time for the purposes of all FTL limits. Time
     spent positioning prior to operating counts as FDP, but does not count as a sector.</para>
