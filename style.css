@@ -1,9 +1,68 @@
-body {margin:auto;padding-left:2em;padding-right:2em;max-width:45em;}
-h1,h2,h3,h4 {color:darkblue;}
+body {
+    background-color: white;
+    color: black;
+    font-family: sans-serif;
+    padding: 1px;
+}
+
+body > div {
+    margin:auto;
+    max-width:45em;
+}
+
+h1,h2,h3,h4 {
+    color:darkblue;
+}
+
+
+table {
+    margin:1em auto;
+    padding 0 2em;
+    border-collapse: collapse;
+}
+
+.medium-width-table table {
+    width:20em;
+}
+
+td {
+    padding: 0.5em 1em;
+}
+
+.multicite{
+    color:#303030;
+    font-size:0.8em;
+}
+
 div.sect4 {margin-left:3em;}
-table {margin:auto; padding 0 2em; border-collapse: collapse;}
 div.mediaobject {text-align:center;}
-td {padding: 1em;}
 table.simplelist {margin-left:3em;}
 table.simplelist td {padding:0.5em;}
 dt {font-weight:bold;}
+
+@media (max-width: 30em) {
+    h1 {
+        font-size: 130%;
+    }
+    h2, h3 {
+        font-size: 115%;
+    }
+    .mediaobject, .table-contents {
+        overflow-x: auto;
+    }
+    .note {
+        margin-left:1em;
+        margin-right:0.5em;
+    }
+    .medium-width-table table {
+        width:auto;
+    }
+    ol, ul {
+        padding-left:1.5em;;
+    }
+    /*footer navigation table doesn't work well on very narrow screens*/
+    .navfooter tbody tr:last-child {
+        display: none;
+    }
+
+}

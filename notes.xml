@@ -469,7 +469,7 @@
     </sect1>
     <sect1>
       <title>Hypoxia</title>
-      <table>
+      <table tabstyle="medium-width-table">
         <title>Time of useful consciousness</title>
         <tgroup cols="2">
             <colspec align="center" colwidth="*"/>
@@ -1127,7 +1127,7 @@
       conversion), the following table may be used to convert Met Visibility to RVR for the purposes
       of complying with <emphasis>landing</emphasis> minima:
 
-      <table>
+      <table tabstyle="medium-width-table">
         <title>Met Visibility to RVR conversion</title>
         <tgroup cols="3">
           <colspec colwidth="3*"/>
@@ -1199,7 +1199,7 @@
         aerodrome must be available within 60 minutes single engine flying time. The equivalent
 	distances are:
 
-	<table>
+	<table tabstyle="medium-width-table">
 	  <title>Cruise alternate distances</title>
 	  <tgroup cols="2">
 	    <colspec colwidth="*" align="center"/>
@@ -1356,7 +1356,7 @@
       <sect2><title>Payload calculation</title>
 
       <para>The following standard weights may be used when calculating  payload:
-      <table>
+      <table tabstyle="medium-width-table">
 	<title>Standard weights for passengers with hand baggage</title>
 	<tgroup cols="2">
 	  <colspec colnum="1" colwidth="*"/>
@@ -1372,7 +1372,7 @@
 	  </tbody>
 	</tgroup>
       </table>
-      <table>
+      <table tabstyle="medium-width-table">
 	<title>Standard weights for checked baggage</title>
 	<tgroup cols="2">
 	  <colspec colnum="1" colwidth="*"/>
@@ -1389,7 +1389,7 @@
 	  </tbody>
 	</tgroup>
       </table>
-    <table>
+    <table tabstyle="medium-width-table">
       <title>Standard weights for crew</title>
       <tgroup cols="2">
         <colspec colnum="1" colwidth="*"/>
@@ -1405,7 +1405,7 @@
         </tbody>
       </tgroup>
     </table>
-    <table>
+    <table tabstyle="medium-width-table">
       <title>Guide weights for other items</title>
       <tgroup cols="2">
         <colspec colnum="1" colwidth="*"/>
