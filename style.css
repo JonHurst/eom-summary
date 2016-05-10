@@ -3,6 +3,11 @@ body {
     color: black;
     font-family: sans-serif;
     padding: 1px;
+    line-height: 1.4;
+}
+
+sup, sub {
+    line-height: 0;
 }
 
 body > div {
