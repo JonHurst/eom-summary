@@ -2721,29 +2721,28 @@
 
     <para>Each contaminant type results in a different mix of these factors.</para>
 
-    <para>Where less than 25% of the runway is contaminated and/or the depth of the contaminant is
-    the equivalent of 3mm of water (3mm slush, 4mm wet snow, 15mm dry snow) or less the effects are
+    <para>Where less than 25% of the runway is contaminated and/or the contaminant is
+    water, slush or snow with a depth of 3mm or less the effects are
     negligible enough to simply consider the runway wet. This may, however, not be appropriate if
     contamination is localised to critical areas of the runway.</para>
 
-    <para>Where contamination depths exceed the equivalent of 12.6mm of water (12.6mm of slush,
-    25.3mm of wet snow, 101.5mm of dry snow) take-off is prohibited. Both takeoff and landing are
+    <para>Where the contamination exceeds 12.7mm of water or slush, 25.4mm of wet snow or 100mm of
+    dry snow, take-off is prohibited. Both takeoff and landing are
     prohibited if there is a layer of contaminant on top of a layer of ice or compacted snow since
-    no performance data is available for combinations of contaminants. In addition EOMB 4.11.3
-    prohibits both takeoff and landing on ice if temperature≥-3°C.</para>
+    no performance data is available for combinations of contaminants. In addition EOMB 2.1
+    prohibits takeoff on wet ice.</para>
 
     <para>Between these extremes, take-off and landing are permitted so long as the effects of the
     contamination are mitigated:</para>
 
     <itemizedlist>
       <listitem><para>Item 1 is dealt with by introducing more restrictive crosswind limitations,
-      these being promulgated in EOMB 2.1. Either reported braking action or
-      contamination type may be used.</para></listitem>
+      these being promulgated in EOMB 2.1 and QRH PER.C</para></listitem>
 
       <listitem><para>Items 2 and 3 are dealt with through the use of more restrictive performance
       data. This data is available via the EFB's runway condition field. The EFB runway condition
       field does not have an option for snow, so a table is presented in EOMB 4.6.8 for takeoff and
-      QRH PER-C for landing to transform snow contamination into equivalent slush or water
+      QRH PER.C for landing to transform snow contamination into equivalent slush or water
       contamination.</para></listitem>
     </itemizedlist>
 
@@ -2754,7 +2753,7 @@
     <para>The captain must be PF for all contaminated runway operations, and all contaminated
     take-offs should use TOGA thrust.</para>
 
-    <para role="multicite">[EOMB 4.6.8, EOMB 4.6.10, EOMB 4.13.7]</para>
+    <para role="multicite">[EOMB 4.6, EOMB 4.13, EOMB 2.1, QRH PER.C]</para>
   </section>
 </chapter>
 
