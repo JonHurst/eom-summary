@@ -20,7 +20,8 @@
     <sect1>
       <title>Changes since version 2.0</title>
       <itemizedlist>
-        <listitem><para></para></listitem>
+        <listitem><para><xref linkend="pre-flight-fuel"/> updated to include the use of Statistical
+        Contingency Fuel in the determination of contingency fuel requirements.</para></listitem>
       </itemizedlist>
     </sect1>
   </preface>
@@ -1187,8 +1188,10 @@
 
       <varlistentry>
         <term>CONT</term>
-        <listitem><para>The greater of 5% of planned trip fuel or 5 minutes holding over destination
-        at 1500ft.</para></listitem>
+        <listitem><para revisionflag="changed">The greater of 5% of planned trip fuel or 5 minutes holding over destination
+        at 1500ft. If statistical contingency fuel (SCF) data is available, contingency fuel will be
+        increased to either the 95th centile SCF or 99th centile SCF, depending on city pair, if
+        applicable.</para></listitem>
       </varlistentry>
 
       <varlistentry>
