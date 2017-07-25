@@ -3,7 +3,7 @@
 <book id="revision-notes">
   <title>Summary of easyJet manuals</title>
   <subtitle><phrase condition="airbus">Airbus</phrase><phrase condition="boeing">Boeing</phrase>
-  Edition, Version 2.0</subtitle>
+  Edition, Version 2.0.1</subtitle>
   <bookinfo>
     <author><personname>
       <firstname>Jon</firstname><surname>Hurst</surname></personname></author>
@@ -16,66 +16,11 @@
 
       <blockquote><para><ulink url="https://hursts.org.uk"/></para></blockquote></para>
 
-      <para>Change bars will be incorporated into the printed version as soon as they are supported
-      by the Apache Formatting Objects Processor.</para>
     </sect1>
     <sect1>
-      <title>Changes since version 1.2</title>
+      <title>Changes since version 2.0</title>
       <itemizedlist>
-        <listitem><para>Updated <xref linkend="commander-duties"/> with latest changes from EOMA.</para></listitem>
-        <listitem><para>Updated <xref linkend="flightcrew_composition"/>.</para></listitem>
-        <listitem><para>Updated <xref linkend="cabincrew_composition"/>.</para></listitem>
-        <listitem><para>Updated <xref linkend="positioning"/>.</para></listitem>
-        <listitem><para>Updated <xref linkend="inspectors"/>.</para></listitem>
-        <listitem><para>Updated <xref linkend="qualifications-and-recency"/>.</para></listitem>
-        <listitem><para>Updated <xref linkend="health"/>.</para></listitem>
-        <listitem><para>Updated <xref linkend="ftl"/>.</para></listitem>
-        <listitem><para>Updated <xref linkend="min-altitudes"/>.</para></listitem>
-        <listitem><para>Updated <xref linkend="airports"/>.</para></listitem>
-        <listitem><para>Updated <xref linkend="minima"/>.</para></listitem>
-        <listitem><para>Updated <xref linkend="alternates"/>.</para></listitem>
-        <listitem><para>Updated <xref linkend="balance"/> due allocated seating.</para></listitem>
-        <listitem><para>Updated <xref linkend="lmc"/>.</para></listitem>
-        <listitem><para>Updated <xref linkend="defect_management"/> with regards Aircraft Status
-        Report and new FOR INFO methodology.</para></listitem>
-        <listitem><para>Updated <xref linkend="rec-eng-checks"/> with new ”early daily” procedure.</para></listitem>
-        <listitem><para>Updated <xref linkend="rqd-docs"/> due to change to electronic presentation.</para></listitem>
-        <listitem><para>Updated <xref linkend="fuelling"/> updated to emphasise requirement for
-        evacuation route when fuelling with passengers on board, and to allow visual contact with
-        the refueller to be equivalent to two-way communication.</para></listitem>
-        <listitem><para>Updated <xref linkend="exp-mothers"/> with latest rules.</para></listitem>
-        <listitem><para>Updated <xref linkend="rvsm"/> due removal of equipment list from
-        QRH.</para></listitem>
-        <listitem><para>Simplified <xref linkend="inflight-fuel"/>.</para></listitem>
-        <listitem><para>Wake turbulence section removed due coverage in other notes.</para></listitem>
-        <listitem><para>Added Cat I LTS to <xref linkend="reqd-vis-ref"/>.</para></listitem>
-        <listitem><para>Added requirement for 2 crew in flight deck to <xref linkend="fddoor"/>.</para></listitem>
-        <listitem><para>Changed <xref linkend="paxpeds"/> to allow use of passenger PEDs in all
-        phases of flight except LVOs.</para></listitem>
-        <listitem><para>Added bank angle limitation to <xref linkend="skills_retention"/>.</para></listitem>
-        <listitem><para>Added <xref linkend="oceanicops"/>.</para></listitem>
-        <listitem><para>Added <xref linkend="winterops"/>.</para></listitem>
-      </itemizedlist>
-    </sect1>
-    <sect1>
-      <title>Changes since version 1.1</title>
-      <itemizedlist>
-	<listitem><para><xref linkend="cabincrew_composition"/> updated with latest
-	restrictions.</para></listitem>
-	<listitem><para><xref linkend="qualifications-and-recency"/> updated with latest
-	restrictions.</para></listitem>
-	<listitem><para>Correction requirement change to -10°C added to <xref
-	linkend="corrections"/></para></listitem>
-	<listitem><para>MOC supplying AMOS number added <xref
-	linkend="defect_management"/></para></listitem>
-	<listitem><para>Requirement for two-way communication added to <xref
-	linkend="fuelling"/>.</para></listitem>
-	<listitem><para>Definition of child changed in <xref
-	linkend="infants_and_children"/>.</para></listitem>
-	<listitem><para>Uncontrolled airspace without radar cover added to <xref
-	linkend="vfrifr"/>/</para></listitem>
-	<listitem><para>"Minimum fuel" call added to <xref
-	linkend="inflight-fuel"/>.</para></listitem>
+        <listitem><para></para></listitem>
       </itemizedlist>
     </sect1>
   </preface>
@@ -88,7 +33,7 @@
     <para>He must ensure that:
     <orderedlist>
       <listitem>
-        <para revisionflag="changed">All SOPS and checklists are fully complied with.</para>
+        <para>All SOPS and checklists are fully complied with.</para>
       </listitem>
       <listitem>
         <para>The weather will not infringe operating minima and the required alternates are available.</para>
@@ -97,10 +42,10 @@
         <para>Ground facilities and services required for the planned flight are available and adequate.</para>
       </listitem>
       <listitem>
-        <para revisionflag="changed">The correct types and quantities of fuel, oil and oxygen are carried, and uplifts are recorded.</para>
+        <para>The correct types and quantities of fuel, oil and oxygen are carried, and uplifts are recorded.</para>
       </listitem>
-      <listitem><para revisionflag="added">Crew are briefed with any relevant information.</para></listitem>
-      <listitem revisionflag="changed">
+      <listitem><para>Crew are briefed with any relevant information.</para></listitem>
+      <listitem>
         <para>The aircraft is airworthy with any unserviceable equipment compliant with
         the CDL or MEL and all emergency equipment easily accessible for immediate use.
         <!-- If third party maintenance is required whilst away from base, the procedures referred to in -->
@@ -110,7 +55,7 @@
         <para>The preflight inspection has been completed, and that all required documents, maps and charts are onboard
         and valid.</para>
       </listitem>
-      <listitem><para revisionflag="added">No loose articles are present in the flight deck.</para></listitem>
+      <listitem><para>No loose articles are present in the flight deck.</para></listitem>
       <listitem>
         <para>The aircraft is within its weight and balance envelope and the load is properly secured.</para>
       </listitem>
@@ -130,7 +75,7 @@
         <para>A full safety briefing, including exits and equipment carried, is given to the passengers.</para>
       </listitem>
       <listitem>
-        <para revisionflag="changed">Crew members are not permitted to perform any activity during critical phases of flight
+        <para>Crew members are not permitted to perform any activity during critical phases of flight
         except those duties required for the safe operation of the aircraft.</para>
       </listitem>
       <listitem>
@@ -163,16 +108,16 @@
       <listitem><para>At the end of the duty, the aircraft is handed over to another commander or a
       qualified engineer, or it is properly secured.</para></listitem>
       <listitem>
-        <para revisionflag="changed">
+        <para>
           A post flight debrief is carried out as deemed appropriate.
         </para>
       </listitem>
-      <listitem><para revisionflag="added">Flight envelope with required retained paperwork is delivered to crew room.</para></listitem>
-      <listitem><para revisionflag="added">Any manoeuvre in response to airborne collision avoidance system resolution
+      <listitem><para>Flight envelope with required retained paperwork is delivered to crew room.</para></listitem>
+      <listitem><para>Any manoeuvre in response to airborne collision avoidance system resolution
       advisory is reported to the competent authority.</para></listitem>
-      <listitem><para revisionflag="added">Any bird strikes or bird hazards are reported promptly to the relevant ATS and
+      <listitem><para>Any bird strikes or bird hazards are reported promptly to the relevant ATS and
       any bird strike resulting in damage or malfunction is reported to the competent authority.</para></listitem>
-      <listitem><para revisionflag="added">Pilot uniform standards are maintained.</para></listitem>
+      <listitem><para>Pilot uniform standards are maintained.</para></listitem>
     </orderedlist>
     </para>
     <para role="multicite">[EOMA 1.4, EOMA 2.3.2/3, EOMA 8.1]</para>
@@ -182,31 +127,31 @@
     <title>Crew composition</title>
     <sect1 id="flightcrew_composition">
       <title>Flight crew</title>
-      <para revisionflag="changed">The minimum flight crew is two pilots, at least one of whom must
+      <para>The minimum flight crew is two pilots, at least one of whom must
       be a Captain. In addition, a safety pilot fully qualified to operate in the right seat must be
       carried for base training and line flying under supervision until positive release.</para>
 
-      <para revisionflag="changed">The maximum age for a pilot is 65. Not more than one pilot may be aged 60 years or
+      <para>The maximum age for a pilot is 65. Not more than one pilot may be aged 60 years or
       more. Pilots with Operational Medical Limitations must not fly together and must not fly with
       pilots aged 60 years or greater.</para>
 
-      <para revisionflag="changed">Inexperienced (***) flight crew must not operate together. To be
+      <para>Inexperienced (***) flight crew must not operate together. To be
       considered experienced, crew must have completed 100 flight hours and 10 sectors within 120
       days of final line check or 150 flight hours and 20 sectors after final line check without
       time limit. A Captain, in addition, must successfully complete their first recurrent simulator
       session and a first officer must complete a continuation training flight.</para>
 
-      <para revisionflag="added">At least one flight crew member must be present for
+      <para>At least one flight crew member must be present for
       boarding.</para>
 
-      <para revisionflag="changed">The minimum crew for taxiing is a Commander and a second pilot,
+      <para>The minimum crew for taxiing is a Commander and a second pilot,
       both qualified on type.</para>
 
-      <para revisionflag="changed">The commander must sit in the left seat unless required to command from the right seat
+      <para>The commander must sit in the left seat unless required to command from the right seat
       in order to conduct a training detail. Captains may only operate from the right seat if they
       have undergone specific training and recurrency checks (see EOM 4.2.2).</para>
 
-      <para revisionflag="added">Flight crew may operate under UK or Swoss AOCs provided the Change
+      <para>Flight crew may operate under UK or Swoss AOCs provided the Change
       of Operator Self Briefing training package has been completed. Interchange of cabin crew is
       not permitted.</para>
 
@@ -216,18 +161,18 @@
     <sect1 id="cabincrew_composition">
       <title>Cabin crew</title>
 
-      <para revisionflag="changed">The minimum cabin crew is 4 unless operating an A319 with seat
+      <para>The minimum cabin crew is 4 unless operating an A319 with seat
       blockers, in which case it is 3, or operating a non-commercial flight with less than 19
       passengers, in which case cabin crew are not required.</para>
 
-      <para revisionflag="added">One Cabin Crew member will be nominated by the company as Senior
+      <para>One Cabin Crew member will be nominated by the company as Senior
       Cabin Crew Member.</para>
 
-      <para revisionflag="added">Cabin crew are considered inexperienced (i.e. ***) until they have
+      <para>Cabin crew are considered inexperienced (i.e. ***) until they have
       completed 40 sectors (or 20 sectors with caveats) as operating crew. At least two cabin crew
       members must be experienced.</para>
 
-      <para revisionflag="changed">In extreme circumstances the cabin crew complement may be reduced to 3 providing:
+      <para>In extreme circumstances the cabin crew complement may be reduced to 3 providing:
 
       <itemizedlist>
 	<listitem>
@@ -254,11 +199,11 @@
         </listitem>
       </itemizedlist></para>
 
-      <para revisionflag="added">In general, cabin crew who have become unfit to fly should be
+      <para>In general, cabin crew who have become unfit to fly should be
       offloaded. Under extraordinary circumstances, the commander may elect to repatriate the cabin
       crew member.</para>
 
-      <para revisionflag="changed">It is permissible to board with only SCCM, CC2 and CC3 provided that:
+      <para>It is permissible to board with only SCCM, CC2 and CC3 provided that:
 
       <itemizedlist>
  	<listitem>
@@ -279,7 +224,7 @@
       <para role="multicite">[EOM-A 4.1.3, EOM-A 4.1.4]</para>
 
     </sect1>
-    <sect1 revisionflag="changed" id="positioning">
+    <sect1 id="positioning">
       <title>Positioning crew</title>
 
       <para>Positioning crew will normally be booked as passengers, although in exceptional
@@ -297,7 +242,7 @@
       <para role="multicite">[EOM-A 4.5, EOM-A 4.6]</para>
 
     </sect1>
-    <sect1 revisionflag="changed" id="inspectors">
+    <sect1 id="inspectors">
       <title>Inspectors and Auditors</title>
 
       <para>Flight Ops Inspectors may, at any time, board any easyJet aircraft and enter and remain
@@ -318,9 +263,9 @@
     <title>Qualification and Recency Requirements</title>
     <para>The minimum qualifications to act as a commander are:
     <orderedlist>
-      <listitem><para revisionflag="changed">A UK or CH EASA-FCL ATPL with instrument rating and relevant type rating</para></listitem>
+      <listitem><para>A UK or CH EASA-FCL ATPL with instrument rating and relevant type rating</para></listitem>
       <listitem><para>Class I medical</para></listitem>
-      <listitem revisionflag="added"><para>ICAO level 5 language proficiency requirement (level 4 for EZS)</para></listitem>
+      <listitem><para>ICAO level 5 language proficiency requirement (level 4 for EZS)</para></listitem>
       <listitem>
         <para>Valid ATQP recurrent checks:
         <informaltable>
@@ -333,7 +278,7 @@
             </thead>
             <tbody>
               <row>
-                <entry>Licence Proficiency Check <footnote><para revisionflag="changed">Incorporates Operator Proficiency
+                <entry>Licence Proficiency Check <footnote><para>Incorporates Operator Proficiency
                 Check, Instrument Rating renewal, elements of CRM and elements of Ground and Refresher
                 Training.</para></footnote></entry>
                 <entry>12 months
@@ -354,7 +299,7 @@
 		</entry>
               </row>
               <row>
-                <entry>Line Oriented Evaluation <footnote><para revisionflag="changed">Incorporates elements of CRM and Ground and Refresher
+                <entry>Line Oriented Evaluation <footnote><para>Incorporates elements of CRM and Ground and Refresher
                 Training.</para></footnote></entry>
                 <entry>12 months <footnoteref linkend="validity-start-date"/><footnoteref linkend="validity-start-date-renewal"/></entry>
               </row>
@@ -364,14 +309,14 @@
               </row>
 	      <row>
 		<entry>Dangerous Goods</entry>
-		<entry revisionflag="changed">24 months <footnoteref linkend="validity-start-date"/><footnoteref linkend="validity-start-date-renewal"/></entry>
+		<entry>24 months <footnoteref linkend="validity-start-date"/><footnoteref linkend="validity-start-date-renewal"/></entry>
 	      </row>
 	      <row>
 		<entry>Aviation Security</entry>
 		<entry>12 months <footnoteref linkend="validity-start-date"/></entry>
 	      </row>
 	      <row>
-		<entry revisionflag="changed">Emergency and Safety Equipment Training</entry>
+		<entry>Emergency and Safety Equipment Training</entry>
 		<entry>24 months <footnoteref linkend="validity-start-date"/><footnoteref
 		linkend="validity-start-date-renewal"/></entry>
 	      </row>
@@ -383,7 +328,7 @@
           </tgroup>
         </informaltable>
       </para></listitem>
-      <listitem revisionflag="changed">
+      <listitem>
 	<para>Three take-off and landings as an operating pilot in the preceding 45 days. A
         simulator may be used.</para>
       </listitem>
@@ -393,7 +338,7 @@
 	satisfied by the LPC.</para>
       </listitem>
       <listitem>
-        <para revisionflag="changed">3500 factored hours of which 500 hours must be on a medium or large jet
+        <para>3500 factored hours of which 500 hours must be on a medium or large jet
 	transport.</para>
       </listitem>
       <listitem>
@@ -417,7 +362,7 @@
     </sect1>
     <sect1 id="cosmic_radiation">
       <title>Cosmic radiation</title>
-      <para revisionflag="changed">Statutory directives state that the acceptable radiation exposure of aircrew is 6mSv/yr.
+      <para>Statutory directives state that the acceptable radiation exposure of aircrew is 6mSv/yr.
       Radiation exposure is modelled by easyJet to try to prevent exposure above this level. easyJet
       continuously monitors estimated radiation doses; personal estimated exposure is published on
       AIMS. </para>
@@ -512,7 +457,7 @@
   </chapter>
   <chapter id="ftl">
     <title>Flight Time Limitations Scheme</title>
-    <sect1 revisionflag="added">
+    <sect1>
       <title>Warning</title>
 
       <para>With the introduction of EASA FTL and ongoing union negotiations across multiple
@@ -522,7 +467,7 @@
 
     </sect1>
 
-    <sect1 revisionflag="changed">
+    <sect1>
       <title>Definitions</title>
 
       <para><emphasis role="strong">Duty period</emphasis>: Any continuous period where a crew member is required to carry out a task
@@ -536,7 +481,7 @@
 
     </sect1>
 
-    <sect1 revisionflag="changed">
+    <sect1>
       <title>Days Off</title>
 
       <para>A singleton day off is defined as at least 36 hours and 2 local nights. Two consecutive
@@ -564,7 +509,7 @@
 
     </sect1>
 
-    <sect1 revisionflag="changed">
+    <sect1>
 
       <title>Required rest</title>
       <para>From home base, the rest required before operating a duty is 12 hours or the length of
@@ -606,7 +551,7 @@
 
       </sect2>
     </sect1>
-    <sect1 revisionflag="changed">
+    <sect1>
       <title>Maximum Flight Duty</title>
 
       <para>The maximum allowable flight duty for flight crew is governed by the country in which
@@ -691,7 +636,7 @@
       </sect2>
     </sect1>
 
-    <sect1 id="consecutive" revisionflag="changed">
+    <sect1 id="consecutive">
       <title>Consecutive night, early start and late finish duties</title>
 
       <para>If any part of a duty falls within the period 02:00 to 04:59 local time (in the time
@@ -759,7 +704,7 @@
 
     </sect1>
 
-    <sect1 id="cumulative-limits" revisionflag="changed">
+    <sect1 id="cumulative-limits">
       <title>Cumulative limits</title>
       <para><xref linkend="cumulative"/> shows the cumulative duty time and block time limitations
       applicable to flight crew operating under the 5453 ruleset and to cabin crew operating under
@@ -822,7 +767,7 @@
       </sect2>
     </sect1>
 
-    <sect1 revisionflag="changed">
+    <sect1>
       <title>Standby</title>
 
       <sect2><title>Home Standby</title>
@@ -889,7 +834,7 @@
 
     </sect1>
 
-    <sect1 id="transitions" revisionflag="changed">
+    <sect1 id="transitions">
       <title>Transitions</title>
 
       <para>For the purposes of transition control:
@@ -930,7 +875,7 @@
       rules, but must be taken into account for future rostering.</para>
 
     </sect1>
-    <sect1 id="pre_and_post_flight_duties" revisionflag="changed">
+    <sect1 id="pre_and_post_flight_duties">
       <title>Pre and post flight duties</title>
 
       <para>For “normal” flight duty periods, a minimum of 1 hour must be planned for pre-flight
@@ -947,7 +892,7 @@
       briefing allowance will <emphasis>always</emphasis> trigger an investigation.</para>
 
     </sect1>
-    <sect1 revisionflag="added"><title>Miscellaneous</title>
+    <sect1><title>Miscellaneous</title>
     <sect2><title>Positioning</title>
     <para>All time spent positioning counts as duty time for the purposes of all FTL limits. Time
     spent positioning prior to operating counts as FDP, but does not count as a sector.</para>
@@ -963,7 +908,7 @@
     <title>Flight preparation instructions</title>
     <sect1 id="min-altitudes">
       <title>Minimum flight altitudes</title>
-      <sect2 revisionflag="changed"><title>Definitions</title>
+      <sect2><title>Definitions</title>
 
       <para>Minimum Flight Altitude (MFA) is the generic term for the minimum altitude at which it
       is safe for an aircraft to fly.</para>
@@ -1049,7 +994,7 @@
       below 1013. This can be applied as a positive increment to a published minimum altitude to
       calculate a minimum flight level.</para>
 
-      <para revisionflag="changed">A combination of high winds and high terrain can result in localised variations in
+      <para>A combination of high winds and high terrain can result in localised variations in
       atmospheric pressure; consideration should be given to increasing MFA under these
       conditions.</para>
 
@@ -1059,7 +1004,7 @@
       <para role="multicite">[EOM-A 8.1.1.3]</para>
       </sect2>
 
-      <sect2 revisionflag="changed"><title>Operational requirements</title>
+      <sect2><title>Operational requirements</title>
 
       <para>Obstacle clearance for take-off and initial climb phase is provided by a combination of
       LPC performance calculation and SID and EOSID design.</para>
@@ -1088,7 +1033,7 @@
       all respects, including runway dimensions, obstacles, ATS, lighting, approach procedures, weather reporting and
       emergency services.</para>
 
-      <para revisionflag="changed">Rescue and Fire Fighting Service (RFFS) category 6 is the normal minimum acceptable
+      <para>Rescue and Fire Fighting Service (RFFS) category 6 is the normal minimum acceptable
       level of cover. For some destinations, category 5 is considered acceptable; this will be
       notified on the OFP. Temporary reductions to category 4 is permitted at departure and
       destination for a period of time not exceeding 72 hours. Downgrade to category 5 at UK
@@ -1096,7 +1041,7 @@
       flight, the Commander may elect to land at an aerodrome regardless of RFSS category if it is
       considered safer than diverting.</para>
 
-      <para revisionflag="changed">easyJet will categorise aerodromes from A to C in order of
+      <para>easyJet will categorise aerodromes from A to C in order of
       increasing difficulty. The category of an aerodrome is promulgated in its LIDO CCI
       page. Operation to a category B aerodrome requires self-briefing. Signing the OFP confirms
       that this has been done. Operation to a category C requires specific crew
@@ -1108,15 +1053,15 @@
     <sect1 id="minima">
       <title>Aerodrome Operating Minima</title>
 
-      <para revisionflag="changed">All easyJet aircraftare Category C for the purpose of calculating operating
+      <para>All easyJet aircraftare Category C for the purpose of calculating operating
       minima.</para>
 
-      <para revisionflag="changed">Aerodrome specific take-off minima are presented on LIDO AOI
+      <para>Aerodrome specific take-off minima are presented on LIDO AOI
       charts. Pilot assessment of RVR for the initial part of the take-off run is permissable, but
       reported RVR must be considered for all other <emphasis>relevant</emphasis> reporting
       points.</para>
 
-      <para revisionflag="changed">Minima for instrument approaches (including circling approaches) are presented on the
+      <para>Minima for instrument approaches (including circling approaches) are presented on the
       relevant LIDO approach plates. Where decision height is listed as “Company”, NO DH should be
       used for CAT3B and 50RA should be used for CAT3A. easyJet is not certified to use “Localiser
       Perfomance with Vertical guidance” (LPV) minimas. Only RVRs applicable to relevant segments of
@@ -1154,7 +1099,7 @@
       systems are downgraded, approach minima may need to be modified. A table is presented at EOM-A
       8.1.3.5 for this purpose.</para>
 
-      <para revisionflag="changed">A visual approach requires Met Visibility &#x2265; 5km and cloud base &#x2265;
+      <para>A visual approach requires Met Visibility &#x2265; 5km and cloud base &#x2265;
       2,500ft. Visual approaches at night are authorised unless prohibited in the relevant
       CCI. Visual circuits must be flown at a height greater than 1500ft that ensures at least 500ft
       separation from obstacles.</para>
@@ -1184,7 +1129,7 @@
 	  <listitem><para>Two destination alternates are required when landing performance cannot be
 	  assured due to wind or runway state or when no meteorological information is available for
 	  the destination.</para></listitem>
-          <listitem revisionflag="changed"><para>A table for interpretation of TAFs with regards these requirements can be
+          <listitem><para>A table for interpretation of TAFs with regards these requirements can be
           found at EOM-A 8.1.2.4.</para></listitem>
 	  <listitem><para>Runways may be considered independent if each runway has a separate
 	  approach procedure based on a separate approach aid and no conceivable blockage of one
@@ -1430,14 +1375,14 @@
 
       <sect2 condition="airbus" id="balance">
 	<title>Balance calculation</title>
-	<para revisionflag="changed">Compliance with balance limitations is achieved using the EFB Weight and Balance
+	<para>Compliance with balance limitations is achieved using the EFB Weight and Balance
 	modules with actual seating positions. A “free seating contingency” is available at EOMB 7.5
         for exceptional circumstances precluding the use of allocated seating data.</para>
 
 	<para role="multicite">[EOM-B 7.1.1]</para>
       </sect2>
 
-      <sect2 condition="airbus" id="lmc" revisionflag="changed">
+      <sect2 condition="airbus" id="lmc">
 	<title>Last minute changes</title>
 
 	<para>An LMC involving +10/-20 Passengers requires new paperwork and a new performance
@@ -1544,7 +1489,7 @@
 	is assessed by MOC as having no effect on airworthiness or when the relevant MEL entry has
 	no maintenance actions specified.</para>
 
-	<para revisionflag="changed">To defer a defect the commander should make an entry in the "ACTION TAKEN" column with
+	<para>To defer a defect the commander should make an entry in the "ACTION TAKEN" column with
 	the MEL reference, repair interval and ADD number (AMOS number available from MOC). The
 	commander signs for this in the "ACTION TAKEN" column; MOC will arrange for the Release to
 	Service column to be signed off by a licenced engineer at the earliest opportunity. The
@@ -1563,7 +1508,7 @@
 	These entries do not count as open defects, so signatures should be placed below the
 	entry and the associated "Action Taken" and RTS sections should be struck through.</para>
 
-	<para revisionflag="changed">Information that may be useful but which does not require immediate engineering
+	<para>Information that may be useful but which does not require immediate engineering
 	action may, with MOC's agreement, be recorded as a "FOR INFO" entry in a similar way,
 	e.g.
 
@@ -1583,7 +1528,7 @@
       <sect2 id="rec-eng-checks">
 	<title>Recurrent engineering checks</title>
 
-	<para revisionflag="changed">The validity of recurrent engineering checks must be confirmed prior to accepting an
+	<para>The validity of recurrent engineering checks must be confirmed prior to accepting an
 	aircraft. This is done for most checks by checking that the Certificate of Release to
 	Service is valid. Completion of the daily check is recorded via an entry in the defect
 	column; the earliest a daily inspection for a given calendar day may be certified is 18:00z on
@@ -1602,7 +1547,7 @@
 	<para role="multicite">[EOM-A 8.1.11.17]</para>
       </sect2>
     </sect1>
-    <sect1 revisionflag="changed" id="rqd-docs">
+    <sect1 id="rqd-docs">
       <title>Documents to be carried</title>
       <sect2>
 	<title>Certificates</title>
@@ -1661,13 +1606,13 @@
 
       <para>Refuelling may take place with passengers on board, but the following restrictions apply:
       <itemizedlist>
-        <listitem revisionflag="added"><para>A clear evacuation route from the aircraft must be
+        <listitem><para>A clear evacuation route from the aircraft must be
         available via airbridge or steps. The fuel card should not be displayed until this condition
         is met.</para></listitem>
 
 	<listitem><para>Local restrictions must be checked.</para></listitem>
 
-        <listitem revisionflag="changed"><para>At least one pilot must be on the flight deck and must establish and
+        <listitem><para>At least one pilot must be on the flight deck and must establish and
 	maintain visual contact or two-way communication with the fueller.</para></listitem>
 
 	<listitem><para>A full cabin crew compliment is required. There must be at least one
@@ -1688,7 +1633,7 @@
 
       <para>Defuelling is not permitted with passengers on board.</para>
 
-      <para revisionflag="changed">The fuel card may be used to expedite the fuelling
+      <para>The fuel card may be used to expedite the fuelling
       process. Display of the fuel card authorises the commencement of fuelling; if any passengers
       remain on board it must be delayed until all relevant restrictions have been met. The fuel
       card must be stowed once fuelling is complete.</para>
@@ -1765,7 +1710,7 @@
 	<para role="multicite">[EOM-A 8.2.2.4, CSPM 2.4.12]</para>
       </sect2>
 
-     <sect2 revisionflag="changed" id="exp-mothers">
+     <sect2 id="exp-mothers">
        <title>Expectant mothers</title>
        <para>Expectant mothers can be accepted for travel up to their 35th week for single
        pregnancies or 32nd week for multiple pregnancies. Medical certification is not
@@ -2039,7 +1984,7 @@
       of radar service should be sought whenever outside controlled airspace. Flight in uncontrolled
       airspace without radar cover requires authorisation from the duty pilot.</para>
 
-      <para revisionflag="changed">VFR flight should be considered exceptional and must be authorised by the post holder
+      <para>VFR flight should be considered exceptional and must be authorised by the post holder
       flight operations. It must be conducted in accordance with the normal VFR minimum visibility
       and distance for cloud regulations, set out in EOMA 8.1.4/</para>
 
@@ -2068,7 +2013,7 @@
       <para>RVSM airspace is airspace above FL290 where only 1000ft vertical separation is
       maintained. All easyJet aircraft are RVSM approved.</para>
 
-      <para condition="airbus" revisionflag="changed">On entry to RVSM airspace the following equipment must be installed
+      <para condition="airbus">On entry to RVSM airspace the following equipment must be installed
       and serviceable: 2 primary altimeters, one automatic altitude control system, one altitude
       alerting system and one SSR transponder with altitude reporting. The primary altimeters must
       agree within 200ft. The altimeter being used to control the aircraft should normally be
@@ -2084,7 +2029,7 @@
     <sect1 id="inflight-fuel">
       <title>In-flight fuel management</title>
 
-      <para revisionflag="changed">All flights require a written fuel check at the top of climb, then further written
+      <para>All flights require a written fuel check at the top of climb, then further written
       checks at intervals of 1 hour or less.<!--  In addition, verbal fuel checks should be carried out -->
       <!-- at intervals of 30 minutes or less. --></para>
 
@@ -2198,7 +2143,7 @@
 	<para>No visual reference is required for Cat IIIB operations with no DH. At least one
 	centre line light must be attained for Cat IIIB operations with DH.</para>
 
-	<para revisionflag="changed">Cat IIIA operations require 3 consecutive lights. These can be the centre-line lights
+	<para>Cat IIIA operations require 3 consecutive lights. These can be the centre-line lights
 	of the approach lighting, the TDZ lights, the runway centre line lights or the runway edge
 	lights. Cat II operations require the same reference as Cat IIIA plus a lateral element of
 	the ground pattern (e.g. an approach lighting crossbar). Cat I LTS operations require the
@@ -2258,7 +2203,7 @@
       <sect2 id="fddoor">
 	<title>Flight deck door</title>
 
-	<para revisionflag="changed">Except for essential entry and egress of crew, the flight deck door should remain
+	<para>Except for essential entry and egress of crew, the flight deck door should remain
 	locked whenever the engines are running. The door should be unlocked for the minimum time
 	possible, and whenever it is unlocked it should be guarded by a cabin crew member standing
 	outside the flight deck and facing the cabin. The flight crew should monitor compliance via
@@ -2369,7 +2314,7 @@
   </sect1>
 
 </chapter>
-<chapter id="oceanicops" revisionflag="added">
+<chapter id="oceanicops">
   <title>Oceanic operations</title>
 
   <section>
@@ -2449,7 +2394,7 @@
         <title>Communications</title>
 
         <para>30 minutes after entry, squawk 2000 unless otherwise advised. This does not apply to
-        Reykjavic OCA. In the Shanwick Oceanic Transiton Area (SOTA), squawks will be given by
+        Reykjavic OCA. In the Shanwick Oceanic Transition Area (SOTA), squawks will be given by
         Shannon ACC.</para>
 
         <para>123.45 and 121.5 should be monitored on VHF radios. HF does not need to be monitored
@@ -2608,7 +2553,7 @@
 
   </section>
 </chapter>
-<chapter id="winterops" revisionflag="added">
+<chapter id="winterops">
   <title>Winter Operations</title>
   <section>
     <title>Aircraft contamination on the ground</title>
