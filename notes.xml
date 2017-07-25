@@ -22,6 +22,8 @@
       <itemizedlist>
         <listitem><para><xref linkend="pre-flight-fuel"/> updated to include the use of Statistical
         Contingency Fuel in the determination of contingency fuel requirements.</para></listitem>
+        <listitem><para><xref linkend="payload-limited-fuel"/> updated to include Statistical
+        Contingency Fuel in En-Route Alternate alternative flight planning procedure.</para></listitem>
       </itemizedlist>
     </sect1>
   </preface>
@@ -1249,7 +1251,7 @@
     </variablelist>
       </para>
       <para role="multicite">[EOM-A 8.1.7<phrase condition="airbus">, EOM-B 5</phrase>]</para>
-      <sect2>
+      <sect2 id="payload-limited-fuel">
 	<title>Reducing fuel loads to allow increased payload</title>
 
 	<para>Where payloads are such that the carriage of normal fuel loads results in exceedance
@@ -1264,10 +1266,13 @@
 	destination alternate (see <xref linkend="alternates"/>) are met. In this case, the
 	alternate fuel can be replaced with 15 minutes of holding at destination.</para>
 
-	<para>Finally, for sectors of over 1000nm, contingency fuel can be reduced from 5% to 3%
-	providing that a suitable en-route alternate is specified. The procedure is detailed at
-	EOM-A 8.1.7.6.4. Note that a new OFP should be used; OCC were unable to provide one last
-	time I asked.</para>
+	<para revisionflag="changed">Finally, it is possible to reduce contingency fuel by declaring an
+	“en-route alternate”. This procedure will, at most, allow contingency fuel to be reduced to 90th
+	centile statistical contingency fuel (SCF), or, in the absence of SCF figures, 3% of trip
+	fuel. The contingency can never be reduced below 5 minutes of holding at 1500ft at destination,
+	and minimums of 204kg for A320 or 190kg for A319 also apply. Details of the procedure, including
+	the somewhat complex determination of where an en-route alternate must be situated, may be found
+	in EOM-A 8.1.7.6.4.</para>
 
 	<para role="multicite">[EOM-A 8.1.7.6]</para>
       </sect2>
