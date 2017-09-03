@@ -38,105 +38,146 @@
 
 
 <chapter id="commander-duties">
-    <title>Authority, Duties and Responsibilities of a Commander </title>
-    <para>The commander has overall responsibility for the safety of the aircraft, its occupants and its cargo, and
-    the authority to issue any commands required to secure this. He has the authority to increase any safety
-    margin, including aerodrome operating minima, as he sees fit. In an emergency situation, he has the authority
-    to override any rule or procedure in the interest of safety.</para>
-    <para>He must ensure that:
-    <orderedlist>
-      <listitem>
-        <para>All SOPS and checklists are fully complied with.</para>
-      </listitem>
-      <listitem>
-        <para>The weather will not infringe operating minima and the required alternates are available.</para>
-      </listitem>
-      <listitem>
-        <para>Ground facilities and services required for the planned flight are available and adequate.</para>
-      </listitem>
-      <listitem>
-        <para>The correct types and quantities of fuel, oil and oxygen are carried, and uplifts are recorded.</para>
-      </listitem>
-      <listitem><para>Crew are briefed with any relevant information.</para></listitem>
-      <listitem>
-        <para>The aircraft is airworthy with any unserviceable equipment compliant with
-        the CDL or MEL and all emergency equipment easily accessible for immediate use.
-        <!-- If third party maintenance is required whilst away from base, the procedures referred to in -->
-        <!-- EOM-A 8.1.11 must be followed. --></para>
-      </listitem>
-      <listitem>
-        <para>The preflight inspection has been completed, and that all required documents, maps and charts are onboard
-        and valid.</para>
-      </listitem>
-      <listitem><para>No loose articles are present in the flight deck.</para></listitem>
-      <listitem>
-        <para>The aircraft is within its weight and balance envelope and the load is properly secured.</para>
-      </listitem>
-      <listitem>
-        <para>The available aircraft performance is sufficient for all phases of the proposed flight.</para>
-      </listitem>
-      <listitem>
-        <para>Any person, or any part of the cargo, which may represent a potential hazard to the safety of the
-        aircraft or its occupants is disembarked. This includes:
-        <itemizedlist>
-          <listitem><para>Persons under the influence of alcohol or drugs, to the extent that they pose a risk.</para></listitem>
-          <listitem><para>Inadmissible passengers, deportees or persons in custody if they pose any
-	  risk.</para></listitem>
-	</itemizedlist></para>
-      </listitem>
-      <listitem>
-        <para>A full safety briefing, including exits and equipment carried, is given to the passengers.</para>
-      </listitem>
-      <listitem>
-        <para>Crew members are not permitted to perform any activity during critical phases of flight
-        except those duties required for the safe operation of the aircraft.</para>
-      </listitem>
-      <listitem>
-        <para>A continuous listening watch is maintained on the appropriate radio frequencies.</para>
-      </listitem>
-      <listitem>
-        <para>The cabin is secured (passengers secured and cabin baggage properly stowed) for taxi, take-off,
-        landing and whenever turbulence is expected.</para>
-      </listitem>
-      <!-- <listitem> -->
-      <!--   <para>The cabin crew are secured in their allocated seats for takeoff, landing and when not carrying out -->
-      <!--   essential duties whilst taxiing.</para> -->
-      <!-- </listitem> -->
-      <listitem>
-        <para>The flight data recorder is not disabled, switched off or erased during flight nor erased after
-        flight in the event of an accident or an incident subject to mandatory reporting.</para>
-      </listitem>
-      <listitem>
-        <para>
-          The flight deck door is locked at all times between engine start and engine shutdown, with
-          the exception of when it must be opened for physiological reasons.
-        </para>
-      </listitem>
-      <listitem>
-        <para>
-          The aircraft technical log is completed and all relevant information is transmitted via
-          ACARS. If ACARS is unavailable, a journey log must be sent.
-        </para>
-      </listitem>
-      <listitem><para>At the end of the duty, the aircraft is handed over to another commander or a
-      qualified engineer, or it is properly secured.</para></listitem>
-      <listitem>
-        <para>
-          A post flight debrief is carried out as deemed appropriate.
-        </para>
-      </listitem>
-      <listitem><para>Flight envelope with required retained paperwork is delivered to crew room.</para></listitem>
-      <listitem><para>Any manoeuvre in response to airborne collision avoidance system resolution
-      advisory is reported to the competent authority.</para></listitem>
-      <listitem><para>Any bird strikes or bird hazards are reported promptly to the relevant ATS and
-      any bird strike resulting in damage or malfunction is reported to the competent authority.</para></listitem>
-      <listitem><para>Pilot uniform standards are maintained.</para></listitem>
-    </orderedlist>
-    </para>
-    <para role="multicite">[EOMA 1.4, EOMA 2.3.2/3, EOMA 8.1]</para>
+  <title>Authority, Duties and Responsibilities of a Commander </title>
 
-  </chapter>
-  <chapter id="crew-composition">
+  <para>The commander has overall responsibility for the safety of the aircraft, its occupants and
+  its cargo, and the authority to issue any commands required to secure this. He has the authority
+  to increase any safety margin, including aerodrome operating minima, as he sees fit. In an
+  emergency situation, he has the authority to override any rule or procedure in the interest of
+  safety.</para>
+
+  <para>He must ensure that:
+  <orderedlist>
+    <listitem>
+      <para>All SOPS and checklists are fully complied with.</para>
+    </listitem>
+
+    <listitem>
+      <para>The weather will not infringe operating minima and the required alternates are
+      available.</para>
+    </listitem>
+
+    <listitem>
+      <para>Ground facilities and services required for the planned flight are available and
+      adequate.</para>
+    </listitem>
+
+    <listitem>
+      <para>The correct types and quantities of fuel, oil and oxygen are carried, and uplifts are
+      recorded.</para>
+    </listitem>
+
+    <listitem><para>Crew are briefed with any relevant information.</para></listitem>
+
+    <listitem>
+      <para>The aircraft is airworthy with any unserviceable equipment compliant with the CDL or MEL
+      and all emergency equipment easily accessible for immediate use.</para>
+
+      <!-- If third party maintenance is required whilst away from base, the procedures referred to
+           in EOM-A 8.1.11 must be followed. -->
+    </listitem>
+
+    <listitem>
+      <para>The preflight inspection has been completed, and that all required documents, maps and
+      charts are onboard and valid.</para>
+    </listitem>
+
+    <listitem><para>No loose articles are present in the flight deck.</para></listitem>
+
+    <listitem>
+      <para>The aircraft is within its weight and balance envelope and the load is properly
+      secured.</para>
+    </listitem>
+
+    <listitem>
+      <para>The available aircraft performance is sufficient for all phases of the proposed
+      flight.</para>
+    </listitem>
+
+    <listitem>
+      <para>Any person, or any part of the cargo, which may represent a potential hazard to the
+      safety of the aircraft or its occupants is disembarked. This includes:
+      <itemizedlist>
+        <listitem><para>Persons under the influence of alcohol or drugs, to the extent that they
+        pose a risk.</para></listitem>
+
+        <listitem><para>Inadmissible passengers, deportees or persons in custody if they pose any
+        risk.</para></listitem>
+	  </itemizedlist></para>
+    </listitem>
+
+    <listitem>
+      <para>A full safety briefing, including exits and equipment carried, is given to the
+      passengers.</para>
+    </listitem>
+
+    <listitem>
+      <para>Crew members are not permitted to perform any activity during critical phases of flight
+      except those duties required for the safe operation of the aircraft.</para>
+    </listitem>
+
+    <listitem>
+      <para>A continuous listening watch is maintained on the appropriate radio frequencies.</para>
+    </listitem>
+
+    <listitem>
+      <para>The cabin is secured (passengers secured and cabin baggage properly stowed) for taxi,
+      take-off, landing and whenever turbulence is expected.</para>
+    </listitem>
+
+    <!-- <listitem> -->
+    <!-- <para>The cabin crew are secured in their allocated seats for takeoff, landing and when not
+         carrying out -->
+    <!--   essential duties whilst taxiing.</para> -->
+    <!-- </listitem> -->
+
+    <listitem>
+      <para>The flight data recorder is not disabled, switched off or erased during flight nor
+      erased after flight in the event of an accident or an incident subject to mandatory
+      reporting.</para>
+    </listitem>
+
+    <listitem>
+      <para>The flight deck door is locked at all times between engine start and engine shutdown,
+      with the exception of when it must be opened for physiological reasons.</para>
+    </listitem>
+
+    <listitem>
+      <para>The aircraft technical log is completed and all relevant information is transmitted via
+      ACARS. If ACARS is unavailable, a journey log must be sent.</para>
+    </listitem>
+
+    <listitem>
+      <para>At the end of the duty, the aircraft is handed over to another commander or a qualified
+      engineer, or it is properly secured.</para>
+    </listitem>
+
+    <listitem>
+      <para>A post flight debrief is carried out as deemed appropriate.</para>
+    </listitem>
+
+    <listitem>
+      <para>Flight envelope with required retained paperwork is delivered to crew room.</para>
+    </listitem>
+
+    <listitem>
+      <para>Any manoeuvre in response to airborne collision avoidance system resolution advisory is
+      reported to the competent authority.</para>
+    </listitem>
+
+    <listitem>
+      <para>Any bird strikes or bird hazards are reported promptly to the relevant ATS and any bird
+      strike resulting in damage or malfunction is reported to the competent authority.</para>
+    </listitem>
+
+    <listitem><para>Pilot uniform standards are maintained.</para></listitem>
+  </orderedlist></para>
+
+  <para role="multicite">[EOMA 1.4, EOMA 2.3.2/3, EOMA 8.1]</para>
+</chapter>
+
+
+<chapter id="crew-composition">
     <title>Crew composition</title>
     <sect1 id="flightcrew_composition">
       <title>Flight crew</title>
