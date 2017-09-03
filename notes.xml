@@ -440,112 +440,153 @@
 
 
 <chapter id="health">
-    <title>Crew Health Precautions</title>
-    <sect1>
-      <title>Alcohol</title>
-      <para>Do not consume any alcohol within 10 hours of a duty, and consume no more than 5 units of alcohol within 24
-      hours of a duty.</para>
-      <para>Crews are obliged to comply with random breathalysing, but should ensure that it is not carried out in
-      front of passengers.</para>
-      <para>Alcohol must never be consumed whilst in uniform in a public place.</para>
-      <para>Alcohol must not be taken onto the flight deck during flight.</para>
-      <para role="multicite">[EOM-A 6.1.1]</para>
-    </sect1>
-    <sect1 id="cosmic_radiation">
-      <title>Cosmic radiation</title>
-      <para>Statutory directives state that the acceptable radiation exposure of aircrew is 6mSv/yr.
-      Radiation exposure is modelled by easyJet to try to prevent exposure above this level. easyJet
-      continuously monitors estimated radiation doses; personal estimated exposure is published on
-      AIMS. </para>
+  <title>Crew Health Precautions</title>
 
-      <para>Embryos and foetuses are particularly susceptible to harm from cosmic radiation. Crew
-      should not fly when pregnant.</para>
-      <para role="multicite">[EOM-A 6.1]</para>
-    </sect1>
-    <sect1>
-      <title>Medication</title>
-      <para>The use of non-prescribed narcotics or sleep inducing drugs is forbidden.</para>
+  <sect1>
+    <title>Alcohol</title>
 
-      <para>Do not operate within 48 hours of a general anaesthetic or within 24 hours of a local
-      anaesthetic.</para>
+    <para>Do not consume any alcohol within 10 hours of a duty, and consume no more than 5 units of
+    alcohol within 24 hours of a duty.</para>
 
-      <para>It is acceptable to operate whilst taking non drowsy cold remedies such as Sudafed. Seek
-      medical advice before operating whilst taking any other medication.</para>
+    <para>Crews are obliged to comply with random breathalysing, but should ensure that it is not
+    carried out in front of passengers.</para>
 
-      <para role="multicite">[EOM-A 6.2, EOM-A 6.4]</para>
-    </sect1>
-    <sect1 id="immunisation">
-      <title>Immunisation</title>
+    <para>Alcohol must never be consumed whilst in uniform in a public place.</para>
 
-      <para>easyJet does not currently fly to any destination requiring vaccinations beyond those
-      recommended for everyday life in Europe. Any change to this situation will be notified by
-      NTC.</para>
+    <para>Alcohol must not be taken onto the flight deck during flight.</para>
 
-      <para role="multicite">[EOM-A 6.5]</para>
-    </sect1>
-    <sect1>
-      <title>Blood donation</title>
-      <para>Crew should not donate blood within 24 hours of a duty.</para>
-      <para role="multicite">[EOM-A 6.1.6]</para>
-    </sect1>
-    <sect1 id="diving">
-      <title>Diving</title>
-      <para>Crew should not fly within 48 hours of diving to a depth exceeding 10m. Crew should avoid any diving
-      requiring the use of SCUBA equipment within 24 hours of a duty.</para>
+    <para role="multicite">[EOM-A 6.1.1]</para>
+  </sect1>
 
-      <para>Crew who have been treated for decompression sickness must not fly within 72 hours of
-      recovery.</para>
-      <para role="multicite">[EOM-A 6.7]</para>
-    </sect1>
-    <sect1>
-      <title>Surgery</title>
-      <para>Aeromedical advice should be sought before returning to duty following any surgical
-      procedure.</para>
-      <para role="multicite">[EOM-A 6.11]</para>
-    </sect1>
-    <sect1>
-      <title>Hypoxia</title>
-      <table tabstyle="medium-width-table">
-        <title>Time of useful consciousness</title>
-        <tgroup cols="2">
-            <colspec align="center" colwidth="*"/>
-            <colspec align="center" colwidth="*"/>
-          <thead>
-            <row><entry>Pressure altitude</entry><entry>Time</entry></row>
-          </thead>
-          <tbody>
-            <row><entry>18000ft</entry><entry>30 minutes</entry></row>
-            <row><entry>25000ft</entry><entry>2-3 minutes</entry></row>
-            <row><entry>30000ft</entry><entry>45-75 seconds</entry></row>
-            <row><entry>45000ft</entry><entry>12 seconds</entry></row>
-          </tbody>
-        </tgroup>
-      </table>
-      <para role="multicite">[Human Factors For Pilots, Green et al.]</para>
 
-    </sect1>
-    <sect1>
-      <title>Food poisoning</title>
+  <sect1 id="cosmic_radiation">
+    <title>Cosmic radiation</title>
 
-      <para>Crew who are operating together should not have the same meals. This includes crew food
-      and eating together when downroute or on airport standby.</para>
+    <para>Statutory directives state that the acceptable radiation exposure of aircrew is 6mSv/yr.
+    Radiation exposure is modelled by easyJet to try to prevent exposure above this level. easyJet
+    continuously monitors estimated radiation doses; personal estimated exposure is published on
+    AIMS. </para>
 
-      <para>If food poisoning from crew food is suspected, an ASR must be completed and a sample
-      brought back to local base management team for further investigation.</para>
-      <para role="multicite">[EOM-A 6.8]</para>
-    </sect1>
+    <para>Embryos and foetuses are particularly susceptible to harm from cosmic radiation. Crew
+    should not fly when pregnant.</para>
 
-    <sect1 id="laserattacks">
-      <title>Laser attacks</title>
+    <para role="multicite">[EOM-A 6.1]</para>
+  </sect1>
 
-      <para>To mitigate the attack, look away, increase the brightness of interior lights and avoid
-      rubbing your eyes. Seek medical advice if symptoms persist.</para>
 
-      <para>Notify ATC and file an ASR.</para>
-      <para role="multicite">[EOM-A 6.18]</para>
-    </sect1>
+  <sect1>
+    <title>Medication</title>
 
-  </chapter>
+    <para>The use of non-prescribed narcotics or sleep inducing drugs is forbidden.</para>
+
+    <para>Do not operate within 48 hours of a general anaesthetic or within 24 hours of a local
+    anaesthetic.</para>
+
+    <para>It is acceptable to operate whilst taking non drowsy cold remedies such as Sudafed. Seek
+    medical advice before operating whilst taking any other medication.</para>
+
+    <para role="multicite">[EOM-A 6.2, EOM-A 6.4]</para>
+  </sect1>
+
+
+  <sect1 id="immunisation">
+    <title>Immunisation</title>
+
+    <para>easyJet does not currently fly to any destination requiring vaccinations beyond those
+    recommended for everyday life in Europe. Any change to this situation will be notified by
+    NTC.</para>
+
+    <para role="multicite">[EOM-A 6.5]</para>
+  </sect1>
+
+
+  <sect1>
+    <title>Blood donation</title>
+
+    <para>Crew should not donate blood within 24 hours of a duty.</para>
+
+    <para role="multicite">[EOM-A 6.1.6]</para>
+  </sect1>
+
+
+  <sect1 id="diving">
+    <title>Diving</title>
+
+    <para>Crew should not fly within 48 hours of diving to a depth exceeding 10m. Crew should avoid
+    any diving requiring the use of SCUBA equipment within 24 hours of a duty.</para>
+
+    <para>Crew who have been treated for decompression sickness must not fly within 72 hours of
+    recovery.</para>
+
+    <para role="multicite">[EOM-A 6.7]</para>
+  </sect1>
+
+
+  <sect1>
+    <title>Surgery</title>
+
+    <para>Aeromedical advice should be sought before returning to duty following any surgical
+    procedure.</para>
+
+    <para role="multicite">[EOM-A 6.11]</para>
+  </sect1>
+
+
+  <sect1>
+    <title>Hypoxia</title>
+
+    <table tabstyle="medium-width-table">
+      <title>Time of useful consciousness</title>
+
+      <tgroup cols="2">
+        <colspec align="center" colwidth="*"/>
+        <colspec align="center" colwidth="*"/>
+
+        <thead>
+          <row><entry>Pressure altitude</entry><entry>Time</entry></row>
+        </thead>
+
+        <tbody>
+          <row><entry>18000ft</entry><entry>30 minutes</entry></row>
+
+          <row><entry>25000ft</entry><entry>2-3 minutes</entry></row>
+
+          <row><entry>30000ft</entry><entry>45-75 seconds</entry></row>
+
+          <row><entry>45000ft</entry><entry>12 seconds</entry></row>
+        </tbody>
+      </tgroup>
+    </table>
+
+    <para role="multicite">[Human Factors For Pilots, Green et al.]</para>
+  </sect1>
+
+
+  <sect1>
+    <title>Food poisoning</title>
+
+    <para>Crew who are operating together should not have the same meals. This includes crew food
+    and eating together when downroute or on airport standby.</para>
+
+    <para>If food poisoning from crew food is suspected, an ASR must be completed and a sample
+    brought back to local base management team for further investigation.</para>
+
+    <para role="multicite">[EOM-A 6.8]</para>
+  </sect1>
+
+  <sect1 id="laserattacks">
+    <title>Laser attacks</title>
+
+    <para>To mitigate the attack, look away, increase the brightness of interior lights and avoid
+    rubbing your eyes. Seek medical advice if symptoms persist.</para>
+
+    <para>Notify ATC and file an ASR.</para>
+
+    <para role="multicite">[EOM-A 6.18]</para>
+  </sect1>
+</chapter>
+
+
   <chapter id="ftl">
     <title>Flight Time Limitations Scheme</title>
     <sect1>
