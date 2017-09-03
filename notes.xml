@@ -38,7 +38,7 @@
 
 
 <chapter id="commander-duties">
-  <title>Authority, Duties and Responsibilities of a Commander </title>
+  <title>Authority, Duties and Responsibilities of a Commander</title>
 
   <para>The commander has overall responsibility for the safety of the aircraft, its occupants and
   its cargo, and the authority to issue any commands required to secure this. He has the authority
@@ -178,142 +178,154 @@
 
 
 <chapter id="crew-composition">
-    <title>Crew composition</title>
-    <sect1 id="flightcrew_composition">
-      <title>Flight crew</title>
-      <para>The minimum flight crew is two pilots, at least one of whom must
-      be a Captain. In addition, a safety pilot fully qualified to operate in the right seat must be
-      carried for base training and line flying under supervision until positive release.</para>
+  <title>Crew composition</title>
 
-      <para>The maximum age for a pilot is 65. Not more than one pilot may be aged 60 years or
-      more. Pilots with Operational Medical Limitations must not fly together and must not fly with
-      pilots aged 60 years or greater.</para>
+  <sect1 id="flightcrew_composition">
+    <title>Flight crew</title>
 
-      <para>Inexperienced (***) flight crew must not operate together. To be
-      considered experienced, crew must have completed 100 flight hours and 10 sectors within 120
-      days of final line check or 150 flight hours and 20 sectors after final line check without
-      time limit. A Captain, in addition, must successfully complete their first recurrent simulator
-      session and a first officer must complete a continuation training flight.</para>
+    <para>The minimum flight crew is two pilots, at least one of whom must be a Captain. In
+    addition, a safety pilot fully qualified to operate in the right seat must be carried for base
+    training and line flying under supervision until positive release.</para>
 
-      <para>At least one flight crew member must be present for
-      boarding.</para>
+    <para>The maximum age for a pilot is 65. Not more than one pilot may be aged 60 years or
+    more. Pilots with Operational Medical Limitations must not fly together and must not fly with
+    pilots aged 60 years or greater.</para>
 
-      <para>The minimum crew for taxiing is a Commander and a second pilot,
-      both qualified on type.</para>
+    <para>Inexperienced (***) flight crew must not operate together. To be considered experienced,
+    crew must have completed 100 flight hours and 10 sectors within 120 days of final line check or
+    150 flight hours and 20 sectors after final line check without time limit. A Captain, in
+    addition, must successfully complete their first recurrent simulator session and a first officer
+    must complete a continuation training flight.</para>
 
-      <para>The commander must sit in the left seat unless required to command from the right seat
-      in order to conduct a training detail. Captains may only operate from the right seat if they
-      have undergone specific training and recurrency checks (see EOM 4.2.2).</para>
+    <para>At least one flight crew member must be present for boarding.</para>
 
-      <para>Flight crew may operate under UK or Swoss AOCs provided the Change
-      of Operator Self Briefing training package has been completed. Interchange of cabin crew is
-      not permitted.</para>
+    <para>The minimum crew for taxiing is a Commander and a second pilot, both qualified on
+    type.</para>
 
-      <para role="multicite">[EOMA 4.1.1, EOMA 4.2]</para>
+    <para>The commander must sit in the left seat unless required to command from the right seat in
+    order to conduct a training detail. Captains may only operate from the right seat if they have
+    undergone specific training and recurrency checks (see EOM 4.2.2).</para>
 
-    </sect1>
-    <sect1 id="cabincrew_composition">
-      <title>Cabin crew</title>
+    <para>Flight crew may operate under UK or Swoss AOCs provided the Change of Operator Self
+    Briefing training package has been completed. Interchange of cabin crew is not permitted.</para>
 
-      <para>The minimum cabin crew is 4 unless operating an A319 with seat
-      blockers, in which case it is 3, or operating a non-commercial flight with less than 19
-      passengers, in which case cabin crew are not required.</para>
+    <para role="multicite">[EOMA 4.1.1, EOMA 4.2]</para>
+  </sect1>
 
-      <para>One Cabin Crew member will be nominated by the company as Senior
-      Cabin Crew Member.</para>
 
-      <para>Cabin crew are considered inexperienced (i.e. ***) until they have
-      completed 40 sectors (or 20 sectors with caveats) as operating crew. At least two cabin crew
-      members must be experienced.</para>
+  <sect1 id="cabincrew_composition">
+    <title>Cabin crew</title>
 
-      <para>In extreme circumstances the cabin crew complement may be reduced to 3 providing:
+    <para>The minimum cabin crew is 4 unless operating an A319 with seat blockers, in which case it
+    is 3, or operating a non-commercial flight with less than 19 passengers, in which case cabin
+    crew are not required.</para>
 
-      <itemizedlist>
-	<listitem>
-	  <para>Authorisation is received from the duty pilot</para>
-	</listitem>
-	<listitem>
-	  <para>The aircraft operates its originally planned flight and does not dispatch from its
-	  originating base.</para>
-	</listitem>
-	<listitem>
-	  <para>The reduction is for a single flight.</para>
-	</listitem>
-	<listitem>
-	  <para>A maximum of 150 passengers (not including infants or the original cabin crew member
-          who is no longer operating) are carried.</para>
-	</listitem>
-	<listitem>
-	  <para>All passengers are seated in a position where they can adequately view the safety
-	  demonstration.</para>
-	</listitem>
-        <listitem>
-          <para>If required, the commander may nominate a new SCCM, provided the nominee has a
-          minimum of 12 months operational experience and at least 20 sectors on type.</para>
-        </listitem>
-      </itemizedlist></para>
+    <para>One Cabin Crew member will be nominated by the company as Senior Cabin Crew Member.</para>
 
-      <para>In general, cabin crew who have become unfit to fly should be
-      offloaded. Under extraordinary circumstances, the commander may elect to repatriate the cabin
-      crew member.</para>
+    <para>Cabin crew are considered inexperienced (i.e. ***) until they have completed 40 sectors
+    (or 20 sectors with caveats) as operating crew. At least two cabin crew members must be
+    experienced.</para>
 
-      <para>It is permissible to board with only SCCM, CC2 and CC3 provided that:
+    <para>In extreme circumstances the cabin crew complement may be reduced to 3 providing:
+    <itemizedlist>
+	  <listitem>
+	    <para>Authorisation is received from the duty pilot</para>
+	  </listitem>
 
-      <itemizedlist>
- 	<listitem>
-	  <para>A maximum of 50 passengers per cabin crew member are boarded.</para>
-	</listitem>
-	<listitem>
-	  <para>A member of the flight crew is on the flight deck.</para>
-	</listitem>
-	<listitem>
-	  <para>The aircraft is not being fuelled or de-fuelled, and electrical power is available.</para>
-	</listitem>
- 	<listitem>
-	  <para>SCCM is present at forward door, CC2 is present at rear door and CC3 is present in
-          the middle of the cabin, taking responsibility for the overwings.</para>
-	</listitem>
-      </itemizedlist></para>
+	  <listitem>
+	    <para>The aircraft operates its originally planned flight and does not dispatch from its
+	    originating base.</para>
+	  </listitem>
 
-      <para role="multicite">[EOM-A 4.1.3, EOM-A 4.1.4]</para>
+      <listitem>
+	    <para>The reduction is for a single flight.</para>
+	  </listitem>
 
-    </sect1>
-    <sect1 id="positioning">
-      <title>Positioning crew</title>
+      <listitem>
+	    <para>A maximum of 150 passengers (not including infants or the original cabin crew member
+	    who is no longer operating) are carried.</para>
+	  </listitem>
 
-      <para>Positioning crew will normally be booked as passengers, although in exceptional
-      circumstances staff may be carried as "non-operating extra crew". This requires the
-      authorisation of the duty pilot or the Network Duty Manager. In this case, crew must be shown
-      on the crew list.</para>
+      <listitem>
+	    <para>All passengers are seated in a position where they can adequately view the safety
+	    demonstration.</para>
+	  </listitem>
 
-      <para>Crew positioning for a flight duty may ramp transfer or remain on aircraft as
-      appropriate.</para>
+      <listitem>
+        <para>If required, the commander may nominate a new SCCM, provided the nominee has a minimum
+        of 12 months operational experience and at least 20 sectors on type.</para>
+      </listitem>
 
-      <para>Crew positioning for a non-flight duty may use crew check-in/ check-out procedures
-      provided that they do not carry any goods that need to clear customs. If booked as a
-      passenger, they must have a valid boarding pass.</para>
+    </itemizedlist>
+    </para>
 
-      <para role="multicite">[EOM-A 4.5, EOM-A 4.6]</para>
 
-    </sect1>
-    <sect1 id="inspectors">
-      <title>Inspectors and Auditors</title>
+    <para>In general, cabin crew who have become unfit to fly should be offloaded. Under
+    extraordinary circumstances, the commander may elect to repatriate the cabin crew member.</para>
 
-      <para>Flight Ops Inspectors may, at any time, board any easyJet aircraft and enter and remain
-      on the flight deck unless it is the commander's opinion that this would endanger the safety of
-      the aircraft.</para>
+    <para>It is permissible to board with only SCCM, CC2 and CC3 provided that:
+    <itemizedlist>
+ 	  <listitem>
+	    <para>A maximum of 50 passengers per cabin crew member are boarded.</para>
+	  </listitem>
 
-      <para>easyJet Compliance Monitoring Auditors may also from time to time fly on easyJet
-      aircraft to conduct a flight inspection.</para>
+	  <listitem>
+	    <para>A member of the flight crew is on the flight deck.</para>
+	  </listitem>
 
-      <para>EOMA 8.3.13 lists documentation and procedures for allowing persons other than operating
-      crew access to the flight deck.</para>
+      <listitem>
+	    <para>The aircraft is not being fuelled or de-fuelled, and electrical power is
+	    available.</para>
+	  </listitem>
 
-      <para role="multicite">[EOM-A 4.7/8]</para>
+      <listitem>
+	    <para>SCCM is present at forward door, CC2 is present at rear door and CC3 is present in the
+	    middle of the cabin, taking responsibility for the overwings.</para>
+	  </listitem>
+    </itemizedlist></para>
 
-    </sect1>
-  </chapter>
-   <chapter id="qualifications-and-recency">
+    <para role="multicite">[EOM-A 4.1.3, EOM-A 4.1.4]</para>
+  </sect1>
+
+
+  <sect1 id="positioning">
+    <title>Positioning crew</title>
+
+    <para>Positioning crew will normally be booked as passengers, although in exceptional
+    circumstances staff may be carried as "non-operating extra crew". This requires the
+    authorisation of the duty pilot or the Network Duty Manager. In this case, crew must be shown on
+    the crew list.</para>
+
+    <para>Crew positioning for a flight duty may ramp transfer or remain on aircraft as
+    appropriate.</para>
+
+    <para>Crew positioning for a non-flight duty may use crew check-in/ check-out procedures
+    provided that they do not carry any goods that need to clear customs. If booked as a passenger,
+    they must have a valid boarding pass.</para>
+
+    <para role="multicite">[EOM-A 4.5, EOM-A 4.6]</para>
+  </sect1>
+
+
+  <sect1 id="inspectors">
+    <title>Inspectors and Auditors</title>
+
+    <para>Flight Ops Inspectors may, at any time, board any easyJet aircraft and enter and remain on
+    the flight deck unless it is the commander's opinion that this would endanger the safety of the
+    aircraft.</para>
+
+    <para>easyJet Compliance Monitoring Auditors may also from time to time fly on easyJet aircraft
+    to conduct a flight inspection.</para>
+
+    <para>EOMA 8.3.13 lists documentation and procedures for allowing persons other than operating
+    crew access to the flight deck.</para>
+
+    <para role="multicite">[EOM-A 4.7/8]</para>
+  </sect1>
+</chapter>
+
+
+  <chapter id="qualifications-and-recency">
     <title>Qualification and Recency Requirements</title>
     <para>The minimum qualifications to act as a commander are:
     <orderedlist>
