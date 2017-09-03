@@ -325,96 +325,121 @@
 </chapter>
 
 
-  <chapter id="qualifications-and-recency">
-    <title>Qualification and Recency Requirements</title>
-    <para>The minimum qualifications to act as a commander are:
-    <orderedlist>
-      <listitem><para>A UK or CH EASA-FCL ATPL with instrument rating and relevant type rating</para></listitem>
-      <listitem><para>Class I medical</para></listitem>
-      <listitem><para>ICAO level 5 language proficiency requirement (level 4 for EZS)</para></listitem>
-      <listitem>
-        <para>Valid ATQP recurrent checks:
-        <informaltable>
-	  <?dbfo table-width="105mm"?>
-          <tgroup cols="2">
-            <colspec colwidth="2*"/>
-            <colspec colwidth="*"/>
-            <thead>
-              <row><entry>Test/ Training</entry><entry align="center">Validity</entry></row>
-            </thead>
-            <tbody>
-              <row>
-                <entry>Licence Proficiency Check <footnote><para>Incorporates Operator Proficiency
-                Check, Instrument Rating renewal, elements of CRM and elements of Ground and Refresher
-                Training.</para></footnote></entry>
-                <entry>12 months
+<chapter id="qualifications-and-recency">
+  <title>Qualification and Recency Requirements</title>
 
-		<footnote id="validity-start-date">
+  <para>The minimum qualifications to act as a commander are:
+  <orderedlist>
+    <listitem><para>A UK or CH EASA-FCL ATPL with instrument rating and relevant type
+    rating</para></listitem>
 
-		  <para>The period  of validity starts  on the  last day of  the month in  which the
-		  training and/or test was completed.</para>
+    <listitem><para>Class I medical</para></listitem>
 
-		</footnote><footnote id="validity-start-date-renewal">
+    <listitem><para>ICAO level 5 language proficiency requirement (level 4 for
+    EZS)</para></listitem>
 
-		  <para>For renewals, the period of validity can start on the expiry date of the
-		  current check. To be considered a renewal, the training and/or test must be
-		  completed a maximum of three months before that expiry date.</para>
+    <listitem>
+      <para>Valid ATQP recurrent checks:
+      <informaltable>
+	    <?dbfo table-width="105mm"?>
+        <tgroup cols="2">
+          <colspec colwidth="2*"/><colspec colwidth="*"/>
 
-		</footnote>
+          <thead>
+            <row><entry>Test/ Training</entry><entry align="center">Validity</entry></row>
+          </thead>
 
-		</entry>
-              </row>
-              <row>
-                <entry>Line Oriented Evaluation <footnote><para>Incorporates elements of CRM and Ground and Refresher
-                Training.</para></footnote></entry>
-                <entry>12 months <footnoteref linkend="validity-start-date"/><footnoteref linkend="validity-start-date-renewal"/></entry>
-              </row>
-              <row>
-                <entry>Line check</entry>
-                <entry>24 months <footnoteref linkend="validity-start-date"/><footnoteref linkend="validity-start-date-renewal"/></entry>
-              </row>
-	      <row>
-		<entry>Dangerous Goods</entry>
-		<entry>24 months <footnoteref linkend="validity-start-date"/><footnoteref linkend="validity-start-date-renewal"/></entry>
-	      </row>
-	      <row>
-		<entry>Aviation Security</entry>
-		<entry>12 months <footnoteref linkend="validity-start-date"/></entry>
-	      </row>
-	      <row>
-		<entry>Emergency and Safety Equipment Training</entry>
-		<entry>24 months <footnoteref linkend="validity-start-date"/><footnoteref
-		linkend="validity-start-date-renewal"/></entry>
-	      </row>
-	      <row>
-	        <entry>Crew Resource Management</entry>
-	        <entry>Three year recurrent training cycle</entry>
-	      </row>
-            </tbody>
-          </tgroup>
-        </informaltable>
-      </para></listitem>
-      <listitem>
-	<para>Three take-off and landings as an operating pilot in the preceding 45 days. A
-        simulator may be used.</para>
-      </listitem>
-      <listitem>
-	<para>In a simulator, two Cat III approaches including 1 landing and 1 go-around at lowest
-	authorised RVR and one takeoff, also at lowest authorised RVR. This requirement is usually
-	satisfied by the LPC.</para>
-      </listitem>
-      <listitem>
-        <para>3500 factored hours of which 500 hours must be on a medium or large jet
-	transport.</para>
-      </listitem>
-      <listitem>
-          <para>Successful completion of a Command Course.</para>
-      </listitem>
-    </orderedlist>
-    </para>
-    <para role="multicite">[EOM-A 5]</para>
-  </chapter>
-  <chapter id="health">
+          <tbody>
+            <row>
+              <entry>Licence Proficiency Check <footnote><para>Incorporates Operator Proficiency
+              Check, Instrument Rating renewal, elements of CRM and elements of Ground and Refresher
+              Training.</para></footnote></entry>
+
+              <entry>12 months
+		      <footnote id="validity-start-date">
+		        <para>The period of validity starts on the last day of the month in which the
+		        training and/or test was completed.</para>
+		      </footnote>
+              <footnote id="validity-start-date-renewal">
+		        <para>For renewals, the period of validity can start on the expiry date of the
+		        current check. To be considered a renewal, the training and/or test must be
+		        completed a maximum of three months before that expiry date.</para>
+		      </footnote>
+		      </entry>
+            </row>
+
+            <row>
+              <entry>Line Oriented Evaluation <footnote><para>Incorporates elements of CRM and
+              Ground and Refresher Training.</para></footnote></entry>
+
+              <entry>12 months <footnoteref linkend="validity-start-date"/><footnoteref
+              linkend="validity-start-date-renewal"/></entry>
+            </row>
+
+            <row>
+              <entry>Line check</entry>
+
+              <entry>24 months <footnoteref linkend="validity-start-date"/><footnoteref
+              linkend="validity-start-date-renewal"/></entry>
+            </row>
+
+            <row>
+		      <entry>Dangerous Goods</entry>
+
+		      <entry>24 months <footnoteref linkend="validity-start-date"/><footnoteref
+		      linkend="validity-start-date-renewal"/></entry>
+	        </row>
+
+	        <row>
+		      <entry>Aviation Security</entry>
+
+		      <entry>12 months <footnoteref linkend="validity-start-date"/></entry>
+	        </row>
+
+	        <row>
+		      <entry>Emergency and Safety Equipment Training</entry>
+
+		      <entry>24 months <footnoteref linkend="validity-start-date"/><footnoteref
+		      linkend="validity-start-date-renewal"/></entry>
+	        </row>
+
+	        <row>
+	          <entry>Crew Resource Management</entry>
+	          <entry>Three year recurrent training cycle</entry>
+	        </row>
+          </tbody>
+        </tgroup>
+      </informaltable>
+      </para>
+    </listitem>
+
+    <listitem>
+	  <para>Three take-off and landings as an operating pilot in the preceding 45 days. A simulator
+	  may be used.</para>
+    </listitem>
+
+    <listitem>
+	  <para>In a simulator, two Cat III approaches including 1 landing and 1 go-around at lowest
+	  authorised RVR and one takeoff, also at lowest authorised RVR. This requirement is usually
+	  satisfied by the LPC.</para>
+    </listitem>
+
+    <listitem>
+      <para>3500 factored hours of which 500 hours must be on a medium or large jet
+      transport.</para>
+    </listitem>
+
+    <listitem>
+      <para>Successful completion of a Command Course.</para>
+    </listitem>
+  </orderedlist>
+  </para>
+
+  <para role="multicite">[EOM-A 5]</para>
+</chapter>
+
+
+<chapter id="health">
     <title>Crew Health Precautions</title>
     <sect1>
       <title>Alcohol</title>
