@@ -8,26 +8,36 @@
     <author><personname>
       <firstname>Jon</firstname><surname>Hurst</surname></personname></author>
   </bookinfo>
-  <preface>
-    <title>Change log</title>
-    <sect1>
-      <title>Change highlighting</title>
-      <para>Change highlighting is only available in the online version. This may be found at:
+
+
+<preface>
+  <title>Change log</title>
+
+  <sect1>
+    <title>Change highlighting</title>
+
+    <para>Change highlighting is only available in the online version. This may be found at:
 
       <blockquote><para><ulink url="https://hursts.org.uk"/></para></blockquote></para>
+  </sect1>
 
-    </sect1>
-    <sect1>
-      <title>Changes since version 2.0</title>
-      <itemizedlist>
-        <listitem><para><xref linkend="pre-flight-fuel"/> updated to include the use of Statistical
-        Contingency Fuel in the determination of contingency fuel requirements.</para></listitem>
-        <listitem><para><xref linkend="payload-limited-fuel"/> updated to include Statistical
-        Contingency Fuel in En-Route Alternate alternative flight planning procedure.</para></listitem>
-      </itemizedlist>
-    </sect1>
-  </preface>
-  <chapter id="commander-duties">
+
+  <sect1>
+    <title>Changes since version 2.0</title>
+
+    <itemizedlist>
+      <listitem><para><xref linkend="pre-flight-fuel"/> updated to include the use of Statistical
+      Contingency Fuel in the determination of contingency fuel requirements.</para></listitem>
+
+      <listitem><para><xref linkend="payload-limited-fuel"/> updated to include Statistical
+      Contingency Fuel in En-Route Alternate alternative flight planning
+      procedure.</para></listitem>
+    </itemizedlist>
+  </sect1>
+</preface>
+
+
+<chapter id="commander-duties">
     <title>Authority, Duties and Responsibilities of a Commander </title>
     <para>The commander has overall responsibility for the safety of the aircraft, its occupants and its cargo, and
     the authority to issue any commands required to secure this. He has the authority to increase any safety
