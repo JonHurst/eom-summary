@@ -38,6 +38,8 @@
       <listitem><para><xref linkend="flightcrew_composition"/> updated with new sector count
       requirements to be considered experienced.</para></listitem>
 
+      <listitem><para><xref linkend="cabincrew_composition"/> updated with new ability to operate
+      more than one of a series of sectors with reduced cabin crew.</para></listitem>
     </itemizedlist>
   </sect1>
 
@@ -254,12 +256,12 @@
 	  </listitem>
 
 	  <listitem>
-	    <para>The aircraft operates its originally planned flight and does not dispatch from its
-	    originating base.</para>
+	    <para revisionflag="changed">The aircraft does not dispatch from its originating base.</para>
 	  </listitem>
 
       <listitem>
-	    <para>The reduction is for a single flight.</para>
+	    <para revisionflag="changed">The aircraft only operates its originally planned series of
+	    flights; this may include stops at non-originating easyjet bases and/or a nightstop.</para>
 	  </listitem>
 
       <listitem>
