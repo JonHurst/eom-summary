@@ -43,6 +43,9 @@
 
       <listitem><para><xref linkend="cabincrew_composition"/> updated with requirement to complete
       both an ASR and a CSR in the event of reduced cabin crew operation.</para></listitem>
+
+      <listitem><para><xref linkend="cabincrew_composition"/> updated with rules regarding the
+      interchange of cabin crew between AOCs.</para></listitem>
     </itemizedlist>
   </sect1>
 
@@ -313,6 +316,9 @@
 	    middle of the cabin, taking responsibility for the overwings.</para>
 	  </listitem>
     </itemizedlist></para>
+
+    <para revisionflag="added">Use of UK AOC cabin crew is permitted under the Austrian
+    AOC. Interchange of cabin crew is not permitted between the UK and Swiss AOCs.</para>
 
     <para role="multicite">[EOM-A 4.1.3, EOM-A 4.1.4]</para>
   </sect1>
