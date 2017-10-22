@@ -29,6 +29,16 @@
 
 
   <sect1>
+    <title>Changes since version 2.0.1</title>
+
+    <itemizedlist>
+      <listitem><para><xref linkend="flightcrew_composition"/> updated with ability of flight crew
+      to operate under all three AOCs without additional training.</para></listitem>
+    </itemizedlist>
+  </sect1>
+
+
+  <sect1>
     <title>Changes since version 2.0</title>
 
     <itemizedlist>
@@ -212,8 +222,9 @@
     order to conduct a training detail. Captains may only operate from the right seat if they have
     undergone specific training and recurrency checks (see EOM 4.2.2).</para>
 
-    <para>Flight crew may operate under UK or Swoss AOCs provided the Change of Operator Self
-    Briefing training package has been completed. Interchange of cabin crew is not permitted.</para>
+    <para revisionflag="changed">All AOC holders may interchange flight crew; conversion training
+    covers the requirements of all three AOCs. Any differences between AOCs are published by
+    NTC. Crew are required to ensure they are familiar with current differences.</para>
 
     <para role="multicite">[EOMA 4.1.1, EOMA 4.2]</para>
   </sect1>
