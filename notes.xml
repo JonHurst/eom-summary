@@ -40,6 +40,9 @@
 
       <listitem><para><xref linkend="cabincrew_composition"/> updated with new ability to operate
       more than one of a series of sectors with reduced cabin crew.</para></listitem>
+
+      <listitem><para><xref linkend="cabincrew_composition"/> updated with requirement to complete
+      both an ASR and a CSR in the event of reduced cabin crew operation.</para></listitem>
     </itemizedlist>
   </sect1>
 
@@ -277,6 +280,10 @@
       <listitem>
         <para>If required, the commander may nominate a new SCCM, provided the nominee has a minimum
         of 12 months operational experience and at least 20 sectors on type.</para>
+      </listitem>
+
+      <listitem revisionflag="added">
+        <para>An ASR and a CSR are completed to report the circumstances of the reduction.</para>
       </listitem>
 
     </itemizedlist>
