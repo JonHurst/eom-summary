@@ -46,6 +46,10 @@
 
       <listitem><para><xref linkend="cabincrew_composition"/> updated with rules regarding the
       interchange of cabin crew between AOCs.</para></listitem>
+
+      <listitem><para><xref linkend="cabincrew_composition"/> updated with option for a
+      non-operating cabin crew member to assist whilst awaiting the arrival of the operating cabin
+      crew member.</para></listitem>
     </itemizedlist>
   </sect1>
 
@@ -316,6 +320,15 @@
 	    middle of the cabin, taking responsibility for the overwings.</para>
 	  </listitem>
     </itemizedlist></para>
+
+    <para revisionflag="added">Alternatively, it is permitted to prepare the aircraft, carry out
+    pre-flight safety and security checks and board with the assistance of a non-operating crew
+    member. The non-operating crew member must be qualified on type and fit to fly. If not in
+    uniform, a high visability vest must be worn and a PA made to inform the passengers that the
+    crew member is part of the operating crew during boarding. The SCCM must brief the non-operating
+    crew member on their required duties and their door responsibility during boarding, but they do
+    not need to have taken part in the pre-flight brief. They must remain with the aircraft until
+    the rostered crew member arrives and has been suitably briefed.</para>
 
     <para revisionflag="added">Use of UK AOC cabin crew is permitted under the Austrian
     AOC. Interchange of cabin crew is not permitted between the UK and Swiss AOCs.</para>
