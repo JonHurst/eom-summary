@@ -34,6 +34,10 @@
     <itemizedlist>
       <listitem><para><xref linkend="flightcrew_composition"/> updated with ability of flight crew
       to operate under all three AOCs without additional training.</para></listitem>
+
+      <listitem><para><xref linkend="flightcrew_composition"/> updated with new sector count
+      requirements to be considered experienced.</para></listitem>
+
     </itemizedlist>
   </sect1>
 
@@ -208,8 +212,8 @@
     pilots aged 60 years or greater.</para>
 
     <para>Inexperienced (***) flight crew must not operate together. To be considered experienced,
-    crew must have completed 100 flight hours and 10 sectors within 120 days of final line check or
-    150 flight hours and 20 sectors after final line check without time limit. A Captain, in
+    crew must have completed 100 flight hours and 50 sectors within 120 days of final line check or
+    150 flight hours and 50 sectors after final line check without time limit. A Captain, in
     addition, must successfully complete their first recurrent simulator session and a first officer
     must complete a continuation training flight.</para>
 
