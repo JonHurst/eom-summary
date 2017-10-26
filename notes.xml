@@ -50,6 +50,9 @@
       <listitem><para><xref linkend="cabincrew_composition"/> updated with option for a
       non-operating cabin crew member to assist whilst awaiting the arrival of the operating cabin
       crew member.</para></listitem>
+
+      <listitem><para><xref linkend="positioning"/> updated with requirement for non-flight duty
+      positioning crew entering the UK to pass through normal passenger channels.</para></listitem>
     </itemizedlist>
   </sect1>
 
@@ -348,7 +351,9 @@
     <para>Crew positioning for a flight duty may ramp transfer or remain on aircraft as
     appropriate.</para>
 
-    <para>Crew positioning for a non-flight duty may use crew check-in/ check-out procedures
+    <para revisionflag="changed">Crew positioning for a non-flight duty and entering the UK must
+    pass through normal passenger channels and present themselves at immigration control. Otherwise
+    crew positioning for a non-flight duty may use crew check-in/ check-out procedures
     provided that they do not carry any goods that need to clear customs. If booked as a passenger,
     they must have a valid boarding pass.</para>
 
