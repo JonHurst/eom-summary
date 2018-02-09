@@ -1035,7 +1035,7 @@
 
       <itemizedlist>
         <listitem><para>A “morning duty” (MD) is a duty with a report time between 00:00L and 09:29L which
-        finishes befor 17:59L.</para></listitem>
+        finishes before 17:59L.</para></listitem>
         <listitem><para>An “evening duty” (ED) is a duty starting after 09:30L that
         finishes after 18:00L.</para></listitem>
         <listitem><para>A “dual duty“ (DD) is a duty with a report time between 00:00L and 09:29L
