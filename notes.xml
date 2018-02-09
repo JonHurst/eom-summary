@@ -33,6 +33,9 @@
     <itemizedlist>
       <listitem><para><xref linkend="qualifications-and-recency"/> updated with change from three
       take-offs and landings to six sectors.</para></listitem>
+
+      <listitem><para>Added Flight Crew Authorisation procedures to <xref
+      linkend="defect_management"/>.</para></listitem>
     </itemizedlist>
   </sect1>
 
@@ -1720,6 +1723,10 @@
 
 	<para>Bird strikes that do not result in damage may be recorded as "For Info" entries,
 	providing the restrictions in EOM-A 8.1.11.19 are observed.</para>
+
+    <para revisionflag="added">In exceptional cases, where engineering cover is not available, the
+    MEL allows for the Commander to carry out limited engineering related tasks in co-ordination
+    with MOC under the Flight Crew Authorisation procedures. Details are in EOMA 8.1.11.15.</para>
 
 	<para role="multicite">[EOM-A 8.1.11<phrase condition="airbus">, EOM-B 2.3.25.2, EOM-B
 	3.3</phrase>, EOM-A 8.1.11.19]</para>
