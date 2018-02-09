@@ -7,7 +7,7 @@
   <subtitle>
     <phrase condition="airbus">Airbus</phrase>
     <phrase condition="boeing">Boeing</phrase>
-    Edition, Version 2.0.2
+    Edition, Version 2.0.3
   </subtitle>
   <bookinfo>
     <author><personname>
@@ -27,6 +27,14 @@
       <blockquote><para><ulink url="https://hursts.org.uk"/></para></blockquote></para>
   </sect1>
 
+  <sect1>
+    <title>Changes since version 2.0.2</title>
+
+    <itemizedlist>
+      <listitem><para><xref linkend="qualifications-and-recency"/> updated with change from three
+      take-offs and landings to six sectors.</para></listitem>
+    </itemizedlist>
+  </sect1>
 
   <sect1>
     <title>Changes since version 2.0.1</title>
@@ -468,8 +476,8 @@
     </listitem>
 
     <listitem>
-	  <para>Three take-off and landings as an operating pilot in the preceding 45 days. A simulator
-	  may be used.</para>
+	  <para revisionflag="changed">Six sectors as an operating pilot in the preceding 45 days. A
+	  simulator may be used.</para>
     </listitem>
 
     <listitem>
