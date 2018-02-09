@@ -1146,9 +1146,9 @@
 
       <sect2 id="corrections"><title>Corrections</title>
 
-      <para>All published altitudes must be corrected for low temperatures. Altitudes within 5000ft
-      of the elevation of the source of a QNH measurement can be corrected for temperatures below
-      -10°C using the following table:
+      <para>All published minimum altitudes must be corrected for low temperatures. Altitudes within
+      5000ft of the elevation of the source of a QNH measurement can be corrected for temperatures
+      below -10°C using the following table:
 
       <table>
         <title>Low temperature altitude corrections</title>
