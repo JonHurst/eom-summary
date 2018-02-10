@@ -52,6 +52,8 @@
       <listitem><para>Added <xref linkend="inadmissable_pax"/> to Passenger Groups
       section.</para></listitem>
 
+      <listitem><para>Added transponder rules for T9 to <xref
+      linkend="oceanic_comms"/>.</para></listitem>
     </itemizedlist>
   </sect1>
 
@@ -2632,12 +2634,20 @@
     <section>
       <title>Inside OCA</title>
 
-      <section>
+      <section id="oceanic_comms">
         <title>Communications</title>
 
-        <para>30 minutes after entry, squawk 2000 unless otherwise advised. This does not apply to
-        Reykjavic OCA. In the Shanwick Oceanic Transition Area (SOTA), squawks will be given by
-        Shannon ACC.</para>
+        <para>In general, 30 minutes after entry, squawk 2000 unless otherwise advised. Exceptions
+        are:
+        <itemizedlist>
+          <listitem><para>In Reykjavic OCA, maintained squawk</para></listitem>
+
+          <listitem><para>In the Shanwick Oceanic Transition Area (SOTA), squawks will be given by
+          Shannon ACC.</para></listitem>
+
+          <listitem><para>On T9, squawk 2000 Northbound 10 minutes after passing BEGAS or Southbound
+          10 minutes after passing LASNO.</para></listitem>
+        </itemizedlist></para>
 
         <para>123.45 and 121.5 should be monitored on VHF radios. HF does not need to be monitored
         if SELCAL is available.</para>
