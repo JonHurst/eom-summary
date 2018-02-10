@@ -40,6 +40,9 @@
       <listitem><para>Added requirement for a pilot to occupy CM2's seat during refuelling with
       passengers on board to <xref linkend="fuelling"/>.</para></listitem>
 
+      <listitem><para>Added alternative means of emergency communication to <xref
+      linkend="fuelling"/>.</para></listitem>
+
       <listitem><para>Added requirement for “Refuelling in Progress” sign when refuelling with
       passengers on board to <xref linkend="fuelling"/>.</para></listitem>
     </itemizedlist>
@@ -1827,7 +1830,10 @@
 	    <listitem><para>Local restrictions must be checked.</para></listitem>
 
         <listitem><para revisionflag="changed">A pilot must occupy CM2's seat and must establish and
-        maintain visual contact or two-way communication with the fueller.</para></listitem>
+        maintain visual contact or two-way communication with the fueller. If visual contact cannot
+        be maintained (e.g. due to the presence of an Ambulift), the Commander may nominate either
+        the dispatcher or PM to stand in a position such that they can relay visual signals between
+        the fueller and the flight deck.</para></listitem>
 
         <listitem><para revisionflag="added">The “Refuelling in Progress” sign located on the back
         page of the QRH must be displayed.</para></listitem>
