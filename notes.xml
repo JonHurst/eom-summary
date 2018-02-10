@@ -1869,27 +1869,28 @@
       <title>Passenger groups</title>
 
       <sect2>
-	<title>Able Bodied Passengers</title>
+	    <title>Able Bodied Passengers</title>
 
-	<para>Able bodied passengers (ABP) are those adult passengers that are deemed fit and strong
-	and thus likely to assist evacuation. Designated seats near emergency exits are for the use
-	of ABPs only.</para>
+	    <para>Able bodied passengers (ABP) are those adult passengers that are deemed fit and strong
+	    and thus likely to assist evacuation. Designated seats near emergency exits are for the use
+	    of ABPs only.</para>
 
-	<para role="multicite">[EOM-A 8.2.2.1]</para>
+	    <para role="multicite">[EOM-A 8.2.2.1]</para>
       </sect2>
 
       <sect2 id="PRM">
         <title>Persons of Reduced Mobility</title>
+
         <para>A passenger is considered a Person of Reduced Mobility (PRM) when their physical,
         medical or mental condition would make them likely to impede an evacuation. The number of
         PRMs on board must not exceed the number of ABPs.  PRMs should be pre-boarded and seated
         where they will not obstruct emergency exits or impede crew carrying out emergency
         procedures.</para>
 
-	<para>Certain conditions entirely preclude carriage. A list is presented in EOM-A 8.2.2.2.</para>
+	    <para>Certain conditions entirely preclude carriage. A list is presented in EOM-A
+	    8.2.2.2.</para>
 
-	<para role="multicite">[EOM-A 8.2.2.1, EOM-A 8.2.2.2]</para>
-
+	    <para role="multicite">[EOM-A 8.2.2.1, EOM-A 8.2.2.2]</para>
       </sect2>
 
       <sect2 id="infants_and_children">
@@ -1920,16 +1921,18 @@
             <tbody>
               <row><entry>Infant extension seatbelt</entry><entry>2 weeks to 2 years</entry></row>
               <row><entry>Suitable car-type safety seat<footnote><para>See CSPM 2.4.12.3 for
-	      guidance on suitability</para></footnote></entry><entry>No age restriction</entry></row>
-	      <row><entry>Child restraint device (CARES)</entry><entry>Approx 1 to 4
-	      years<footnote><para>Specifically the child must be between 10kg and 20kg and capable
-	      of sitting upright unaided.</para></footnote></entry></row>
-	      <row><entry>Normal seatbelt</entry><entry>2 years or more</entry></row>
+              guidance on suitability</para></footnote></entry><entry>No age
+              restriction</entry></row>
+	          <row><entry>Child restraint device (CARES)</entry><entry>Approx 1 to 4
+	          years<footnote><para>Specifically the child must be between 10kg and 20kg and capable
+	          of sitting upright unaided.</para></footnote></entry></row>
+	          <row><entry>Normal seatbelt</entry><entry>2 years or more</entry></row>
             </tbody>
           </tgroup>
         </table>
         </para>
-	<para role="multicite">[EOM-A 8.2.2.4, CSPM 2.4.12]</para>
+
+	    <para role="multicite">[EOM-A 8.2.2.4, CSPM 2.4.12]</para>
       </sect2>
 
      <sect2 id="exp-mothers">
