@@ -45,6 +45,9 @@
 
       <listitem><para>Added requirement for “Refuelling in Progress” sign when refuelling with
       passengers on board to <xref linkend="fuelling"/>.</para></listitem>
+
+      <listitem><para>Added limit of two unescorted passengers to <xref
+      linkend="deportees"/>.</para></listitem>
     </itemizedlist>
   </sect1>
 
@@ -1964,7 +1967,7 @@
 	    <para role="multicite">[EOM-A 8.2.2.6]</para>
       </sect2>
 
-      <sect2>
+      <sect2 id="deportees">
         <title>Deportees</title>
 
 	    <para>When immigration authorities refuse a passenger admission, an Order to remove the
@@ -1985,8 +1988,9 @@
 	    <para>If the deportee is escorted, seating should be as per escorted passengers. Otherwise
 	    it should be as per PRMs.</para>
 
-	    <para>This section does not apply to the class of deportees referred to as "non-satisfied
-	    genuine visitors", who should be treated as normal passengers.</para>
+        <para revisionflag="added">In general a maximum of two unescorted deportees may be carried;
+        in exceptional circumstances a higher number may be authorised by the Security
+        Manager.</para>
 
 	    <para role="multicite">[EOM-A 8.2.2.7]</para>
       </sect2>
