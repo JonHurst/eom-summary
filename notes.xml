@@ -39,6 +39,9 @@
 
       <listitem><para>Added requirement for a pilot to occupy CM2's seat during refuelling with
       passengers on board to <xref linkend="fuelling"/>.</para></listitem>
+
+      <listitem><para>Added requirement for “Refuelling in Progress” sign when refuelling with
+      passengers on board to <xref linkend="fuelling"/>.</para></listitem>
     </itemizedlist>
   </sect1>
 
@@ -1823,6 +1826,9 @@
 
     <listitem><para revisionflag="changed">A pilot must occupy CM2's seat and must establish and
     maintain visual contact or two-way communication with the fueller.</para></listitem>
+
+    <listitem><para revisionflag="added">The “Refuelling in Progress” sign located on the back page
+    of the QRH must be displayed.</para></listitem>
 
 	<listitem><para>A full cabin crew compliment is required. There must be at least one
 	cabin crew member at each set of floor level exits.</para></listitem>
