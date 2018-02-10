@@ -48,6 +48,10 @@
 
       <listitem><para>Added limit of two unescorted passengers to <xref
       linkend="deportees"/>.</para></listitem>
+
+      <listitem><para>Added <xref linkend="inadmissable_pax"/> to Passenger Groups
+      section.</para></listitem>
+
     </itemizedlist>
   </sect1>
 
@@ -1993,6 +1997,18 @@
         Manager.</para>
 
 	    <para role="multicite">[EOM-A 8.2.2.7]</para>
+      </sect2>
+
+      <sect2 id="inadmissable_pax" revisionflag="added">
+        <title>Inadmissable Passengers</title>
+
+        <para>An inadmissable passenger is a passenger who has been refused entry but has not
+        commited an illegal act. The Commander and SCCM must be made aware of their carriage and the
+        SCCM must retain any Authority documents, but otherwise they are treated as normal
+        passengers.</para>
+
+        <para>If arriving in Italy, they are required to be met by police and should thus disembark
+        last; if the police don't show up, they can be disembarked normally.</para>
       </sect2>
 
       <sect2>
