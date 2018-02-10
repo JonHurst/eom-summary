@@ -36,6 +36,9 @@
 
       <listitem><para>Added Flight Crew Authorisation procedures to <xref
       linkend="defect_management"/>.</para></listitem>
+
+      <listitem><para>Added requirement for a pilot to occupy CM2's seat during refuelling with
+      passengers on board to <xref linkend="fuelling"/>.</para></listitem>
     </itemizedlist>
   </sect1>
 
@@ -1818,7 +1821,7 @@
 
 	<listitem><para>Local restrictions must be checked.</para></listitem>
 
-        <listitem><para>At least one pilot must be on the flight deck and must establish and
+        <listitem><para revisionflag="changed">A pilot must occupy CM2's seat and must establish and
 	maintain visual contact or two-way communication with the fueller.</para></listitem>
 
 	<listitem><para>A full cabin crew compliment is required. There must be at least one
