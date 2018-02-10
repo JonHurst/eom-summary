@@ -1806,6 +1806,7 @@
     <title>Ground Handling Instructions</title>
     <sect1 id="fuelling">
       <title>Fuelling procedures</title>
+
       <para>The fuel supplier is responsible for ensuring that all fuel quality checks are
       completed, that the bowser is properly earthed to the aircraft and that fuel caps are properly
       secured.</para>
@@ -1816,46 +1817,46 @@
       becomes necessary to uplift wide cut fuel - there are extra safety restrictions detailed in
       EOM-A 8.2.1.1.</para>
 
-      <para>Refuelling may take place with passengers on board, but the following restrictions apply:
+      <para>Refuelling may take place with passengers on board, but the following restrictions
+      apply:
       <itemizedlist>
-        <listitem><para>A clear evacuation route from the aircraft must be
-        available via airbridge or steps. The fuel card should not be displayed until this condition
-        is met.</para></listitem>
+        <listitem><para>A clear evacuation route from the aircraft must be available via airbridge
+        or steps. The fuel card should not be displayed until this condition is
+        met.</para></listitem>
 
-	<listitem><para>Local restrictions must be checked.</para></listitem>
+	    <listitem><para>Local restrictions must be checked.</para></listitem>
 
-    <listitem><para revisionflag="changed">A pilot must occupy CM2's seat and must establish and
-    maintain visual contact or two-way communication with the fueller.</para></listitem>
+        <listitem><para revisionflag="changed">A pilot must occupy CM2's seat and must establish and
+        maintain visual contact or two-way communication with the fueller.</para></listitem>
 
-    <listitem><para revisionflag="added">The “Refuelling in Progress” sign located on the back page
-    of the QRH must be displayed.</para></listitem>
+        <listitem><para revisionflag="added">The “Refuelling in Progress” sign located on the back
+        page of the QRH must be displayed.</para></listitem>
 
-	<listitem><para>A full cabin crew compliment is required. There must be at least one
-	cabin crew member at each set of floor level exits.</para></listitem>
+	    <listitem><para>A full cabin crew compliment is required. There must be at least one cabin
+	    crew member at each set of floor level exits.</para></listitem>
 
-	<listitem><para>Passengers must be informed that refuelling is taking place, instructed to have their
-        seatbelts unfastened and told the toilets are out of use. Cabin crew should make a visual
-	check that passenger seatbelts remain unfastened. The "No Smoking" sign should be on and the "Fasten
-        Seatbelts" sign should be off.</para></listitem>
+	    <listitem><para>Passengers must be informed that refuelling is taking place, instructed to
+	    have their seatbelts unfastened and told the toilets are out of use. Cabin crew should make
+	    a visual check that passenger seatbelts remain unfastened. The "No Smoking" sign should be
+	    on and the "Fasten Seatbelts" sign should be off.</para></listitem>
 
-	<listitem><para>Door 1L must be open with steps or airbridge attached. Door 2L should
-	ideally also be open with steps attached, but it may remain closed provided the slide is
-	serviceable. The ground area beneath exits and slide deployment areas must remain clear and
-	the positioning of fuelling equipment must not impede evacuation.</para></listitem>
-
+	    <listitem><para>Door 1L must be open with steps or airbridge attached. Door 2L should
+	    ideally also be open with steps attached, but it may remain closed provided the slide is
+	    serviceable. The ground area beneath exits and slide deployment areas must remain clear and
+	    the positioning of fuelling equipment must not impede evacuation.</para></listitem>
       </itemizedlist>
       </para>
 
       <para>Defuelling is not permitted with passengers on board.</para>
 
-      <para>The fuel card may be used to expedite the fuelling
-      process. Display of the fuel card authorises the commencement of fuelling; if any passengers
-      remain on board it must be delayed until all relevant restrictions have been met. The fuel
-      card must be stowed once fuelling is complete.</para>
+      <para>The fuel card may be used to expedite the fuelling process. Display of the fuel card
+      authorises the commencement of fuelling; if any passengers remain on board it must be delayed
+      until all relevant restrictions have been met. The fuel card must be stowed once fuelling is
+      complete.</para>
 
       <para>The flight crew must monitor the fuel gauges during fuelling.</para>
 
-    <para role="multicite">[EOM-A 8.2.1]</para>
+      <para role="multicite">[EOM-A 8.2.1]</para>
     </sect1>
 
     <sect1>
