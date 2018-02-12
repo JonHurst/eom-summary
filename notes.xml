@@ -424,7 +424,6 @@
     <listitem>
       <para>Valid ATQP recurrent checks:
       <informaltable>
-	    <?dbfo table-width="105mm"?>
         <tgroup cols="2">
           <colspec colwidth="2*"/><colspec colwidth="*"/>
 
@@ -1171,7 +1170,7 @@
       5000ft of the elevation of the source of a QNH measurement can be corrected for temperatures
       below -10°C using the following table:
 
-      <table>
+      <table pgwide="1">
         <title>Low temperature altitude corrections</title>
         <tgroup cols="10">
           <colspec colnum="1" align="center" colwidth="1.2*"/>
@@ -1179,11 +1178,11 @@
           <colspec colnum="3" align="center" colwidth="*"/>
           <colspec colnum="4" align="center" colwidth="*"/>
           <colspec colnum="5" align="center" colwidth="*"/>
-          <colspec colnum="6" align="center" colwidth="1.1*"/>
-          <colspec colnum="7" align="center" colwidth="1.1*"/>
-          <colspec colnum="8" align="center" colwidth="1.1*"/>
-          <colspec colnum="9" align="center" colwidth="1.1*"/>
-          <colspec colnum="10" align="center" colwidth="1.1*" colname="e"/>
+          <colspec colnum="6" align="center" colwidth="1.15*"/>
+          <colspec colnum="7" align="center" colwidth="1.15*"/>
+          <colspec colnum="8" align="center" colwidth="1.15*"/>
+          <colspec colnum="9" align="center" colwidth="1.15*"/>
+          <colspec colnum="10" align="center" colwidth="1.15*" colname="e"/>
           <thead>
             <row><entry></entry><entry namest="s" nameend="e">Height above QNH source (feet)</entry></row>
             <row><entry>OAT</entry><entry>200</entry><entry>300</entry><entry>400</entry><entry>500</entry>

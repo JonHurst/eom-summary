@@ -23,7 +23,7 @@
 <xsl:param name="toc.indent.width" select="'30'"/>
 <xsl:param name="toc.section.depth" select="'1'"/>
 
-<xsl:param name="default.table.width" select="'105mm'"/>
+<!-- <xsl:param name="default.table.width" select="'105mm'"/> -->
 <xsl:param name="default.image.width">105mm</xsl:param>
 <xsl:param name="body.font.family">FreeSerif</xsl:param>
 <xsl:param name="title.font.family">FreeSans</xsl:param>
@@ -52,8 +52,8 @@
 </xsl:attribute-set>
 
 <xsl:attribute-set name="table.cell.padding">
-  <xsl:attribute name="padding-left">5pt</xsl:attribute>
-  <xsl:attribute name="padding-right">5pt</xsl:attribute>
+  <xsl:attribute name="padding-left">3pt</xsl:attribute>
+  <xsl:attribute name="padding-right">3pt</xsl:attribute>
   <xsl:attribute name="padding-top">2pt</xsl:attribute>
   <xsl:attribute name="padding-bottom">2pt</xsl:attribute>
 </xsl:attribute-set>
