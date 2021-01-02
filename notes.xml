@@ -2558,114 +2558,251 @@
 
 </chapter>
 <chapter id="oceanicops">
-  <title>Oceanic operations</title>
+  <title>easyJet Oceanic Operations</title>
 
-  <section>
+  <note><para>For the sake of brevity, this chapter primarily focuses on easyJet operations and will
+  be of limited value to non-easyJet pilots.</para></note>
+
+  <sect1 revisionflag="changed">
     <title>Authorised routes</title>
 
-    <para>In general, two HF radios and two LRNSs (LRNS=FMGC for A320 family) are required for
-    oceanic operations. easyJet's A319s have no HF radios, and the A320s have only one. This limits
-    oceanic operations to the “special routes” where less than the normal minimum communication and
-    navigation equipment are required, which include T9 and the Blue Spruce Routes between Scotland,
-    Iceland, Greenland and Labrador.</para>
-  </section>
+    <para>The North Atlantic (NAT) region includes the Santa-Maria Oceanic FIR, Shanwick Oceanic
+    FIR, Reykjavik FIR, Gander Oceanic FIR, Nuuk FIR, Bodø Oceanic FIR and New York Oceanic FIR
+    north of 27°N. In general, each FIR has an associated Oceanic Control Area with base FL55 and no
+    upper limit. Airspace at and above FL55 is Class A; otherwise it is Class G.</para>
 
-  <section>
-    <title>Additional procedures</title>
+    <para>The airspace between FL285 and FL420 within the NAT region, excluding Nuuk FIR and the
+    Shannon and Brest Oceanic Transition Areas, is defined as North Atlantic High Level Airspace
+    (NAT-HLA). Operations within NAT-HLA are, in general, subject to the NAT Datalink Mandate (NAT
+    DLM).</para>
 
-    <section>
-      <title>FMGC programming</title>
+    <para>The A320 family are non-compliant with the NAT DLM, primarily due to lack of
+    FANS-1/A<footnote><para>The A320 family is fitted with FANS-B which uses the ATN rather than
+    ACARS for datalink and is therefore incompatible with FANS-1/A.</para></footnote>. Easyjet
+    Operations within NAT-HLA are therefore only authorised on T9, T290 and “Blue Spruce” routes
+    within the Reykjavik FIR where non-compliance with NAT DLM is countenanced due to the
+    availability of alternative surveillance methods. Easyjet operations on T213, T13, T16 and “Blue
+    Spruce” routes within the Shanwick FIR are permitted, but only at or below FL280.</para>
 
-      <para>Extra care must be taken to ensure the coordinates of all waypoints are accurately
-      entered in the FMGC. The second pilot should independently verify these coordinates, marking
-      the waypoint on the OFP with a circled “O” to indicate that this has been done.</para>
+    <para>In general, flight within NAT controlled airspace requires RVSM capability, RNP-10
+    capability<footnote><para>Strictly speaking, RNAV-10 capability (autonomous monitoring is not a
+    requirement since only GNSS based LRNS has this ability), but the point is moot for easyJet
+    aircraft.</para></footnote>, 2 Long Range Navigation Systems (LRNS)<footnote><para>For A320
+    family, for LRNS read FMGC</para></footnote> and HF radio. Some designated routes, including
+    many of those that easyJet is authorised to use, allow for alternative or reduced
+    equipment. When operating in accordance with the MEL, if directed to “check MNPS capability”
+    (e.g. you are operating with a single FMGC), check compliance for the specific route that you
+    are intending to operate.</para>
 
-      <para>Track and distance between waypoints should also be checked against the OFP. Tick these
-      items on the OFP to indicate that they have been checked.</para>
+    <sect2>
+      <title>T9 and T290</title>
 
-    </section>
+      <para>NAT DLM exemption is available as the airways are designated continental offshore rather
+      than remote oceanic due to the availability of ground based surveillance. All flight levels
+      are thus available to easyJet aircraft. Only 1 LRNS is required.</para>
 
-    <section>
-      <title>HF/SELCAL</title>
+      <para>HF is required so the A319 cannot use these routes.</para>
 
-      <para>Do not operate the HF when refuelling or when in a hangar.</para>
+      <para>The airways are 20nm apart and operate as a pair, with T9 southbound only and T290
+      northbound only. Due to this arrangement, <emphasis role="bold">RNP2 and ADS-B are
+      required</emphasis> for the NAT DLM exemption and <emphasis role="bold">SLOP is not
+      authorised</emphasis>.</para>
 
-      <para>If HF is required, a SELCAL check should be carried out before entering oceanic
-      airspace. This may be done on the ground through Stockholm radio.</para>
+      <para>For southbound oceanic clearances, contact Shanwick Oceanic (127.65) 40 minutes before
+      LASNO. If necessary, oceanic clearances may also be obtained from Shanwick Radio on one of the
+      NAT-C HF frequencies or via a relay through London Control.</para>
 
-    </section>
+      <para>For northbound oceanic clearances, contact Shanwick on HF 40 minutes before ADVAT. The
+      HF frequencies in use can be obtained from Lisbon Control (you will likely need to obtain
+      clearance before entering the Madrid FIR).</para>
 
-    <section>
-      <title>Oceanic clearance</title>
+      <para>Do not enter the Shanwick OCA without clearance.</para>
 
-      <para>For T9, contact Shanwick Oceanic on 127.65 for oceanic clearance 40 minutes before
-      Shanwick OCA boundary. If unable to contact Shanwick on VHF use NAT C
-      HF frequencies from the Atlantic Orientation Chart or relay through domestic ATC.</para>
+      <para>When operating on these airways, <emphasis role="bold">128.360 must be continuously
+      monitored</emphasis> in addition to 121.5. This frequency is reserved for direct controller
+      intervention and emergency purposes only; as normal, 121.5 should be used for broadcasting
+      during in-flight contingencies and HF should be used for routine communications. Controllers
+      will use the callsign "Shanwick Control" if calling on 128.360.</para>
 
-      <para>For Blue Spruce Routes, contact Iceland Radio (127.85/126.55) 20 minutes before entering
-      Reykjavic OCA; authorisation to enter Reyjavik OCA can also be sought from Scottish ATC if
-      necessary.</para>
+      <para>Maintain squawk for 10 minutes after passing LASNO or ADCAT, then squawk 2000.</para>
 
-      <para>Do not enter Shanwick OCA without clearance. Other OCAs may be entered whilst
-      awaiting a delayed clearance.</para>
+      <para>Note that within the Shannon Oceanic Control Area (SOCA) which lies to the North of
+      these routes, Shanwick delegates to Shannon control and domestic rules therefore apply within
+      it.</para>
+    </sect2>
 
-      <para>The clearance request should include:
+    <sect2>
+      <title>T13, T16 and T213</title>
 
-      <orderedlist>
-        <listitem><para>Callsign</para></listitem>
-        <listitem><para>Frequency being used (HF only)</para></listitem>
-        <listitem><para>OCA entry point and ETA<footnote id="fn_ETA"><para>ETA should be expressed in hours and
-        minutes.</para></footnote></para></listitem>
-        <listitem><para>Requested Mach number</para></listitem>
-        <listitem><para>Requested level</para></listitem>
-        <listitem><para>Next acceptable higher level</para></listitem>
-      </orderedlist>
-      </para>
+      <para>These routes are all in NAT-HLA above FL285, so FL280 is maximum authorised. They are
+      RNP10 routes and require HF, so they are not available to the A319. T13 is northbound only,
+      T16 is southbound only, T213 is bi-directional.</para>
 
-      <para>Coordinate with domestic ATC to be at the correct level and speed at the OCA entry
-      point.</para>
+      <para>LIDO sometimes erroneously selects T13 when returning to the UK from Madeira, and it is
+      worth contacting Flight Planning to confirm as it is an extremely inefficient routing.</para>
 
-      <para>Reclearance will be required if it becomes apparent that the ETA to the OCA entry point
-      is incorrect by more than 3 minutes.</para>
+      <para>For southbound oceanic clearances, contact Shanwick Oceanic (127.65) 40 minutes before
+      TAMEL or OMOKO. If necessary, oceanic clearances may also be obtained from Shanwick Radio on
+      one of the NAT-C HF frequencies or via a relay through London Control.</para>
 
-    </section>
+      <para>Northbound, the most likely scenario is using T13 departing from Madeira. Oceanic
+      clearance should be obtained from Santa Maria on HF, ideally 40 minutes before MANOX. Since
+      MANOX is only around 220nm from Madeira, this means contacting Santa Maria early in the climb
+      out, so it is worth confirming the relevant HF frequencies with Madeira while on the
+      ground. For T213, obtain clearance from Shanwick on HF 40 minutes before BERUX; Lisbon Control
+      will have the frequencies in use.</para>
 
-    <section>
-      <title>Inside OCA</title>
+      <para>T13 and T16 are unusual for easyJet operations, in that they are the only two approved
+      routes that involve crossing two OCAs that both use HF for primary communications. Expect to
+      receive onward frequencies via HF around 10 minutes before the shared OCA boundary; request
+      them if they are not forthcoming. A new oceanic clearance is not required, just a position
+      report at the boundary; you can expect a new SELCAL check in response to this position
+      report.</para>
 
-      <section id="oceanic_comms">
-        <title>Communications</title>
+      <para>Squawk 2000 30 minutes after passing Oceanic Entry Point.</para>
 
-        <para>In general, 30 minutes after entry, squawk 2000 unless otherwise advised. Exceptions
-        are:
-        <itemizedlist>
-          <listitem><para>In Reykjavic OCA, maintained squawk</para></listitem>
+      <para>Do not enter the Shanwick OCA without clearance. Santa Maria OCA may be entered while
+      waiting for a delayed clearance; maintain the flight level cleared by domestic until clearance
+      is received.</para>
 
-          <listitem><para>In the Shanwick Oceanic Transition Area (SOTA), squawks will be given by
-          Shannon ACC.</para></listitem>
+      <para>Note that within the Shannon Oceanic Control Area (SOCA) which lies to the North of
+      these routes, Shanwick delegates to Shannon control and domestic rules therefore apply within
+      it.</para>
 
-          <listitem><para revisionflag="added">On T9, squawk 2000 Northbound 10 minutes after
-          passing BEGAS or Southbound 10 minutes after passing LASNO.</para></listitem>
-        </itemizedlist></para>
+    </sect2>
 
-        <para>123.45 and 121.5 should be monitored on VHF radios. HF does not need to be monitored
-        if SELCAL is available.</para>
-      </section>
+<!--TODO: T25?? requires only 1 LRNS-->
 
-      <section>
-        <title>Position reports</title>
+    <sect2>
+      <title>BSR3/BSR4 and BSR5/BSR6/BSR7/BSR8</title>
+
+      <para>BSR3 and BSR4 have a combined 97nm section between ASTIX and 61°N 12°34'W that is inside
+      Shanwick OCA and thus inside the NAT-HLA when FL285 or above. Similarly, BSR5, BSR6, BSR7 and
+      BSR8 have a combined 314nm section inside the Shanwick OCA. EasyJet aircraft are therefore
+      restricted to FL280 and below when operating on these routes. Furthermore HF is mandatory, so
+      they are not available to A319s. Only 1 LRNS is required.</para>
+
+      <para>Northbound, oceanic clearances are available from Shanwick Oceanic (127.65) and should
+      be requeted 40 minutes before ASTIX. Southbound clearances will be issued on the ground at
+      Keflavik.</para>
+
+      <para>Do not enter Shanwick OCA without clearance.</para>
+
+      <para>Regarding squawk, I have found no specific rules, so the standard policy of squawking
+      2000 when 30 minutes past the oceanic entry point would seem to apply. For BSR3/4 this would
+      mean that you would still be on a Scottish squawk at ASTIX.</para>
+    </sect2>
+
+    <sect2>
+      <title>BSR1/BSR2, BSR15 and BSR16</title>
+
+      <para>These routes do not require HF and are exempt the NAT DLM, since ground based
+      surveillance and VHF communications are available throughout the route. Thus all flight levels
+      are available to all easyJet aircraft. Only 1 LRNS is required.</para>
+
+      <para>Northbound, oceanic clearances should be obtained from Iceland Radio (127.85/126.55) 20
+      minutes before entering Reykjavic OCA; authorisation to enter Reyjavik OCA can also be sought
+      from Scottish ATC if necessary. OCA entry while awaiting a delayed clearance is
+      acceptable. Southbound, oceanic clearances will be delivered on the ground by Keflavik.</para>
+
+      <para>Maintain squawk on entry to Reykjavic OCA.</para>
+
+      <para>Reykjavik centre operates a number of Direct Controller Pilot Communications (DCPC) VHF
+      stations. The callsign "Reykjavik Control" indicates you are speaking to one. If you are
+      speaking to "Iceland Radio", you are speaking to a radio operator relaying messages in the
+      normal Oceanic fashion.</para>
+
+    </sect2>
+  </sect1>
+
+    <sect1>
+      <title>Communication procedures</title>
+
+      <sect2 revisionflag="added">
+        <title>General</title>
+
+        <para>Voice communication within the NAT region often utilises HF, which can be somewhat
+        sub-optimal, and usually you are communicating with a radio operator who is relaying
+        information to a controller, rather than directly with the controller. With the absence of
+        direct ground based surveillance, the accuracy of these communications is even more critical
+        than normal. For this reason, standard message formats are defined, which should be used
+        whenever possible.</para>
+
+        <para>If using HF, include the frequency in use on initial contact, as HF radio operators
+        will often be monitoring multiple frequencies.</para>
+      </sect2>
+
+      <sect2 revisionflag="changed">
+        <title>Oceanic Clearance</title>
+
+        <para>An oceanic clearance request should include:
+
+        <orderedlist>
+          <listitem><para>Callsign</para></listitem>
+          <listitem><para>OCA entry point and ETA<footnote id="fn_ETA"><para>ETA should be expressed
+          in hours and minutes.</para></footnote></para></listitem>
+          <listitem><para>Requested Mach number</para></listitem>
+          <listitem><para>Requested level</para></listitem>
+          <listitem><para>Next acceptable higher level</para></listitem>
+        </orderedlist>
+        </para>
+
+
+        <?dbfo-need height="3em" ?>
+        <para>For example:
+        <informaltable>
+          <?dbfo keep-together="always" ?>
+          <tgroup cols='2'>
+            <colspec colwidth=".75in"/>
+            <tbody>
+              <row><entry>Aircraft</entry><entry>“Shanwick Radio, Easy 123, Request Clearance on
+              8889”</entry></row>
+              <row><entry>ATC</entry><entry>“Easy 123, Shanwick Radio”</entry></row>
+              <row><entry>Aircraft</entry><entry>“Shanwick Radio, Easy 123, Estimating LASNO at
+              1230, request Mach .78, request Flight Level 360, able Flight Level 380”</entry></row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+        </para>
+
+        <para>Coordinate with domestic ATC to be at the correct level and speed at the OCA entry
+        point.</para>
+
+        <para>Reclearance will be required if it becomes apparent that the ETA to the OCA entry
+        point is incorrect by more than 3 minutes.</para>
+
+      </sect2>
+
+      <sect2 revisionflag="changed">
+        <title>Position report</title>
 
         <para>Position reports should be made overhead waypoints and/or at significant points listed in
         the flight plan. The format of a position report is:
 
         <orderedlist>
           <listitem><para>Callsign</para></listitem>
-          <listitem><para>Frequency being used</para></listitem>
           <listitem><para>Waypoint and time</para></listitem>
           <listitem><para>Flight level</para></listitem>
           <listitem><para>Next waypoint and ETA<footnoteref linkend="fn_ETA"/></para></listitem>
           <listitem><para>Subsequent waypoint</para></listitem>
         </orderedlist>
+        </para>
+
+        <?dbfo-need height="3em" ?>
+        <para>For example:
+        <informaltable>
+          <?dbfo keep-together="always" ?>
+          <tgroup cols='2'>
+            <colspec colwidth=".75in"/>
+            <tbody>
+              <row><entry>Aircraft</entry><entry>“Shanwick Radio, Easy 123, Position on
+              8889”</entry></row>
+              <row><entry>ATC</entry><entry>“Easy 123, Shanwick Radio”</entry></row>
+              <row><entry>Aircraft</entry><entry>“Shanwick Radio, Easy 123, LASNO at
+              1230, Flight Level 360, estimating BEGAS 1303, next DEMOS”</entry></row>
+            </tbody>
+          </tgroup>
+        </informaltable>
         </para>
 
         <para>ATC must be notified if it becomes apparent that any passed ETA will be incorrect by
@@ -2677,65 +2814,64 @@
 
         <para>Copy in ACC for adjacent OCAs when operating within 60nm of a common boundary
         (e.g. “SANTA MARIA copy SHANWICK, …”).</para>
-      </section>
 
-      <section>
-        <title>Navigation monitoring</title>
+      </sect2>
 
-        <para>Overhead each waypoint, confirm the coordinates of the next waypoint (mark it with a
-        “\” to indicate this check has been done) and compare the track and distance to the next
-        waypoint with the OFP and the navigation chart. Mark the overflown waypoint with an
-        “X”.</para>
+      <sect2 revisionflag="added">
+        <title>Revised Estimate</title>
 
-        <para>Midway between waypoints, compare the actual winds to those on the OFP and in the
-        weather brief.</para>
-      </section>
+        <para>Revised estimate messages should be sent if it becomes apparent that a previously
+        passed ETA will be incorrect by three minutes or more. The format is:
 
-      <section>
-        <title>Strategic Lateral Offset Procedure (SLOP)</title>
+        <orderedlist>
+          <listitem><para>Callsign</para></listitem>
+          <listitem><para>Waypoint and time</para></listitem>
+        </orderedlist>
+        </para>
 
-        <para>When operating outside radar controlled airspace there are three positions, at pilot's
-        discretion, that it is permissable to fly: centerline, 1nm right of centerline and 2nm right
-        of centerline. No ATC clearance or notification is required.</para>
+              <?dbfo-need height="3em" ?>
+        <para>For example:
+        <informaltable>
+          <?dbfo keep-together="always" ?>
+          <tgroup cols='2'>
+            <colspec colwidth=".75in"/>
+            <tbody>
+              <row><entry>Aircraft</entry><entry>“Shanwick Radio, Easy 123, Revised Estimate on
+              8889”</entry></row>
+              <row><entry>ATC</entry><entry>“Easy 123, Shanwick Radio”</entry></row>
+              <row><entry>Aircraft</entry><entry>“Shanwick Radio, Easy 123, estimating BEGAS
+              1308”</entry></row>
+            </tbody>
+          </tgroup>
+        </informaltable>
+        </para>
+      </sect2>
 
-        <para>Overtaking aircraft should select an offset that will cause the least wake turbulence
-        for the overtaken aircraft.</para>
-
-        <para>The offset must be removed before the OCA exit point.</para>
-      </section>
-
-      <section>
-        <title>Level and Speed changes</title>
-
-        <para>Since longitudinal separation may be predicated purely on postion reports and Mach
-        number, reclearance must be requested for any changes to either Mach number or level once
-        inside the OCA.</para>
-      </section>
-    </section>
-
-  </section>
-  <section>
+    </sect1>
+  <sect1>
     <title>Contingency procedures</title>
 
-    <section>
+    <sect2>
       <title>Weather avoidance</title>
 
       <para>Notify ATC and request clearance to deviate from track.</para>
 
       <para>If ATC are not able to establish appropriate separation, they will advise the pilot of
       the conflicting traffic; responsibility for separation then rests with the pilot. In this
-      case:
+      case, or if ATC cannot be contacted:
 
       <itemizedlist>
         <listitem><para>Alert nearby aircraft of intentions on the frequency in use, 123.45 or
-        121.5.</para></listitem>
+        121.5, including callsign, flight level and position.</para></listitem>
 
         <listitem><para>Turn on all available lights.</para></listitem>
 
-        <listitem><para>Deviate away from the organized track system if possible. If the deviation
-        is greater than 10nm, change level according to the following table:
+        <listitem><para revisionflag="changed">Deviate away from the organized track system if
+        possible. If the deviation is greater than 5nm, once the aircraft is approximately 5nm from
+        track, change level according to the following table:
 
         <informaltable>
+          <?dbfo keep-together="always" ?>
           <tgroup cols='3'>
             <colspec colwidth="2*"/>
             <colspec colwidth="*"/>
@@ -2756,54 +2892,147 @@
         </informaltable>
       </para>
 
-      <para>Return to assigned flight level within 10nm of track when rejoining.</para>
+      <para revisionflag="added">
+        The acronym <emphasis role="bold">SAND</emphasis> can also be used: <emphasis
+        role="bold">S</emphasis>outh of track then <emphasis role="bold">A</emphasis>scend,
+        <emphasis role="bold">N</emphasis>orth of track then <emphasis
+        role="bold">D</emphasis>escend. Offset is always 300ft.
+      </para>
+
+      <para revisionflag="added">
+        In the case where a clearance has been obtained to deviate a specific distance from track
+        and it becomes necessary to deviate further, if a clearance to do so cannot be obtained,
+        apply a 300ft deviation in accordance with the above table before deviating further.
+      </para>
+
+      <para revisionflag="changed">Return to assigned flight level within 5nm of track when
+      rejoining.</para>
         </listitem>
       </itemizedlist>
       </para>
-    </section>
-    <section>
-      <title>En-route diversion</title>
+    </sect2>
+    <sect2>
+      <title>En-route non-weather diversion</title>
 
       <para>Whenever possible, obtain a revised clearance before initiating any action.</para>
 
-      <para>If this is not possible, leave the assigned track by turning at least 45° to establish
-      on a 15nm parallel offset track. Once 10nm from the centerline, descend 500ft. Once
-      established on the offset track, descend to a level below FL285 that differs from those
-      normally used by 500ft. A diversion across the flow of traffic can then be commenced. If
-      unable to descend below FL285, any level that differs by 500ft may be used. Keep nearby
-      aircraft informed of position and intentions on 121.5 or 123.45.</para>
+      <para revisionflag="changed">If this is not possible, leave the assigned track by turning
+      <emphasis role="bold">at least 30°</emphasis> (left or right according to factors such as
+      position relative to adjacent tracks, direction of alternate airport, SLOP being flown,
+      terrain clearance etc.) to establish on a <emphasis role="bold">5nm parallel offset
+      track</emphasis> (from track centre line). Once established either:
 
-      <para>If unable to initially maintain assigned flight level, minimise rate of descent when
-      leaving original track then expedite to a feasible flight level which differs by 500ft from
-      those normally used.</para>
+      <itemizedlist>
+        <listitem><para>Descend below FL290 then establish a 500ft vertical offset from those flight
+        levels normally used<footnote><para>Descent below FL290 is particularly applicable if
+        multiple parallel tracks will need to be crossed as it should avoid multiple TCAS RAs
+        etc.</para></footnote>; or</para></listitem>
 
-    </section>
-    <section>
+        <listitem><para>Establish a 500ft vertical offset from original flight level.
+        </para></listitem>
+      </itemizedlist>
+
+      Then procede as required by the operational situation.
+      </para>
+
+
+      <para>Turn on all exterior lights and keep nearby aircraft informed of position and intentions
+      on 121.5 or 123.45.</para>
+
+      <para revisionflag="added">If unable to initially maintain assigned flight level, minimise
+      rate of descent when leaving original track.</para>
+
+    </sect2>
+    <sect2 revisionflag="changed">
       <title>FMGC failure</title>
 
-      <para>Flight into MNPS airspace is permissable with a single FMGC failure. With the exception
-      of a few notified routes, MNPS airspace should not be entered with dual FMGC failure.</para>
+      <para>Under no circumstances should a flight continue into oceanic airspace with unresolved
+      navigation system errors.</para>
 
-      <para>If both FMGCs fail whilst inside MNPS airspace, ATC should be notified and a revised
-      clearance sought. If this is not possible, navigate by plotting IR lat/long data on a suitable
-      chart as described in EOM-C.</para>
-    </section>
+      <para>Unrestricted operations within the NAT-HLA require two fully serviceable FMGCs, excepting
+      those routes specifically promulgated as requiring only one. If an FMGC fails before the OCA
+      boundary is reached, either divert, request reclearance via one of the single FMGC routes or
+      request reclearance for a level below the NAT-HLA.</para>
 
-    <section>
+      <para>If an FMGC fails inside of Oceanic Airspace, consult with ATC as to the most suitable
+      action. Generally, normal operations will continue, but all available methods to monitor the
+      correct operation of the remaining system should be deployed.</para>
+
+      <para>If the second FMGC is lost or gives indications of degraded performance, inform ATC. If
+      IRS data is available independent of the FMGCs, it can be used to manually plot positions on a
+      chart. Positions should be plotted every 15 minutes, with suitable course adjustments being
+      made. Maintaining visual contact with another aircraft may also be an option, and contacting
+      other aircraft for wind data may be useful. If no instructions are received from ATC, consider
+      climbing or descending 500ft.</para>
+
+    </sect2>
+
+    <sect2 revisionflag="changed">
       <title>Comms failure</title>
 
-      <para>If failure occurs in domestic airspace prior to OCA entry, domestic diversion is
-      recommended. It is, however, permissable to continue into the OCA in accordance with the last
-      received and acknowledged oceanic clearance, or, if such a clearance has not been received, in
-      accordance with the filed flight plan.</para>
+      <para>Specific procedures are promulgated for communications failure inside Oceanic Airspace;
+      <emphasis role="bold">do not use domestic procedures</emphasis>. Specifically, flight crews
+      must not revert to their filed flight plans. This is partly because one of the reasons for
+      loss of communications may be an HF blackout, in which case multiple aircraft may be
+      affected.</para>
+
+      <para>As always with comms failures, squawk 7600 and use all available methods to reestablish
+      communications. In Oceanic airspace, VHF relays from other aircraft (on 121.5 or 123.45) are
+      particularly useful in the event of loss of HF. In HF blackout conditions, it is also worth
+      trying alternative HF NAT frequences as blackouts may only cover part of the spectrum, and NAT
+      radio stations other than the one you are trying to contact may still be able to receive your
+      transmissions.</para>
+
+      <para>If equipment failure occurs in domestic airspace prior to OCA entry when still in VHF
+      contact with a domestic ATC unit, domestic diversion is strongly recommended. It is, however,
+      permissable to continue into the OCA at the <emphasis>initial</emphasis> level and speed from
+      the last acknowledged oceanic clearance, or, if such a clearance has not been received, in
+      accordance with the <emphasis>initial</emphasis> level and speed from the filed flight
+      plan. In either case, level and speed must be maintained until landfall.</para>
+
+      <para>If comms failure occurs prior to OCA entry due to HF blackout and no Oceanic clearance
+      has been obtained, continue at the last flight level assigned by <emphasis>domestic</emphasis>
+      ATC. This is because multiple aircraft are affected and they may have conflicting flight
+      plans, wheras separation assurance has already been incorporated into the current domestic
+      clearances. This level must be maintained until landfall.</para>
 
       <para>In the event of comms failure inside the OCA, continue in accordance with the last
-      received and acknowledged oceanic clearance to the last specified oceanic route point and then
-      revert to the flight plan and normal lost comms procedures.</para>
-    </section>
+      received and acknowledged oceanic clearance to the last specified oceanic route point
+      (normally landfall) and then revert to the domestic lost comms procedures of the relevant
+      state.</para>
 
-  </section>
+      <para>If poor HF propogation conditions are encountered when inside the OCA, all flight crews
+      should make regular broadcasts of their positions on 123.45.</para>
+    </sect2>
+
+  </sect1>
+
+  <sect1>
+    <title>Other procedures</title>
+
+    <sect2 revisionflag="changed">
+        <title>Strategic Lateral Offset Procedure (SLOP)</title>
+
+        <para>When operating outside radar controlled airspace the accuracy of modern navigation
+        systems serves to increase the probability of collision. Therefore, within Oceanic airspace
+        it is encouraged to fly a track that is a parallel offset of the centreline of the cleared
+        route. This track must only be offset to the <emphasis>right</emphasis>, and may be offset
+        by 2nm or less. No ATC clearance or notification is required for this procedure.</para>
+
+        <para>Easyjet FMGCs can currently only be programmed with integer offsets, so are limited to
+        a choice of centreline, 1nm right or 2nm right.</para>
+
+        <para>Overtaking aircraft should select an offset that will cause the least wake turbulence
+        for the overtaken aircraft.</para>
+
+        <para>Any offset must be removed before the OCA exit point.</para>
+
+        <para>SLOP is not authorised on T9 or T290.</para>
+    </sect2>
+  </sect1>
 </chapter>
+
+
 <chapter id="winterops">
   <title>Winter Operations</title>
   <section>
