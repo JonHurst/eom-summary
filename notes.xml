@@ -2652,7 +2652,7 @@
       they are not available to A319s. Only 1 LRNS is required.</para>
 
       <para>Northbound, oceanic clearances are available from Shanwick Oceanic (127.65) and should
-      be requeted 40 minutes before ASTIX. Southbound clearances will be issued on the ground at
+      be requested 40 minutes before ASTIX. Southbound clearances will be issued on the ground at
       Keflavik.</para>
 
       <para>Do not enter Shanwick OCA without clearance.</para>
@@ -2670,7 +2670,7 @@
       are available to all easyJet aircraft. Only 1 LRNS is required.</para>
 
       <para>Northbound, oceanic clearances should be obtained from Iceland Radio (127.85/126.55) 20
-      minutes before entering Reykjavic OCA; authorisation to enter Reyjavik OCA can also be sought
+      minutes before entering Reykjavic OCA; authorisation to enter Reykjavik OCA can also be sought
       from Scottish ATC if necessary. OCA entry while awaiting a delayed clearance is
       acceptable. Southbound, oceanic clearances will be delivered on the ground by Keflavik.</para>
 
@@ -2781,7 +2781,7 @@
         predominantly east-west flights and latitude minutes may be omitted for predominantly
         north-south flights.</para>
 
-        <para>Copy in ACC for adjacent OCAs when operating within 60nm of a common boundary
+        <para>Copy in ATC for adjacent OCAs when operating within 60nm of a common boundary
         (e.g. “SANTA MARIA copy SHANWICK, …”).</para>
 
       </sect2>
@@ -2835,7 +2835,7 @@
 
         <listitem><para>Turn on all available lights.</para></listitem>
 
-        <listitem><para revisionflag="changed">Deviate away from the organized track system if
+        <listitem><para revisionflag="changed">Deviate away from the organised track system if
         possible. If the deviation is greater than 5nm, once the aircraft is approximately 5nm from
         track, change level according to the following table:
 
@@ -2901,7 +2901,7 @@
         </para></listitem>
       </itemizedlist>
 
-      Then procede as required by the operational situation.
+      Then proceed as required by the operational situation.
       </para>
 
 
@@ -2948,13 +2948,13 @@
       <para>As always with comms failures, squawk 7600 and use all available methods to reestablish
       communications. In Oceanic airspace, VHF relays from other aircraft (on 121.5 or 123.45) are
       particularly useful in the event of loss of HF. In HF blackout conditions, it is also worth
-      trying alternative HF NAT frequences as blackouts may only cover part of the spectrum, and NAT
+      trying alternative HF NAT frequencies as blackouts may only cover part of the spectrum, and NAT
       radio stations other than the one you are trying to contact may still be able to receive your
       transmissions.</para>
 
       <para>If equipment failure occurs in domestic airspace prior to OCA entry when still in VHF
       contact with a domestic ATC unit, domestic diversion is strongly recommended. It is, however,
-      permissable to continue into the OCA at the <emphasis>initial</emphasis> level and speed from
+      permissible to continue into the OCA at the <emphasis>initial</emphasis> level and speed from
       the last acknowledged oceanic clearance, or, if such a clearance has not been received, in
       accordance with the <emphasis>initial</emphasis> level and speed from the filed flight
       plan. In either case, level and speed must be maintained until landfall.</para>
@@ -2962,7 +2962,7 @@
       <para>If comms failure occurs prior to OCA entry due to HF blackout and no Oceanic clearance
       has been obtained, continue at the last flight level assigned by <emphasis>domestic</emphasis>
       ATC. This is because multiple aircraft are affected and they may have conflicting flight
-      plans, wheras separation assurance has already been incorporated into the current domestic
+      plans, whereas separation assurance has already been incorporated into the current domestic
       clearances. This level must be maintained until landfall.</para>
 
       <para>In the event of comms failure inside the OCA, continue in accordance with the last
@@ -2970,7 +2970,7 @@
       (normally landfall) and then revert to the domestic lost comms procedures of the relevant
       state.</para>
 
-      <para>If poor HF propogation conditions are encountered when inside the OCA, all flight crews
+      <para>If poor HF propagation conditions are encountered when inside the OCA, all flight crews
       should make regular broadcasts of their positions on 123.45.</para>
     </sect2>
 
