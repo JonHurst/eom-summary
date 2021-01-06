@@ -2707,6 +2707,7 @@
         <para>An oceanic clearance request should include:
 
         <orderedlist>
+          <?dbfo keep-together="always" ?>
           <listitem><para>Callsign</para></listitem>
           <listitem><para>OCA entry point and ETA<footnote id="fn_ETA"><para>ETA should be expressed
           in hours and minutes.</para></footnote></para></listitem>
@@ -2749,6 +2750,7 @@
         the flight plan. The format of a position report is:
 
         <orderedlist>
+          <?dbfo keep-together="always" ?>
           <listitem><para>Callsign</para></listitem>
           <listitem><para>Waypoint and time</para></listitem>
           <listitem><para>Flight level</para></listitem>
@@ -2757,7 +2759,7 @@
         </orderedlist>
         </para>
 
-        <?dbfo-need height="3em" ?>
+        <?dbfo-need height="10em" ?>
         <para>For example:
         <informaltable>
           <?dbfo keep-together="always" ?>
