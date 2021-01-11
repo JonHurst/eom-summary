@@ -3020,7 +3020,7 @@
         <listitem><para>≤3mm of frost on underside of wing tank area</para></listitem>
       </orderedlist>
 
-      <para role="multicite">[FCOM PRO.SUP.91.30]</para>
+      <para role="multicite">[FCOM PRO.NOR.SUP.ADVWXR]</para>
     </section>
 
     <section>
@@ -3078,7 +3078,7 @@
         unprotected areas to precipitation and should therefore be left until just before takeoff in
         these conditions.</para>
 
-        <para role="multicite">[FCOM PRO.SUP.91.30, EOMA 8.2.4]</para>
+        <para role="multicite">[FCOM PRO-NOR-SUP-ADVWXR, EOMA 8.2.4]</para>
       </section>
 
       <section>
@@ -3139,23 +3139,22 @@
 
     <itemizedlist>
       <listitem><para>Item 1 is dealt with by introducing more restrictive crosswind limitations,
-      these being promulgated in EOMB 2.1 and QRH PER.C</para></listitem>
+      these being promulgated in FCOM LIM.AG.OPS (also available from the EFB “+More” pages) for
+      takeoff and landing dispatch and QRH PER.A for landing.</para></listitem>
 
       <listitem><para>Items 2 and 3 are dealt with through the use of more restrictive performance
-      data. This data is available via the EFB's runway condition field. The EFB runway condition
-      field does not have an option for snow, so a table is presented in EOMB 4.6.8 for takeoff and
-      QRH PER.C for landing to transform snow contamination into equivalent slush or water
-      contamination.</para></listitem>
+      data. This data is available by entering the codes found in the above tables into the EFB's
+      runway condition field.</para></listitem>
     </itemizedlist>
 
     <para>In addition, snow clearing operations may have resulted in the build up of snow banks in
-    the proximity of the runway. A diagram in EOMB 4.6.10 defines the maximum snow bank height
+    the proximity of the runway. A diagram in EOMB 4.6.8 defines the maximum snow bank height
     against distance from the runway that is permitted for take-off.</para>
 
     <para>The captain must be PF for all contaminated runway operations, and all contaminated
     take-offs should use TOGA thrust.</para>
 
-    <para role="multicite">[EOMB 4.6, EOMB 4.13, EOMB 2.1, QRH PER.C]</para>
+    <para role="multicite">[EOMB 4.6, EOMB 4.13, EOMB 2.1, QRH PER.A]</para>
   </section>
 </chapter>
 
