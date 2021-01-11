@@ -7,7 +7,7 @@
   <subtitle>
     <phrase condition="airbus">Airbus</phrase>
     <phrase condition="boeing">Boeing</phrase>
-    Edition, Version 2.1
+    Edition, Version 2.1.1
   </subtitle>
   <bookinfo>
     <author><personname>
@@ -22,13 +22,23 @@
   <sect1>
     <title>Change highlighting</title>
 
-    <para>Change highlighting is only available in the online version. This may be found at:
+    <para>Changes included in version 2.1 and later are highlighted in the online version. This may
+    be found at:
 
       <blockquote><para><ulink url="https://hursts.org.uk"/></para></blockquote></para>
   </sect1>
 
   <sect1>
-    <title>Changes since version 2.0.3</title>
+      <title>Changes since version 2.1</title>
+
+    <itemizedlist>
+      <listitem><para><xref linkend="winterops"/> updated with SOPs for NEO. External cross
+      references have also been updated.</para></listitem>
+    </itemizedlist>
+
+  </sect1>
+      <sect1>
+      <title>Changes since version 2.0.3</title>
 
     <itemizedlist>
       <listitem><para><xref linkend="oceanicops"/> completely rewritten to account for multiple
