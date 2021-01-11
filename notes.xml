@@ -3005,7 +3005,7 @@
 
 
 <chapter id="winterops">
-  <title>Winter Operations</title>
+    <title>Winter Operations</title>
   <section>
     <title>Aircraft contamination on the ground</title>
 
@@ -3088,15 +3088,21 @@
         this contamination is an engineering function, usually involving the use of hot air blowers.
         </para>
 
-        <para>When operating for extended periods in icing conditions it is possible that the fan
-        blades will become contaminated by ice. Airbus provides a fan blade ice shedding procedure
-        which should be applied when ground operations in icing conditions have exceeded 30 minutes.
-        The procedure is to accelerate the engines to 70% N1 for 30 seconds every 30 minutes and
-        additionally just before take-off. If operating in freezing fog, freezing rain or heavy snow
-        an additional run up to 70% with no dwell time should be carried out every 10
-        minutes.</para>
+        <para>When operating for extended periods in severe ground icing conditions (OAT≤3°C with
+        visible moisture or ground contamination) it is possible that the fan blades will become
+        contaminated by ice. Airbus provides a procedure for shedding this ice.</para>
 
-        <para role="multicite">[EOMB 2.4.91]</para>
+        <para>For CFM56 engines, every 30 minutes accelerate the engines to 70%N1 for 30 seconds, and
+        do another such run up immediately before takeoff. In freezing rain, freezing drizzle,
+        freezing fog or heavy snow, an additional run up to 70% with no dwell time should be made
+        every 10 minutes.</para>
+
+        <para>For LEAP-1A engines, every 60 minutes accelerate the engines to 50%N1 for 5 seconds,
+        and, again, do another such run up immediately before takeoff. Also apply this procedure if
+        significant engine vibrations occur in icing conditions on the ground. If icing conditions
+        are encountered for &gt;120 minutes, an engineering inspection is required.</para>
+
+        <para role="multicite">[EOMB 2.3.9]</para>
       </section>
     </section>
 
